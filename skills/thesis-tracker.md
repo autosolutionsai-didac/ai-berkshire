@@ -1,210 +1,210 @@
-# 投资论文追踪：买入后的纪律系统
+# Thesis Tracker: A Discipline System for the Post-Buy Period
 
-对 $ARGUMENTS 执行投资论文追踪检查。
+Run a thesis-tracker check on $ARGUMENTS.
 
-**支持输入格式**：
-- `公司名` — 首次使用时建立投资论文，后续使用时追踪检查
-- `公司名 建立论文` — 强制重新建立投资论文
-- `公司名 季度检查` — 基于最新财报进行论文检查
+**Supported input formats**:
+- `CompanyName` — on first use, build the investment thesis; on subsequent uses, run a tracking check
+- `CompanyName build thesis` — force a rebuild of the investment thesis
+- `CompanyName quarterly check` — run a thesis check based on the latest earnings report
 
-> "买入只是开始。真正的工作是持有期间的持续跟踪。" —— 李录
+> "Buying is just the beginning. The real work is the continuous tracking during the holding period." — Li Lu
 >
-> "当事实改变时，我就改变想法。你呢？" —— 凯恩斯
+> "When the facts change, I change my mind. What do you do?" — Keynes
 
-## 设计理念
+## Design Philosophy
 
-大多数投资者的流程是：研究 → 买入 → 祈祷。缺少买入后的系统化跟踪，导致：
-- 该卖的时候舍不得卖（"再等等，会涨回来的"）
-- 不该卖的时候恐慌卖出（"跌了20%，是不是我错了"）
-- 忘记了当初为什么买的（"我买这个是因为什么来着？"）
+Most investors' process is: research → buy → pray. The absence of systematic post-buy tracking leads to:
+- Not selling when you should ("just wait a bit longer, it'll come back")
+- Panic-selling when you shouldn't ("it's down 20%, was I wrong?")
+- Forgetting why you bought it in the first place ("wait, why did I buy this again?")
 
-巴菲特和李录的做法是：**买入前就写下卖出条件**。然后每个季度检查论文是否完整。
+Buffett and Li Lu's approach is: **write down the sell conditions before you buy**. Then check every quarter whether the thesis is still intact.
 
-## 执行流程
+## Execution Flow
 
-### 第一步：判断操作模式
+### Step 1: Determine the operating mode
 
-检查是否已存在该公司的投资论文文件（`reports/{公司名}-thesis.md`）：
-- 如果不存在 → 进入**建立论文**模式
-- 如果存在 → 进入**追踪检查**模式
-- 如果找不到但用户表示已有 → 询问文件路径
+Check whether an investment thesis file already exists for the company (`reports/{Company}-thesis.md`):
+- If it does not exist → enter **Build Thesis** mode
+- If it exists → enter **Tracking Check** mode
+- If you can't find it but the user says one exists → ask for the file path
 
 ---
 
-## 模式A：建立投资论文
+## Mode A: Build the Investment Thesis
 
-### A0：数据收集
+### A0: Data collection
 
-使用 WebSearch 获取当前股价、估值指标（PE/PB/股息率）、最新财报核心数据，用于填写估值锚点。如果已有该公司的 `/investment-research` 或 `/investment-team` 报告，优先从中读取。
+Use WebSearch to obtain the current share price, valuation metrics (PE/PB/dividend yield), and the core figures from the latest earnings report, to fill in the valuation anchors. If a `/investment-research` or `/investment-team` report already exists for the company, read from it first.
 
-使用 `tools/financial_rigor.py verify-valuation` 校验估值数据。
+Use `tools/financial_rigor.py verify-valuation` to validate the valuation data.
 
-### A1：核心论文（必须用200字以内写清楚）
+### A1: Core thesis (must be written clearly in under 200 words)
 
-投资论文必须回答以下5个问题，每个问题一句话：
+The investment thesis must answer the following 5 questions, one sentence each:
 
 ```
-我以 ___元 买入 ___公司，因为：
-1. 这门生意的本质是___，我理解它的赚钱方式
-2. 它的护城河是___，而且在变宽/稳定
-3. 管理层___，值得信赖的原因是___
-4. 当前价格相当于内在价值的___折，安全边际来自___
-5. 即使我错了，下行风险可控，因为___
+I bought ___Company at ___ per share, because:
+1. The essence of this business is ___, and I understand how it makes money
+2. Its moat is ___, and it is widening / stable
+3. Management ___, and the reason they are trustworthy is ___
+4. The current price is at a ___ discount to intrinsic value, and the margin of safety comes from ___
+5. Even if I'm wrong, the downside is contained, because ___
 ```
 
-**如果5句话写不完整，这个论文本身就有问题——说明买入决策不够清晰。**
+**If you can't complete these 5 sentences, the thesis itself has a problem — it means the buy decision wasn't clear enough.**
 
-### A2：核心假设清单
+### A2: Core assumptions list
 
-把投资论文拆解成可验证的具体假设：
+Break the investment thesis down into specific, verifiable assumptions:
 
-| # | 核心假设 | 验证方式 | 验证频率 | 当前状态 |
+| # | Core assumption | Verification method | Frequency | Current status |
 |---|---------|---------|---------|---------|
-| 1 | 例：收入增速维持15%+ | 季报收入增速 | 每季度 | 🟢 成立 |
-| 2 | 例：毛利率稳定在60%+ | 季报毛利率 | 每季度 | 🟢 成立 |
-| 3 | 例：管理层持续回购 | 回购公告/现金流表 | 每季度 | 🟢 成立 |
-| 4 | 例：竞争对手未取得突破 | 行业数据/竞对财报 | 每半年 | 🟢 成立 |
+| 1 | e.g. Revenue growth stays at 15%+ | Quarterly revenue growth | Each quarter | 🟢 Holds |
+| 2 | e.g. Gross margin stable at 60%+ | Quarterly gross margin | Each quarter | 🟢 Holds |
+| 3 | e.g. Management keeps buying back shares | Buyback announcements / cash flow statement | Each quarter | 🟢 Holds |
+| 4 | e.g. Competitors make no breakthrough | Industry data / competitor earnings | Every six months | 🟢 Holds |
 | 5 | ... | ... | ... | ... |
 
-通常3-7个假设。太少说明思考不够深入，太多说明论文不够聚焦。
+Usually 3-7 assumptions. Too few means the thinking wasn't deep enough; too many means the thesis isn't focused enough.
 
-### A3：红线清单（触发任何一条 = 必须重新评估）
+### A3: Red-line list (triggering any one = mandatory re-evaluation)
 
-| # | 红线条件 | 严重程度 | 触发后动作 |
+| # | Red-line condition | Severity | Action when triggered |
 |---|---------|---------|-----------|
-| 1 | 例：管理层诚信出问题（财务造假、关联交易） | 致命 | 立即清仓 |
-| 2 | 例：核心业务连续2季度收入下滑 | 严重 | 减仓50%，重新评估 |
-| 3 | 例：护城河被明确突破（竞对获得同等能力） | 严重 | 启动深度研究，考虑退出 |
-| 4 | 例：监管政策根本性改变商业模式 | 严重 | 重新评估内在价值 |
-| 5 | 例：管理层大规模减持（非计划性） | 警告 | 深入调查原因 |
+| 1 | e.g. Management integrity breaks down (accounting fraud, related-party transactions) | Fatal | Exit immediately |
+| 2 | e.g. Core business revenue declines for 2 consecutive quarters | Severe | Trim 50%, re-evaluate |
+| 3 | e.g. Moat is clearly breached (a competitor gains equivalent capability) | Severe | Launch deep research, consider exit |
+| 4 | e.g. Regulation fundamentally changes the business model | Severe | Re-estimate intrinsic value |
+| 5 | e.g. Large-scale, unplanned insider selling by management | Warning | Investigate the reasons in depth |
 
-**段永平**："卖出只有三个理由：1.发现买错了；2.公司基本面变了；3.找到了更好的。"
+**Duan Yongping**: "There are only three reasons to sell: 1. you realize you made a mistake; 2. the company's fundamentals have changed; 3. you've found something better."
 
-### A4：估值锚点
+### A4: Valuation anchors
 
-| 指标 | 买入时 | 乐观目标 | 中性目标 | 悲观情景 |
+| Metric | At purchase | Optimistic target | Neutral target | Pessimistic case |
 |------|-------|---------|---------|---------|
-| 股价 | | | | |
+| Share price | | | | |
 | PE | | | | |
-| 市值 | | | | |
-| 内在价值估算 | | | | |
-| 安全边际 | | | | |
+| Market cap | | | | |
+| Intrinsic-value estimate | | | | |
+| Margin of safety | | | | |
 
-### A5：保存论文
+### A5: Save the thesis
 
-将投资论文写入 `reports/{公司名}-thesis.md`，包含：
-- 建立日期
-- 买入价格和仓位
-- 核心论文（5句话）
-- 核心假设清单
-- 红线清单
-- 估值锚点
-- 追踪记录表（初始为空）
+Write the investment thesis to `reports/{Company}-thesis.md`, including:
+- Date established
+- Purchase price and position size
+- Core thesis (5 sentences)
+- Core assumptions list
+- Red-line list
+- Valuation anchors
+- Tracking-record table (initially empty)
 
 ---
 
-## 模式B：追踪检查
+## Mode B: Tracking Check
 
-### B1：读取现有论文
+### B1: Read the existing thesis
 
-读取 `reports/{公司名}-thesis.md`，加载：
-- 核心论文
-- 核心假设清单
-- 红线清单
-- 上次检查记录
+Read `reports/{Company}-thesis.md` and load:
+- Core thesis
+- Core assumptions list
+- Red-line list
+- Last check record
 
-### B2：收集最新数据
+### B2: Gather the latest data
 
-使用 WebSearch 收集：
-1. 最新财报数据（如果有新的季报/年报）
-2. 近期重大事件（管理层变动、监管政策、竞争动态）
-3. 当前股价和估值指标
-4. 内部人交易记录（大股东增减持）
+Use WebSearch to collect:
+1. Latest earnings data (if there is a new quarterly / annual report)
+2. Recent major events (management changes, regulatory policy, competitive dynamics)
+3. Current share price and valuation metrics
+4. Insider-trading records (buying/selling by major shareholders)
 
-### B3：逐条检查核心假设
+### B3: Check each core assumption
 
-对每个核心假设，用最新数据验证：
+For each core assumption, verify it against the latest data:
 
-| # | 核心假设 | 上次状态 | 最新证据 | 当前状态 | 变化 |
+| # | Core assumption | Last status | Latest evidence | Current status | Change |
 |---|---------|---------|---------|---------|------|
-| 1 | 收入增速15%+ | 🟢 成立 | Q4收入增速12% | 🟡 边际弱化 | ⚠️ |
-| 2 | 毛利率60%+ | 🟢 成立 | 毛利率61.2% | 🟢 成立 | — |
+| 1 | Revenue growth 15%+ | 🟢 Holds | Q4 revenue growth 12% | 🟡 Weakening at the margin | ⚠️ |
+| 2 | Gross margin 60%+ | 🟢 Holds | Gross margin 61.2% | 🟢 Holds | — |
 | 3 | ... | ... | ... | ... | ... |
 
-状态定义：
-- 🟢 **成立** — 最新数据支持该假设
-- 🟡 **边际弱化** — 数据仍在可接受范围，但趋势不利
-- 🔴 **受损** — 数据明确不支持该假设
-- ⚫ **破裂** — 假设已被推翻
+Status definitions:
+- 🟢 **Holds** — the latest data supports the assumption
+- 🟡 **Weakening at the margin** — data is still within an acceptable range, but the trend is unfavorable
+- 🔴 **Impaired** — data clearly does not support the assumption
+- ⚫ **Broken** — the assumption has been disproven
 
-### B4：红线检查
+### B4: Red-line check
 
-逐条检查红线清单：
+Check the red-line list item by item:
 
-| # | 红线条件 | 是否触发 | 证据 |
+| # | Red-line condition | Triggered? | Evidence |
 |---|---------|:-------:|------|
-| 1 | 管理层诚信问题 | ❌ 未触发 | — |
-| 2 | 核心业务连续2季下滑 | ❌ 未触发 | — |
+| 1 | Management integrity issue | ❌ Not triggered | — |
+| 2 | Core business declines 2 straight quarters | ❌ Not triggered | — |
 
-**任何一条红线触发 → 在报告中用醒目标注，给出明确的行动建议。**
+**If any red line is triggered → flag it prominently in the report and give a clear action recommendation.**
 
-### B5：估值更新
+### B5: Valuation update
 
-| 指标 | 买入时 | 上次检查 | 当前 | 变化 |
+| Metric | At purchase | Last check | Current | Change |
 |------|-------|---------|------|------|
-| 股价 | | | | |
-| PE(TTM) | | | | |
-| 内在价值估算 | | | | |
-| 安全边际 | | | | |
+| Share price | | | | |
+| PE (TTM) | | | | |
+| Intrinsic-value estimate | | | | |
+| Margin of safety | | | | |
 
-### B6：输出追踪报告
+### B6: Output the tracking report
 
-#### 报告结构
+#### Report structure
 
 ```
-一、论文健康度评分（满分10分）
-二、核心假设检查结果（表格）
-三、红线检查结果（表格）
-四、本期关键变化（不超过500字）
-五、估值更新
-六、结论与行动建议
-七、下次检查需关注的重点
+1. Thesis health score (out of 10)
+2. Core-assumption check results (table)
+3. Red-line check results (table)
+4. Key changes this period (under 500 words)
+5. Valuation update
+6. Conclusion and action recommendation
+7. Focus points to watch at the next check
 ```
 
-#### 论文健康度评分标准
+#### Thesis health scoring standard
 
-| 评分 | 含义 | 建议动作 |
+| Score | Meaning | Recommended action |
 |:----:|------|---------|
-**计算公式**：健康度 = 10 - (⚫破裂假设数×3) - (🔴受损假设数×2) - (🟡弱化假设数×1) - (红线触发数×5)，最低1分最高10分。
+**Formula**: Health = 10 - (⚫ broken assumptions × 3) - (🔴 impaired assumptions × 2) - (🟡 weakening assumptions × 1) - (red lines triggered × 5), floored at 1 and capped at 10.
 
-| 评分 | 含义 | 建议动作 |
+| Score | Meaning | Recommended action |
 |:----:|------|---------|
-| 9-10 | 所有假设成立，论文比买入时更强 | 考虑加仓 |
-| 7-8 | 核心假设成立，个别边际弱化 | 继续持有 |
-| 5-6 | 1-2个假设受损，但核心逻辑未变 | 持有但提高警惕 |
-| 3-4 | 多个假设受损，论文基础动摇 | 考虑减仓 |
-| 1-2 | 红线触发或核心假设破裂 | 强烈建议卖出 |
+| 9-10 | All assumptions hold; thesis is stronger than at purchase | Consider adding to position |
+| 7-8 | Core assumptions hold; a few weakening at the margin | Keep holding |
+| 5-6 | 1-2 assumptions impaired, but core logic unchanged | Hold, but stay more vigilant |
+| 3-4 | Several assumptions impaired; the thesis foundation is shaken | Consider trimming |
+| 1-2 | A red line is triggered or a core assumption is broken | Strongly recommend selling |
 
-#### 结论必须明确回答
+#### The conclusion must clearly answer
 
-1. **论文还完整吗？** 完整 / 边际弱化 / 受损 / 破裂
-2. **该怎么做？** 加仓 / 持有 / 减仓 / 清仓
-3. **下次检查时间**：下一个季报发布后 / 某个特定事件后
+1. **Is the thesis still intact?** Intact / Weakening at the margin / Impaired / Broken
+2. **What to do?** Add to position / Hold / Trim / Exit
+3. **Next check timing**: After the next earnings release / after a specific event
 
-### B7：更新论文文件
+### B7: Update the thesis file
 
-将本次检查记录追加到 `reports/{公司名}-thesis.md` 的追踪记录表中：
+Append this check record to the tracking-record table in `reports/{Company}-thesis.md`:
 
-| 检查日期 | 健康度 | 核心变化 | 动作建议 |
+| Check date | Health | Key change | Action recommendation |
 |---------|:------:|---------|---------|
-| 2026-04-09 | 7/10 | 收入增速放缓至12%，但利润率改善 | 持有 |
+| 2026-04-09 | 7/10 | Revenue growth slowed to 12%, but margins improved | Hold |
 
 ---
 
-## 关键原则
+## Key Principles
 
-- **买入前就写好卖出条件** — 冷静时做的决策比恐慌时做的好
-- **论文要具体到可验证** — "公司很好"不是论文，"ROE>25%且趋势稳定"才是
-- **红线一旦触发就行动** — 最怕的是"再等等看"，这是亏大钱的开始
-- **论文破裂 ≠ 股价下跌** — 股价跌30%不一定要卖，论文破裂才要卖
-- **诚实面对错误** — 论文建错了就承认，不要为了面子硬撑
+- **Write the sell conditions before you buy** — decisions made when calm beat those made in panic
+- **Make the thesis specific enough to verify** — "great company" is not a thesis; "ROE > 25% with a stable trend" is
+- **Act the moment a red line is triggered** — the worst move is "let's just wait and see"; that's the start of a big loss
+- **Thesis broken ≠ share price falling** — a 30% drop doesn't necessarily mean sell; a broken thesis does
+- **Face mistakes honestly** — if the thesis was built wrong, admit it; don't tough it out to save face

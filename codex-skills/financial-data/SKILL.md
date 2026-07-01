@@ -1,6 +1,6 @@
 ---
 name: financial-data
-description: "AI Berkshire skill: 财务数据获取与交叉验证规范. Source: skills/financial-data.md."
+description: "AI Berkshire skill: Financial Data Retrieval and Cross-Validation Standard. Source: skills/financial-data.md."
 ---
 
 ## Codex adapter note
@@ -12,106 +12,106 @@ This skill is generated from `skills/financial-data.md` so Claude Code and Codex
 - Use shared project tools from `tools/` in this repository. Commands that reference `~/ai-berkshire/tools/...` assume the repo is checked out at `~/ai-berkshire`; if needed, prefer the current workspace path.
 - Preserve the research quality rules from `AGENTS.md`: cross-check financial data, use exact arithmetic tools for valuation/math, and clearly label uncertainty and source gaps.
 
-# 财务数据获取与交叉验证规范
+# Financial Data Retrieval and Cross-Validation Standard
 
-本规范适用于所有涉及企业财务数据的研究。**每个关键数据必须来自两个独立来源，误差>1%须标记。**
-
----
-
-## 数据源优先级
-
-### 美股（PDD、腾讯ADR、网易ADR等）
-
-| 优先级 | 来源 | URL | 获取方式 |
-|--------|------|-----|---------|
-| 1（主） | **macrotrends** | macrotrends.net/stocks/charts/{ticker} | 直接访问，无需注册 |
-| 2（副） | **stockanalysis** | stockanalysis.com/stocks/{ticker}/financials | 直接访问，无需注册 |
-| 原始一手 | SEC EDGAR | sec.gov/cgi-bin/browse-edgar | 10-K / 10-Q 原文 |
-
-### 港股（腾讯0700、网易9999、美团3690等）
-
-| 优先级 | 来源 | URL | 获取方式 |
-|--------|------|-----|---------|
-| 1（主） | **aastocks** | aastocks.com/tc/stocks/analysis/company-fundamental | 直接访问 |
-| 2（副） | **macrotrends**（ADR代码） | 腾讯用TCEHY，网易用NTES | 直接访问 |
-| 原始一手 | HKEX披露易 | hkexnews.hk | 年报PDF |
-
-### A股（三七互娱、吉比特等）
-
-| 优先级 | 来源 | URL | 获取方式 |
-|--------|------|-----|---------|
-| 1（主） | **东方财富** | eastmoney.com → 搜股票代码 → 财务报表 | 直接访问 |
-| 2（副） | **巨潮资讯** | cninfo.com.cn | 原始年报/季报PDF |
+This standard applies to all research involving corporate financial data. **Every key data point must come from two independent sources; any discrepancy >1% must be flagged.**
 
 ---
 
-## 执行规范
+## Data Source Priority
 
-### 第一步：获取数据
+### US stocks (PDD, Tencent ADR, NetEase ADR, etc.)
 
-对每个财务指标（收入、净利润、毛利率、经营现金流、资产负债率等），分别从**来源1**和**来源2**取数。
+| Priority | Source | URL | Access method |
+|--------|------|-----|---------|
+| 1 (primary) | **macrotrends** | macrotrends.net/stocks/charts/{ticker} | Direct access, no registration |
+| 2 (secondary) | **stockanalysis** | stockanalysis.com/stocks/{ticker}/financials | Direct access, no registration |
+| Original primary source | SEC EDGAR | sec.gov/cgi-bin/browse-edgar | 10-K / 10-Q original filings |
 
-### 第二步：误差计算与标记
+### HK stocks (Tencent 0700, NetEase 9999, Meituan 3690, etc.)
+
+| Priority | Source | URL | Access method |
+|--------|------|-----|---------|
+| 1 (primary) | **aastocks** | aastocks.com/tc/stocks/analysis/company-fundamental | Direct access |
+| 2 (secondary) | **macrotrends** (ADR ticker) | Tencent uses TCEHY, NetEase uses NTES | Direct access |
+| Original primary source | HKEX (HKEXnews) | hkexnews.hk | Annual report PDF |
+
+### A-shares (37 Interactive Entertainment, G-bits, etc.)
+
+| Priority | Source | URL | Access method |
+|--------|------|-----|---------|
+| 1 (primary) | **East Money** | eastmoney.com → search stock code → financial statements | Direct access |
+| 2 (secondary) | **CNINFO** | cninfo.com.cn | Original annual/quarterly report PDF |
+
+---
+
+## Execution Standard
+
+### Step 1: Retrieve data
+
+For each financial metric (revenue, net profit, gross margin, operating cash flow, debt-to-asset ratio, etc.), pull figures separately from **Source 1** and **Source 2**.
+
+### Step 2: Discrepancy calculation and flagging
 
 ```
-误差率 = |来源1数值 - 来源2数值| / 来源1数值 × 100%
+discrepancy rate = |Source 1 value - Source 2 value| / Source 1 value × 100%
 ```
 
-| 误差 | 处理方式 |
+| Discrepancy | Handling |
 |------|---------|
-| ≤ 1% | ✅ 一致，取来源1数值，标注两个来源 |
-| 1% ~ 5% | ⚠️ 标记"数据存在差异"，注明两个数值，说明可能原因（汇率/会计口径） |
-| > 5% | ❌ 标记"数据存在重大差异"，必须查原始财报核实，不得直接使用 |
+| ≤ 1% | ✅ Consistent; use Source 1 value, cite both sources |
+| 1% ~ 5% | ⚠️ Flag as "data discrepancy exists"; note both values and explain the likely cause (exchange rate / accounting basis) |
+| > 5% | ❌ Flag as "material data discrepancy exists"; must verify against the original filing and must not be used directly |
 
-### 第三步：数据呈现格式
+### Step 3: Data presentation format
 
-每个关键数据必须按以下格式标注：
+Every key data point must be annotated in the following format:
 
 ```
-收入：1,239亿元 ✅
-  - macrotrends: 1,241亿元
-  - stockanalysis: 1,237亿元
-  - 误差: 0.3%
+Revenue: RMB 123.9 billion ✅
+  - macrotrends: RMB 124.1 billion
+  - stockanalysis: RMB 123.7 billion
+  - discrepancy: 0.3%
 ```
 
-差异示例：
+Discrepancy example:
 ```
-净利润：245亿元 ⚠️ 数据存在差异
-  - macrotrends: 245亿元（GAAP）
-  - stockanalysis: 278亿元（Non-GAAP）
-  - 误差: 13.5% — 原因：会计口径不同（GAAP vs Non-GAAP）
+Net profit: RMB 24.5 billion ⚠️ data discrepancy exists
+  - macrotrends: RMB 24.5 billion (GAAP)
+  - stockanalysis: RMB 27.8 billion (Non-GAAP)
+  - discrepancy: 13.5% — cause: different accounting basis (GAAP vs Non-GAAP)
 ```
 
 ---
 
-## 常见差异原因（不一定是数据错误）
+## Common Causes of Discrepancies (not necessarily data errors)
 
-| 原因 | 说明 |
+| Cause | Explanation |
 |------|------|
-| GAAP vs Non-GAAP | 最常见，尤其是利润类数据 |
-| 汇率换算 | 港币/人民币/美元换算时间点不同 |
-| 财年定义 | 自然年 vs 财年（如苹果财年10月结束） |
-| 合并口径 | 是否含少数股东权益 |
-| 数据更新滞后 | 某平台尚未更新最新一期财报 |
+| GAAP vs Non-GAAP | Most common, especially for profit-related figures |
+| Exchange-rate conversion | Different conversion timing for HKD / RMB / USD |
+| Fiscal-year definition | Calendar year vs fiscal year (e.g. Apple's fiscal year ends in October) |
+| Consolidation basis | Whether minority interests are included |
+| Data update lag | A platform may not yet have updated the latest reporting period |
 
 ---
 
-## 特别规则
+## Special Rules
 
-1. **未上市公司**（米哈游、莉莉丝等）：只有一手数据来源时，数据前标记 `[估计]`，不执行交叉验证
-2. **季度数据 vs 年度数据**：优先使用年度数据做交叉验证，季度数据部分来源可能有滞后
-3. **原始财报优先**：若两个来源均与原始财报（10-K/年报PDF）不符，以原始财报为准，标记来源错误
+1. **Private (unlisted) companies** (miHoYo, Lilith Games, etc.): when only a single primary source is available, mark the data with `[estimate]` and do not perform cross-validation
+2. **Quarterly vs annual data**: prefer annual data for cross-validation; some sources may lag on quarterly data
+3. **Original filings take precedence**: if both sources disagree with the original filing (10-K / annual report PDF), the original filing prevails and the source error is flagged
 
 ---
 
-## 快速索引
+## Quick Index
 
-| 场景 | 主要来源 | 备用来源 |
+| Scenario | Primary source | Backup source |
 |------|---------|---------|
-| PDD / 拼多多 | macrotrends.net/stocks/charts/PDD | stockanalysis.com/stocks/pdd |
-| 腾讯 | macrotrends.net/stocks/charts/TCEHY | aastocks（0700.HK） |
-| 网易 | macrotrends.net/stocks/charts/NTES | aastocks（9999.HK） |
-| 三七互娱 | eastmoney.com（002555） | cninfo.com.cn |
-| 吉比特 | eastmoney.com（603444） | cninfo.com.cn |
+| PDD / Pinduoduo | macrotrends.net/stocks/charts/PDD | stockanalysis.com/stocks/pdd |
+| Tencent | macrotrends.net/stocks/charts/TCEHY | aastocks (0700.HK) |
+| NetEase | macrotrends.net/stocks/charts/NTES | aastocks (9999.HK) |
+| 37 Interactive Entertainment | eastmoney.com (002555) | cninfo.com.cn |
+| G-bits | eastmoney.com (603444) | cninfo.com.cn |
 | Nintendo | macrotrends.net/stocks/charts/NTDOY | stockanalysis.com/stocks/ntdoy |
-| Capcom | macrotrends（CCOEY） | stockanalysis（CCOEY） |
+| Capcom | macrotrends (CCOEY) | stockanalysis (CCOEY) |

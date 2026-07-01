@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 行业投资研究：产业链全景扫描 + 四大师个股分析框架."
+description: "AI Berkshire slash entry for Industry Investment Research: Value-Chain Panorama + Four-Master Single-Stock Framework."
 argument-hint: $ARGUMENTS
 ---
 
