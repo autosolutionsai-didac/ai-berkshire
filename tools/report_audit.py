@@ -57,6 +57,17 @@ _PATTERNS = [
     (r'\|\s*[~\u7ea6]?\$?([\d,\uff0c\.]+)\s*\|',           '',         'table_num'),
 ]
 
+# Shared unit alternation: original Chinese units plus English forms
+# (B/M/T/K suffixes and billion/million/trillion words) so the same extractor
+# audits both Chinese and English reports. Kept as \uXXXX escapes (ASCII source).
+_UNITS = (
+    '\\u4ebf[\\u5143\\u7f8e\\u6e2f]?\\u5143?|\\u4e07\\u4ebf'
+    '|(?i:billion|million|trillion|bn|mn|tn)\\b'
+    '|[xX\\u500d]|%|[BMTK]\\b'
+)
+# Optional currency prefix before the number (e.g. 'Market cap: HKD 4.65T').
+_CCY = '(?:US\\$|HK\\$|USD|HKD|CNY|RMB|EUR|GBP|JPY|\\$)?\\s*'
+
 _LABEL_RE = re.compile(
     r'(?P<label>[^\|\n\uff1a:]{2,25})[\uff1a:\s]+[~\u7ea6]?\$?(?P<num>[\d,\uff0c\.]+)\s*(?P<unit>\u4ebf[\u5143\u7f8e\u6e2f]?\u5143?|\u4e07\u4ebf|[xX\u500d]|%|[BMT])?'
 )
@@ -98,7 +109,9 @@ def _is_valid_label(label: str) -> bool:
     # subtotal / unit / trend
     _SKIP = {'\u6765\u6e90', 'sources', 'source', '\u8bf4\u660e', '\u6ce8\u610f',
              '\u5907\u6ce8', '\u6570\u636e\u6765\u6e90', 'n/a', '—', '-', '/',
-             '\u5408\u8ba1', 'total', '\u5355\u4f4d', '\u8d8b\u52bf'}
+             '\u5408\u8ba1', 'total', '\u5355\u4f4d', '\u8d8b\u52bf',
+             'note', 'notes', 'remark', 'remarks', 'unit', 'trend',
+             'summary', 'comment', 'data source'}
     if label.lower() in _SKIP:
         return False
     return True
@@ -112,8 +125,13 @@ _KV_TABLE_RE = re.compile(
 
 # Labeled KV line: label: value unit
 _KV_LABEL_RE = re.compile(
-    r'(?P<label>[\u4e00-\u9fa5A-Za-z][^\|\n\uff1a:*]{1,30})[\uff1a:]\s*[~\u7ea6]?\$?'
-    r'(?P<num>[\d,\uff0c\.]+)\s*(?P<unit>\u4ebf[\u5143\u7f8e\u6e2f]?\u5143?|\u4e07\u4ebf|[xX\u500d]|%|[BMT])?'
+    r'(?P<label>[\u4e00-\u9fa5A-Za-z][^\|\n\uff1a:*]{1,30})[\uff1a:]\s*[~\u7ea6]?' + _CCY +
+    r'(?P<num>[\d,\uff0c\.]+)\s*(?P<unit>' + _UNITS + r')?'
+)
+
+# Number + optional unit inside a table cell (shared by _parse_md_tables).
+_CELL_NUM_RE = re.compile(
+    r'[~\u7ea6]?' + _CCY + r'([\d,\uff0c\.]+)\s*(' + _UNITS + r')?'
 )
 
 
@@ -144,10 +162,7 @@ def _parse_md_tables(lines: list) -> list:
                     for col_idx, cell in enumerate(cells[1:], start=1):
                         col_header = headers_raw[col_idx] if col_idx < len(headers_raw) else f'col{col_idx}'
                         # extract number + unit from the cell
-                        m = re.search(
-                            r'[~\u7ea6]?\$?([\d,\uff0c\.]+)\s*(\u4ebf[\u5143\u7f8e\u6e2f]?\u5143?|\u4e07\u4ebf|[xX\u500d]|%|[BMT])?',
-                            cell
-                        )
+                        m = _CELL_NUM_RE.search(cell)
                         if m:
                             val = _clean_num(m.group(1))
                             unit = (m.group(2) or '').strip()
@@ -157,6 +172,12 @@ def _parse_md_tables(lines: list) -> list:
                 continue
         i += 1
     return results
+
+
+# Column headers marking annotation columns (growth rates, notes), not data to audit.
+_SKIP_COL_KEYWORDS = ('YOY', '\u589e\u901f', '\u540c\u6bd4', '\u53d8\u5316',
+                      '\u8d8b\u52bf', '\u8bf4\u660e', '\u5907\u6ce8',
+                      'GROWTH', 'CHANGE', 'TREND', 'NOTE', 'REMARK', 'SOURCE', 'COMMENT')
 
 
 def extract_data_points(md_text: str) -> list:
@@ -206,9 +227,8 @@ def extract_data_points(md_text: str) -> list:
         # skip meaningless column headers (YoY growth columns are annotations, not data
         # to verify); Chinese values kept as \uXXXX so they still match report headers:
         # growth / YoY / change / trend / note / remark
-        if col_header.upper() in ('YOY', 'YOY\u589e\u901f', '\u589e\u901f',
-                                  '\u540c\u6bd4', '\u53d8\u5316', '\u8d8b\u52bf',
-                                  '\u8bf4\u660e', '\u5907\u6ce8'):
+        col_up = col_header.upper()
+        if any(k in col_up for k in _SKIP_COL_KEYWORDS):
             continue
         # label = "row_label · col_header" (if the column header supplements the row label)
         if col_header and col_header != row_label:
@@ -319,9 +339,10 @@ def render_verdict(results: list, report_name: str = "") -> dict:
             fetched2 = float(fetched2)
             diff2 = _pct_diff(reported, fetched2)
 
-        # decide
+        # decide; with a single source, that source alone determines pass/fail
+        # (the WARN branch below is only for genuine two-source disagreement)
         pass1 = diff1 <= _TOLERANCE
-        pass2 = (diff2 is None) or (diff2 <= _TOLERANCE)
+        pass2 = pass1 if diff2 is None else (diff2 <= _TOLERANCE)
 
         if pass1 and pass2:
             status = f'{GREEN}✅ PASS{RESET}'
