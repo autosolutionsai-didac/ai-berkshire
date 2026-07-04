@@ -258,7 +258,7 @@ Using blockquote format, simulate the four masters' commentary on this industry'
 3. Represent the value-chain panorama with a text diagram in a code block
 4. Analyze at least 2-3 leading companies per link
 5. Make the global company scan as complete as possible (A-shares / HK stocks / US stocks / international)
-6. Finally, write the complete report to `~/[industry-name]-value-chain-investment-research-report.md`
+6. Finally, write the complete report to `reports/{industry}-industry-{YYYYMMDD}.md` (industry reports go in the reports/ root, date format YYYYMMDD)
 7. Conclusions must be clear, giving specific targets, position sizes, and price-range recommendations
 8. End each analysis module with the corresponding master's "follow-up"
 

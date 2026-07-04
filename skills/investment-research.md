@@ -201,7 +201,7 @@ Simulated commentary from the four masters (in blockquote format).
 1. All analysis must be data-backed, with data sources attached
 2. Present key data using Markdown tables
 3. Each module must end with the corresponding master's "probe"
-4. Finally, write the complete report to `~/[Company]-investment-research-report.md`
+4. Finally, write the complete report to `reports/{Company}/{Company}-research-{YYYYMMDD}.md` (date format YYYYMMDD)
 5. The conclusion must be clear; do not shy away from giving a buy / wait-and-see / avoid recommendation
 6. The valuation section must give a specific price range
 7. **The start of the report** must include the "information-richness rating" (A/B/C) and an "AI research-limitations statement"

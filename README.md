@@ -161,7 +161,7 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 > Source: [`assets/architecture.mmd`](assets/architecture.mmd) (editable Mermaid diagram)
 
 **Three-Layer Design Philosophy**:
-- **Skill Layer**: Abstracts "what you want to do" into 17 clear entry points — deep research, earnings analysis, industry screening, portfolio management, and thinking tools. Pick by scenario.
+- **Skill Layer**: Abstracts "what you want to do" into 19 clear entry points — deep research, earnings analysis, industry screening, portfolio management, thinking tools, and the full-pipeline command. Pick by scenario.
 - **Agent Layer**: Each skill runs 4 Agents in parallel — they search independently, judge independently, challenge each other, and the Team Lead synthesizes.
 - **Tool Layer**: Exact-precision calculations, real-time web search, report auditing — ensures every report's data is rigorous and verifiable.
 

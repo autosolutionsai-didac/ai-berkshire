@@ -212,7 +212,7 @@ Save the finalized draft as an md file, appending the original paper/material li
 
 | Type | Path | Naming format |
 |------|------|---------|
-| Technical topic | `reports/AI-Industry-Research/` | `wechat-{topic keyword}-{YYYYMMDD}.md` |
+| Technical topic | `reports/AI-industry-research/` | `wechat-{topic keyword}-{YYYYMMDD}.md` |
 | Investment topic | `reports/{Company}/` | `{Company}-wechat-{YYYYMMDD}.md` |
 | General topic | `reports/` | `wechat-{topic keyword}-{YYYYMMDD}.md` |
 

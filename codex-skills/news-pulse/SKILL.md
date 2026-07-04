@@ -167,7 +167,7 @@ Aggregate the 4 scouting reports and output the **stock-move attribution report*
 ---
 
 #### 1. One-sentence attribution
-> Use one passage (30-60 words) to state: the primary cause of this stock move + the secondary cause + a nature verdict (value event / sentiment swing / unclear)
+> Use one short passage (one or two sentences) to state: the primary cause of this stock move + the secondary cause + a nature verdict (value event / sentiment swing / unclear)
 
 #### 2. Complete event timeline (merging all 4 dimensions)
 

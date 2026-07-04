@@ -38,7 +38,7 @@ Buffett and Li Lu's approach is: **write down the sell conditions before you buy
 
 ### Step 1: Determine the operating mode
 
-Check whether an investment thesis file already exists for the company (`reports/{Company}-thesis.md`):
+Check whether an investment thesis file already exists for the company (`reports/{Company}/{Company}-thesis.md`):
 - If it does not exist → enter **Build Thesis** mode
 - If it exists → enter **Tracking Check** mode
 - If you can't find it but the user says one exists → ask for the file path
@@ -53,7 +53,7 @@ Use WebSearch to obtain the current share price, valuation metrics (PE/PB/divide
 
 Use `tools/financial_rigor.py verify-valuation` to validate the valuation data.
 
-### A1: Core thesis (must be written clearly in under 200 words)
+### A1: Core thesis (must be written clearly in under 200 characters, roughly 100-150 words)
 
 The investment thesis must answer the following 5 questions, one sentence each:
 
@@ -106,7 +106,7 @@ Usually 3-7 assumptions. Too few means the thinking wasn't deep enough; too many
 
 ### A5: Save the thesis
 
-Write the investment thesis to `reports/{Company}-thesis.md`, including:
+Write the investment thesis to `reports/{Company}/{Company}-thesis.md`, including:
 - Date established
 - Purchase price and position size
 - Core thesis (5 sentences)
@@ -121,7 +121,7 @@ Write the investment thesis to `reports/{Company}-thesis.md`, including:
 
 ### B1: Read the existing thesis
 
-Read `reports/{Company}-thesis.md` and load:
+Read `reports/{Company}/{Company}-thesis.md` and load:
 - Core thesis
 - Core assumptions list
 - Red-line list
@@ -207,7 +207,7 @@ Check the red-line list item by item:
 
 ### B7: Update the thesis file
 
-Append this check record to the tracking-record table in `reports/{Company}-thesis.md`:
+Append this check record to the tracking-record table in `reports/{Company}/{Company}-thesis.md`:
 
 | Check date | Health | Key change | Action recommendation |
 |---------|:------:|---------|---------|

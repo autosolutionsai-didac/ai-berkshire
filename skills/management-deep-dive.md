@@ -78,7 +78,7 @@ From the earnings calls, shareholder letters, and public interviews of the past 
 | # | Time | Promise | Where made | Delivery | Assessment |
 |---|------|---------|------------|----------|------------|
 | 1 | | "We will make business X profitable in 2025" | 2024 annual-report earnings call | | ✅/⚠️/❌ |
-| 2 | | "We plan to buy back $X billion" | 2024 shareholder letter | | ✅/⚠️/❌ |
+| 2 | | "We plan to buy back $X hundred million" | 2024 shareholder letter | | ✅/⚠️/❌ |
 
 **Delivery-rate statistics**:
 
@@ -269,7 +269,7 @@ Search industry forums and social media to understand how peers and industry ins
 
 ### Step 9: Save the Report
 
-Write the report to `reports/{Company}-management-{YYYYMMDD}.md`, e.g., `reports/Meituan-management-20260409.md`
+Write the report to `reports/{Company}/{Company}-management-{YYYYMMDD}.md`, e.g., `reports/Meituan/Meituan-management-20260409.md`
 
 ---
 

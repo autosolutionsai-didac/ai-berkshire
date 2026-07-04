@@ -121,7 +121,7 @@ These operate at a different granularity than a single company/stock and remain 
 
 ## Important notes
 
-1. **Halt on hard gates** — Phase 1 elimination and Phase 5 integrity veto stop the deeper work; the pipeline behaves like a real funnel, not a box-ticking exercise.
+1. **Hard gates** — the pipeline behaves like a real funnel, not a box-ticking exercise. A Phase 1 quality-screen elimination **halts** the run (the deeper phases are skipped). A Phase 5 integrity veto does not skip the capstone — it forces an **Avoid** verdict in the decision report and skips only the optional publishing add-on.
 2. **One folder per company** — every artifact lands in `reports/{Company}/`; the capstone reads them all.
 3. **Progress updates** — after each phase, surface the output file and 3-5 key findings so the user can follow along.
 4. **Anti-bias at the synthesis** — the capstone must assess whether each phase was constrained by data availability or converged too closely with market consensus, and say so.

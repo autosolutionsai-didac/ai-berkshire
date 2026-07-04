@@ -234,7 +234,7 @@ Give each company a clear conclusion (do not dodge):
 - ❓ **Gray zone** — state what the key point of contention is and what the investor needs to judge for themselves
 - N/A — private / cannot be bought
 
-Write the complete report to `~/Buffett-Checklist-[company name or "multi-company comparison"].md`
+Write the complete report to `reports/{Company}/{Company}-checklist-{YYYYMMDD}.md` for a single company (date format YYYYMMDD); for the multi-company case use the root path `reports/multi-company-checklist-{YYYYMMDD}.md`
 
 ## Output format requirements
 

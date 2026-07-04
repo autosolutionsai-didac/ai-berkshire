@@ -178,7 +178,12 @@ A final summary of 100-200 words
 
 ### Step 8: Save the report
 
-Write the complete final report to `~/{Company}-investment-research-report_{YYYYMMDD}.md` (date format YYYYMMDD).
+Save everything into the company folder `reports/{Company}/` (English company name), matching the project report convention:
+
+- Write each of the four analyst reports received from the sub-agents to its own file: `01-business-model-duan-yongping.md`, `02-financials-valuation-buffett.md`, `03-industry-competition-munger.md`, `04-risk-management-li-lu.md`.
+- Write the team-lead synthesis (the complete final report) to `reports/{Company}/final-report.md`.
+
+(date format YYYYMMDD where a date is needed)
 
 ### Step 9: Data spot-check (release audit)
 

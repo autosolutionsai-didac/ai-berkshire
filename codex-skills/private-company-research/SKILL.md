@@ -446,7 +446,7 @@ Find overseas/domestic benchmark companies (already listed) and analyze:
 
 ### 1. Deep Assessment of Founder/CEO
 
-> "Buying a stock is buying a business." — Duan Yongping
+> "Buying a stock is buying the person [running it]." — Duan Yongping
 
 - **Background and track record**: education, career, entrepreneurial experience
   - Any serial-entrepreneur experience? Outcome of the last venture?
