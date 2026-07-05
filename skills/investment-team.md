@@ -67,7 +67,7 @@ Use TaskCreate to create the following 4 tasks (each must have a subject, descri
      - Market-cap check: `python3 ~/ai-berkshire/tools/financial_rigor.py verify-market-cap --price {price} --shares {shares} --reported {reported market cap} --currency {currency}`
      - Valuation check: `python3 ~/ai-berkshire/tools/financial_rigor.py verify-valuation --price {price} --eps {EPS} --bvps {book value per share}`
      - Cross-validation of key data: `python3 ~/ai-berkshire/tools/financial_rigor.py cross-validate --field {field} --values '{JSON}' --unit {unit}`
-     - Three-scenario valuation: `python3 ~/ai-berkshire/tools/financial_rigor.py three-scenario --price {price} --eps {EPS} --shares {shares in 100M} --growth {optimistic} {base} {pessimistic} --pe {optimistic PE} {base PE} {pessimistic PE}`
+     - Three-scenario valuation: `python3 ~/ai-berkshire/tools/financial_rigor.py three-scenario --price {price} --eps {EPS} --shares {shares in 100M} --growth {optimistic} {base} {pessimistic} --pe {optimistic PE} {base PE} {pessimistic PE}` — **but for pre-profit / negative-EPS companies this PE-based scenario is meaningless (returns nonsensical negative targets); instead build the three scenarios on EV/revenue (revenue per share × a terminal EV/sales multiple per scenario) and state that PE is inapplicable**
      - Embed the tool's output directly into the report as a verification record
 
 #### Task 3: Industry and competitive analysis

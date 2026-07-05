@@ -149,6 +149,7 @@ python3 ~/ai-berkshire/tools/financial_rigor.py three-scenario \
   --price {price} --eps {EPS} --shares {shares in 100M} \
   --growth {optimistic} {neutral} {pessimistic} --pe {optimistic PE} {neutral PE} {pessimistic PE} --currency {currency}
 ```
+> **Negative-EPS companies:** this PE-based `three-scenario` is meaningless when EPS is negative or near zero (it returns nonsensical negative targets). For pre-profit companies, do NOT use PE — build the three scenarios on **EV/revenue** (or EV/gross-profit): project revenue per share × a terminal EV/sales multiple for the optimistic / neutral / pessimistic cases, and state explicitly that PE is inapplicable.
 - Valuation range across the three scenarios (use the tool's output)
 - If the judgment is wrong, how much do you lose at most by buying at the current price?
 - If the share price halves, do you dare to add to the position?

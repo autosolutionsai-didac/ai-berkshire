@@ -18,7 +18,7 @@ These override any looser wording inside a sub-skill:
 - **Show both sides** — every core judgment carries a counter-argument ("but on the other hand ...") so the reader can weigh it.
 - **Honesty over false precision** — when data is missing, say "insufficient data." Never fill certainty with guesses.
 - **English output** — all reports this pipeline writes are in English.
-- **Numbers are computed, not eyeballed** — use `tools/financial_rigor.py` for market cap, valuation, and three-scenario math; cross-validate key financials against two independent sources per `skills/financial-data.md`.
+- **Numbers are computed, not eyeballed** — use `tools/financial_rigor.py` for market cap, valuation, and three-scenario math; cross-validate key financials against two independent sources per `skills/financial-data.md`. **For pre-profit / negative-EPS companies the PE-based `three-scenario` is not meaningful** (it returns nonsensical negative targets): frame the three scenarios on EV/revenue (or EV/gross-profit) instead — project revenue per share × a terminal EV/sales multiple per scenario — and state explicitly that PE is inapplicable.
 - **Explicit currency** — every monetary figure carries its currency (USD / HKD / CNY / ...); never compare figures across currencies without converting and saying so.
 - **Star ratings** use the star glyph (1-5), no half stars.
 
@@ -53,7 +53,9 @@ These override any looser wording inside a sub-skill:
 
 Run these phases in order. After each phase, show the user a one-line progress update (phase name, output file, and the 3-5 key findings). Where a sub-skill's documented output path differs (some default to the home directory), **override it to write into `reports/{Company}/`** so everything stays colocated.
 
-**Execution model (context budget):** run each of Phases 1-6 through the Task tool as background subagent(s). The subagent executes the referenced skill's workflow, writes the output file into `reports/{Company}/`, and returns **only the 3-5 key findings**. Keep just those summaries in the orchestrating session; Phase 7 re-reads the full files from disk. Do not execute the sub-skill workflows inline — a full pipeline run inline will exhaust the session context before the capstone. Phases 3 and 4 are independent of each other and may run in parallel; all other phases run in sequence. Under `resume`, skip any phase whose output file already exists for the pinned run date.
+**Execution model (context budget):** run each of Phases 1-6 through the Task tool as **background** subagent(s). The subagent executes the referenced skill's workflow, writes the output file into `reports/{Company}/`, and returns **only the 3-5 key findings**. Keep just those summaries in the orchestrating session; Phase 7 re-reads the full files from disk. Do not execute the sub-skill workflows inline — a full pipeline run inline will exhaust the session context before the capstone. Phases 3 and 4 are independent of each other and may run in parallel; all other phases run in sequence. Under `resume`, skip any phase whose output file already exists for the pinned run date.
+
+**Verify each phase actually landed.** After a phase subagent reports back, confirm its expected output file(s) now exist in `reports/{Company}/` before moving on. A subagent can die or return without writing anything; if the file is missing, treat the phase as not done and **relaunch it** (do not proceed on the returned summary alone). Prefer launching phases as background tasks — a synchronous launch can occasionally return an empty result while doing no work.
 
 **Quick mode** (`quick` flag): a triage pass that runs only three phases plus a condensed capstone, meant to answer "is this worth a full run?" in a fraction of the time.
 - **Phase 1** — quality screen, exactly as below (its hard gate still halts on elimination unless combined with `force`).
