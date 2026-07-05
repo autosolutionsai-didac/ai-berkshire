@@ -1,460 +1,460 @@
-# Rocket Lab USA (RKLB) 投资研究报告
+# Rocket Lab USA (RKLB) Investment Research Report
 
-**报告日期**：2026年6月24日
-**分析框架**：巴菲特-芒格-段永平-李录 四大师综合分析
-
----
-
-## AI研究偏见自觉
-
-### 信息丰富度评级：A级（信息充裕）
-
-Rocket Lab于2021年8月通过SPAC在纳斯达克上市，至今近5年。作为全球第二活跃的轨道发射公司，券商覆盖约16-19位分析师，媒体报道密集，财务数据透明。
-
-**A级公司的AI研究陷阱**：共识过强，AI输出趋同于市场定价，alpha有限。因此本报告重点做反面检验——聪明人为什么不买？被忽略的风险是什么？
-
-**偏见自查**：
-- [x] 确定性感受来自资料数量而非生意本质验证——需警惕
-- [x] AI分析与市场共识高度雷同（华尔街一致看多）——本报告的信息优势有限
-- [x] 太空行业叙事性极强，容易被"星辰大海"叙事锚定——需用数字说话
-
-**AI研究局限性声明**：本报告基于截至2026年6月的公开信息。Rocket Lab的核心变量（Neutron首飞成功率、国防合同执行质量、SpaceX竞争策略）均无法通过公开数据精确评估，需要一手验证。
+**Report Date**: June 24, 2026
+**Analysis Framework**: Buffett-Munger-Duan Yongping-Li Lu Four-Master Comprehensive Analysis
 
 ---
 
-## 关键数据交叉验证记录
+## AI Research Bias Awareness
 
-| 数据点 | 验证结果 | 偏差 |
+### Information Richness Rating: Grade A (Information Abundant)
+
+Rocket Lab went public on Nasdaq via SPAC in August 2021, nearly 5 years ago. As the world's second most active orbital launch company, it is covered by approximately 16-19 sell-side analysts, with dense media coverage and transparent financial data.
+
+**The AI Research Trap of Grade A Companies**: Consensus is too strong; AI output converges with market pricing, leaving limited alpha. Therefore this report focuses on adversarial testing—why don't smart people buy? What risks are being overlooked?
+
+**Bias Self-Check**:
+- [x] The sense of certainty comes from the volume of material rather than verification of business fundamentals—stay alert
+- [x] AI analysis highly resembles market consensus (Wall Street unanimously bullish)—this report's information advantage is limited
+- [x] The space industry has an extremely strong narrative, easily anchored by the "sea of stars" story—must let the numbers speak
+
+**AI Research Limitations Statement**: This report is based on public information as of June 2026. Rocket Lab's core variables (Neutron maiden flight success rate, defense contract execution quality, SpaceX competitive strategy) cannot be precisely assessed through public data and require firsthand verification.
+
+---
+
+## Key Data Cross-Verification Record
+
+| Data Point | Verification Result | Deviation |
 |--------|----------|------|
-| 市值（$95.12 × 5.758亿股 = $547.7亿 vs 报告$550亿） | ✅ 通过 | 0.42% |
-| FY2025收入（3个独立来源） | ✅ 通过 | 0.00% |
-| FY2025净亏损（2个独立来源） | ✅ 通过 | 0.00% |
-| 现金+短期投资（2个独立来源） | ✅ 通过 | 0.00% |
-| PE/PB/FCF Yield | ✅ 工具精确计算 | N/A |
+| Market cap ($95.12 × 575.8M shares = $54.77B vs report $55B) | ✅ Pass | 0.42% |
+| FY2025 revenue (3 independent sources) | ✅ Pass | 0.00% |
+| FY2025 net loss (2 independent sources) | ✅ Pass | 0.00% |
+| Cash + short-term investments (2 independent sources) | ✅ Pass | 0.00% |
+| PE/PB/FCF Yield | ✅ Precise tool calculation | N/A |
 
 ---
 
-## 第一步：数据总览
+## Step 1: Data Overview
 
-### 股票基本信息
+### Stock Basic Information
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 股票代码 | RKLB（纳斯达克） |
-| 当前股价 | ~$95.12（2026.6.23） |
-| 市值 | ~$548亿 |
-| 企业价值（EV） | ~$535亿（净现金约$13.4亿） |
-| 52周区间 | $31.78 - $151.00 |
-| 历史最高 | $150.23（2026.5.27） |
+| Ticker | RKLB (Nasdaq) |
+| Current Price | ~$95.12 (2026.6.23) |
+| Market Cap | ~$54.8B |
+| Enterprise Value (EV) | ~$53.5B (net cash ~$1.34B) |
+| 52-Week Range | $31.78 - $151.00 |
+| All-Time High | $150.23 (2026.5.27) |
 
-### 收入结构（FY2025）
+### Revenue Structure (FY2025)
 
-| 业务分部 | 收入 | 占比 | 同比增速 |
+| Business Segment | Revenue | Share | YoY Growth |
 |----------|------|------|----------|
-| 发射服务 | $1.99亿 | 33% | +58.7% |
-| 太空系统 | $4.03亿 | 67% | +29.6% |
-| **合计** | **$6.02亿** | **100%** | **+38.0%** |
+| Launch Services | $199M | 33% | +58.7% |
+| Space Systems | $403M | 67% | +29.6% |
+| **Total** | **$602M** | **100%** | **+38.0%** |
 
-### 季度收入趋势
+### Quarterly Revenue Trend
 
-| 季度 | 发射服务 | 太空系统 | 合计 | 同比增速 |
+| Quarter | Launch Services | Space Systems | Total | YoY Growth |
 |------|---------|---------|------|----------|
-| Q1 2025 | $0.36亿 | $0.87亿 | $1.23亿 | — |
-| Q2 2025 | $0.57亿 | $0.88亿 | $1.45亿 | — |
-| Q3 2025 | $0.41亿 | $1.14亿 | $1.55亿 | +48% |
-| Q4 2025 | $0.76亿 | $1.04亿 | $1.80亿 | +36% |
-| **Q1 2026** | **$0.64亿** | **$1.37亿** | **$2.00亿** | **+63.5%** |
+| Q1 2025 | $36M | $87M | $123M | — |
+| Q2 2025 | $57M | $88M | $145M | — |
+| Q3 2025 | $41M | $114M | $155M | +48% |
+| Q4 2025 | $76M | $104M | $180M | +36% |
+| **Q1 2026** | **$64M** | **$137M** | **$200M** | **+63.5%** |
 
-### 5年财务概览
+### 5-Year Financial Overview
 
-| 指标 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |------|--------|--------|--------|--------|--------|
-| 总收入 | $0.62亿 | $2.11亿 | $2.45亿 | $4.36亿 | $6.02亿 |
-| 净利润 | -$1.17亿 | -$1.36亿 | -$1.83亿 | -$1.90亿 | -$1.98亿 |
-| GAAP毛利率 | -3.0% | 9.0% | 21.0% | 26.6% | 34.4% |
-| 经营利润率 | -164% | -64% | -73% | -44% | -38% |
-| 自由现金流 | -$0.98亿 | -$1.49亿 | -$1.54亿 | -$1.16亿 | -$3.22亿 |
-| 期末现金+短投 | $6.91亿 | $4.72亿 | $2.45亿 | $4.19亿 | $10.17亿 |
+| Total Revenue | $62M | $211M | $245M | $436M | $602M |
+| Net Income | -$117M | -$136M | -$183M | -$190M | -$198M |
+| GAAP Gross Margin | -3.0% | 9.0% | 21.0% | 26.6% | 34.4% |
+| Operating Margin | -164% | -64% | -73% | -44% | -38% |
+| Free Cash Flow | -$98M | -$149M | -$154M | -$116M | -$322M |
+| Period-End Cash + ST Investments | $691M | $472M | $245M | $419M | $1,017M |
 
-### 当前估值指标
+### Current Valuation Metrics
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| P/S（TTM） | ~91x（$548亿/$6.02亿） |
-| P/S（Forward，按$8.5亿2026E） | ~64x |
-| EV/Revenue（TTM） | ~89x |
-| P/E | 不适用（亏损中） |
+| P/S (TTM) | ~91x ($54.8B/$602M) |
+| P/S (Forward, based on $850M 2026E) | ~64x |
+| EV/Revenue (TTM) | ~89x |
+| P/E | N/A (in loss) |
 | P/B | 24.2x |
-| P/FCF | 不适用（FCF为负） |
-| EPS（TTM） | -$0.32 |
-| 每股净资产 | $3.93 |
+| P/FCF | N/A (FCF negative) |
+| EPS (TTM) | -$0.32 |
+| Book Value per Share | $3.93 |
 
 ---
 
-## 第二步：生意本质分析 — 段永平"对的生意"
+## Step 2: Business Fundamentals Analysis — Duan Yongping's "Right Business"
 
-### 一句话定义
+### One-Sentence Definition
 
-**Rocket Lab的生意本质是：太空基础设施的"全栈供应商"——为客户设计、制造卫星组件和卫星，然后用自己的火箭发射上天。**
+**Rocket Lab's business essence is: a "full-stack supplier" of space infrastructure—designing and manufacturing satellite components and satellites for customers, then launching them into orbit on its own rockets.**
 
-如果必须用一个更通俗的类比：**太空界的富士康+顺丰——帮你造好东西，再帮你送上去。**
+If a more colloquial analogy is required: **the Foxconn + SF Express of space—we build your stuff, then we deliver it up there.**
 
-### 商业模式画布
+### Business Model Canvas
 
-Rocket Lab不是一个"发射公司"——发射只占收入的33%。它的核心是一个**太空系统集成商**：
+Rocket Lab is not a "launch company"—launches account for only 33% of revenue. At its core it is a **space systems integrator**:
 
-1. **太空系统（67%收入）**：反应轮、星追踪器、太阳能电池、分离系统、激光通信终端、飞行软件、卫星平台。通过7次收购构建，覆盖卫星制造的几乎所有关键环节。
-2. **发射服务（33%收入）**：Electron小型火箭（300kg LEO），Neutron中型火箭（13吨LEO，2026Q4首飞）。
-3. **潜在第三条腿**：SDA导弹防御卫星星座（$8.16亿合同），从"卖组件"升级为"整星交付+在轨运营"。
+1. **Space Systems (67% of revenue)**: reaction wheels, star trackers, solar cells, separation systems, laser communication terminals, flight software, satellite platforms. Built through 7 acquisitions, covering nearly all critical stages of satellite manufacturing.
+2. **Launch Services (33% of revenue)**: Electron small rocket (300kg LEO), Neutron medium rocket (13 tons LEO, maiden flight Q4 2026).
+3. **Potential third leg**: SDA missile defense satellite constellation ($816M contract), upgrading from "selling components" to "full-satellite delivery + in-orbit operations."
 
-**收入模式**：项目制（卫星制造）+ 按次收费（发射服务）+ 长期运维合同。非订阅制，但政府合同提供多年收入可见性。
+**Revenue Model**: project-based (satellite manufacturing) + per-use fees (launch services) + long-term operations & maintenance contracts. Not subscription-based, but government contracts provide multi-year revenue visibility.
 
-### 毛利率分析
+### Gross Margin Analysis
 
-GAAP毛利率从FY2021的-3%提升至FY2025的34.4%，Q1 2026进一步达38.2%。Non-GAAP毛利率43%。
+GAAP gross margin rose from -3% in FY2021 to 34.4% in FY2025, reaching a further 38.2% in Q1 2026. Non-GAAP gross margin is 43%.
 
-**与同行对比**：
-- 传统航天防务（诺格、L3Harris）：毛利率25-30%
-- SpaceX（未上市，推算）：发射业务毛利率估计50%+（复用经济性）
-- Rocket Lab 34%的毛利率处于"比传统防务好、比SpaceX差"的位置
+**Peer Comparison**:
+- Traditional aerospace defense (Northrop Grumman, L3Harris): gross margin 25-30%
+- SpaceX (private, estimated): launch business gross margin estimated 50%+ (reuse economics)
+- Rocket Lab's 34% gross margin sits in a "better than traditional defense, worse than SpaceX" position
 
-毛利率持续扩展的驱动力：(1) 太空系统收入占比高且利润更好；(2) Electron发射频次提升摊薄固定成本；(3) 垂直整合降低外购成本。
+Drivers of continued gross margin expansion: (1) a higher share of space systems revenue with better profitability; (2) higher Electron launch cadence amortizing fixed costs; (3) vertical integration lowering procurement costs.
 
-### 经营杠杆分析
+### Operating Leverage Analysis
 
-收入从FY2021的$0.62亿增长至FY2025的$6.02亿（~10倍），但净亏损从-$1.17亿仅扩大至-$1.98亿（~1.7倍）。经营利润率从-164%改善至-38%。这说明**经营杠杆正在释放**——收入增长远快于费用增长。
+Revenue grew from $62M in FY2021 to $602M in FY2025 (~10x), but net loss only widened from -$117M to -$198M (~1.7x). Operating margin improved from -164% to -38%. This shows **operating leverage is being released**—revenue growth far outpaces expense growth.
 
-但FY2025自由现金流大幅恶化至-$3.22亿（FY2024为-$1.16亿），主要因Neutron研发资本开支从$0.67亿增至$1.56亿。这是"投资期"的典型特征。
+But FY2025 free cash flow deteriorated sharply to -$322M (FY2024 was -$116M), mainly due to Neutron R&D capex rising from $67M to $156M. This is a typical characteristic of the "investment phase."
 
-### 段永平式追问
+### Duan Yongping-Style Questioning
 
-**这门生意好在哪？如果只能用一句话描述，是什么？**
+**What is good about this business? If you could describe it in only one sentence, what would it be?**
 
-> 好在"太空基础设施建设"是未来10-20年确定性极高的大趋势，而Rocket Lab是除SpaceX外唯一能提供"从组件到卫星到发射"全栈服务的公司。这门生意的核心优势是**垂直整合带来的交叉销售能力和客户锁定**——客户用了你的反应轮，大概率也会买你的太阳能电池，最后用你的火箭发射。
+> The good part is that "space infrastructure construction" is a highly certain megatrend for the next 10-20 years, and Rocket Lab is the only company besides SpaceX that can provide full-stack service "from components to satellites to launch." The core advantage of this business is **the cross-selling capability and customer lock-in brought by vertical integration**—a customer who used your reaction wheels will most likely also buy your solar cells, and finally launch on your rocket.
 
-**但这门生意也有明显的"不好"**：
-- 不是订阅制，没有经常性收入的确定性
-- 资本密集，需要持续大额投入
-- 面对SpaceX这个有史以来最强大的竞争对手
-- 至今未盈利，依赖资本市场融资
+**But this business also has obvious "bad" aspects**:
+- Not subscription-based, no certainty of recurring revenue
+- Capital-intensive, requiring sustained large investment
+- Facing SpaceX, the most powerful competitor in history
+- Still unprofitable, dependent on capital market financing
 
 ---
 
-## 第三步：护城河评估 — 巴菲特"经济护城河"
+## Step 3: Moat Assessment — Buffett's "Economic Moat"
 
-### 五类护城河逐一验证
+### Verifying the Five Types of Moat One by One
 
-| 护城河类型 | 评估 | 强度 | 证据 |
+| Moat Type | Assessment | Strength | Evidence |
 |-----------|------|------|------|
-| **品牌/定价权** | 中等 | ★★★☆☆ | Electron发射单价约$750万，低于SpaceX拼车但高于其边际成本。定价权有限，SpaceX的价格是行业天花板 |
-| **转换成本** | 较强 | ★★★★☆ | 卫星组件（反应轮、星追踪器等）一旦设计集成，更换成本极高（需重新认证，耗时6-18个月）。发射服务本身转换成本低 |
-| **网络效应** | 弱 | ★★☆☆☆ | 不存在传统意义的网络效应。垂直整合带来的"生态效应"不等于网络效应 |
-| **规模效应** | 中等 | ★★★☆☆ | Electron工厂年产能52枚，2025年发射21次，产能利用率约40%。规模增长会摊薄成本，但与SpaceX相比规模差距巨大 |
-| **技术/专利壁垒** | 较强 | ★★★★☆ | Rutherford全3D打印电泵发动机、碳复合材料火箭体、SolAero高效太空太阳能电池（为1000+航天器供电）。技术领先但并非不可复制 |
+| **Brand/Pricing Power** | Moderate | ★★★☆☆ | Electron launch price ~$7.5M, below SpaceX rideshare but above its marginal cost. Limited pricing power; SpaceX's price is the industry ceiling |
+| **Switching Costs** | Relatively Strong | ★★★★☆ | Satellite components (reaction wheels, star trackers, etc.) once designed in have extremely high replacement costs (re-certification required, taking 6-18 months). Launch service itself has low switching costs |
+| **Network Effects** | Weak | ★★☆☆☆ | No network effects in the traditional sense. The "ecosystem effect" from vertical integration is not equivalent to network effects |
+| **Economies of Scale** | Moderate | ★★★☆☆ | Electron factory annual capacity 52 units, 21 launches in 2025, capacity utilization ~40%. Scale growth amortizes costs, but the scale gap versus SpaceX is enormous |
+| **Technology/Patent Barriers** | Relatively Strong | ★★★★☆ | Rutherford fully 3D-printed electric-pump engine, carbon-composite rocket body, SolAero high-efficiency space solar cells (powering 1000+ spacecraft). Technology-leading but not impossible to replicate |
 
-### 护城河趋势判断
+### Moat Trend Judgment
 
-**过去5年：明显变宽**
-- 从纯火箭公司变为全栈太空公司，通过7次收购建立垂直整合能力
-- 在手订单从无到$22亿
-- 政府合同资质从零到获得NSSL Phase 3 Lane 1入选（$56亿总计划）
-- 成为SDA导弹防御卫星主承包商
+**Past 5 years: clearly widening**
+- Transformed from a pure rocket company into a full-stack space company, building vertical integration capability through 7 acquisitions
+- Backlog grew from zero to $2.2B
+- Government contract qualifications went from zero to being selected for NSSL Phase 3 Lane 1 ($5.6B total program)
+- Became prime contractor for the SDA missile defense satellite
 
-**未来5年：取决于Neutron**
-- 若Neutron成功：护城河大幅变宽——成为全球仅有的两家可复用轨道发射公司之一（另一家是SpaceX）
-- 若Neutron失败/大幅延迟：护城河被侵蚀——Electron面临SpaceX拼车和Firefly等新进入者的夹击
+**Next 5 years: depends on Neutron**
+- If Neutron succeeds: moat widens substantially—becoming one of only two reusable orbital launch companies globally (the other being SpaceX)
+- If Neutron fails/is significantly delayed: moat gets eroded—Electron faces a pincer from SpaceX rideshare and new entrants like Firefly
 
-### 一个不可忽视的"护城河"：ITAR制度
+### A "Moat" That Cannot Be Ignored: The ITAR Regime
 
-美国国际武器贸易条例（ITAR）实质上禁止敏感太空载荷使用中国/俄罗斯火箭发射。这为Rocket Lab等美国发射商创造了一个**制度性保护市场**。西方国防和情报载荷只能选择美国或少数盟国发射商，这是中国商业火箭公司无法逾越的壁垒。
+The U.S. International Traffic in Arms Regulations (ITAR) effectively prohibit sensitive space payloads from launching on Chinese/Russian rockets. This creates an **institutionally protected market** for U.S. launch providers like Rocket Lab. Western defense and intelligence payloads can only choose U.S. or a few allied launch providers—a barrier that Chinese commercial rocket companies cannot surmount.
 
-### 巴菲特式追问
+### Buffett-Style Questioning
 
-**10年后这条护城河还在吗？什么能摧毁它？**
+**Will this moat still be here in 10 years? What could destroy it?**
 
-> 太空系统（卫星组件）的护城河最持久——转换成本高，认证周期长，且Rocket Lab已成为多个关键组件的行业标准供应商。发射业务的护城河更脆弱——SpaceX的Starship如果实现超低成本发射，可能把整个中小型火箭市场挤压到边缘。
+> The space systems (satellite components) moat is the most durable—high switching costs, long certification cycles, and Rocket Lab has already become the industry-standard supplier for several key components. The launch business's moat is more fragile—if SpaceX's Starship achieves ultra-low-cost launch, it could push the entire small-and-medium rocket market to the margins.
 >
-> 能摧毁护城河的力量：(1) SpaceX大幅降价，使专用小型发射失去经济合理性；(2) Neutron失败，Rocket Lab被困在小型火箭细分市场；(3) 中国商业火箭突破ITAR限制，在非美国市场抢占份额。
+> Forces that could destroy the moat: (1) SpaceX cutting prices sharply, making dedicated small launch economically unjustifiable; (2) Neutron failing, trapping Rocket Lab in the small-rocket niche; (3) Chinese commercial rockets breaking through ITAR restrictions and grabbing share in non-U.S. markets.
 
 ---
 
-## 第四步：逆向思考与风险清单 — 芒格"反过来想"
+## Step 4: Inversion and Risk Checklist — Munger's "Invert, Always Invert"
 
-### 公司可能失败的所有路径
+### All Paths by Which the Company Could Fail
 
-| 失败路径 | 概率 | 影响程度 | 说明 |
+| Failure Path | Probability | Impact | Notes |
 |----------|------|----------|------|
-| Neutron首飞失败或大幅延迟 | 30-40% | 极高 | 已从2024年延迟至2026Q4，火箭开发历史上首飞失败率约50% |
-| SpaceX大幅降价挤压市场 | 20-30% | 高 | Starship成功后发射成本可能降低一个数量级 |
-| 持续亏损+股权稀释耗尽股东价值 | 25-35% | 高 | 已公布$30亿新ATM发行计划，FY2025 FCF -$3.22亿 |
-| 国防合同执行不力 | 10-15% | 高 | $8.16亿SDA合同是首次大型整星项目，执行风险真实存在 |
-| 关键人物风险（Peter Beck） | 10% | 中高 | 没有独立CTO，技术方向高度依赖创始人 |
-| 地缘政治/政策风险 | 5-10% | 中 | 美国政府太空预算削减、政策转向 |
-| 竞争对手突破（Firefly等） | 10-15% | 中 | Firefly已上市，但技术成熟度远不如Rocket Lab |
+| Neutron maiden flight fails or is significantly delayed | 30-40% | Extremely High | Already delayed from 2024 to Q4 2026; historically ~50% maiden flight failure rate in rocket development |
+| SpaceX slashing prices to squeeze the market | 20-30% | High | After Starship succeeds, launch costs could fall by an order of magnitude |
+| Sustained losses + equity dilution eroding shareholder value | 25-35% | High | Announced new $3B ATM offering plan; FY2025 FCF -$322M |
+| Poor defense contract execution | 10-15% | High | The $816M SDA contract is the first large full-satellite project; execution risk is real |
+| Key-person risk (Peter Beck) | 10% | Medium-High | No independent CTO; technical direction highly dependent on the founder |
+| Geopolitical/policy risk | 5-10% | Medium | U.S. government space budget cuts, policy shifts |
+| Competitor breakthrough (Firefly, etc.) | 10-15% | Medium | Firefly is already public, but its technological maturity is far below Rocket Lab's |
 
-### 历史类比
+### Historical Analogies
 
-| 类比公司 | 相似点 | 结局 |
+| Analogous Company | Similarities | Outcome |
 |----------|--------|------|
-| **早期SpaceX（2008-2012）** | 火箭创业、创始人驱动、从小火箭到大火箭的跨越 | 成功。但SpaceX有马斯克个人财富兜底，Rocket Lab只能靠资本市场 |
-| **Virgin Orbit** | 小型火箭发射、航天创业 | 破产。技术路线（空射）有缺陷，资金耗尽 |
-| **Iridium（1990s vs 2010s）** | 卫星星座建设，第一次失败破产，第二次成功 | 第二代成功盈利。说明太空项目时机很重要 |
-| **波音Starliner** | 传统巨头做太空项目 | 多次失败，被SpaceX超越。说明执行力比品牌更重要 |
+| **Early SpaceX (2008-2012)** | Rocket startup, founder-driven, the leap from small to large rockets | Success. But SpaceX had Musk's personal wealth as a backstop; Rocket Lab can only rely on capital markets |
+| **Virgin Orbit** | Small-rocket launch, space startup | Bankruptcy. The technical approach (air launch) was flawed; ran out of cash |
+| **Iridium (1990s vs 2010s)** | Satellite constellation construction; failed and went bankrupt the first time, succeeded the second | The second generation became profitable. Shows timing matters greatly for space projects |
+| **Boeing Starliner** | Traditional giant doing a space project | Repeated failures, surpassed by SpaceX. Shows execution matters more than brand |
 
-### 跨学科分析
+### Interdisciplinary Analysis
 
-- **技术采纳曲线**：太空行业处于S曲线陡峭上升段（类似1998-2002年互联网），基础设施建设期。风险在于——2000年互联网泡沫中大量"正确方向"的公司因估值过高而让投资者亏损
-- **竞争博弈**：SpaceX是"不对称竞争者"——它有Starlink提供的内部需求闭环，不需要外部客户也能维持高频发射。Rocket Lab完全依赖外部客户，在定价博弈中处于弱势
-- **幸存者偏差**：我们看到Rocket Lab存活并繁荣，但同期Virgin Orbit破产、Astra濒临退市、ABL转型放弃火箭。Rocket Lab的成功不代表"太空创业"是一门好生意——恰恰说明这是一个淘汰率极高的行业
+- **Technology Adoption Curve**: The space industry is on the steep upswing of the S-curve (similar to the internet in 1998-2002), in the infrastructure-building phase. The risk is—in the 2000 internet bubble, many companies in the "right direction" lost money for investors due to excessive valuations
+- **Competitive Game Theory**: SpaceX is an "asymmetric competitor"—it has an internal demand loop from Starlink and can sustain high launch cadence without external customers. Rocket Lab depends entirely on external customers and is at a disadvantage in pricing games
+- **Survivorship Bias**: We see Rocket Lab surviving and thriving, but over the same period Virgin Orbit went bankrupt, Astra was near delisting, and ABL pivoted away from rockets. Rocket Lab's success does not mean "space startups" are a good business—it precisely shows this is an industry with an extremely high attrition rate
 
-### 偏误自查
+### Bias Self-Check
 
-- **叙事偏差**："星辰大海"的太空叙事极具感染力，容易让分析者高估行业前景和公司成功概率
-- **锚定效应**：SpaceX $1.77万亿的IPO估值可能成为锚点，让RKLB $550亿的估值"显得便宜"——但两家公司的规模和成熟度天差地别
-- **SpaceX代理效应**：RKLB的估值溢价中有多少是"买不到SpaceX所以买RKLB"的替代效应？SpaceX上市后这部分溢价可能迅速消失
+- **Narrative Bias**: The "sea of stars" space narrative is highly infectious, easily leading analysts to overestimate industry prospects and the company's probability of success
+- **Anchoring Effect**: SpaceX's $1.77T IPO valuation could become an anchor, making RKLB's $55B valuation "look cheap"—but the two companies differ enormously in scale and maturity
+- **SpaceX Proxy Effect**: How much of RKLB's valuation premium is the substitution effect of "can't buy SpaceX, so buy RKLB"? After SpaceX goes public, this portion of the premium could vanish quickly
 
-### 芒格式追问
+### Munger-Style Questioning
 
-**我最可能在哪里犯错？聪明人为什么会不买/做空这家公司？**
+**Where am I most likely to be wrong? Why would smart people not buy / short this company?**
 
-> 最可能犯的错：**被行业增长前景锚定，忽视估值的荒谬程度**。P/S 91倍意味着，即使Rocket Lab未来3年收入翻3倍到$18亿，P/S仍然是30倍——仍然昂贵。聪明的空头会说：(1) Neutron的成功远非确定；(2) SpaceX上市后RKLB的"代理溢价"将消失；(3) $30亿ATM稀释计划表明管理层自己也认为股价被高估。Bleecker Street Research已经在做空，核心论点是Neutron时间表被美化、唯一公开合同来自未经验证的初创公司。
+> The most likely mistake: **being anchored by the industry growth outlook while ignoring the absurdity of the valuation**. A P/S of 91x means that even if Rocket Lab triples revenue over the next 3 years to $1.8B, P/S would still be 30x—still expensive. Smart shorts would say: (1) Neutron's success is far from certain; (2) after SpaceX goes public, RKLB's "proxy premium" will disappear; (3) the $3B ATM dilution plan shows management itself thinks the stock is overvalued. Bleecker Street Research is already shorting, with the core thesis that the Neutron timeline is prettified and the only public contract comes from an unproven startup.
 
 ---
 
-## 第五步：管理层评估 — 段永平"对的人" + 巴菲特"管理层诚信"
+## Step 5: Management Assessment — Duan Yongping's "Right People" + Buffett's "Management Integrity"
 
-### Peter Beck关键决策复盘
+### Review of Peter Beck's Key Decisions
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Result | Rating |
 |------|------|------|------|
-| 2006年 | 创立Rocket Lab，自学火箭工程 | 建成全球第二活跃的轨道发射公司 | A+ |
-| ~2015年 | 选择碳复合材料+3D打印电泵发动机 | 技术路线被验证，Electron成本低、可靠性高 | A+ |
-| 2017年 | 首次发射Electron（首飞失败） | 第二次成功，之后保持近乎完美的成功率 | A |
-| 2020-2022年 | 连续7次收购，建立垂直整合能力 | 太空系统业务占收入67%，构建强转换成本 | A |
-| 2021年 | 宣布开发Neutron（此前公开说不做中型火箭） | 方向正确，但时间表已从2024年延迟至2026Q4 | B+（方向对，执行待验证） |
-| 2022年 | 尝试直升机空中回收Electron | 失败，改为海面回收。务实调整 | B |
-| 2026年3月 | 主动降薪至$1、放弃39.2万未归属RSU | 强烈的信心信号 | A |
-| 2026年 | 设立10b5-1计划卖出最多500万股 | 合理的财富多元化，但在亏损阶段信号不佳 | B- |
+| 2006 | Founded Rocket Lab, self-taught rocket engineering | Built the world's second most active orbital launch company | A+ |
+| ~2015 | Chose carbon composite + 3D-printed electric-pump engine | Technical approach validated; Electron low-cost, high-reliability | A+ |
+| 2017 | First Electron launch (maiden flight failed) | Second attempt succeeded, then maintained a near-perfect success rate | A |
+| 2020-2022 | 7 consecutive acquisitions, building vertical integration | Space systems business is 67% of revenue, building strong switching costs | A |
+| 2021 | Announced Neutron development (had previously publicly said no medium rocket) | Right direction, but timeline already slipped from 2024 to Q4 2026 | B+ (direction right, execution to be proven) |
+| 2022 | Attempted mid-air helicopter recovery of Electron | Failed, switched to sea recovery. Pragmatic adjustment | B |
+| March 2026 | Voluntarily cut salary to $1, forfeited 392,000 unvested RSU | Strong confidence signal | A |
+| 2026 | Set up 10b5-1 plan to sell up to 5 million shares | Reasonable wealth diversification, but a poor signal during the loss-making phase | B- |
 
-### 资本配置能力
+### Capital Allocation Ability
 
-- **收购策略**：7次收购均为填补垂直整合的关键缺口（太阳能电池、反应轮、分离系统、激光通信、机器人），方向清晰。价格合理（最大单笔$2.75亿）
-- **研发投入**：Neutron累计投入$3.6亿+，开发成本可控
-- **融资策略**：善于利用高股价融资（$5亿+$30亿ATM），时机把握好。但持续稀释对现有股东不友好
+- **Acquisition strategy**: all 7 acquisitions filled critical gaps in vertical integration (solar cells, reaction wheels, separation systems, laser communication, robotics), with clear direction. Reasonable prices (largest single deal $275M)
+- **R&D investment**: cumulative Neutron investment $360M+, development cost controllable
+- **Financing strategy**: skilled at leveraging a high stock price to raise capital ($500M + $3B ATM), good timing. But continued dilution is unfriendly to existing shareholders
 
-### 股东利益一致性
+### Shareholder Interest Alignment
 
-| 指标 | 评估 |
+| Metric | Assessment |
 |------|------|
-| CEO持股 | ~10%（约$55亿，利益高度绑定） |
-| 薪酬结构 | 2026年降至$1+零RSU，极度对齐 |
-| 内部人持股总计 | 30.1% |
-| 近期交易 | CEO通过10b5-1计划减持中；过去2年内部人净卖出$7.63亿 |
+| CEO Ownership | ~10% (~$5.5B, interests highly aligned) |
+| Compensation Structure | Cut to $1 + zero RSU in 2026, extremely aligned |
+| Total Insider Ownership | 30.1% |
+| Recent Transactions | CEO trimming via 10b5-1 plan; net insider selling of $763M over the past 2 years |
 
-**大规模内部人减持的解读**：过去2年$7.63亿的净卖出需要认真对待。虽然有财富多元化的合理理由，但在公司尚未盈利的阶段，这个规模的减持确实是负面信号。不过Beck同时降薪至$1并放弃RSU，两个信号方向矛盾——可能的解读是：**Beck对公司长期有信心，但认为当前股价偏高，所以在高位套现部分收益**。
+**Interpretation of large-scale insider selling**: the $763M of net selling over the past 2 years must be taken seriously. Although there is a reasonable rationale of wealth diversification, at a stage when the company is not yet profitable, selling of this magnitude is indeed a negative signal. However, Beck simultaneously cut his salary to $1 and forfeited RSU—the two signals point in contradictory directions—a possible interpretation is: **Beck has confidence in the company's long term, but believes the current stock price is high, so he is cashing out part of his gains at the high**.
 
-### 组织能力
+### Organizational Capability
 
-- **新增COO Frank Klein**（前奔驰27年+Rivian COO）：专为规模化生产而引入，信号明确
-- **CFO Adam Spice**：8年任期，稳定且有能力（主导50+收购交易，经验丰富）
-- **董事会**：引入前洛克希德马丁CFO Kenneth Possenriede，强化国防合同管理
-- **无CTO**：技术方向由Beck直接领导，短期无碍，长期可能成为瓶颈
+- **Newly added COO Frank Klein** (27 years at Mercedes-Benz + Rivian COO): brought in specifically for manufacturing scale-up, a clear signal
+- **CFO Adam Spice**: 8-year tenure, stable and capable (led 50+ acquisition deals, extensive experience)
+- **Board**: brought in former Lockheed Martin CFO Kenneth Possenriede, strengthening defense contract management
+- **No CTO**: technical direction led directly by Beck, no problem short-term, but could become a bottleneck long-term
 
-### 段永平式追问
+### Duan Yongping-Style Questioning
 
-**如果CEO退休，这家公司还能保持竞争力吗？**
+**If the CEO retired, could this company maintain its competitiveness?**
 
-> 短期（3-5年）可能没问题——团队已经搭建完善，COO Frank Klein有丰富的制造业管理经验。但长期来看，Peter Beck是这家公司的灵魂人物，他的技术直觉和战略判断力难以替代。没有独立CTO是一个隐患。如果Beck在Neutron首飞前突然离开，对公司的打击可能是致命的。
+> Short term (3-5 years) probably fine—the team is well built, and COO Frank Klein has rich manufacturing management experience. But in the long run, Peter Beck is the soul of this company; his technical intuition and strategic judgment are hard to replace. The lack of an independent CTO is a hidden risk. If Beck suddenly left before Neutron's maiden flight, the blow to the company could be fatal.
 
 ---
 
-## 第六步：行业与文明趋势 — 李录"文明演进框架"
+## Step 6: Industry and Civilizational Trends — Li Lu's "Framework of Civilizational Evolution"
 
-### 行业是否处于"文明级范式转移"？
+### Is the Industry in a "Civilization-Level Paradigm Shift"?
 
-**是的。太空商业化是继蒸汽机、电力、互联网之后的又一次基础设施革命。**
+**Yes. Space commercialization is another infrastructure revolution after the steam engine, electricity, and the internet.**
 
-| 类比 | 历史技术革命 | 太空行业当前 |
+| Analogy | Historical Tech Revolution | Space Industry Today |
 |------|-------------|-------------|
-| 基础设施建设期 | 1870年代铁路大建设 | 可复用火箭+大规模星座部署 |
-| S曲线位置 | 1998年互联网（宽带铺设期） | 2025-2026年太空（发射+星座建设期） |
-| 标志性事件 | 1998年Google成立 | 2025年SpaceX 165次发射 |
-| 泡沫风险 | 2000年互联网泡沫 | 当前太空板块估值是否泡沫？ |
+| Infrastructure-building phase | 1870s great railroad build-out | Reusable rockets + large-scale constellation deployment |
+| S-curve position | 1998 internet (broadband rollout phase) | 2025-2026 space (launch + constellation build phase) |
+| Landmark event | 1998 founding of Google | 2025 SpaceX's 165 launches |
+| Bubble risk | 2000 internet bubble | Is the current space sector valuation a bubble? |
 
-### TAM分析
+### TAM Analysis
 
-| 市场 | 当前规模 | 2035年预测 | 复合增长率 |
+| Market | Current Size | 2035 Forecast | CAGR |
 |------|---------|-----------|-----------|
-| 全球太空经济 | $6,300亿 | $1.8万亿（McKinsey） | ~9.5% |
-| 商业发射市场 | $212亿 | $706亿 | 11.6% |
-| 小型火箭市场 | $18-22亿 | $45-51亿 | 12.1% |
-| 小卫星市场 | $94亿 | $321亿 | 28.0% |
-| 美国太空军预算 | $263亿（FY2026） | 增长中（+40% YoY） | — |
+| Global space economy | $630B | $1.8T (McKinsey) | ~9.5% |
+| Commercial launch market | $21.2B | $70.6B | 11.6% |
+| Small rocket market | $1.8-2.2B | $4.5-5.1B | 12.1% |
+| Small satellite market | $9.4B | $32.1B | 28.0% |
+| U.S. Space Force budget | $26.3B (FY2026) | Growing (+40% YoY) | — |
 
-### 星座建设浪潮——发射需求的结构性驱动力
+### The Constellation-Building Wave—A Structural Driver of Launch Demand
 
-| 项目 | 规模 | 部署时间 | 对发射需求的影响 |
+| Project | Scale | Deployment Timeline | Impact on Launch Demand |
 |------|------|---------|-----------------|
-| SpaceX Starlink | 10,400+颗在轨，目标42,000颗 | 持续 | SpaceX自用，不给RKLB |
-| Amazon Kuiper | 3,236颗 | 2026-2029年 | RKLB是组件供应商（反应轮） |
-| Telesat Lightspeed | 198颗 | 2026-2027年 | SpaceX负责发射 |
-| SDA导弹防御星座 | 数百颗 | 2025-2030年 | RKLB是主承包商之一 |
-| 欧盟IRIS2 | 数百颗 | 2027+ | 潜在机会（Mynaric欧洲据点） |
+| SpaceX Starlink | 10,400+ in orbit, target 42,000 | Ongoing | SpaceX in-house, none for RKLB |
+| Amazon Kuiper | 3,236 | 2026-2029 | RKLB is a component supplier (reaction wheels) |
+| Telesat Lightspeed | 198 | 2026-2027 | SpaceX handles the launches |
+| SDA missile defense constellation | Hundreds | 2025-2030 | RKLB is one of the prime contractors |
+| EU IRIS2 | Hundreds | 2027+ | Potential opportunity (Mynaric European foothold) |
 
-### 公司在产业价值链中的位置
+### The Company's Position in the Industry Value Chain
 
-Rocket Lab占据了太空产业链的**中游**位置：
-- 上游：原材料、芯片、基础零部件（不涉及）
-- **中游：卫星组件制造 + 卫星集成 + 发射服务（Rocket Lab的位置）**
-- 下游：卫星运营、数据服务、通信服务（Starlink等）
+Rocket Lab occupies the **midstream** position of the space industry chain:
+- Upstream: raw materials, chips, basic components (not involved)
+- **Midstream: satellite component manufacturing + satellite integration + launch services (Rocket Lab's position)**
+- Downstream: satellite operations, data services, communication services (Starlink, etc.)
 
-这个位置的优势是**行业增长的必经之路**——无论下游谁赢，中游的"卖水人"都能受益。劣势是利润率不如下游平台型业务（如Starlink），且面临"既是供应商又是竞争对手"的复杂关系。
+The advantage of this position is that it is **the necessary path for industry growth**—no matter who wins downstream, the midstream "water seller" benefits. The disadvantage is that margins are lower than downstream platform businesses (like Starlink), and it faces a complex relationship of "being both supplier and competitor."
 
-### 李录式追问
+### Li Lu-Style Questioning
 
-**站在20年后回看，这家公司是"这个时代的标准石油"还是"昙花一现的3Com"？**
+**Looking back 20 years from now, will this company be "the Standard Oil of this era" or "a flash-in-the-pan 3Com"?**
 
-> 最可能的结局既不是标准石油也不是3Com，而是**"太空行业的空客"**——在SpaceX（波音类比）的统治下，成为全球第二大太空基础设施公司，占据15-25%的市场份额，在国防和特定商业领域有自己的根据地。这个结局已经足够好，但问题是：**当前$550亿的估值是否已经把这个"第二名"的价值充分甚至过度定价了？**
+> The most likely outcome is neither Standard Oil nor 3Com, but rather **"the Airbus of the space industry"**—under SpaceX's dominance (the Boeing analogy), becoming the world's second-largest space infrastructure company, holding 15-25% market share, with its own strongholds in defense and specific commercial domains. This outcome is already good enough, but the question is: **has the current $55B valuation already fully—or even excessively—priced in the value of this "number two"?**
 
 ---
 
-## 第七步：估值与安全边际 — 巴菲特"内在价值" + 段永平"对的价格"
+## Step 7: Valuation and Margin of Safety — Buffett's "Intrinsic Value" + Duan Yongping's "Right Price"
 
-### 当前估值指标（工具验算）
+### Current Valuation Metrics (Tool-Verified)
 
-| 指标 | 数值 | 说明 |
+| Metric | Value | Notes |
 |------|------|------|
-| P/S（TTM） | 91x | $548亿 / $6.02亿 |
-| P/S（Forward） | ~64x | 基于2026E收入$8.5亿 |
-| EV/Revenue（TTM） | ~89x | 净现金$13.4亿 |
+| P/S (TTM) | 91x | $54.8B / $602M |
+| P/S (Forward) | ~64x | Based on 2026E revenue $850M |
+| EV/Revenue (TTM) | ~89x | Net cash $1.34B |
 | P/B | 24.2x | $95.12 / $3.93 |
-| P/E | N/A | 亏损中 |
-| FCF Yield | -0.60% | 自由现金流为负 |
+| P/E | N/A | In loss |
+| FCF Yield | -0.60% | Free cash flow negative |
 
-### 反向DCF：当前股价隐含了什么？
+### Reverse DCF: What Does the Current Stock Price Imply?
 
-$548亿市值 / 假设10年后P/S 10x / 10%折现率 → 隐含10年后收入需达到$142亿
+$54.8B market cap / assume P/S 10x in 10 years / 10% discount rate → implied revenue in 10 years must reach $14.2B
 
-这意味着：从FY2025的$6.02亿到10年后的$142亿，需要复合增长率**37%**，且10年后仍给予10x P/S（对于一个成熟期的航天公司来说仍然很高）。
+This means: going from $602M in FY2025 to $14.2B in 10 years requires a compound growth rate of **37%**, and still applying a 10x P/S in 10 years (still very high for a mature-stage aerospace company).
 
-**对比**：SpaceX 2025年收入$187亿，IPO估值$1.77万亿，隐含P/S约95x。市场对太空行业整体给予了极高的增长溢价。
+**Comparison**: SpaceX's 2025 revenue was $18.7B, IPO valuation $1.77T, implied P/S ~95x. The market has assigned an extremely high growth premium to the space industry as a whole.
 
-### 三情景估值（基于收入倍数，手动计算）
+### Three-Scenario Valuation (Based on Revenue Multiples, Manual Calculation)
 
-由于公司尚未盈利，使用P/S（市销率）进行估值更合理。
+Since the company is not yet profitable, using P/S (price-to-sales) for valuation is more reasonable.
 
-**假设条件**：
+**Assumptions**:
 
-| 情景 | FY2026E收入 | FY2027E收入 | FY2028E收入 | 2028年P/S | 目标市值 | 目标股价 | 涨跌幅 |
+| Scenario | FY2026E Revenue | FY2027E Revenue | FY2028E Revenue | 2028 P/S | Target Market Cap | Target Price | Change |
 |------|-----------|-----------|-----------|----------|---------|---------|--------|
-| 乐观 | $9.0亿（+50%） | $13.1亿（+45%） | $18.3亿（+40%） | 40x | $732亿 | ~$127 | +34% |
-| 中性 | $8.4亿（+40%） | $11.3亿（+35%） | $14.7亿（+30%） | 30x | $441亿 | ~$77 | -19% |
-| 悲观 | $7.8亿（+30%） | $9.8亿（+25%） | $11.7亿（+20%） | 20x | $234亿 | ~$41 | -57% |
+| Optimistic | $900M (+50%) | $1.31B (+45%) | $1.83B (+40%) | 40x | $73.2B | ~$127 | +34% |
+| Neutral | $840M (+40%) | $1.13B (+35%) | $1.47B (+30%) | 30x | $44.1B | ~$77 | -19% |
+| Pessimistic | $780M (+30%) | $980M (+25%) | $1.17B (+20%) | 20x | $23.4B | ~$41 | -57% |
 
-**注**：以上基于~5.76亿股计算，未考虑未来稀释（$30亿ATM计划可能增加10-15%股本）。考虑稀释后目标股价需进一步下调。
+**Note**: The above is calculated based on ~576M shares, without considering future dilution (the $3B ATM plan could increase the share count by 10-15%). After accounting for dilution, the target price needs to be revised down further.
 
-### 与自身历史估值对比
+### Comparison with Own Historical Valuation
 
-| 时间 | P/S |
+| Time | P/S |
 |------|-----|
-| 2024年初（低点） | ~6-10x |
-| 2024年末 | ~30x |
-| 2025年末 | ~67x |
-| 当前（2026年中） | ~91x |
-| 10年中位数 | ~20x |
+| Early 2024 (low) | ~6-10x |
+| End of 2024 | ~30x |
+| End of 2025 | ~67x |
+| Current (mid-2026) | ~91x |
+| 10-year median | ~20x |
 
-当前P/S是历史中位数的**4.5倍**，处于历史极端高位。
+The current P/S is **4.5x** the historical median, at a historical extreme high.
 
-### 与同行估值对比
+### Comparison with Peer Valuations
 
-| 公司 | P/S（TTM） | 业务阶段 |
+| Company | P/S (TTM) | Business Stage |
 |------|-----------|---------|
-| Rocket Lab（RKLB） | 91x | 高增长、亏损 |
-| Intuitive Machines（LUNR） | 28x | 高增长、亏损 |
-| Northrop Grumman（NOC） | 1.8x | 成熟、盈利 |
-| L3Harris（LHX） | 2.4x | 成熟、盈利 |
-| SpaceX（IPO估值） | ~95x | 高增长、盈利 |
+| Rocket Lab (RKLB) | 91x | High-growth, loss-making |
+| Intuitive Machines (LUNR) | 28x | High-growth, loss-making |
+| Northrop Grumman (NOC) | 1.8x | Mature, profitable |
+| L3Harris (LHX) | 2.4x | Mature, profitable |
+| SpaceX (IPO valuation) | ~95x | High-growth, profitable |
 
-### 段永平式追问
+### Duan Yongping-Style Questioning
 
-**如果股市明天关闭5年，你愿意以这个价格持有吗？**
+**If the stock market closed for 5 years starting tomorrow, would you be willing to hold at this price?**
 
-> **不愿意。** 以$95/股买入意味着以$548亿估值持有一家年收入$6亿、仍在亏损、最大催化剂（Neutron）尚未验证的公司。5年后这家公司可能很好，但当前价格已经把大部分乐观情景都定价了。如果Neutron失败或延迟、SpaceX IPO后资金流出、或增长不及预期，下行空间巨大（-50%到-60%）。段永平会说："这是一门好生意，但不是一个好价格。"
+> **No.** Buying at $95/share means holding, at a $54.8B valuation, a company with annual revenue of $602M that is still loss-making and whose biggest catalyst (Neutron) is not yet validated. In 5 years this company could be very good, but the current price has already priced in most of the optimistic scenarios. If Neutron fails or is delayed, capital flows out after the SpaceX IPO, or growth misses expectations, the downside is huge (-50% to -60%). Duan Yongping would say: "This is a good business, but not a good price."
 
 ---
 
-## 第八步：综合决策备忘录
+## Step 8: Comprehensive Decision Memo
 
-### 汇总表格
+### Summary Table
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| 生意质量（段永平） | 好生意。全栈太空供应商模式独特，垂直整合创造交叉销售优势。但资本密集、未盈利、竞争激烈 | 中高（75%） |
-| 护城河（巴菲特） | 中等偏强。转换成本和技术壁垒是主要护城河，ITAR制度提供额外保护。但面对SpaceX的规模优势，护城河的持久性存疑 | 中（65%） |
-| 管理层（段永平+巴菲特） | 优秀。Peter Beck是罕见的技术创始人+战略家，决策记录优秀。降薪至$1显示信心。但内部人大幅减持是负面信号 | 中高（75%） |
-| 最大风险（芒格） | Neutron首飞失败/延迟 + 估值泡沫破裂 + SpaceX IPO后代理溢价消失。三个风险可能同时发生 | 高（85%）——风险真实存在 |
-| 文明趋势（李录） | 强烈顺风。太空商业化是文明级范式转移，Rocket Lab处于正确的产业位置 | 高（85%） |
-| 估值（巴菲特+段永平） | **严重偏高。** P/S 91x是历史中位数的4.5倍，隐含37%的10年复合增长率。即使在中性情景下，当前价格也有约19%的下行空间 | 高（85%） |
+| Business Quality (Duan Yongping) | Good business. The full-stack space supplier model is unique; vertical integration creates a cross-selling advantage. But capital-intensive, unprofitable, and fiercely competitive | Medium-High (75%) |
+| Moat (Buffett) | Moderately strong. Switching costs and technology barriers are the main moats, with the ITAR regime providing additional protection. But facing SpaceX's scale advantage, the moat's durability is questionable | Medium (65%) |
+| Management (Duan Yongping + Buffett) | Excellent. Peter Beck is a rare technical founder + strategist with an excellent decision record. Cutting salary to $1 shows confidence. But large-scale insider selling is a negative signal | Medium-High (75%) |
+| Biggest Risk (Munger) | Neutron maiden flight failure/delay + valuation bubble bursting + proxy premium vanishing after the SpaceX IPO. The three risks could occur simultaneously | High (85%)—the risks are real |
+| Civilizational Trend (Li Lu) | Strong tailwind. Space commercialization is a civilization-level paradigm shift, and Rocket Lab is in the right industry position | High (85%) |
+| Valuation (Buffett + Duan Yongping) | **Severely overvalued.** P/S 91x is 4.5x the historical median, implying a 37% 10-year CAGR. Even in the neutral scenario, the current price has ~19% downside | High (85%) |
 
-### 最终决策表格
+### Final Decision Table
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **观望，不追高。** 等待更好的买点：(1) Neutron首飞失败后的恐慌抛售（股价可能回到$40-60区间）；(2) SpaceX IPO后的资金流出；(3) P/S回归30-40x以下（对应股价$35-55）。如果对太空行业有信心且能承受高波动，可在$45-55区间建立小仓位（占组合<3%） |
-| **持仓者** | **减仓至合理比例。** 如果持仓成本低，考虑在当前高位卖出50-70%锁定利润。保留少量仓位（占组合<5%）参与Neutron首飞博弈，但设定止损（如跌破$65则全部清仓）。管理层自己都在高位减持，散户不应比管理层更贪婪 |
-| **卖出信号** | (1) Neutron首飞失败或再次重大延迟；(2) SpaceX大幅降低Falcon 9发射价格；(3) Q连续2季度收入增速降至20%以下；(4) Peter Beck意外离职；(5) $30亿ATM计划全部执行完毕（极端稀释） |
-| **加仓信号** | (1) Neutron首飞成功 + 股价因获利回吐回调至$60-70区间；(2) GAAP净利润转正；(3) P/S回归30x以下且增速保持40%+；(4) 获得重大新NSSL合同 |
+| **Those with no position** | **Wait-and-see, don't chase.** Wait for a better entry: (1) panic selling after a Neutron maiden flight failure (the stock could return to the $40-60 range); (2) capital outflows after the SpaceX IPO; (3) P/S returning below 30-40x (corresponding to a stock price of $35-55). If you have conviction in the space industry and can withstand high volatility, you could build a small position in the $45-55 range (<3% of portfolio) |
+| **Those holding a position** | **Trim to a reasonable proportion.** If your cost basis is low, consider selling 50-70% at the current high to lock in profits. Keep a small position (<5% of portfolio) to participate in the Neutron maiden flight bet, but set a stop-loss (e.g., exit entirely if it drops below $65). Management itself is trimming at the high; retail investors should not be greedier than management |
+| **Sell Signals** | (1) Neutron maiden flight fails or is significantly delayed again; (2) SpaceX significantly cuts Falcon 9 launch prices; (3) revenue growth falls below 20% for 2 consecutive quarters; (4) Peter Beck departs unexpectedly; (5) the $3B ATM plan is fully executed (extreme dilution) |
+| **Add Signals** | (1) Neutron maiden flight succeeds + stock pulls back to the $60-70 range on profit-taking; (2) GAAP net income turns positive; (3) P/S returns below 30x and growth stays 40%+; (4) securing a major new NSSL contract |
 
-### 合理买入价格区间
+### Reasonable Buy Price Range
 
-| 情景 | P/S假设 | 对应价格（基于FY2026E $8.5亿收入） |
+| Scenario | P/S Assumption | Corresponding Price (based on FY2026E $850M revenue) |
 |------|---------|----------------------------------|
-| 极度保守（巴菲特式） | 20x P/S | ~$30 |
-| 保守 | 30x P/S | ~$44 |
-| 合理 | 40x P/S | ~$59 |
-| 激进 | 60x P/S | ~$89 |
-| 当前 | 91x P/S（TTM） | $95 |
+| Extremely Conservative (Buffett-style) | 20x P/S | ~$30 |
+| Conservative | 30x P/S | ~$44 |
+| Reasonable | 40x P/S | ~$59 |
+| Aggressive | 60x P/S | ~$89 |
+| Current | 91x P/S (TTM) | $95 |
 
-**建议的"安全边际"买入区间：$40-$55（对应30-37x Forward P/S）**
+**Recommended "Margin of Safety" Buy Range: $40-$55 (corresponding to 30-37x Forward P/S)**
 
-### 四位大师模拟点评
+### Simulated Commentary from the Four Masters
 
-> **巴菲特**："Rocket Lab是太空行业中少数真正有护城河的公司——它的垂直整合和政府合同资质是真实的竞争优势。但$550亿的估值让我无法出手。我需要看到盈利，需要看到Neutron的成功，需要看到一个合理的价格。太空行业的前景再好，也不意味着任何价格都值得付出。我会把它放在观察名单上，等待市场先生犯错的那一天。"
+> **Buffett**: "Rocket Lab is one of the few companies in the space industry with a real moat—its vertical integration and government contract qualifications are genuine competitive advantages. But the $55B valuation keeps me from acting. I need to see profits, I need to see Neutron succeed, I need to see a reasonable price. No matter how good the space industry's outlook is, that doesn't mean any price is worth paying. I'll put it on the watchlist and wait for the day Mr. Market makes a mistake."
 
-> **芒格**："反过来想——$550亿买一家年收入$6亿的亏损公司，你需要相信它能以37%的速度增长10年。历史上能做到这一点的公司凤毛麟角，而且大多数是轻资产的软件公司，不是资本密集的火箭制造商。内部人在大量卖出——当管理层用行动告诉你他们对估值的看法时，你应该听。我不会做空，因为动量可以持续很久；但我也绝不会在这个价格买入。"
+> **Munger**: "Invert—paying $55B for a loss-making company with $602M of annual revenue means you need to believe it can grow at 37% for 10 years. Companies that have pulled this off historically are extremely rare, and most were asset-light software companies, not capital-intensive rocket manufacturers. Insiders are selling heavily—when management tells you their view of the valuation through their actions, you should listen. I wouldn't short, because momentum can persist for a long time; but I would never buy at this price either."
 
-> **段永平**："Peter Beck是对的人——自学成才、技术领先、战略清晰、愿意降薪到$1。这在创始人里非常罕见。Rocket Lab也是对的生意——太空基础设施的全栈供应商，有真实的转换成本。但这不是对的价格。好公司不等于好股票。我会等到价格打四折——大概$35-45——再认真考虑。如果Neutron首飞失败，市场恐慌时可能就是那个机会。"
+> **Duan Yongping**: "Peter Beck is the right person—self-taught, technologically leading, strategically clear, willing to cut his salary to $1. This is very rare among founders. Rocket Lab is also the right business—a full-stack supplier of space infrastructure with real switching costs. But this is not the right price. A good company is not the same as a good stock. I'd wait until the price is at a 60% discount—roughly $35-45—before seriously considering. If the Neutron maiden flight fails and the market panics, that could be the opportunity."
 
-> **李录**："从文明演进的角度，太空商业化是不可逆的趋势——就像1990年代的互联网，基础设施正在铺设，应用层即将爆发。Rocket Lab处于这个趋势的关键节点上。但1999年的思科也处于互联网的关键节点上，之后跌了80%、20年没回到高点。趋势对了不代表价格对了。我会持续关注，但在当前估值下不会采取行动。真正的投资机会往往出现在好公司遇到坏消息的时候。"
-
----
-
-## AI分析置信度 vs 投资确定性
-
-### 分析置信度（基于资料充分度）
-
-| 模块 | 置信度 | 说明 |
-|------|--------|------|
-| 财务数据 | 高（90%） | 上市公司，SEC文件完整，多源交叉验证 |
-| 竞争格局 | 中高（80%） | 公开信息充足，但SpaceX的真实成本结构和战略意图不透明 |
-| 管理层评估 | 中高（75%） | 公开决策记录清晰，但无法评估内部文化和真实执行力 |
-| 行业前景 | 中（70%） | 多家机构预测但差异大（$1.1万亿 vs $1.8万亿），长期预测不确定性高 |
-| 估值 | 中高（80%） | 数据精确，但对增长率和合理倍数的假设主观性强 |
-
-### 投资确定性（基于生意本质）
-
-| 维度 | 确定性 | 说明 |
-|------|--------|------|
-| 太空行业会持续增长 | 高（90%） | 国防需求+商业需求双重驱动，趋势不可逆 |
-| Rocket Lab 5年后仍存在且更大 | 中高（75%） | 在手订单$22亿+现金$14.8亿提供安全垫 |
-| Neutron将成功首飞 | 中（55-60%） | 火箭开发历史首飞失败率~50%，已延迟两次 |
-| 当前股价5年后仍有正回报 | 中低（40-45%） | P/S 91x隐含极高预期，中性情景下有19%下行空间 |
-| Rocket Lab将成为SpaceX之后的行业第二 | 中（60%） | 方向正确但道路漫长，且"第二名"是否能持续不确定 |
-
-**核心结论**：Rocket Lab是一家**方向正确、管理层优秀、护城河正在建立**的好公司。但"好公司"和"好投资"之间隔着一个关键变量：**价格**。当前$95/股（P/S 91x）的价格已经充分甚至过度反映了乐观情景，留给投资者的安全边际接近于零。
-
-**建议**：**观望，等待更好的价格。** 合理的买入区间在$40-55之间（对应30-37x Forward P/S），这个价格可能出现在Neutron首飞失败、SpaceX IPO后资金流出、或市场整体回调时。
+> **Li Lu**: "From the perspective of civilizational evolution, space commercialization is an irreversible trend—like the internet in the 1990s, infrastructure is being laid and the application layer is about to explode. Rocket Lab is at a key node of this trend. But Cisco in 1999 was also at a key node of the internet, and then fell 80% and didn't return to its high for 20 years. The trend being right doesn't mean the price is right. I'll keep watching, but at the current valuation I won't act. Real investment opportunities often appear when a good company meets bad news."
 
 ---
 
-*数据来源：SEC 10-K/10-Q文件、StockAnalysis、MacroTrends、CNBC、Yahoo Finance、GuruFocus、MarketBeat、TipRanks、CompaniesMarketCap、McKinsey、Morgan Stanley、Precedence Research、SpaceNews、NASASpaceFlight、Bleecker Street Research等。所有关键数据已通过 financial_rigor.py 工具交叉验证。*
+## AI Analysis Confidence vs Investment Certainty
+
+### Analysis Confidence (Based on Adequacy of Material)
+
+| Module | Confidence | Notes |
+|------|--------|------|
+| Financial data | High (90%) | Public company, complete SEC filings, multi-source cross-verification |
+| Competitive landscape | Medium-High (80%) | Ample public information, but SpaceX's true cost structure and strategic intent are opaque |
+| Management assessment | Medium-High (75%) | Clear public decision record, but internal culture and true execution cannot be assessed |
+| Industry outlook | Medium (70%) | Multiple institutions forecast but with large differences ($1.1T vs $1.8T); long-term forecast uncertainty is high |
+| Valuation | Medium-High (80%) | Precise data, but assumptions about growth rate and reasonable multiples are highly subjective |
+
+### Investment Certainty (Based on Business Fundamentals)
+
+| Dimension | Certainty | Notes |
+|------|--------|------|
+| The space industry will continue to grow | High (90%) | Dual drivers of defense demand + commercial demand; the trend is irreversible |
+| Rocket Lab will still exist and be larger in 5 years | Medium-High (75%) | $2.2B backlog + $1.48B cash provide a safety cushion |
+| Neutron will have a successful maiden flight | Medium (55-60%) | Historical maiden flight failure rate in rocket development ~50%; already delayed twice |
+| The current stock price will still yield positive returns in 5 years | Medium-Low (40-45%) | P/S 91x implies extremely high expectations; 19% downside in the neutral scenario |
+| Rocket Lab will become the industry's number two after SpaceX | Medium (60%) | Direction right but the road is long, and whether "number two" is sustainable is uncertain |
+
+**Core Conclusion**: Rocket Lab is a good company with **the right direction, excellent management, and a moat under construction**. But between "good company" and "good investment" lies a key variable: **price**. The current price of $95/share (P/S 91x) has already fully—or even excessively—reflected the optimistic scenario, leaving investors a margin of safety close to zero.
+
+**Recommendation**: **Wait-and-see, wait for a better price.** The reasonable buy range is between $40-55 (corresponding to 30-37x Forward P/S); this price could appear during a Neutron maiden flight failure, capital outflows after the SpaceX IPO, or an overall market pullback.
+
+---
+
+*Data sources: SEC 10-K/10-Q filings, StockAnalysis, MacroTrends, CNBC, Yahoo Finance, GuruFocus, MarketBeat, TipRanks, CompaniesMarketCap, McKinsey, Morgan Stanley, Precedence Research, SpaceNews, NASASpaceFlight, Bleecker Street Research, etc. All key data has been cross-verified via the financial_rigor.py tool.*

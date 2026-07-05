@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 供应链瓶颈猎手：AI驱动的全球产业链瓶颈套利."
+description: "AI Berkshire slash entry for Supply-Chain Bottleneck Hunter: AI-Driven Bottleneck Arbitrage Across the Global Value Chain."
 argument-hint: $ARGUMENTS
 ---
 

@@ -1,213 +1,220 @@
-# 投研团队：四角色并行分析框架
+# Research Team: Four-Role Parallel Analysis Framework
 
-对 $ARGUMENTS 进行团队化投资研究分析。使用 Team 工具创建真正的多Agent并行研究团队。
+Conduct a team-based investment research analysis of $ARGUMENTS. Use the Team tools to create a genuinely multi-agent parallel research team.
 
-## 执行流程
+## Execution Flow
 
-### 第一步：展示团队框架
+### Step 1: Present the team framework
 
-向用户展示以下团队结构，确认后启动：
+Show the user the following team structure and start once confirmed:
 
-| 角色 | 职责 | 分析框架 |
+| Role | Responsibilities | Analytical framework |
 |------|------|----------|
-| **team-lead**（你自己） | 统筹协调、汇总研判、输出最终报告 | 四大师综合框架 |
-| **business-analyst** | 商业模式 & 护城河分析 | 段永平视角 |
-| **financial-analyst** | 财务报表 & 估值分析 | 巴菲特视角 |
-| **industry-researcher** | 行业格局 & 竞争态势 | 芒格视角 |
-| **risk-assessor** | 风险评估 & 管理层研判 | 李录视角 |
+| **team-lead** (you) | Coordination, synthesis and judgment, producing the final report | Combined four-master framework |
+| **business-analyst** | Business model & moat analysis | Duan Yongping's lens |
+| **financial-analyst** | Financial statements & valuation analysis | Buffett's lens |
+| **industry-researcher** | Industry structure & competitive dynamics | Munger's lens |
+| **risk-assessor** | Risk assessment & management evaluation | Li Lu's lens |
 
-### 第一步半：AI研究偏见评估
+### Step 1.5: AI research-bias assessment
 
-在创建团队前，先向用户展示该公司的"AI可研究性"评估：
+Before creating the team, show the user an "AI researchability" assessment of the company:
 
-**信息丰富度评级**（决定研究策略）：
-| 等级 | 特征 | 研究策略调整 |
+**Information-richness rating** (determines the research strategy):
+| Tier | Characteristics | Research-strategy adjustment |
 |------|------|------------|
-| A级（信息充裕） | 上市多年、券商覆盖广 | 团队重点放在**反面检验**和**非共识视角**，避免输出与市场一致的"正确的废话" |
-| B级（信息适中） | 上市不久、覆盖有限 | 每个Agent的推算数据必须标注置信度，team-lead汇总时标注"数据充分度" |
-| C级（信息稀缺） | 冷门/新上市/新兴市场 | 团队转为"第一性原理模式"：不追求报告完整性，聚焦商业本质的几个核心问题 |
+| Tier A (information-rich) | Listed for years, broad sell-side coverage | Have the team focus on **contrarian testing** and **non-consensus perspectives**, avoiding "correct but useless" output that merely echoes the market |
+| Tier B (moderate information) | Recently listed, limited coverage | Every agent's estimated figures must be tagged with a confidence level; the team-lead must note "data sufficiency" when synthesizing |
+| Tier C (information-scarce) | Obscure / newly listed / emerging market | The team shifts to "first-principles mode": rather than chasing report completeness, focus on the handful of core questions about the business's essence |
 
-**关键提醒**：资料多≠确定性高，资料少≠确定性低。AI能输出的置信度 ≠ 投资的真实确定性。确定性来自商业模式本身，不来自资料数量。
+**Key reminder**: More information ≠ higher certainty; less information ≠ lower certainty. The confidence AI can express ≠ the true certainty of the investment. Certainty comes from the business model itself, not from the volume of available material.
 
-将评级结果告知每个Agent，影响其研究方式。
+Communicate the rating to each agent, as it shapes how they conduct research.
 
-### 第二步：创建团队
+### Step 2: Create the team
 
-使用 TeamCreate 创建团队：
-- team_name: `{公司名}-research`（英文小写，如 `meituan-research`）
+Use TeamCreate to create the team:
+- team_name: `{company}-research` (lowercase English, e.g. `meituan-research`)
 - agent_type: `team-lead`
 
-### 第三步：创建4个任务
+**Fallback when Team tools are unavailable:** not every Claude Code environment provides the Team tools (TeamCreate / SendMessage / TeamDelete). If they are missing, skip Steps 2, 6, and 10 and run the same analysis with plain subagents: launch the 4 analysts in Step 4 as `general-purpose` background Task agents (still all in one message), drop the TaskUpdate/SendMessage instructions from their prompts and have each agent return its complete report as its final output, collect those outputs in Step 5, then proceed to Step 7 unchanged.
 
-使用 TaskCreate 创建以下4个任务（每个都要有 subject、description、activeForm）：
+### Step 3: Create the 4 tasks
 
-#### 任务1：商业模式分析
-- subject: `分析{公司名}商业模式、护城河与用户价值`
-- description 包含：
-  1. 商业模式本质：核心生意定义、收入结构拆解
-  2. 平台/产品飞轮效应如何运转
-  3. 护城河分析：品牌/转换成本/网络效应/规模效应/技术壁垒，逐一验证
-  4. 用户/客户价值：为各方创造了什么独特价值
-  5. 业务矩阵与协同效应
-  6. 段永平"好生意"标准评估：差异化、定价权、可持续竞争优势
-  7. 要求搜索最新财报、行业报告等公开信息
+Use TaskCreate to create the following 4 tasks (each must have a subject, description, and activeForm):
 
-#### 任务2：财务与估值分析
-- subject: `分析{公司名}财务数据、盈利能力与估值`
-- description 包含：
-  1. 近3-5年营收、净利润、经营利润趋势
-  2. 盈利能力指标：ROE、ROA、毛利率、经营利润率
-  3. 现金流分析：经营性现金流、自由现金流、资本开支
-  4. 资产负债表健康度：现金储备、负债率、流动性
-  5. 估值分析：PE/PS/PB/EV等，与历史及同业对比
-  6. 安全边际评估：内在价值 vs 当前股价
-  7. **金融严谨性验证（必须使用Bash调用工具，禁止心算）**：
-     - 市值验算：`python3 ~/ai-berkshire/tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}`
-     - 估值验算：`python3 ~/ai-berkshire/tools/financial_rigor.py verify-valuation --price {价格} --eps {EPS} --bvps {每股净资产}`
-     - 关键数据交叉验证：`python3 ~/ai-berkshire/tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}`
-     - 三情景估值：`python3 ~/ai-berkshire/tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}`
-     - 将工具输出结果直接嵌入报告中作为验证记录
+#### Task 1: Business model analysis
+- subject: `Analyze {company}'s business model, moat, and user value`
+- description includes:
+  1. Essence of the business model: definition of the core business, breakdown of the revenue structure
+  2. How the platform/product flywheel operates
+  3. Moat analysis: brand / switching cost / network effect / economies of scale / technology barriers, verified one by one
+  4. User/customer value: what unique value it creates for each party
+  5. Business matrix and synergies
+  6. Assessment against Duan Yongping's "good business" criteria: differentiation, pricing power, sustainable competitive advantage
+  7. Requires searching the latest earnings reports, industry reports, and other public information
 
-#### 任务3：行业与竞争分析
-- subject: `分析{行业}行业格局与{公司名}竞争态势`
-- description 包含：
-  1. 行业规模与增长：市场规模、增速、渗透率
-  2. 竞争格局：主要对手市场份额、竞争策略对比
-  3. 核心竞争者威胁评估：逐个分析主要竞争对手
-  4. 各细分赛道格局
-  5. 行业趋势：技术变革、政策影响、新进入者
-  6. 产业链分析：上中下游价值分配
-  7. 要求搜索最新行业数据和竞争动态
+#### Task 2: Financial and valuation analysis
+- subject: `Analyze {company}'s financial data, profitability, and valuation`
+- description includes:
+  1. Revenue, net profit, and operating profit trends over the past 3-5 years
+  2. Profitability metrics: ROE, ROA, gross margin, operating margin
+  3. Cash-flow analysis: operating cash flow, free cash flow, capex
+  4. Balance-sheet health: cash reserves, leverage ratio, liquidity
+  5. Valuation analysis: PE/PS/PB/EV, etc., versus historical and peer benchmarks
+  6. Margin-of-safety assessment: intrinsic value vs. current share price
+  7. **Financial-rigor verification (must call the tool via Bash; mental math is forbidden)**:
+     - Market-cap check: `python3 ~/ai-berkshire/tools/financial_rigor.py verify-market-cap --price {price} --shares {shares} --reported {reported market cap} --currency {currency}`
+     - Valuation check: `python3 ~/ai-berkshire/tools/financial_rigor.py verify-valuation --price {price} --eps {EPS} --bvps {book value per share}`
+     - Cross-validation of key data: `python3 ~/ai-berkshire/tools/financial_rigor.py cross-validate --field {field} --values '{JSON}' --unit {unit}`
+     - Three-scenario valuation: `python3 ~/ai-berkshire/tools/financial_rigor.py three-scenario --price {price} --eps {EPS} --shares {shares in 100M} --growth {optimistic} {base} {pessimistic} --pe {optimistic PE} {base PE} {pessimistic PE}`
+     - Embed the tool's output directly into the report as a verification record
 
-#### 任务4：风险与管理层评估
-- subject: `评估{公司名}投资风险与管理层质量`
-- description 包含：
-  1. 管理层评估：CEO能力圈、诚信度、战略眼光、资本配置能力、历史决策质量
-  2. 监管风险：当前及潜在监管影响
-  3. 竞争风险：各竞争对手威胁程度评估
-  4. 业务风险：新业务亏损、扩张不确定性
-  5. 宏观风险：经济周期、行业周期影响
-  6. 治理结构：股权结构、关联交易、股东回报政策
-  7. 长期确定性：10年后公司会怎样？什么可能颠覆其商业模式？
-  8. 要求搜索最新监管动态、管理层言论等
+#### Task 3: Industry and competitive analysis
+- subject: `Analyze the {industry} landscape and {company}'s competitive position`
+- description includes:
+  1. Industry size and growth: market size, growth rate, penetration
+  2. Competitive landscape: market share of major rivals, comparison of competitive strategies
+  3. Threat assessment of core competitors: analyze each major rival one by one
+  4. Landscape of each sub-segment
+  5. Industry trends: technological change, policy impact, new entrants
+  6. Value-chain analysis: value distribution across upstream, midstream, and downstream
+  7. Requires searching the latest industry data and competitive developments
 
-### 第四步：启动4个并行Agent
+#### Task 4: Risk and management assessment
+- subject: `Assess {company}'s investment risks and management quality`
+- description includes:
+  1. Management assessment: the CEO's circle of competence, integrity, strategic vision, capital-allocation skill, and quality of past decisions
+  2. Regulatory risk: current and potential regulatory impact
+  3. Competitive risk: threat level of each competitor
+  4. Business risk: losses in new businesses, uncertainty of expansion
+  5. Macro risk: impact of the economic cycle and the industry cycle
+  6. Governance structure: ownership structure, related-party transactions, shareholder-return policy
+  7. Long-term certainty: what will the company look like in 10 years? What could disrupt its business model?
+  8. Requires searching the latest regulatory developments, management statements, etc.
 
-使用 Task 工具同时启动4个Agent（**必须在同一条消息中并行调用**）：
+### Step 4: Launch the 4 parallel agents
 
-每个Agent的配置：
+Use the Task tool to launch all 4 agents simultaneously (**they must be invoked in parallel within a single message**):
+
+Configuration for each agent:
 - `subagent_type`: `general-purpose`
 - `run_in_background`: `true`
-- `team_name`: 对应团队名
-- `name`: 对应角色名（business-analyst / financial-analyst / industry-researcher / risk-assessor）
+- `team_name`: the corresponding team name
+- `name`: the corresponding role name (business-analyst / financial-analyst / industry-researcher / risk-assessor)
 
-每个Agent的prompt模板：
+Prompt template for each agent:
 
 ```
-你是{公司名}投研团队中的"{角色中文名}"，负责从{大师名}投资视角分析{公司名}。
+You are the "{role name}" on the {company} research team, responsible for analyzing {company} from {master}'s investment perspective.
 
-请完成任务 #{任务编号}：{任务subject}
+Please complete task #{task number}: {task subject}
 
-具体要求：
-{任务description的内容}
+Specific requirements:
+{contents of the task description}
 
-**研究方法**：
-- 使用 WebSearch 搜索最新公开信息（财报、行业报告、新闻）
-- **财务数据必须来自两个独立来源**，按 `skills/financial-data.md` 规范执行（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯），两源误差>1%须标记
-- 确保数据准确，关键数据标注来源
-- 分析要深入，不流于表面
+**Research method**:
+- Use WebSearch to search for the latest public information (earnings reports, industry reports, news)
+- **Financial data must come from two independent sources**, following the `skills/financial-data.md` specification (US stocks: macrotrends+stockanalysis; HK stocks: aastocks+macrotrends; A-shares: East Money+CNINFO); flag any discrepancy >1% between the two sources
+- Ensure data accuracy and cite sources for key figures
+- Analysis must go deep, not stay on the surface
 
-**输出要求**：
-- 报告要详尽，使用Markdown表格呈现关键数据
-- 每个分析维度要有明确结论和评分
-- 报告末尾要有该维度的总体结论
+**Output requirements**:
+- The report must be thorough, presenting key data in Markdown tables
+- Each analytical dimension must have a clear conclusion and rating
+- The report must end with an overall conclusion for that dimension
 
-**完成后**：
-1. 使用 TaskUpdate 将任务 #{任务编号} 标记为 completed
-2. 通过 SendMessage 把完整分析报告发送给 team-lead（type: "message", recipient: "team-lead"）
+**When finished**:
+1. Use TaskUpdate to mark task #{task number} as completed
+2. Send the complete analysis report to team-lead via SendMessage (type: "message", recipient: "team-lead")
 ```
 
-### 第五步：接收报告并跟踪进度
+### Step 5: Receive the reports and track progress
 
-- 向用户实时展示进度表（哪些Agent已完成、哪些仍在研究中）
-- 每收到一份报告，更新进度并展示该报告的核心要点（3-5条）
-- 等待全部4份报告到齐
+- Show the user a live progress table (which agents have finished, which are still researching)
+- Each time a report arrives, update progress and present its key takeaways (3-5 points)
+- Wait until all 4 reports are in
 
-### 第六步：关闭团队成员
+### Step 6: Shut down the team members
 
-全部报告收到后，向4个Agent发送 shutdown_request（使用 SendMessage，type: "shutdown_request"）。
+Once all reports are in, send a shutdown_request to all 4 agents (via SendMessage, type: "shutdown_request").
 
-### 第七步：汇总最终报告
+### Step 7: Synthesize the final report
 
-综合4份分析报告，输出以下结构的最终报告：
+Synthesize the 4 analysis reports and produce a final report with the following structure:
 
 ---
 
-#### 1. 一句话结论
-> 用一段话（50-100字）概括是否值得投资及核心逻辑
+#### 1. One-sentence conclusion
+> Summarize in one paragraph (50-100 words) whether it is worth investing in and the core rationale
 
-#### 2. 四维评分总表
-| 维度 | 框架 | 评分(1-5星) | 核心判断 |
+#### 2. Four-dimension scoring table
+| Dimension | Framework | Rating (1-5 stars) | Core judgment |
 |------|------|------------|----------|
 
-综合评分：X / 5
+Overall score: X / 5
 
-#### 3. 核心数据速览
-关键财务和经营指标表格（近2年对比）
+#### 3. Key-data snapshot
+Table of key financial and operating metrics (2-year comparison)
 
-#### 4. 各维度分析摘要
-每个维度摘取3-5条最重要的发现
+#### 4. Summary of each analytical dimension
+Extract the 3-5 most important findings for each dimension
 
-#### 5. 投资论点（Bull vs Bear）
-- 🟢 看多逻辑（5-7条）
-- 🔴 看空逻辑（5-7条）
+#### 5. Investment thesis (Bull vs. Bear)
+- 🟢 Bull case (5-7 points)
+- 🔴 Bear case (5-7 points)
 
-#### 6. 巴菲特买入前Checklist
-| # | 检查项 | 通过? | 说明 |
-10个核心检查项，逐一评估
+#### 6. Buffett pre-purchase checklist
+| # | Check item | Pass? | Notes |
+10 core check items, assessed one by one
 
-#### 7. 最终投资建议
-- 定性判断表（生意质量/管理层/估值/时机）
-- 分层操作建议表（激进型/稳健型/保守型 → 建议+价格区间）
-- 关键催化剂（加仓信号/减仓信号各3-5条）
+#### 7. Final investment recommendation
+- Qualitative-judgment table (business quality / management / valuation / timing)
+- Tiered action-recommendation table (aggressive / balanced / conservative → recommendation + price range)
+- Key catalysts (3-5 add-to-position signals / 3-5 trim signals)
 
-#### 8. 总结段落
-100-200字的最终总结
+#### 8. Concluding paragraph
+A final summary of 100-200 words
 
 ---
 
-### 第八步：保存报告
+### Step 8: Save the report
 
-将完整最终报告写入 `~/{公司名}投资研究报告_{日期}.md`（日期格式 YYYYMMDD）。
+Save everything into the company folder `reports/{Company}/` (English company name), matching the project report convention:
 
-### 第九步：数据抽检（准出流程）
+- Write each of the four analyst reports received from the sub-agents to its own file: `01-business-model-duan-yongping.md`, `02-financials-valuation-buffett.md`, `03-industry-competition-munger.md`, `04-risk-management-li-lu.md`.
+- Write the team-lead synthesis (the complete final report) to `reports/{Company}/final-report.md`.
+
+(date format YYYYMMDD where a date is needed)
+
+### Step 9: Data spot-check (release audit)
 
 ```bash
-# Step 1 — 提取抽检清单（15%随机抽样）
+# Step 1 — Extract the spot-check list (15% random sample)
 python3 ~/ai-berkshire/tools/report_audit.py extract \
-  --report <报告文件路径>
+  --report <report file path>
 
-# Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
+# Step 2 — For each item on the list, pull the figure from a reliable source (see skills/financial-data.md)
 
-# Step 3 — 输出准出/打回判决
+# Step 3 — Output the release/reject verdict
 python3 ~/ai-berkshire/tools/report_audit.py verdict \
-  --results '<填好的JSON>' \
-  --report <报告文件名>
+  --results '<completed JSON>' \
+  --report <report file name>
 ```
 
-**【准出】** 全部通过 → 报告可发布；**【打回】** 有不通过 → 修正后重审。
+**[RELEASE]** all items pass → the report may be published; **[SEND BACK]** any item fails → fix and re-audit.
 
-### 第十步：清理团队
+### Step 10: Clean up the team
 
-使用 TeamDelete 清理团队资源。
+Use TeamDelete to clean up the team resources.
 
-## 重要注意事项
+## Important notes
 
-1. **4个Agent必须并行启动**——在同一条消息中调用4次Task工具
-2. **Agent通过SendMessage汇报**——不是文件协作，是消息通信
-3. **数据准确性**——要求Agent使用WebSearch搜索最新数据，关键数据交叉验证
-4. **结论要明确**——不回避给出买入/观望/回避建议和具体价格区间
-5. **所有分析必须有数据支撑**——附数据来源
-6. **耐心等待**——4个Agent研究需要几分钟，实时向用户更新进度
-7. **反偏见意识**——team-lead在汇总时必须评估：各Agent的分析是否受限于资料充裕度？是否与市场共识过度趋同？最终报告需包含"信息丰富度评级"和"AI研究局限性声明"
-8. **信息稀缺时的诚实原则**——宁可在报告中留白标注"数据不足"，也不要用推测填满框架伪装确定性
+1. **The 4 agents must be launched in parallel** — invoke the Task tool 4 times in a single message
+2. **Agents report via SendMessage** — not file-based collaboration, but message-based communication
+3. **Data accuracy** — require agents to use WebSearch for the latest data, with cross-validation of key figures
+4. **Conclusions must be clear** — do not shy away from giving a buy / wait-and-see / avoid recommendation and a specific price range
+5. **All analysis must be backed by data** — attach data sources
+6. **Be patient** — the 4 agents will take several minutes to research; update the user on progress in real time
+7. **Anti-bias awareness** — when synthesizing, the team-lead must assess: is each agent's analysis constrained by how much material was available? Does it converge too much with market consensus? The final report must include an "information-richness rating" and an "AI research-limitations statement"
+8. **The honesty principle under information scarcity** — it is better to leave a blank in the report marked "insufficient data" than to fill the framework with speculation and fake certainty

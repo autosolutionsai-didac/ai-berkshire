@@ -1,268 +1,268 @@
-# 行业投资研究：产业链全景扫描 + 四大师个股分析框架
+# Industry Investment Research: Value-Chain Panorama + Four-Master Single-Stock Framework
 
-对 $ARGUMENTS 行业进行系统化产业链投资研究。
+Conduct systematic value-chain investment research on the $ARGUMENTS industry.
 
-## 研究目标
+## Research Objectives
 
-从一个投资主题/逻辑链出发，完成：
-1. 验证投资逻辑链的每一个环节
-2. 绘制完整产业链全景图
-3. 扫描全球所有上市公司（A股/港股/美股/国际）
-4. 对每个细分环节的头部公司执行四大师框架分析
-5. 输出行业级投资组合配置建议
+Starting from an investment theme / logic chain, complete the following:
+1. Validate every link in the investment logic chain
+2. Draw a complete value-chain panorama
+3. Scan every listed company globally (A-shares / HK stocks / US stocks / international)
+4. Apply the four-master framework to the leading companies in each sub-segment
+5. Output an industry-level portfolio allocation recommendation
 
 ---
 
-## 第一步：投资逻辑链构建与验证
+## Step 1: Building and Validating the Investment Logic Chain
 
-### 1.1 画出逻辑链
-用箭头链路表达从"底层趋势"到"受益标的"的因果关系，例如：
+### 1.1 Draw the logic chain
+Use an arrow-linked chain to express the causal relationship from "underlying trend" to "beneficiary target," for example:
 ```
-底层趋势 A
-    → 导致需求 B
-        → 创造瓶颈/刚需 C
-            → 受益产业链 D
+Underlying trend A
+    → drives demand B
+        → creates bottleneck / hard demand C
+            → beneficiary value chain D
 ```
 
-### 1.2 逐环节验证
-对逻辑链的每个箭头提出质疑并寻找证据：
+### 1.2 Validate link by link
+For every arrow in the logic chain, raise a challenge and look for evidence:
 
-| 环节 | 核心假设 | 验证方式 | 数据来源 |
+| Link | Core assumption | Validation method | Data source |
 |------|---------|---------|---------|
-| A→B | | 搜索行业数据/预测 | |
-| B→C | | 搜索供需分析 | |
-| C→D | | 搜索实际案例/签约 | |
+| A→B | | Search industry data / forecasts | |
+| B→C | | Search supply-demand analysis | |
+| C→D | | Search real cases / signed deals | |
 
-### 1.3 寻找"已发生的验证事件"
-列出支撑该逻辑链的**已签约/已落地的真实商业事件**（而非预测），例如大公司的采购协议、政策文件、行业报告等。
+### 1.3 Find "validation events that have already happened"
+List the **already-signed / already-implemented real business events** (not forecasts) that support this logic chain — e.g., large companies' procurement agreements, policy documents, industry reports, etc.
 
 ---
 
-## 第二步：产业链全景图绘制
+## Step 2: Drawing the Value-Chain Panorama
 
-### 2.1 绘制产业链结构
-将行业拆解为上游→中游→下游→辅助环节，例如：
+### 2.1 Map the value-chain structure
+Break the industry down into upstream → midstream → downstream → supporting links, for example:
 ```
-上游：原材料/资源开采 → 材料加工/提纯
-中游：核心设备制造 → 系统集成/工程建设 → 新技术研发
-下游：运营/服务 → 终端客户
-辅助：检测/认证 → 维护服务 → 金融工具（ETF/信托）
+Upstream: raw materials / resource extraction → material processing / purification
+Midstream: core equipment manufacturing → system integration / engineering construction → new-technology R&D
+Downstream: operations / services → end customers
+Supporting: testing / certification → maintenance services → financial instruments (ETFs / trusts)
 ```
 
-### 2.2 识别每个环节的"生意特征"
-对每个环节标注：
+### 2.2 Identify each link's "business characteristics"
+For each link, annotate:
 
-| 环节 | 商业模式 | 毛利率区间 | 竞争格局 | 壁垒类型 | 周期性 |
+| Link | Business model | Gross-margin range | Competitive landscape | Barrier type | Cyclicality |
 |------|---------|-----------|---------|---------|--------|
-| | 卖资源/卖设备/卖服务/收租 | | 垄断/寡头/充分竞争 | 资源/牌照/技术/规模 | 强/中/弱 |
+| | Sell resources / sell equipment / sell services / collect rent | | Monopoly / oligopoly / full competition | Resource / license / technology / scale | Strong / medium / weak |
 
-### 2.3 标记"卡脖子环节"
-识别产业链中供给最紧张、替代最难、利润率最高的环节——这些往往是最佳投资标的所在。
+### 2.3 Flag the "chokepoint links"
+Identify the links in the value chain where supply is tightest, substitution is hardest, and margins are highest — these are often where the best investment targets sit.
 
 ---
 
-## AI研究偏见自觉：行业研究的特殊陷阱
+## AI Research Bias Awareness: Special Traps in Industry Research
 
-行业研究中，AI数据偏见会以独特方式放大：
+In industry research, AI data bias is amplified in unique ways:
 
-**行业级偏见**：
-| 偏见类型 | 表现 | 应对 |
+**Industry-level biases**:
+| Bias type | Manifestation | Countermeasure |
 |---------|------|------|
-| 成熟行业偏好 | 传统行业（银行/能源/消费）资料极多，AI分析看起来"更确定" | 确定性来自商业模式，不来自研报数量 |
-| 新兴行业低估 | 新行业（AI应用/合成生物等）资料少，AI分析偏保守 | 用"终局思维"而非"当前数据"判断行业价值 |
-| 龙头偏好 | 大公司资料远多于小公司，AI天然倾向推荐龙头 | 小公司可能有更好的风险回报比，不要因为AI分析篇幅短就忽略 |
-| 上市偏好 | 只扫描上市公司会遗漏产业链中的关键未上市玩家 | 必须搜索未上市公司，标注"未来IPO候选" |
-| 英文偏好 | AI对英文资料的处理能力更强，可能低估中国/亚洲市场玩家 | 必须同时搜索中英文信息源 |
+| Mature-industry preference | Traditional industries (banking / energy / consumer) have abundant material, so AI analysis looks "more certain" | Certainty comes from the business model, not from the number of research reports |
+| New-industry underestimation | New industries (AI applications / synthetic biology, etc.) have little material, so AI analysis skews conservative | Judge industry value with "endgame thinking," not "current data" |
+| Leader preference | Large companies have far more material than small ones, so AI naturally tends to recommend leaders | Small companies may have a better risk-reward ratio — don't ignore one just because the AI analysis is short |
+| Listed-company preference | Scanning only listed companies misses the key unlisted players in the value chain | You must search for unlisted companies and flag "future IPO candidates" |
+| English-language preference | AI handles English-language material more strongly and may underestimate Chinese / Asian market players | You must search both Chinese- and English-language sources |
 
-**产业链扫描中的反偏见措施**：
-1. 对每个环节，不仅列出"AI容易找到的公司"，还要主动搜索"冷门但可能优质的标的"
-2. 对信息稀缺的小市值公司，不因分析篇幅短就降低推荐度——用核心问题（生意本质、护城河、管理层）而非报告长度来评判
-3. 在最终报告中标注每家公司的"信息充分度"（A/B/C级），让读者知道AI分析的可靠程度
+**Anti-bias measures during value-chain scanning**:
+1. For each link, don't only list "companies the AI can easily find" — also proactively search for "obscure but potentially high-quality targets"
+2. For small-cap companies with scarce information, don't lower the recommendation just because the analysis is short — judge by the core questions (business essence, moat, management), not by report length
+3. In the final report, tag each company's "information sufficiency" (Grade A/B/C) so the reader knows how reliable the AI analysis is
 
-## 第三步：全球上市公司扫描
+## Step 3: Global Listed-Company Scan
 
-使用 Task 工具启动后台 Agent，全面搜索该行业所有上市公司。
+Use the Task tool to launch background Agents and comprehensively search all listed companies in the industry.
 
-### 搜索清单
-- 美股（NYSE/NASDAQ/NYSE American）相关公司
-- A股（上海/深圳）相关公司
-- 港股相关公司
-- 其他国际市场（日本/韩国/欧洲/澳大利亚等）
-- 行业ETF
-- 关键未上市公司（可能未来IPO）
+### Search checklist
+- US-stock (NYSE / NASDAQ / NYSE American) companies
+- A-share (Shanghai / Shenzhen) companies
+- HK-stock companies
+- Other international markets (Japan / Korea / Europe / Australia, etc.)
+- Industry ETFs
+- Key unlisted companies (possible future IPOs)
 
-### 对每家公司收集
-- 公司名称（中英文）
-- 股票代码和交易所
-- 市值（近似）
-- 一句话描述（在产业链中的位置和作用）
-- 是否纯正标的（纯核电 vs 多元化中有核电业务）
-- 产业链所属环节
+### For each company, collect
+- Company name (Chinese and English)
+- Ticker and exchange
+- Market cap (approximate)
+- One-line description (its position and role in the value chain)
+- Whether it is a pure-play target (pure nuclear power vs. diversified with a nuclear-power business)
+- Which value-chain link it belongs to
 
-### 输出格式
-按产业链环节分类，每个环节一张表，包含所有扫描到的公司。
-再按投资确定性分层：
-- **Tier 1**：大市值、纯正标的、行业龙头
-- **Tier 2**：中市值、纯正或高占比、细分龙头
-- **Tier 3**：小市值、开发阶段、高风险高弹性
-- **Tier 4**：多元化公司中有相关业务的大型企业
+### Output format
+Classify by value-chain link, one table per link, containing all scanned companies.
+Then stratify by investment certainty:
+- **Tier 1**: large-cap, pure-play, industry leader
+- **Tier 2**: mid-cap, pure-play or high-share, segment leader
+- **Tier 3**: small-cap, development-stage, high-risk high-beta
+- **Tier 4**: large diversified companies with a relevant business line
 
 ---
 
-## 第四步：各环节头部公司四大师分析
+## Step 4: Four-Master Analysis of the Leading Companies in Each Link
 
-对每个产业链环节的**Tier 1和Tier 2公司**，执行以下分析（Tier 3/4公司简要点评即可）：
+For the **Tier 1 and Tier 2 companies** in each value-chain link, perform the following analysis (a brief note suffices for Tier 3/4 companies):
 
-### 4.1 生意本质（段永平）
-- 一句话定义这家公司在产业链中做什么
-- 收入结构与增速
-- 毛利率/净利率水平及趋势
-- 现金流特征
-- **追问**：这是一门好生意吗？为什么？
+### 4.1 Business essence (Duan Yongping)
+- Define in one sentence what this company does in the value chain
+- Revenue structure and growth rate
+- Gross-margin / net-margin levels and trends
+- Cash-flow characteristics
+- **Follow-up**: Is this a good business? Why?
 
-### 4.2 护城河（巴菲特）
-用五类护城河评分（★1-5）：
+### 4.2 Moat (Buffett)
+Score using the five moat types (★1-5):
 
-| 护城河 | 强度 | 证据 |
+| Moat | Strength | Evidence |
 |--------|------|------|
-| 品牌/定价权 | | |
-| 转换成本 | | |
-| 网络效应 | | |
-| 规模效应 | | |
-| 技术/牌照壁垒 | | |
+| Brand / pricing power | | |
+| Switching cost | | |
+| Network effect | | |
+| Economies of scale | | |
+| Technology / license barrier | | |
 
-**追问**：10年后护城河还在吗？
+**Follow-up**: Will the moat still be there in 10 years?
 
-### 4.3 风险（芒格）
-- 这家公司最可能怎么失败？
-- 最坏情景下值多少钱？
-- 聪明人为什么不买？
+### 4.3 Risk (Munger)
+- How is this company most likely to fail?
+- What is it worth in the worst-case scenario?
+- Why do smart people not buy it?
 
-### 4.4 管理层（段永平+巴菲特）
-- CEO/创始人是谁？关键决策记录
-- 持股比例与利益对齐
-- 简评（A/B/C级）
+### 4.4 Management (Duan Yongping + Buffett)
+- Who is the CEO / founder? Record of key decisions
+- Ownership stake and interest alignment
+- Brief assessment (Grade A/B/C)
 
-### 4.5 估值快照
-- 当前PE/PS/EV/EBITDA
-- 与同环节竞争对手对比
-- 简评：贵了/合理/便宜
+### 4.5 Valuation snapshot
+- Current PE / PS / EV/EBITDA
+- Comparison with competitors in the same link
+- Brief assessment: expensive / fair / cheap
 
-### 4.6 推荐度
-用★1-5标注：
-- ★★★★★ = 核心仓位候选
-- ★★★★☆ = 卫星仓位候选
-- ★★★☆☆ = 观察名单
-- ★★☆☆☆ = 高风险期权
-- ★☆☆☆☆ = 不推荐
+### 4.6 Recommendation rating
+Mark with ★1-5:
+- ★★★★★ = core-position candidate
+- ★★★★☆ = satellite-position candidate
+- ★★★☆☆ = watchlist
+- ★★☆☆☆ = high-risk option
+- ★☆☆☆☆ = not recommended
 
 ---
 
-## 第五步：行业级风险评估（芒格"检查清单"）
+## Step 5: Industry-Level Risk Assessment (Munger's "Checklist")
 
-### 5.1 系统性风险清单
+### 5.1 Systemic-risk checklist
 
-| 风险 | 概率 | 影响 | 应对策略 |
+| Risk | Probability | Impact | Response strategy |
 |------|------|------|---------|
-| 投资逻辑链的某个环节被证伪 | | | |
-| 替代技术出现 | | | |
-| 政策/监管黑天鹅 | | | |
-| 需求周期性回调 | | | |
-| 估值泡沫破裂 | | | |
+| Some link in the investment logic chain is falsified | | | |
+| A substitute technology emerges | | | |
+| Policy / regulatory black swan | | | |
+| Cyclical demand pullback | | | |
+| Valuation bubble bursts | | | |
 
-### 5.2 历史类比
-找到历史上类似的产业链投资主题，分析其最终结局：
-- 类比行业是什么？
-- 最终赢家是谁？（上游/中游/下游？）
-- 多数投资者赚钱了还是亏钱了？
-- 对当前行业的启示是什么？
+### 5.2 Historical analogy
+Find a historically similar value-chain investment theme and analyze how it ultimately played out:
+- What is the analogous industry?
+- Who was the eventual winner? (Upstream / midstream / downstream?)
+- Did most investors make money or lose money?
+- What is the lesson for the current industry?
 
-### 5.3 偏误自查
-- 叙事偏差：故事是否太完美？
-- 锚定效应：是否被近期涨幅锚定？
-- 从众效应：是否因为"所有人都在买"？
-
----
-
-## 第六步：文明趋势判断（李录框架）
-
-- 这个行业所依托的底层趋势，是"文明级范式转移"还是"阶段性热潮"？
-- 历史上最接近的技术革命类比是什么？
-- 10-20年后，这个行业的终局是什么？
-- 产业链中，哪个环节最可能出现"赢家通吃"？
-- 哪个环节最可能被颠覆？
+### 5.3 Bias self-check
+- Narrative bias: Is the story too perfect?
+- Anchoring effect: Are you anchored to the recent rally?
+- Herd effect: Is it because "everyone is buying"?
 
 ---
 
-## 第七步：投资组合配置建议
+## Step 6: Civilizational-Trend Judgment (Li Lu framework)
 
-### 7.1 推荐组合
-按以下结构输出：
+- Is the underlying trend this industry rests on a "civilizational-level paradigm shift" or a "temporary craze"?
+- What is the closest historical technological-revolution analogy?
+- In 10-20 years, what is the endgame for this industry?
+- In the value chain, which link is most likely to see "winner-take-all"?
+- Which link is most likely to be disrupted?
 
-| 层级 | 仓位占比 | 标的 | 所属环节 | 核心逻辑 |
+---
+
+## Step 7: Portfolio Allocation Recommendation
+
+### 7.1 Recommended portfolio
+Output in the following structure:
+
+| Tier | Position weight | Target | Value-chain link | Core rationale |
 |------|---------|------|---------|---------|
-| **核心仓位** | 占主题仓位50-60% | | | 最确定、护城河最宽 |
-| **卫星仓位** | 占主题仓位25-35% | | | 弹性较大、确定性稍低 |
-| **期权仓位** | 占主题仓位5-15% | | | 高风险高回报，可以归零 |
-| **ETF替代** | 可替代以上全部 | | | 不想选股的"懒人方案" |
+| **Core position** | 50-60% of the theme position | | | Most certain, widest moat |
+| **Satellite position** | 25-35% of the theme position | | | Higher beta, slightly lower certainty |
+| **Option position** | 5-15% of the theme position | | | High risk, high reward, can go to zero |
+| **ETF alternative** | Can replace all of the above | | | The "lazy solution" for those who don't want to pick stocks |
 
-### 7.2 买入/卖出信号
+### 7.2 Buy / sell signals
 
-| 信号类型 | 具体条件 |
+| Signal type | Specific condition |
 |---------|---------|
-| 加仓信号 | |
-| 减仓信号 | |
-| 清仓信号 | |
+| Add-to-position signal | |
+| Trim signal | |
+| Exit signal | |
 
-### 7.3 主题仓位上限建议
-根据投资逻辑链的确定性和风险程度，建议该主题占总仓位的上限百分比。
+### 7.3 Theme position-cap recommendation
+Based on the certainty and risk level of the investment logic chain, recommend a maximum percentage of the total portfolio that this theme should occupy.
 
 ---
 
-## 第八步：综合决策备忘录
+## Step 8: Comprehensive Decision Memo
 
-### 行业总评表
+### Industry summary table
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| 投资逻辑链（验证程度） | | |
-| 最佳环节（段永平"对的生意"） | | |
-| 最宽护城河（巴菲特） | | |
-| 最大风险（芒格） | | |
-| 文明趋势定位（李录） | | |
-| 整体估值水平 | | |
+| Investment logic chain (degree of validation) | | |
+| Best link (Duan Yongping's "right business") | | |
+| Widest moat (Buffett) | | |
+| Biggest risk (Munger) | | |
+| Civilizational-trend positioning (Li Lu) | | |
+| Overall valuation level | | |
 
-### 四位大师模拟点评
-用引用格式，模拟四位大师对该行业投资机会的点评。
+### Simulated commentary from the four masters
+Using blockquote format, simulate the four masters' commentary on this industry's investment opportunity.
 
 ---
 
-## 输出要求
+## Output Requirements
 
-1. 所有分析必须有数据支撑，附数据来源
-2. 使用 Markdown 表格呈现关键数据
-3. 产业链全景图用代码块的文本图表示
-4. 每个环节至少分析2-3家头部公司
-5. 全球公司扫描要尽可能完整（A股/港股/美股/国际）
-6. 最终将完整报告写入 `~/[行业名]产业链投资研究报告.md`
-7. 结论要明确，给出具体的标的、仓位和价格区间建议
-8. 每个分析模块末尾有对应大师的"追问"
+1. Every analysis must be backed by data, with data sources attached
+2. Present key data in Markdown tables
+3. Represent the value-chain panorama with a text diagram in a code block
+4. Analyze at least 2-3 leading companies per link
+5. Make the global company scan as complete as possible (A-shares / HK stocks / US stocks / international)
+6. Finally, write the complete report to `reports/{industry}-industry-{YYYYMMDD}.md` (industry reports go in the reports/ root, date format YYYYMMDD)
+7. Conclusions must be clear, giving specific targets, position sizes, and price-range recommendations
+8. End each analysis module with the corresponding master's "follow-up"
 
-## 数据抽检（准出流程）
+## Data Spot-Check (Release Audit)
 
-报告写入后，执行数据抽检，通过方可发布：
+After the report is written, run a data spot-check; it may be published only once it passes:
 
 ```bash
-# Step 1 — 提取抽检清单（15%随机抽样）
+# Step 1 — Extract the spot-check list (15% random sample)
 python3 ~/ai-berkshire/tools/report_audit.py extract \
-  --report <报告文件路径>
+  --report <report file path>
 
-# Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
+# Step 2 — For each item on the list, pull figures from reliable sources (see skills/financial-data.md)
 
-# Step 3 — 输出准出/打回判决
+# Step 3 — Output the release / reject verdict
 python3 ~/ai-berkshire/tools/report_audit.py verdict \
-  --results '<填好的JSON>' \
-  --report <报告文件名>
+  --results '<filled-in JSON>' \
+  --report <report file name>
 ```
 
-**【准出】** 全部通过 → 报告可发布；**【打回】** 有不通过 → 修正后重审。
+**[RELEASE]** all pass → the report may be published; **[SEND BACK]** any fail → fix and re-review.

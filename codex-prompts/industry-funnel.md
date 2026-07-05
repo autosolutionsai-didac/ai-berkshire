@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 行业漏斗筛选：从全市场到 3 家的价值投资精选流程."
+description: "AI Berkshire slash entry for Industry Funnel Screen: A Value-Investing Selection Pipeline From the Whole Market Down to 3 Names."
 argument-hint: $ARGUMENTS
 ---
 

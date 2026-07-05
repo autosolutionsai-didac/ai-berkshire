@@ -1,231 +1,231 @@
-# 微信公众号文章：作者-编辑-读者三Agent协作
+# WeChat Article: Author-Editor-Reader Three-Agent Collaboration
 
-对 $ARGUMENTS 进行深度研究，产出一篇可直接发布的微信公众号文章。三个Agent各司其职：作者写深度初稿，编辑精修结构和表达，读者从目标受众视角审读。
+Conduct deep research on $ARGUMENTS and produce a publish-ready WeChat article. Three agents each play a distinct role: the author writes a deep first draft, the editor refines structure and expression, and the reader reviews it from the target audience's perspective.
 
-**支持输入格式**：主题描述，例如：`大模型OPD技术解读`、`Qwen3技术报告解读`、`为什么巴菲特不买科技股`
-
----
-
-## 设计理念
-
-一篇好的公众号文章需要同时满足三个维度：
-1. **深度**——对得起花时间读完的人（作者负责）
-2. **可读性**——结构清晰、节奏好、不劝退（编辑负责）
-3. **真的能看懂**——目标读者不会在中途放弃（读者负责）
-
-单人写作容易"自嗨"——写的人觉得清楚，读的人看不懂。三Agent协作的本质是**强制引入外部视角**。
+**Supported input formats**: a topic description, for example: `Explaining large-model OPD technique`, `Reading the Qwen3 technical report`, `Why Buffett doesn't buy tech stocks`
 
 ---
 
-## 阶段一：研究与素材收集
+## Design Philosophy
 
-### 第一步：明确文章定位
+A good WeChat article must satisfy three dimensions at once:
+1. **Depth** — worthy of the people who spend time reading it to the end (the author's responsibility)
+2. **Readability** — clear structure, good pacing, doesn't drive readers away (the editor's responsibility)
+3. **Actually understandable** — the target reader won't give up halfway (the reader's responsibility)
 
-在开始写作之前，先确认以下信息（如用户未指定则主动询问）：
+Solo writing easily turns into self-indulgence — the writer thinks it's clear, but the reader can't follow. The essence of three-agent collaboration is to **forcibly introduce an outside perspective**.
 
-| 维度 | 需要确认 | 默认值 |
+---
+
+## Stage One: Research and Material Collection
+
+### Step 1: Define the article's positioning
+
+Before writing, confirm the following (proactively ask if the user hasn't specified):
+
+| Dimension | To confirm | Default |
 |------|---------|--------|
-| **目标读者** | 技术背景程度 | 有点技术背景但非该领域专家 |
-| **文章深度** | 科普/中深度/硬核 | 中深度（有公式但要解释清楚） |
-| **文章长度** | 字数范围 | 3000-4000字 |
-| **是否需要下载原始论文/资料** | 需要PDF/配图 | 是 |
-| **写作风格** | 正式/对话式/犀利 | 对话式（像写给聪明的朋友） |
+| **Target reader** | Level of technical background | Somewhat technical but not a domain expert |
+| **Article depth** | Popular science / mid-depth / hardcore | Mid-depth (formulas allowed but must be clearly explained) |
+| **Article length** | Word-count range | 3,000-4,000 words |
+| **Whether to download original papers/materials** | Need PDFs/figures | Yes |
+| **Writing style** | Formal / conversational / sharp | Conversational (like writing to a smart friend) |
 
-### 第二步：深度研究
+### Step 2: Deep research
 
-使用 Agent 工具**并行**启动2-3个研究Agent，收集足够的素材：
+Use the Agent tool to launch 2-3 research agents **in parallel** and collect enough material:
 
-**研究Agent A：核心内容研究**
-- 如果是论文解读：下载论文PDF、提取核心贡献、关键图表、实验结果
-- 如果是技术主题：搜索最新进展、关键论文、技术细节
-- 如果是商业/投资主题：搜索最新数据、行业报告、竞争格局
+**Research Agent A: Core content research**
+- If it's a paper deep-read: download the paper PDF, extract core contributions, key figures, experimental results
+- If it's a technical topic: search for the latest progress, key papers, technical details
+- If it's a business/investment topic: search for the latest data, industry reports, competitive landscape
 
-**研究Agent B：行业背景与应用**
-- 搜索该技术/主题的行业落地情况
-- 哪些公司在用？效果如何？
-- 最新的发展趋势和里程碑事件
+**Research Agent B: Industry context and applications**
+- Search for how this technology/topic is being deployed in industry
+- Which companies are using it? How well does it work?
+- The latest development trends and milestone events
 
-**研究Agent C（可选）：竞品/对比研究**
-- 同类方法/产品的对比
-- 历史发展脉络
-- 未来演进方向
+**Research Agent C (optional): Competitor/comparison research**
+- Comparison with similar methods/products
+- Historical development trajectory
+- Future evolution direction
 
-### 第三步：整理素材框架
+### Step 3: Organize the material framework
 
-研究Agent全部完成后，整理出：
-1. **核心论点**（一句话概括文章要传达的核心信息）
-2. **关键数据**（3-5个最有冲击力的数据点）
-3. **配图清单**（需要哪些图，来源是什么）
-4. **文章大纲**（6-8个章节的标题和核心内容）
-
----
-
-## 阶段二：作者Agent写初稿
-
-使用 Agent 工具启动**作者Agent**，给出详细的写作指令。
-
-### 作者Agent的Prompt模板
-
-```
-你是一位深度技术写作者（Author Agent），需要写一篇微信公众号文章。
-
-## 目标读者
-{根据第一步确认的读者画像}
-
-## 写作风格要求
-- 纯中文表达，避免中英文夹杂（技术术语首次出现时给英文，后续用中文）
-- 像写给聪明的朋友看的技术科普，不是学术论文翻译
-- 用类比帮助理解，但类比要贴切、不俗套
-- 关键公式/数据要有，但每个都要用大白话解释
-- 不用emoji
-- 段落不超过4行（公众号阅读环境）
-
-## 核心内容
-{整理好的素材、数据、论点}
-
-## 文章结构要求
-1. **开头（前3段）**：必须有强钩子——用数据冲击力或反直觉的结论开场，不要用温和的类比开场
-2. **背景**：为什么这件事重要？解决什么问题？
-3. **核心内容（2-3节）**：技术深度在这里体现，但每个技术点都要有"大白话翻译"
-4. **实证/案例**：用数据和案例说话，不要空谈
-5. **行业影响/展望**：这件事对行业意味着什么
-6. **结尾**：一句有传播力的判断收束，适合被截图转发
-
-## 配图要求
-- 论文解读类文章：必须从论文PDF中提取原图，直接用 `![描述](相对路径)` 插入文章，不要用 [图X：描述] 占位符
-- 提取方法：用 pdftoppm 将PDF页面渲染为高分辨率PNG（至少900 DPI），再用 PIL 裁切目标图表区域
-- 每张图不小于500KB，确保高清
-- 图片统一存放在 `assets/{主题简称}/` 目录下
-- 非论文类文章：如需配图，搜索并下载合适的图片，同样直接插入
-
-## 公式要求
-- 所有数学公式使用 LaTeX 格式：行内用 `$...$`，独立公式用 `$$...$$`
-- 禁止用纯文本写公式（如 `> D_KL(P || Q) = ...`），必须用 LaTeX 渲染格式
-- 每个公式后面仍然要配"大白话翻译"
-
-请写出完整的文章初稿，约{目标字数}字。
-```
-
-### 作者Agent完成后
-
-检查初稿文件是否生成，阅读全文确认内容完整性。
+After all research agents finish, organize:
+1. **Core thesis** (one sentence summarizing the core message the article aims to convey)
+2. **Key data** (the 3-5 most impactful data points)
+3. **Figure list** (which figures are needed and where they come from)
+4. **Article outline** (titles and core content for 6-8 sections)
 
 ---
 
-## 阶段三：编辑Agent + 读者Agent并行审阅
+## Stage Two: The Author Agent Writes the First Draft
 
-初稿完成后，使用 Agent 工具在**同一条消息**中启动编辑Agent和读者Agent。
+Use the Agent tool to launch the **Author Agent**, giving detailed writing instructions.
 
-### 编辑Agent的Prompt模板
-
-```
-你是一位资深公众号编辑（Editor Agent）。请对以下文章进行精修审阅。
-
-## 审阅标准
-1. **标题**：是否在朋友圈能吸引点击？是否会被截断（超过30字）？
-2. **开头**：前3段能否留住读者？钩子是否足够强？
-3. **结构**：逻辑链是否流畅？有无跳跃或断层？
-4. **深度与可读性平衡**：公式/技术部分是否真的通俗？有无"假装通俗但没解释清楚"的地方？
-5. **节奏**：有无太长的段落？每节长度是否合适？
-6. **配图**：图片是否已实际插入（非占位符）？位置是否在读者最需要视觉辅助时出现？
-7. **结尾**：有无传播力？读者看完会想转发吗？
-
-## 文章全文
-{完整初稿}
-
-## 输出格式
-1. 总体评价（3-5句话）
-2. 标题修改建议（给2-3个备选）
-3. 逐节修改建议（给出"原文→建议修改为"的具体对照）
-4. 最关键的3个改进点
-```
-
-### 读者Agent的Prompt模板
+### Author Agent Prompt Template
 
 ```
-你是一位{目标读者画像}（Reader Agent）。请从读者视角审读以下文章。
+You are a deep technical writer (Author Agent) tasked with writing a WeChat article.
 
-## 你的背景
-{具体描述目标读者的知识水平和阅读习惯}
+## Target reader
+{the reader profile confirmed in Step 1}
 
-## 文章全文
-{完整初稿}
+## Writing-style requirements
+- Pure English expression, avoid mixing languages (when a technical term first appears, give the original term, then use plain language afterward)
+- Write like technical popular science for a smart friend, not a translated academic paper
+- Use analogies to aid understanding, but they must be apt, not clichéd
+- Include key formulas/data, but explain each one in plain language
+- No emoji
+- Paragraphs no longer than 4 lines (WeChat reading environment)
 
-## 请回答以下问题
-1. 读完前3段，你会继续读下去吗？为什么？
-2. 哪些地方"看不懂"或"需要重读才能理解"？具体是哪句话？
-3. 技术/公式部分你看懂了吗？"大白话翻译"是否帮到你了？
-4. 文章的核心类比贴切吗？有更好的类比吗？
-5. 太长还是太短？会在哪里失去耐心？
-6. 读完后你能用一句话概括文章核心观点吗？
-7. 你会转发这篇文章吗？转发时你会说什么？
-8. 有没有你想了解但文章没覆盖的问题？
+## Core content
+{the organized material, data, and thesis}
+
+## Article-structure requirements
+1. **Opening (first 3 paragraphs)**: must have a strong hook — open with the impact of data or a counterintuitive conclusion, not a gentle analogy
+2. **Background**: why does this matter? What problem does it solve?
+3. **Core content (2-3 sections)**: technical depth is shown here, but every technical point must have a "plain-language translation"
+4. **Evidence/case studies**: let data and cases do the talking, no empty rhetoric
+5. **Industry impact/outlook**: what this means for the industry
+6. **Ending**: close with one shareable judgment, suitable to be screenshotted and forwarded
+
+## Figure requirements
+- Paper deep-read articles: you must extract the original figures from the paper PDF and insert them directly into the article with `![description](relative path)`, do not use [Figure X: description] placeholders
+- Extraction method: use pdftoppm to render the PDF pages as high-resolution PNGs (at least 900 DPI), then use PIL to crop the target figure region
+- Each image no smaller than 500KB, to ensure high definition
+- Store images uniformly in the `assets/{topic short name}/` directory
+- Non-paper articles: if figures are needed, search for and download suitable images and insert them directly as well
+
+## Formula requirements
+- All mathematical formulas use LaTeX format: inline with `$...$`, standalone formulas with `$$...$$`
+- Plain-text formulas are forbidden (e.g. `> D_KL(P || Q) = ...`); they must use LaTeX rendering format
+- Every formula must still be accompanied by a "plain-language translation"
+
+Please write the complete first draft, about {target word count} words.
+```
+
+### After the Author Agent finishes
+
+Check whether the draft file was generated, and read the full text to confirm content completeness.
+
+---
+
+## Stage Three: Editor Agent + Reader Agent Review in Parallel
+
+Once the first draft is complete, use the Agent tool to launch the Editor Agent and the Reader Agent **in the same message**.
+
+### Editor Agent Prompt Template
+
+```
+You are a senior WeChat editor (Editor Agent). Please review and refine the following article.
+
+## Review criteria
+1. **Title**: does it attract clicks in a feed? Will it get truncated (over 30 characters)?
+2. **Opening**: can the first 3 paragraphs retain readers? Is the hook strong enough?
+3. **Structure**: is the logical chain smooth? Any jumps or gaps?
+4. **Depth-readability balance**: are the formula/technical parts genuinely accessible? Anywhere that "pretends to be accessible but doesn't actually explain"?
+5. **Pacing**: any paragraphs that are too long? Is each section an appropriate length?
+6. **Figures**: are images actually inserted (not placeholders)? Do they appear where readers most need visual aid?
+7. **Ending**: is it shareable? Will readers want to forward it after finishing?
+
+## Full article text
+{the complete first draft}
+
+## Output format
+1. Overall assessment (3-5 sentences)
+2. Title revision suggestions (give 2-3 alternatives)
+3. Section-by-section revision suggestions (give specific "original → suggested revision" comparisons)
+4. The 3 most critical improvement points
+```
+
+### Reader Agent Prompt Template
+
+```
+You are a {target reader profile} (Reader Agent). Please review the following article from a reader's perspective.
+
+## Your background
+{a concrete description of the target reader's knowledge level and reading habits}
+
+## Full article text
+{the complete first draft}
+
+## Please answer the following questions
+1. After reading the first 3 paragraphs, would you keep reading? Why?
+2. Where do you "not understand" or "need to reread to understand"? Which sentence specifically?
+3. Did you understand the technical/formula parts? Did the "plain-language translation" help you?
+4. Is the article's core analogy apt? Is there a better one?
+5. Too long or too short? Where would you lose patience?
+6. After reading, can you summarize the article's core viewpoint in one sentence?
+7. Would you forward this article? What would you say when forwarding it?
+8. Is there anything you wanted to learn that the article didn't cover?
 ```
 
 ---
 
-## 阶段四：定稿
+## Stage Four: Finalization
 
-### 第一步：综合两个Agent的反馈
+### Step 1: Synthesize the two agents' feedback
 
-重点关注以下高频问题：
+Focus on the following high-frequency issues:
 
-| 问题类型 | 编辑常见反馈 | 读者常见反馈 | 处理方式 |
+| Issue type | Common editor feedback | Common reader feedback | How to handle |
 |---------|------------|------------|---------|
-| 开头太弱 | 钩子不够强 | 前3段没动力继续 | 用数据/反直觉结论重写开头 |
-| 技术段劝退 | 公式太密集 | 某段需要重读3遍 | 删公式或图片化，加更直觉的类比 |
-| 节奏拖沓 | 某节太长 | 某处失去耐心 | 合并或删减（尤其是后半段重复的技术解释） |
-| 结尾无力 | 缺传播力 | 不会转发 | 重写为一句可截图传播的判断 |
-| 概念跳跃 | 逻辑有断层 | 某处"突然看不懂了" | 补过渡句或背景解释 |
+| Weak opening | Hook not strong enough | No motivation to continue past first 3 paragraphs | Rewrite the opening with data/a counterintuitive conclusion |
+| Technical section drives readers away | Formulas too dense | A section needs 3 rereads | Cut formulas or convert to images, add more intuitive analogies |
+| Sluggish pacing | A section too long | Lost patience somewhere | Merge or trim (especially repeated technical explanations in the second half) |
+| Weak ending | Lacks shareability | Won't forward | Rewrite as one screenshottable, shareable judgment |
+| Conceptual jumps | Logical gaps | "Suddenly can't follow" somewhere | Add transition sentences or background explanation |
 
-### 第二步：执行修改
+### Step 2: Execute the revisions
 
-根据反馈重写文章。核心修改原则：
+Rewrite the article based on the feedback. Core revision principles:
 
-1. **编辑和读者都指出的问题，必须改**
-2. **只有编辑指出的问题，大概率要改**（编辑的专业判断通常准确）
-3. **只有读者指出的问题，视情况改**（读者反馈代表真实体验，但不一定每条都需要响应）
-4. **两者矛盾时，偏向读者**（编辑追求完美，但读者体验是最终标准）
+1. **Issues flagged by both editor and reader must be fixed**
+2. **Issues flagged by only the editor should very likely be fixed** (the editor's professional judgment is usually accurate)
+3. **Issues flagged by only the reader are fixed case by case** (reader feedback represents real experience, but not every item needs a response)
+4. **When the two conflict, lean toward the reader** (the editor pursues perfection, but the reader's experience is the ultimate standard)
 
-### 第三步：提取配图
+### Step 3: Extract figures
 
-论文解读类文章必须在定稿前完成配图提取：
+Paper deep-read articles must complete figure extraction before finalization:
 
-1. **渲染**：`pdftoppm -png -r 900 -f {页码} -l {页码} 论文.pdf /tmp/page`（900 DPI起步，如果图片不到500KB则升到1200或1500 DPI）
-2. **定位**：先用150 DPI渲染全页，目视确认各图表的像素坐标
-3. **裁切**：用 PIL 按坐标裁切，`compress_level=1` 保存，确保每张 ≥ 500KB
-4. **存储**：保存到 `assets/{主题简称}/` 目录，命名为 `fig{序号}-{描述}.png`
-5. **插入**：文章中用 `![描述](../../assets/{主题简称}/fig{序号}-{描述}.png)` 引用
+1. **Render**: `pdftoppm -png -r 900 -f {page number} -l {page number} paper.pdf /tmp/page` (start at 900 DPI; if the image is under 500KB, raise to 1200 or 1500 DPI)
+2. **Locate**: first render the full page at 150 DPI, visually confirm the pixel coordinates of each figure
+3. **Crop**: crop by coordinates with PIL, save with `compress_level=1`, ensuring each is ≥ 500KB
+4. **Store**: save to the `assets/{topic short name}/` directory, named `fig{index}-{description}.png`
+5. **Insert**: reference in the article with `![description](../../assets/{topic short name}/fig{index}-{description}.png)`
 
-### 第四步：产出最终文件
+### Step 4: Produce the final file
 
-将定稿保存为 md 文件，文件末尾附上论文/资料原文链接：
+Save the finalized draft as an md file, appending the original paper/material links at the end of the file:
 
 ```markdown
-**论文原文：**
-- arXiv: {链接}
+**Original paper:**
+- arXiv: {link}
 ```
 
 ---
 
-## 文件命名与存储
+## File Naming and Storage
 
-| 类型 | 路径 | 命名格式 |
+| Type | Path | Naming format |
 |------|------|---------|
-| 技术主题 | `reports/AI产业研究/` | `公众号-{主题关键词}-{YYYYMMDD}.md` |
-| 投资主题 | `reports/{公司名}/` | `{公司名}-公众号-{YYYYMMDD}.md` |
-| 通用主题 | `reports/` | `公众号-{主题关键词}-{YYYYMMDD}.md` |
+| Technical topic | `reports/AI-industry-research/` | `wechat-{topic keyword}-{YYYYMMDD}.md` |
+| Investment topic | `reports/{Company}/` | `{Company}-wechat-{YYYYMMDD}.md` |
+| General topic | `reports/` | `wechat-{topic keyword}-{YYYYMMDD}.md` |
 
 ---
 
-## 写作红线
+## Writing Red Lines
 
-1. **不虚构数据**。引用的数据必须有来源，搜不到就标注"估计"
-2. **不用AI腔调**。禁止"让我们一起来看看"、"值得关注的是"、"不得不说"等套话
-3. **不过度承诺**。技术文章不说"颠覆性的"、"革命性的"，用数据说话
-4. **公式必须配大白话**。每个公式后面都要有一段"翻译成人话就是……"
-5. **公式必须用LaTeX**。`$$...$$` 格式，禁止纯文本公式
-6. **配图必须实际插入**。论文解读类从PDF提取高清原图（≥500KB），禁止用 `[图X]` 占位符
-7. **表格括号注释要精确**。描述概念时用准确的定义，不用模糊的动宾短语（如"文本来自教师"而非"学教师的文本"）
-8. **类比要一以贯之**。全文用一个主线类比，不要每节换一个新类比
-9. **结尾必须有传播力**。最后一句话要值得被单独截图转发
+1. **No fabricated data**. Cited data must have a source; if it can't be found, label it "estimate"
+2. **No AI tone**. Ban filler phrases like "let's take a look together", "it's worth noting", "one has to say"
+3. **No overclaiming**. Technical articles don't say "disruptive" or "revolutionary" — let the data speak
+4. **Every formula must have a plain-language explanation**. After each formula there must be a passage of "translated into human terms, this means..."
+5. **Formulas must use LaTeX**. `$$...$$` format; plain-text formulas are forbidden
+6. **Figures must be actually inserted**. Paper deep-reads extract high-definition original figures from the PDF (≥500KB); `[Figure X]` placeholders are forbidden
+7. **Table parenthetical annotations must be precise**. When describing a concept, use an accurate definition, not a vague verb-object phrase (e.g. "text comes from the teacher" rather than "learn the teacher's text")
+8. **Keep the analogy consistent throughout**. Use one throughline analogy across the whole article, don't switch to a new analogy in every section
+9. **The ending must be shareable**. The last sentence should be worth screenshotting and forwarding on its own

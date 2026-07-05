@@ -1,64 +1,64 @@
-# AI Berkshire — AI 记忆文件
+# AI Berkshire - AI Memory File
 
-> 本文件记录 Claude 在与用户协作过程中积累的项目知识、用户偏好和历史决策，供后续会话参考。
+> This file records the project knowledge, user preferences, and historical decisions that Claude has accumulated while collaborating with the user, for reference in later sessions.
 
-## 用户画像
+## User profile
 
-- 投资风格：价值投资，重仓集中持有，关注中国互联网+消费+AI
-- 研究偏好：直接犀利不废话，要明确结论不要两面讨好，数据必须准确
-- 使用场景：个人投资决策辅助，同时将本项目作为开源产品推广
+- Investment style: value investing, concentrated high-conviction holdings, focused on China internet + consumer + AI.
+- Research preference: direct and sharp, no filler; wants clear conclusions, not both-sides hedging; data must be accurate.
+- Use case: personal investment-decision support, while also promoting this project as an open-source product.
 
-## 项目演进历史
+## Project evolution history
 
-### 2026年4月7-9日（首批研究+框架完善）
+### April 7-9, 2026 (first research batch + framework refinement)
 
-**完成的研究：**
-1. `/investment-team 拼多多` — 首个完整的4Agent并行研究，综合评分3.4/5
-2. `/investment-checklist` 7家公司 — 茅台、腾讯、英伟达、美团、拼多多、泡泡玛特、快手
-3. 大师持仓追踪 — 巴菲特/李录/段永平最新13F + PDD成本价分析
-4. 对美团等5家公司进行了深度再评估（用户挑战了初始评估）
+**Research completed:**
+1. `/investment-team Pinduoduo` - the first complete 4-agent parallel study, composite score 3.4/5.
+2. `/investment-checklist` on 7 companies - Kweichow Moutai, Tencent, NVIDIA, Meituan, Pinduoduo, Pop Mart, Kuaishou.
+3. Master holdings tracking - latest 13F for Buffett / Li Lu / Duan Yongping + PDD cost-basis analysis.
+4. Deep re-assessment of 5 companies including Meituan (the user challenged the initial assessment).
 
-**用户反馈导致的修正：**
-- 美团从 ❌ 改为 ✅ 有条件通过 — 用户指出：等盈利恢复再买就晚了，2000亿打不垮=真护城河
-- 英伟达从 ❓ 改为 ✅ 有条件通过 — AI Capex仍在加速，Jevons Paradox
-- 快手从 ❓ 改为 ✅ 有条件通过 — 可灵AI被低估，Sora已关停
+**Corrections driven by user feedback:**
+- Meituan changed from a fail to a conditional pass - the user pointed out: waiting for earnings to recover before buying is too late; 200 billion couldn't break it = a real moat.
+- NVIDIA changed from unclear to a conditional pass - AI capex is still accelerating, Jevons Paradox.
+- Kuaishou changed from unclear to a conditional pass - Kling AI is underrated, Sora was shut down.
 
-**关键教训：**
-- 不要机械套用checklist，要有独立判断
-- "等盈利恢复再买"是逻辑谬误——股价会提前反映
-- 竞争对手花了更多钱但没占到便宜 = 护城河的最佳证据
+**Key lessons:**
+- Do not apply the checklist mechanically; exercise independent judgment.
+- "Wait for earnings to recover before buying" is a logical fallacy - the share price prices it in ahead of time.
+- A competitor spending more and still gaining no ground = the best evidence of a moat.
 
-### Skill体系演进
+### Skill-system evolution
 
-**V1（5个Skill）— 覆盖买入前研究：**
-- investment-research、investment-team、investment-checklist、industry-research、private-company-research
+**V1 (5 skills) - covering pre-buy research:**
+- investment-research, investment-team, investment-checklist, industry-research, private-company-research
 
-**V2（9个Skill）— 补齐买入后流程：**
-- 新增：earnings-review（财报精读）、thesis-tracker（论文追踪）、portfolio-review（组合管理）、management-deep-dive（管理层纵深）
-- 经过2轮自验证迭代修复：路径统一、工具调用补全、并行收集、反偏见机制、量化评分公式
+**V2 (9 skills) - completing the post-buy workflow:**
+- Added: earnings-review, thesis-tracker, portfolio-review, management-deep-dive.
+- Fixed over 2 rounds of self-validation: unified paths, completed tool invocations, parallel collection, anti-bias mechanisms, quantitative scoring formulas.
 
-## 项目核心卖点（README中已体现）
+## Core selling points (already reflected in the README)
 
-1. **强制给结论不打太极** — 通过/不通过/灰色，带具体价格区间
-2. **四大师视角对抗** — 不是分工而是互相挑战，制造真实的矛盾和张力
-3. **结构化反偏见机制** — A/B/C信息丰富度、芒格逆向、快速否决、反共识
-4. **金融数据精确性** — Decimal精确计算、市值手算、多源交叉验证
-5. **可复现研究流程** — 同样输入→结构一致输出，支持横向对比和纵向跟踪
-6. **多Agent并行深度** — 4个Agent各自搜索+独立分析，4倍信息量
-7. **实盘验证** — 两年累计146万收益，连续跑赢指数40-50个百分点
+1. **Forces a conclusion, no equivocation** - pass / fail / gray, with a concrete price range.
+2. **Four-master perspectives in tension** - not a division of labor but mutual challenge, creating real conflict and tension.
+3. **Structured anti-bias mechanisms** - A/B/C information-richness rating, Munger inversion, quick veto, anti-consensus.
+4. **Financial-data precision** - Decimal exact computation, hand-checked market cap, multi-source cross-validation.
+5. **Reproducible research process** - same input -> structurally consistent output, supporting cross-company comparison and longitudinal tracking.
+6. **Multi-agent parallel depth** - 4 agents each search + analyze independently, 4x the information.
+7. **Live-trading validation** - two-year cumulative gain of 1.46 million, beating the index by 40-50 percentage points in a row.
 
-## 用户偏好与工作习惯
+## User preferences and working habits
 
-- **报告语言**：中文
-- **推送到GitHub**：研究完成后通常会要求推送，主动询问
-- **git操作**：远程经常有新提交（用户可能在其他地方也在改），推送前必须 `git pull --rebase`
-- **对错误的态度**：直接指出，不需要委婉。用户会挑战AI的判断，这时应该认真重新评估而非辩护
-- **不要过度总结**：用户能看diff，不需要每次操作完都复述一遍做了什么
-- **研究深度**：宁可花时间做深做准，不要为了快而粗糙
+- **Report language**: English.
+- **Pushing to GitHub**: usually requested once research is done; proactively ask.
+- **Git operations**: the remote often has new commits (the user may also be editing elsewhere); always `git pull --rebase` before pushing.
+- **Attitude toward mistakes**: point them out directly, no need to soften. The user will challenge the AI's judgment; when that happens, seriously re-assess rather than defend.
+- **Do not over-summarize**: the user can read the diff; no need to restate what was done after every operation.
+- **Research depth**: prefer to take the time and get it deep and accurate rather than being fast and sloppy.
 
-## 已知问题和待改进
+## Known issues and to-improve
 
-- reports/ 目录下有一些早期文件命名不规范（中文下划线混合），后续统一为英文短横格式
-- 部分早期报告（如腾讯控股-投资研究报告.md）使用旧命名，未迁移
-- financial_rigor.py 工具的实际覆盖面需要在Skill执行中验证
-- README中的输出示例是虚构的，后续应替换为真实报告的截取
+- Some early files under reports/ have non-standard naming (mixed Chinese and underscores); to be unified into English hyphenated format later.
+- Some early reports (e.g. Tencent-Holdings-investment-research.md) use the old naming and have not been migrated.
+- The actual coverage of the financial_rigor.py tool needs to be validated during skill execution.
+- The output examples in the README are illustrative and should later be replaced with excerpts from real reports.
