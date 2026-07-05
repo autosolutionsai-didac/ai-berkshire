@@ -245,5 +245,5 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report <report_file_name>
 ```
 
-- **[Release]**: all spot-check points deviate ≤ 1% → the report may be published
-- **[Reject]**: any point deviates > 1% → fix the corresponding data and re-run the spot-check until it passes
+- **[RELEASE]**: all spot-check points deviate ≤ 1% → the report may be published
+- **[SEND BACK]**: any point deviates > 1% → fix the corresponding data and re-run the spot-check until it passes

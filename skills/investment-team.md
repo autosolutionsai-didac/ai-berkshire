@@ -37,6 +37,8 @@ Use TeamCreate to create the team:
 - team_name: `{company}-research` (lowercase English, e.g. `meituan-research`)
 - agent_type: `team-lead`
 
+**Fallback when Team tools are unavailable:** not every Claude Code environment provides the Team tools (TeamCreate / SendMessage / TeamDelete). If they are missing, skip Steps 2, 6, and 10 and run the same analysis with plain subagents: launch the 4 analysts in Step 4 as `general-purpose` background Task agents (still all in one message), drop the TaskUpdate/SendMessage instructions from their prompts and have each agent return its complete report as its final output, collect those outputs in Step 5, then proceed to Step 7 unchanged.
+
 ### Step 3: Create the 4 tasks
 
 Use TaskCreate to create the following 4 tasks (each must have a subject, description, and activeForm):
@@ -200,7 +202,7 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report <report file name>
 ```
 
-**[Release]** all items pass → the report may be published; **[Reject]** any item fails → fix and re-audit.
+**[RELEASE]** all items pass → the report may be published; **[SEND BACK]** any item fails → fix and re-audit.
 
 ### Step 10: Clean up the team
 

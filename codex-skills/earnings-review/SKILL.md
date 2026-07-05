@@ -93,15 +93,15 @@ Must cover:
 
 ```bash
 # Cross-validate revenue and net profit (at least 2 sources)
-python3 tools/financial_rigor.py cross-validate \
+python3 ~/ai-berkshire/tools/financial_rigor.py cross-validate \
   --metric "revenue" --values 108.3e9 107.9e9 --sources "Company filing" "Yahoo Finance"
 
 # Market-cap check
-python3 tools/financial_rigor.py verify-market-cap \
+python3 ~/ai-berkshire/tools/financial_rigor.py verify-market-cap \
   --price 101 --shares 1.488e9 --reported 1.44e11 --currency USD
 
 # Valuation-metric verification
-python3 tools/financial_rigor.py verify-valuation \
+python3 ~/ai-berkshire/tools/financial_rigor.py verify-valuation \
   --price 101 --eps 9.6 --bvps 26.5 --fcf-per-share 10.2
 ```
 
@@ -221,7 +221,7 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report {report_filename}
 ```
 
-**[PASS]** All checks pass → release; **[REJECT]** Any check fails → fix and re-audit.
+**[RELEASE]** All checks pass → release; **[SEND BACK]** Any check fails → fix and re-audit.
 
 ## Key Principles
 

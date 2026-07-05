@@ -305,7 +305,7 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report <report file name>
 ```
 
-**[PASS]** all checks pass → report can be published; **[REJECT]** any check fails → fix and re-audit.
+**[RELEASE]** all checks pass → report can be published; **[SEND BACK]** any check fails → fix and re-audit.
 
 ---
 

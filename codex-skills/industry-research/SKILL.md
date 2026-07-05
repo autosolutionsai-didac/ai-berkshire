@@ -279,4 +279,4 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report <report file name>
 ```
 
-**[Release]** all pass → the report may be published; **[Reject]** any fail → fix and re-review.
+**[RELEASE]** all pass → the report may be published; **[SEND BACK]** any fail → fix and re-review.

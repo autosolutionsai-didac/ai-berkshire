@@ -422,7 +422,7 @@ python3 ~/ai-berkshire/tools/report_audit.py verdict \
   --report {report filename}
 ```
 
-**[RELEASE]** All pass → ready to publish; **[REJECT]** any fail → fix and re-audit.
+**[RELEASE]** All pass → ready to publish; **[SEND BACK]** any fail → fix and re-audit.
 
 ## Relationship to Existing Skills
 
