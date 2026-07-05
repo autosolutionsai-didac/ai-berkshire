@@ -45,10 +45,11 @@ These override any looser wording inside a sub-skill:
 | Input | Behavior |
 |-------|----------|
 | `/berkshire-skill <company/stock>` | Normal full run |
+| `/berkshire-skill <company> quick` | Fast triage: quality screen -> condensed research -> buy checklist -> condensed capstone only (see "Quick mode" below). Use it to decide whether a company is worth a full run |
 | `/berkshire-skill <company> force` | Run every phase even if the Phase 1 quality screen eliminates the company; the elimination verdict is still recorded and carried into the capstone |
 | `/berkshire-skill <company> resume` | Continue an interrupted run: adopt the run date of the most recent phase outputs in `reports/{Company}/` (today's date if none exist), skip every phase whose output file already exists for that run date, and start from the first missing phase |
 
-1. **Parse `$ARGUMENTS`** into: company name (English), ticker (if given), market (US / HK / A-share / private), and any trailing flag (`force` / `resume`).
+1. **Parse `$ARGUMENTS`** into: company name (English), ticker (if given), market (US / HK / A-share / private), and any trailing flag (`quick` / `force` / `resume`).
 2. **Resolve the listing.** If the company trades in multiple venues (e.g. Tencent = 0700.HK plus the TCEHY ADR), pick the primary listing and state the ticker, exchange, and reporting currency the entire run will use.
 3. **Detect public vs private.** If the company is unlisted (no public financials — e.g. ByteDance, SpaceX, miHoYo), take the **private-company branch** described at the end. Otherwise continue with the public-company sequence.
 4. **Create the working folder and pin the run date.** Create `reports/{Company}/` (English company name); every phase writes its output here so later phases and the capstone can read them. Set `{YYYYMMDD}` to today **once** and use it for every dated filename this run writes, even if the run spans midnight or resumes later the same day. If the folder already contains files from earlier dates, list them with their dates and treat them as **historical context only** — they are not this run's inputs (see Phase 7).
@@ -67,6 +68,13 @@ These override any looser wording inside a sub-skill:
 Run these phases in order. After each phase, show the user a one-line progress update (phase name, output file, and the 3-5 key findings). Where a sub-skill's documented output path differs (some default to the home directory), **override it to write into `reports/{Company}/`** so everything stays colocated.
 
 **Execution model (context budget):** run each of Phases 1-6 through the Task tool as background subagent(s). The subagent executes the referenced skill's workflow, writes the output file into `reports/{Company}/`, and returns **only the 3-5 key findings**. Keep just those summaries in the orchestrating session; Phase 7 re-reads the full files from disk. Do not execute the sub-skill workflows inline — a full pipeline run inline will exhaust the session context before the capstone. Phases 3 and 4 are independent of each other and may run in parallel; all other phases run in sequence. Under `resume`, skip any phase whose output file already exists for the pinned run date.
+
+**Quick mode** (`quick` flag): a triage pass that runs only three phases plus a condensed capstone, meant to answer "is this worth a full run?" in a fraction of the time.
+- **Phase 1** — quality screen, exactly as below (its hard gate still halts on elimination unless combined with `force`).
+- **Phase 2 (condensed)** — execute **`skills/investment-research.md`** (the single-agent research skill), *not* the four-agent `investment-team.md`. Output: `reports/{Company}/{Company}-research-{YYYYMMDD}.md`.
+- **Phase 5** — buy checklist, exactly as below (its integrity veto still applies).
+- **Phase 7 (condensed capstone)** — same structure but drawing only on the three phases above; skip the per-phase summaries for the phases that did not run, and state at the top that this is a **quick-triage decision, not a full pipeline run**.
+- **Skip** Phases 3 (management), 4 (earnings), and 6 (thesis). The decision report's filename is unchanged (`{Company}-decision-{YYYYMMDD}.md`) but the report notes it was produced in quick mode. If the triage looks promising, the user can run the full `/berkshire-skill <company>` (or `resume`) to deepen it.
 
 ### Phase 1 - Quality screen (elimination gate)
 
@@ -113,7 +121,7 @@ This is the report built from all the rest. Read every file **this run produced*
 4. **Per-phase summaries**: 3-5 most important findings from each of Phases 1-6.
 5. **Bull vs Bear**: 5-7 bull points and 5-7 bear points.
 6. **Buy checklist result**: the pass/fail table from Phase 5.
-7. **Final recommendation**: Buy / Hold / Avoid, with valuation range, tiered position sizing (aggressive / balanced / conservative), key catalysts (add-signals and trim-signals), and the red-line list.
+7. **Final recommendation**: Buy / Hold / Avoid, with valuation range, tiered position sizing (aggressive / balanced / conservative), key catalysts (add-signals and trim-signals), and the red-line list. **Portfolio-aware sizing:** if `reports/portfolio-latest.md` exists, read it first and frame the sizing tiers against the actual book — flag overlap with existing holdings (same sector/theme, correlated names), note how much risk budget is already committed, and say whether adding this name concentrates or diversifies the portfolio. If no portfolio file exists, size on a standalone basis and say so.
 8. **Closing paragraph** (100-200 words), including the information-richness rating and an explicit AI-research-limitations note.
 
 - Output: `reports/{Company}/{Company}-decision-{YYYYMMDD}.md`
