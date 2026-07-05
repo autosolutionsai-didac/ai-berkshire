@@ -9,3 +9,6 @@ __pycache__/
 
 # Xueqiu scraper login-state cache (contains cookies, local use only)
 /tmp/xueqiu_state.json
+
+# /berkshire-skill Phase 0 data snapshot is an intermediate working file, not a deliverable
+reports/**/data-snapshot.md
