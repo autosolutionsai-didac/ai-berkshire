@@ -1,154 +1,154 @@
-# Coherent Corp (COHR) 全维度投资研究报告
+# Coherent Corp (COHR) — Full-Dimension Investment Research Report
 
-**日期**：2026年5月12日 | **股价**：$348.69 | **市值**：$683亿 | **信息丰富度**：B级
-
----
-
-## 一句话结论
-
-Coherent是AI光通信超级周期的核心受益者，拥有独特的垂直整合能力和NVIDIA战略背书，但当前估值（Forward PE ~64x）已大幅透支未来增长，在高速增长的确定性与估值安全边际之间存在尖锐矛盾——这是一家好公司，但未必是一笔好投资。
+**Date**: May 12, 2026 | **Share price**: $348.69 | **Market cap**: $68.3 billion | **Information richness**: Grade B
 
 ---
 
-## 四维评分表
+## One-Sentence Conclusion
 
-| 维度 | 评分 | 核心判断 |
+Coherent is a core beneficiary of the AI optical-communications supercycle, with a unique vertical-integration capability and NVIDIA's strategic endorsement, but the current valuation (forward P/E ~64x) has already priced in — and arguably overdrawn — future growth, creating a sharp tension between high-growth certainty and margin of safety. This is a good company, but not necessarily a good investment.
+
+---
+
+## Four-Dimension Scorecard
+
+| Dimension | Rating | Core judgment |
 |------|------|----------|
-| 商业模式（段永平视角） | ★★★★ | 垂直整合+技术中立平台构成差异化，但业务分散 |
-| 财务与估值（巴菲特视角） | ★★☆ | 营收高速增长但GAAP仍亏损，估值极度昂贵 |
-| 行业与竞争（芒格视角） | ★★★★ | AI光通信确定性高，但中际旭创成本优势明显 |
-| 风险与管理层（李录视角） | ★★★ | Jim Anderson出色，但高杠杆+周期性风险 |
+| Business model (Duan Yongping's lens) | ★★★★ | Vertical integration + technology-neutral platform create differentiation, but the business mix is fragmented |
+| Financials & valuation (Buffett's lens) | ★★☆ | Revenue growing fast, but still GAAP loss-making; valuation extremely expensive |
+| Industry & competition (Munger's lens) | ★★★★ | High certainty for AI optical communications, but Innolight's cost advantage is clear |
+| Risk & management (Li Lu's lens) | ★★★ | Jim Anderson is excellent, but high leverage + cyclicality risk |
 
-**综合评分：3.1/5**
+**Composite score: 3.1/5**
 
 ---
 
-## 核心数据速览表
+## Core Data Snapshot
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 股价 | $348.69 |
-| 市值 | ~$683亿 |
-| FY2026E全年营收 | ~$70.6亿（+21.5%） |
-| Q3 FY2026 数据中心占比 | 77% |
-| Non-GAAP毛利率 | 39.6% |
+| Share price | $348.69 |
+| Market cap | ~$68.3 billion |
+| FY2026E full-year revenue | ~$7.06 billion (+21.5%) |
+| Q3 FY2026 data-center share of revenue | 77% |
+| Non-GAAP gross margin | 39.6% |
 | Non-GAAP FY2026E EPS | $5.48 |
-| Forward PE | ~64x |
-| GAAP TTM PE | ~165x |
-| 净杠杆比率 | 0.5x（大幅改善） |
-| Q3自由现金流 | -$5790万（负值） |
+| Forward P/E | ~64x |
+| GAAP TTM P/E | ~165x |
+| Net leverage ratio | 0.5x (dramatically improved) |
+| Q3 free cash flow | -$57.9 million (negative) |
 
 ---
 
-## 维度一：商业模式分析（段永平视角）
+## Dimension One: Business Model Analysis (Duan Yongping's Lens)
 
-### 核心竞争优势
-- **垂直整合**：从晶体生长到光模块封装的全链条
-- **技术路线中立**：同时支持SiPh、InP EML、GaAs VCSEL三条路线
-- **6英寸InP产线**：全行业最先进，良率已超3英寸线
-- **NVIDIA $20亿战略投资**：市场验证
+### Core competitive advantages
+- **Vertical integration**: the full chain from crystal growth to optical-module packaging
+- **Technology-route neutrality**: supports SiPh, InP EML, and GaAs VCSEL simultaneously
+- **6-inch InP line**: the most advanced in the industry, with yield already surpassing the 3-inch line
+- **NVIDIA's $2 billion strategic investment**: a market validation
 
-### 从II-VI到Coherent
-- 2022年~$70亿收购原Coherent，整合阵痛期FY2024营收下降
-- Jim Anderson 2024年6月上任后启动"做减法"，剥离非核心业务
-- 数据中心业务占比从<50%飙升至77%
+### From II-VI to Coherent
+- Acquired the original Coherent for ~$7 billion in 2022; the integration pains dragged FY2024 revenue down
+- Jim Anderson took the helm in June 2024 and began "subtracting" — divesting non-core businesses
+- The data-center share of revenue jumped from under 50% to 77%
 
-### SiC与光通信协同
-- 部分真实：材料科学能力共享、300mm SiC用于AI散热
-- 部分虚构：终端市场和客户群不重叠
+### SiC and optical communications: synergy or spin?
+- Partly real: shared materials-science capability; 300mm SiC is used for AI thermal management
+- Partly overstated: end markets and customer bases do not actually overlap
 
 ---
 
-## 维度二：财务与估值分析（巴菲特视角）
+## Dimension Two: Financials & Valuation Analysis (Buffett's Lens)
 
-### 营收趋势
+### Revenue trend
 
-| 财年 | 营收（$亿） | 同比增速 |
+| Fiscal year | Revenue ($B) | YoY growth |
 |------|------------|----------|
-| FY2023 | 51.6 | — |
-| FY2024 | 47.1 | -8.8% |
-| FY2025 | 58.1 | +23.4% |
-| FY2026E | ~70.6 | ~+21.5% |
+| FY2023 | 5.16 | — |
+| FY2024 | 4.71 | -8.8% |
+| FY2025 | 5.81 | +23.4% |
+| FY2026E | ~7.06 | ~+21.5% |
 
-### GAAP vs Non-GAAP差异巨大
-- FY2025 GAAP EPS: -$0.52 vs Non-GAAP EPS: $3.53
-- 差异主要来自收购产生的无形资产摊销
+### A huge gap between GAAP and Non-GAAP
+- FY2025 GAAP EPS: -$0.52 vs. Non-GAAP EPS: $3.53
+- The gap mainly comes from amortization of intangible assets created by acquisitions
 
-### FCF警示
-- Q3 FY2026自由现金流为负（-$5790万）
-- 资本开支消耗经营现金流69.6%
+### FCF warning
+- Q3 FY2026 free cash flow was negative (-$57.9 million)
+- Capital expenditure consumed 69.6% of operating cash flow
 
-### 三情景估值（Non-GAAP EPS $5.48基准）
+### Three-scenario valuation (based on Non-GAAP EPS of $5.48)
 
-| 情景 | 年增速 | 目标PE | 目标股价 | 涨跌幅 |
+| Scenario | Annual growth | Target P/E | Target price | Change |
 |------|--------|--------|---------|--------|
-| 乐观 | 30% | 45x | $541.8 | +55.4% |
-| 中性 | 20% | 30x | $284.1 | -18.5% |
-| 悲观 | 10% | 20x | $145.9 | -58.2% |
+| Bull | 30% | 45x | $541.8 | +55.4% |
+| Base | 20% | 30x | $284.1 | -18.5% |
+| Bear | 10% | 20x | $145.9 | -58.2% |
 
 ---
 
-## 维度三：行业与竞争分析（芒格视角）
+## Dimension Three: Industry & Competition Analysis (Munger's Lens)
 
-### 竞争格局
-- **中际旭创**才是行业"大象"——800G全球市占率>40%，成本优势10-20%
-- Coherent在NVIDIA供应链中仅占约20%份额
-- AAOI规模最小，Lumentum专注InP EML
+### Competitive landscape
+- **Innolight** is the real "elephant" in the room — over 40% global share in 800G, with a 10-20% cost advantage
+- Coherent holds only about 20% share within NVIDIA's supply chain
+- AAOI is the smallest player by scale; Lumentum focuses on InP EML
 
-### SiC行业
-- Coherent排第四（13.9%），中国厂商合计34.4%
-- EV需求放缓+产能过剩风险
+### The SiC industry
+- Coherent ranks fourth (13.9% share); Chinese makers combined hold 34.4%
+- EV-demand slowdown + overcapacity risk
 
-### CPO（共封装光学）
-- SAM上调至$150亿
-- Scale-out CPO收入2026年下半年开始
-- 这是NVIDIA战略投资的核心逻辑
-
----
-
-## 维度四：风险与管理层评估（李录视角）
-
-- **Jim Anderson**：战略聚焦+业务剪枝能力出色，2年内股价涨5倍
-- **债务大幅改善**：净杠杆从2.5x降至0.5x
-- **多元化风险**：工业板块（23%营收）增长乏力
-- **光通信周期性**：2000年互联网泡沫和2018-2019寒冬的教训
+### CPO (co-packaged optics)
+- SAM raised to $15 billion
+- Scale-out CPO revenue begins in the second half of 2026
+- This is the core logic behind NVIDIA's strategic investment
 
 ---
 
-## 投资论点
+## Dimension Four: Risk & Management Assessment (Li Lu's Lens)
 
-### 看多（7条）
-1. AI光通信超级周期
-2. NVIDIA $20亿战略锚定
-3. 垂直整合护城河
-4. 6英寸InP先发优势
-5. CPO新机遇$150亿SAM
-6. 资产负债表大幅改善
-7. Jim Anderson执行力
-
-### 看空（7条）
-1. Forward PE ~64x极度昂贵
-2. FCF为负
-3. 中际旭创成本碾压
-4. GAAP持续亏损
-5. 周期性风险
-6. 多元化拖累
-7. 地缘政治风险
+- **Jim Anderson**: outstanding at strategic focus and business pruning — the stock is up 5x in two years
+- **Debt dramatically improved**: net leverage down from 2.5x to 0.5x
+- **Diversification risk**: the industrial segment (23% of revenue) lacks growth momentum
+- **Cyclicality of optical communications**: the lessons of the 2000 dot-com bust and the 2018-2019 downturn
 
 ---
 
-## 最终投资建议
+## Investment Thesis
 
-| 投资者类型 | 建议 |
+### Bull case (7 points)
+1. The AI optical-communications supercycle
+2. NVIDIA's $2 billion strategic anchor
+3. The vertical-integration moat
+4. First-mover advantage in 6-inch InP
+5. The new CPO opportunity, a $15 billion SAM
+6. A dramatically improved balance sheet
+7. Jim Anderson's execution
+
+### Bear case (7 points)
+1. Forward P/E of ~64x is extremely expensive
+2. Negative FCF
+3. Innolight's cost advantage is crushing
+4. Continued GAAP losses
+5. Cyclicality risk
+6. Diversification is a drag
+7. Geopolitical risk
+
+---
+
+## Final Investment Recommendation
+
+| Investor type | Recommendation |
 |-----------|------|
-| 价值投资者 | 观望，无安全边际 |
-| 成长型投资者 | 小仓位观察 |
-| 已持有者 | 考虑部分获利了结 |
+| Value investors | Wait and watch — no margin of safety |
+| Growth investors | Small position, watch closely |
+| Existing holders | Consider taking some profits |
 
-**理想买入区间**：$180-220（Forward PE 33-40x，需回调35-50%）
+**Ideal buy range**: $180-220 (forward P/E 33-40x, requiring a 35-50% pullback)
 
 ---
 
-## AI研究局限性声明
+## AI Research Limitations Disclosure
 
-B级信息丰富度，推算数据已标注置信度。GAAP/Non-GAAP差异需审慎评估。不构成投资建议。
+Grade B information richness; extrapolated figures are flagged with confidence levels. The GAAP/Non-GAAP gap warrants careful scrutiny. Not investment advice.

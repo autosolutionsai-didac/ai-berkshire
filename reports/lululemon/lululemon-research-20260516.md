@@ -1,152 +1,152 @@
-# Lululemon（LULU）深度研究报告
+# Lululemon (LULU) In-Depth Research Report
 
-**研究日期：2026年5月16日 | 四Agent并行研究**
-**股价：$119 | 市值：$138亿 | PE(TTM)：9x | 52周高/低：$340/$119**
-
----
-
-## 一句话结论
-
-> **好公司遇到坏时候。** 品牌资产依然强大（95%全价率、60%复购率、57%毛利率），但正经历罕见的多重危机叠加——CEO空缺、创始人逼宫、北美连续7季度疲软、关税冲击。9倍PE是10年历史最低，市场在用"永远不增长"的价格出售一个仍有中国+20%增速的全球品牌。便宜是真便宜，但需要6-12个月等待不确定性消散。
+**Research date: May 16, 2026 | Four-agent parallel research**
+**Share price: $119 | Market cap: $13.8 billion | PE (TTM): 9x | 52-week high/low: $340/$119**
 
 ---
 
-## 四维评分
+## One-line conclusion
 
-| 维度 | 评分 | 核心判断 |
+> **A good company hit by a bad stretch.** The brand asset remains strong (95% full-price sell-through, 60% repurchase rate, 57% gross margin), but the company is going through a rare pile-up of crises — a vacant CEO seat, a founder's boardroom revolt, seven straight quarters of weakness in North America, and a tariff hit. At 9x PE — a 10-year low — the market is pricing in "never grows again" for a global brand that is still posting +20% growth in China. It's genuinely cheap, but it will take 6-12 months for the uncertainty to clear.
+
+---
+
+## Four-dimension scorecard
+
+| Dimension | Rating | Core judgment |
 |------|------|---------|
-| 商业模式与护城河 | ★★★☆ (3.5/5) | DTC+社区壁垒强，但正被Alo/Vuori侵蚀 |
-| 财务质量 | ★★★★ (4/5) | 毛利57%、ROE 30%+、负债低，但增速断崖 |
-| 竞争格局 | ★★★★ (7.8/10) | 仍是运动休闲头部，但品牌老化信号出现 |
-| 管理层与风险 | ★★ (2/5) | CEO真空+创始人代理权战+产品连续翻车 |
-| **综合** | **★★★** | **资产好但局面混乱** |
+| Business model & moat | ★★★☆ (3.5/5) | Strong DTC + community barrier, but being eroded by Alo/Vuori |
+| Financial quality | ★★★★ (4/5) | 57% gross margin, ROE 30%+, low debt, but growth has fallen off a cliff |
+| Competitive landscape | ★★★★ (7.8/10) | Still the leader in athleisure, but signs of brand aging are emerging |
+| Management & risk | ★★ (2/5) | CEO vacuum + founder proxy fight + repeated product missteps |
+| **Overall** | **★★★** | **Good assets, messy situation** |
 
 ---
 
-## 核心数据
+## Core data
 
-| 指标 | FY2023 | FY2024 | FY2025 | FY2026指引 |
+| Metric | FY2023 | FY2024 | FY2025 | FY2026 guidance |
 |------|--------|--------|--------|-----------|
-| 收入 | $96亿 | $106亿 | $111亿 | $113-115亿 |
-| 收入增速 | +19% | +10% | +5% | +2-4% |
-| 净利润 | $15.5亿 | $18.2亿 | $15.8亿 | ~$14亿 |
+| Revenue | $9.6 billion | $10.6 billion | $11.1 billion | $11.3-11.5 billion |
+| Revenue growth | +19% | +10% | +5% | +2-4% |
+| Net income | $1.55 billion | $1.82 billion | $1.58 billion | ~$1.4 billion |
 | EPS | $12.20 | $14.64 | $13.26 | $12.10-12.30 |
-| 毛利率 | 58.3% | 59.2% | 56.6% | ~55% |
-| 北美同店增速 | +10% | +2% | **-3%** | -1%~-3% |
-| 中国增速 | +22%+ | +30%+ | **+28%** | ~+20% |
-| 门店数 | 711 | 767 | 811 | ~855 |
-| 自由现金流 | $16.4亿 | $15.8亿 | $9.2亿 | — |
-| 回购金额 | $5.9亿 | $16.7亿 | $12.1亿 | — |
+| Gross margin | 58.3% | 59.2% | 56.6% | ~55% |
+| North America same-store growth | +10% | +2% | **-3%** | -1% to -3% |
+| China growth | +22%+ | +30%+ | **+28%** | ~+20% |
+| Store count | 711 | 767 | 811 | ~855 |
+| Free cash flow | $1.64 billion | $1.58 billion | $0.92 billion | — |
+| Buyback amount | $0.59 billion | $1.67 billion | $1.21 billion | — |
 
 ---
 
-## 为什么这么便宜？9倍PE的五层原因
+## Why so cheap? Five layers behind the 9x PE
 
-### 1. CEO空缺，5个月无主帅
-Calvin McDonald 2026年1月离职。新CEO Heidi O'Neill（前Nike高管）已任命但**9月才到岗**。在消费品行业，CEO空缺期是品牌最脆弱的时刻——战略方向悬空、组织士气动摇、竞争对手趁虚而入。
+### 1. No CEO for five months
+Calvin McDonald stepped down in January 2026. The new CEO, Heidi O'Neill (a former Nike executive), has been named but **doesn't start until September**. In the consumer goods industry, a CEO vacancy is the moment a brand is most vulnerable — strategic direction is in limbo, organizational morale wobbles, and competitors move in.
 
-### 2. 创始人发动代理权战争
-Chip Wilson（持股8.8%）公开与董事会撕裂——华尔街日报整版广告批评管理层、建网站动员股东、提名3位董事候选人。Elliott Management同时建仓$10亿推自己的CEO人选。三方博弈让治理陷入混乱。
+### 2. The founder launched a proxy fight
+Chip Wilson (an 8.8% shareholder) has gone public against the board — a full-page Wall Street Journal ad criticizing management, a website mobilizing shareholders, and three nominated director candidates. Elliott Management simultaneously built a $1 billion stake to push its own CEO candidate. The three-way struggle has thrown governance into disarray.
 
-### 3. 北美核心市场连续负增长
-美洲区（占收入72%）同店销售-3%，连续7个季度疲软。消费环境叠加Alo Yoga/Vuori蚕食，北美增长引擎失速。
+### 3. Consecutive negative growth in the core North American market
+The Americas segment (72% of revenue) posted -3% same-store sales, the seventh straight quarter of weakness. A soft consumer environment, combined with share losses to Alo Yoga/Vuori, has stalled North America's growth engine.
 
-### 4. 关税冲击利润率
-FY2026预计关税影响$3.8亿，Q4毛利率已被拉低550个基点。即使管理层采取缓解措施（转移供应链+涨价），净影响仍有$2.2亿。
+### 4. Tariffs hitting margins
+FY2026 tariff impact is projected at $380 million, and Q4 gross margin has already been dragged down by 550 basis points. Even with mitigation measures from management (supply-chain shifts + price increases), the net impact is still $220 million.
 
-### 5. 连续产品翻车
-2024年"Breezethrough"因差评下架，2026年1月"Get Low"因透视问题3天下架——核心品类连续失手，品牌"产品卓越"的形象受损。
-
----
-
-## 为什么可能是机会？
-
-### 1. 品牌资产没有被摧毁
-- 95%全价售罄率（服装行业极罕见）
-- 60%复购率，客户终身价值$1,850
-- 全球2,000+品牌大使社区仍在运转
-- 中国区+28%证明品牌在新市场仍有强大吸引力
-
-### 2. EPS没有崩塌，只是估值崩了
-- FY2025 EPS $13.26，仅比峰值$14.64低9%
-- 但PE从70x压到9x——这是75%的估值压缩，只有9%的盈利下滑
-- 如果PE仅回升到20x（仍远低于历史均值），股价就是$265（+123%）
-
-### 3. 中国市场空间巨大
-- 目前仅170家门店，vs Nike中国6,000+
-- 中国收入占比从0到16%只用了6年
-- 管理层目标20%+，潜在空间至30%
-
-### 4. 回购持续缩减股本
-- 5年累计回购超$48亿
-- 流通股从1.28亿降至1.16亿（-9.4%）
-- 9倍PE下回购的EPS增厚效果极为显著
+### 5. Repeated product missteps
+The "Breezethrough" line was pulled in 2024 after poor reviews; "Get Low" was pulled after just 3 days in January 2026 due to a sheerness issue — repeated failures in core categories have dented the brand's "product excellence" image.
 
 ---
 
-## 10年利润预测
+## Why might this be an opportunity?
 
-| 情景 | 概率 | 2036年净利润 | 2036年EPS | 给予PE | 目标股价 | 年化回报 |
+### 1. The brand asset hasn't been destroyed
+- 95% full-price sell-through rate (extremely rare in apparel)
+- 60% repurchase rate, customer lifetime value of $1,850
+- A global community of 2,000+ brand ambassadors is still running
+- China's +28% proves the brand still has strong appeal in new markets
+
+### 2. EPS hasn't collapsed — only the valuation has
+- FY2025 EPS was $13.26, only 9% below the peak of $14.64
+- But PE has compressed from 70x to 9x — that's a 75% valuation compression against just a 9% earnings decline
+- If PE merely recovers to 20x (still well below the historical average), the stock would be $265 (+123%)
+
+### 3. Huge room to grow in China
+- Only 170 stores today, vs. 6,000+ for Nike in China
+- China's share of revenue went from 0 to 16% in just 6 years
+- Management targets 20%+, with potential upside to 30%
+
+### 4. Buybacks continue to shrink the share count
+- Cumulative buybacks of over $4.8 billion over 5 years
+- Shares outstanding down from 128 million to 116 million (-9.4%)
+- At 9x PE, the EPS-accretive effect of buybacks is extremely significant
+
+---
+
+## 10-year earnings forecast
+
+| Scenario | Probability | 2036 net income | 2036 EPS | Assigned PE | Target price | Annualized return |
 |------|------|-------------|-----------|--------|---------|---------|
-| 乐观（中国爆发+北美复苏） | 20% | $46亿 | $46 | 20x | $920 | 23% |
-| 中性（稳步国际化+北美平稳） | 55% | $31亿 | $29 | 18x | $522 | 16% |
-| 悲观（品牌老化+北美持续弱） | 25% | $18亿 | $16 | 15x | $240 | 7% |
-| **概率加权** | | | | | **$460** | **14.5%** |
+| Bull (China boom + North America recovery) | 20% | $4.6 billion | $46 | 20x | $920 | 23% |
+| Base (steady internationalization + stable North America) | 55% | $3.1 billion | $29 | 18x | $522 | 16% |
+| Bear (brand aging + persistent North America weakness) | 25% | $1.8 billion | $16 | 15x | $240 | 7% |
+| **Probability-weighted** | | | | | **$460** | **14.5%** |
 
-**即使悲观情景（25%概率），年化回报仍有7%。** 这说明下行保护充足。
-
----
-
-## 最大的确定性和不确定性
-
-### 确定的
-- 运动休闲赛道本身仍在增长（全球CAGR 7-9%）
-- 中国市场3-5年内仍是高速增长引擎
-- 品牌资产（社区+DTC+面料技术）短期不会消失
-- 公司有钱（负债低、现金流正、持续回购）
-
-### 不确定的
-- 新CEO能否扭转北美局面（9月才到岗，真正见效要2027年）
-- Chip Wilson代理权战争的结局（6月股东大会）
-- "品牌老化"是周期性还是结构性（Alo/Vuori能否真正取代Lulu的地位）
-- 关税是否长期化（中美贸易关系走向）
+**Even in the bear scenario (25% probability), the annualized return is still 7%.** This suggests ample downside protection.
 
 ---
 
-## 与7家公司对比中的位置
+## The biggest certainties and uncertainties
 
-| 维度 | Lululemon | vs 腾讯 | vs 拼多多 |
+### What's certain
+- The athleisure category itself is still growing (global CAGR of 7-9%)
+- China will remain a high-growth engine for the next 3-5 years
+- The brand asset (community + DTC + fabric technology) won't disappear in the short term
+- The company has money (low debt, positive cash flow, ongoing buybacks)
+
+### What's uncertain
+- Whether the new CEO can turn around North America (doesn't start until September; real results won't show until 2027)
+- The outcome of Chip Wilson's proxy fight (the June shareholder meeting)
+- Whether "brand aging" is cyclical or structural (can Alo/Vuori truly displace Lululemon's position)
+- Whether tariffs become a permanent fixture (the direction of US-China trade relations)
+
+---
+
+## Position relative to seven comparable companies
+
+| Dimension | Lululemon | vs. Tencent | vs. Pinduoduo |
 |------|-----------|---------|----------|
 | PE | 9x | 22x | 10x |
-| 增速 | +5%（放缓中） | +9%（稳健） | +10%（放缓中） |
-| 护城河 | 品牌+社区（中强） | 社交图谱（极强） | 低价心智（中等） |
-| 管理层 | 2/5（真空期） | 4/5（稳定） | 3/5（黑箱） |
-| 10年年化回报 | ~14.5%（加权） | ~11.6% | ~9.5% |
-| 确定性 | 低-中 | 较高 | 中偏低 |
-| 适合什么人 | 能等12个月不确定性消散的逆向投资者 | 长期稳健型 | 相信Temu的赌徒 |
+| Growth | +5% (slowing) | +9% (steady) | +10% (slowing) |
+| Moat | Brand + community (medium-strong) | Social graph (very strong) | Low-price mindshare (medium) |
+| Management | 2/5 (vacuum period) | 4/5 (stable) | 3/5 (opaque) |
+| 10-year annualized return | ~14.5% (weighted) | ~11.6% | ~9.5% |
+| Certainty | Low-medium | Relatively high | Medium-low |
+| Suited for | Contrarian investors who can wait 12 months for the uncertainty to clear | Long-term steady investors | Those who believe in the Temu bet |
 
-**Lululemon的隐含回报率最高（14.5%），但确定性最低。** 这是一个经典的"高赔率+低胜率"标的——赔率好是因为市场极度悲观，但胜率低是因为确实有可能品牌不可逆衰退。
-
----
-
-## 投资结论
-
-**当前$119是过去10年最好的价格。但"最好的价格"不等于"现在就该买"。**
-
-**适合买入的条件**（至少满足2条）：
-1. 你能容忍6-12个月内继续浮亏20-30%
-2. 你相信运动休闲品牌的生命周期比时尚品牌长（更像Nike而非Abercrombie）
-3. 你愿意等到新CEO到岗+代理权战争结束后再验证方向
-4. 你的仓位不超过组合的10%
-
-**不适合买入的条件**：
-- 你需要12个月内看到回报
-- 你无法判断"品牌老化"是否不可逆
-- 你对北美消费市场没有独立观点
-
-**如果要买，建议分批**：$119附近首批（1/3仓位）→ 新CEO正式到岗后观察1-2季度再加仓。
+**Lululemon has the highest implied return (14.5%) but the lowest certainty.** This is a classic "high odds, low hit-rate" case — the odds are good because the market is extremely pessimistic, but the hit rate is low because irreversible brand decline is a genuine possibility.
 
 ---
 
-*数据来源：Lululemon FY2025年报、StockAnalysis、MacroTrends、GuruFocus、Piper Sandler调查、CNBC、Fortune、Bloomberg*
-*不构成投资建议*
+## Investment conclusion
+
+**The current $119 is the best price in the past 10 years. But "the best price" doesn't mean "buy now."**
+
+**Conditions favoring a buy** (at least 2 should be met):
+1. You can tolerate a further 20-30% unrealized loss over 6-12 months
+2. You believe athleisure brands have a longer life cycle than fashion brands (more like Nike than Abercrombie)
+3. You're willing to wait until the new CEO is in place and the proxy fight is resolved before confirming the direction
+4. Your position size doesn't exceed 10% of your portfolio
+
+**Conditions against buying**:
+- You need to see returns within 12 months
+- You can't judge whether "brand aging" is reversible
+- You have no independent view on the North American consumer market
+
+**If buying, consider phasing in**: an initial tranche (1/3 position) around $119 → add after observing 1-2 quarters once the new CEO is officially in place.
+
+---
+
+*Sources: Lululemon FY2025 Annual Report, StockAnalysis, MacroTrends, GuruFocus, Piper Sandler survey, CNBC, Fortune, Bloomberg*
+*Not investment advice*

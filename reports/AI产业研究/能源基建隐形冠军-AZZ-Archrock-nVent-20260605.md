@@ -1,398 +1,398 @@
-# AI能源基建隐形冠军：AZZ / Archrock / nVent 深度研究
+# AI Energy-Infrastructure Hidden Champions: A Deep Dive on AZZ / Archrock / nVent
 
-> 研究日期：2026年6月5日
-> 核心逻辑：AI产业链的真正瓶颈不在芯片，而在电力基础设施。当市场把所有AI溢价给了英伟达和Vertiv，这三家"卖铲子的人"被完全忽略了。
+> Research date: June 5, 2026
+> Core thesis: The real bottleneck in the AI value chain isn't chips — it's power infrastructure. While the market has handed the entire AI premium to Nvidia and Vertiv, these three "pick-and-shovel" companies have been almost completely overlooked.
 
 ---
 
-## 一、AZZ Inc.（NYSE: AZZ）—— 热镀锌之王，被市场遗忘的AI基建"地基"
+## 1. AZZ Inc. (NYSE: AZZ) — The King of Hot-Dip Galvanizing, the Forgotten "Foundation" of AI Infrastructure
 
-### 1. 瓶颈定位：为什么热镀锌是AI基建绕不开的一环
+### 1.1 Bottleneck positioning: why hot-dip galvanizing is an unavoidable link in AI infrastructure
 
-一个容易被忽视的事实：**每一座变电站、每一根输电塔、每一个数据中心的钢结构，都必须经过热镀锌防腐处理。**
+An easily overlooked fact: **every substation, every transmission tower, and every data center's steel structure must go through hot-dip galvanizing anti-corrosion treatment.**
 
-AI数据中心的建设不只是买GPU、装服务器。一个100MW级别的超大规模数据中心，需要专用变电站、高压输电线路、钢结构厂房、电缆桥架、冷却塔支架——这些全部是钢铁构件，全部需要热镀锌。没有热镀锌，钢铁在5-10年内就会锈蚀报废，而数据中心设计寿命通常是25-30年。
+Building an AI data center isn't just about buying GPUs and racking servers. A 100MW-class hyperscale data center needs dedicated substations, high-voltage transmission lines, steel-frame buildings, cable trays, and cooling-tower supports — all of these are steel components, and all of them require hot-dip galvanizing. Without it, steel would rust and fail within 5-10 years, while a data center's design life is typically 25-30 years.
 
-AZZ是北美最大的独立热镀锌服务商，拥有约25-30%的市场份额（来源：Mordor Intelligence/MarkWide Research行业报告）。全美42个热镀锌工厂，形成密集的地理覆盖网络。热镀锌的特殊性在于：钢结构件体积大、运输成本高，客户倾向于选择距离最近的镀锌厂。这意味着AZZ的全国网络本身就是一条护城河——新建一个镀锌厂需要环保审批、锌锅设备、技术工人，周期2-3年。
+AZZ is North America's largest independent hot-dip galvanizing service provider, holding roughly 25-30% market share (source: Mordor Intelligence / MarkWide Research industry reports). It operates 42 galvanizing plants across the US, forming a dense geographic coverage network. The peculiarity of hot-dip galvanizing is that steel components are bulky and expensive to transport, so customers tend to choose the nearest galvanizing plant. That means AZZ's national network is itself a moat — building a new galvanizing plant requires environmental permitting, zinc-kettle equipment, and skilled labor, a process that takes 2-3 years.
 
-**市场为什么没给AI逻辑定价？** 原因很简单：热镀锌太"传统"了。华尔街的AI主题基金经理根本不会去研究一家镀锌公司。AZZ的投资者群体主要是工业/材料基金，他们关注的是建筑周期，不是AI算力扩张。这就是信息差。
+**Why hasn't the market priced in the AI logic?** The reason is simple: hot-dip galvanizing is too "traditional." Wall Street's AI-themed fund managers simply aren't going to research a galvanizing company. AZZ's investor base is mostly industrial/materials funds, who focus on the construction cycle, not AI compute expansion. That's the information gap.
 
-### 2. 核心财务数据（FY2026，截至2026年2月28日）
+### 1.2 Core financial data (FY2026, ended February 28, 2026)
 
-| 指标 | FY2026 | FY2025 | 同比变化 |
+| Metric | FY2026 | FY2025 | YoY Change |
 |------|--------|--------|----------|
-| 总营收 | $16.5亿 | $15.78亿 | +4.6% |
-| 金属涂层（热镀锌）营收 | $7.587亿 | $6.649亿 | **+14.1%** |
-| Precoat Metals营收 | $8.914亿 | $9.126亿 | -2.3% |
-| 净利润 | $3.173亿 | $1.288亿 | **+146.3%** |
-| 调整后净利润 | $1.871亿 | $1.569亿 | +19.3% |
-| 调整后稀释EPS | $6.19 | $5.20 | +19.0% |
-| 调整后EBITDA | $3.676亿 | $3.377亿 | +8.9% |
-| 调整后EBITDA利润率 | 22.3% | 21.4% | +90bps |
-| 经营现金流 | $5.254亿 | — | — |
-| 净杠杆率 | 1.4x | 2.5x | 大幅下降 |
-| 偿还债务 | $3.853亿 | — | — |
+| Total revenue | $1.65 billion | $1.578 billion | +4.6% |
+| Metal Coatings (hot-dip galvanizing) revenue | $758.7 million | $664.9 million | **+14.1%** |
+| Precoat Metals revenue | $891.4 million | $912.6 million | -2.3% |
+| Net income | $317.3 million | $128.8 million | **+146.3%** |
+| Adjusted net income | $187.1 million | $156.9 million | +19.3% |
+| Adjusted diluted EPS | $6.19 | $5.20 | +19.0% |
+| Adjusted EBITDA | $367.6 million | $337.7 million | +8.9% |
+| Adjusted EBITDA margin | 22.3% | 21.4% | +90bps |
+| Operating cash flow | $525.4 million | — | — |
+| Net leverage ratio | 1.4x | 2.5x | Sharp decline |
+| Debt repaid | $385.3 million | — | — |
 
-*来源：AZZ Inc. FY2026 Q4财报（2026年4月22日发布），prnewswire.com*
+*Source: AZZ Inc. FY2026 Q4 earnings (released April 22, 2026), prnewswire.com*
 
-**关键解读：**
-- 金属涂层业务（热镀锌）增长14.1%，是真正的增长引擎，驱动力来自电力传输配电、数据中心、工业终端市场的持续强劲需求
-- 净利润暴增146%有AVAIL合资企业分红的一次性贡献（$2.732亿现金分配），但调整后EPS增长19%依然扎实
-- 经营现金流$5.254亿，覆盖全部可变利率债务$5.15亿，现金造血能力极强
-- 净杠杆率从2.5x暴降至1.4x，资产负债表快速修复
+**Key takeaways:**
+- The Metal Coatings (hot-dip galvanizing) business grew 14.1%, the real growth engine, driven by sustained strong demand from power transmission/distribution, data centers, and industrial end markets
+- The 146% net income surge includes a one-time contribution from an AVAIL joint-venture distribution ($273.2 million in cash distributions), but the 19% growth in adjusted EPS is still solid
+- Operating cash flow of $525.4 million covers all $515 million of variable-rate debt — very strong cash-generation ability
+- Net leverage fell sharply from 2.5x to 1.4x, a rapid balance-sheet repair
 
-### 3. Precoat Metals业务分析
+### 1.3 Precoat Metals business analysis
 
-Precoat Metals是AZZ在2022年以$12.8亿收购的卷板涂层业务（原属于Sequa Corporation），是北美最大的金属卷材涂层服务商。
+Precoat Metals is the coil-coating business AZZ acquired in 2022 for $1.28 billion (formerly part of Sequa Corporation), and it is North America's largest metal-coil coating service provider.
 
-**商业模式：** 为钢铁和铝材提供涂层服务，应用于建筑面板、家电、HVAC、集装箱等领域。这是一个"来料加工"模式——客户送来钢卷，Precoat涂层后送回，赚加工费。
+**Business model:** Provides coating services for steel and aluminum, used in building panels, appliances, HVAC, and containers. It's a "toll processing" model — customers ship in steel coils, Precoat coats them and ships them back, earning a processing fee.
 
-**FY2026表现不佳的原因：** 营收下降2.3%，主要受住宅建筑市场疲软和部分家电需求放缓影响。但Precoat Metals的调整后EBITDA利润率达到19.8%，盈利能力稳健。
+**Reason for the FY2026 underperformance:** Revenue fell 2.3%, mainly due to weakness in the residential construction market and a slowdown in some appliance demand. Still, Precoat Metals' adjusted EBITDA margin reached 19.8%, a solid level of profitability.
 
-**对整体投资论点的影响：** Precoat Metals是"稳定器"而非"增长引擎"。它提供稳定现金流，帮助偿还收购债务。真正的AI故事在金属涂层业务。
+**Impact on the overall investment thesis:** Precoat Metals is a "stabilizer" rather than a "growth engine." It provides steady cash flow that helps pay down acquisition-related debt. The real AI story lies in the Metal Coatings business.
 
-### 4. FY2027展望
+### 1.4 FY2027 outlook
 
-| 指标 | FY2027指引 |
+| Metric | FY2027 Guidance |
 |------|-----------|
-| 营收 | $17.25亿-$17.75亿（+5-8%）|
-| 调整后EBITDA | $3.6亿-$4.0亿 |
-| 调整后稀释EPS | $6.50-$7.00（+5-13%）|
-| 资本开支 | $8000万-$1亿（增长用于产能扩张）|
-| 债务偿还 | $1.3亿-$1.7亿 |
+| Revenue | $1.725-$1.775 billion (+5-8%) |
+| Adjusted EBITDA | $360-$400 million |
+| Adjusted diluted EPS | $6.50-$7.00 (+5-13%) |
+| Capital expenditures | $80-$100 million (growth capex for capacity expansion) |
+| Debt repayment | $130-$170 million |
 
-*来源：AZZ Inc. FY2027指引（2026年4月22日发布），stocktitan.net*
+*Source: AZZ Inc. FY2027 guidance (released April 22, 2026), stocktitan.net*
 
-华盛顿州密苏里新工厂将在FY2027开始贡献增量收益。管理层明确表示，2026年数据中心项目进入施工阶段的数量将增加，AI数据中心是"结构性、多年期的顺风"。
+The new plant in Washington State (Missouri) will begin contributing incremental revenue in FY2027. Management explicitly stated that the number of data center projects entering the construction phase would increase in 2026, calling AI data centers a "structural, multi-year tailwind."
 
-### 5. 估值分析
+### 1.5 Valuation analysis
 
-| 估值指标 | AZZ | Valmont Industries (VMI) | Nucor (NUE) |
+| Valuation Metric | AZZ | Valmont Industries (VMI) | Nucor (NUE) |
 |---------|-----|--------------------------|-------------|
 | P/E (TTM) | ~13x | ~22x | ~14x |
 | EV/EBITDA | ~10x | ~14x | ~7x |
-| 营收增速 | +4.6% | ~5% | 负增长 |
-| EBITDA利润率 | 22.3% | ~16% | ~15% |
+| Revenue growth | +4.6% | ~5% | Negative growth |
+| EBITDA margin | 22.3% | ~16% | ~15% |
 
-AZZ当前P/E约13x，对应FY2027中值EPS $6.75，股价约$88。但最近股价已涨至$151高位（2026年5月11日创历史新高），意味着市场已开始部分定价这个逻辑。按$150股价和FY2027 EPS $6.75计算，前瞻P/E约22x。
+AZZ's current P/E of about 13x, applied to the midpoint FY2027 EPS of $6.75, implies a share price of about $88. But the stock has recently climbed to a high of $151 (a new all-time high on May 11, 2026), meaning the market has already begun to partially price in this logic. At a $150 share price and FY2027 EPS of $6.75, the forward P/E is about 22x.
 
-**估值判断：** AZZ在$150+的价位已不再是"极度低估"。如果从P/E 13x的角度看（基于TTM盈利，其中包含合资企业一次性收益），市场确实没给AI逻辑完全定价。但前瞻P/E 22x已接近合理区间上沿。真正的机会窗口可能在$120以下。
+**Valuation verdict:** At $150+, AZZ is no longer "deeply undervalued." Viewed from a TTM P/E of 13x (which includes a one-time joint-venture gain), the market indeed hasn't fully priced in the AI logic. But a forward P/E of 22x is already near the upper end of a reasonable range. The real window of opportunity may be below $120.
 
-### 6. 护城河评估：B+
+### 1.6 Moat assessment: B+
 
-- **网络效应/规模壁垒（强）：** 42个工厂的地理覆盖网络，新进入者需2-3年建厂+环保审批
-- **转换成本（中）：** 热镀锌是标准化服务，但地理距离和可靠性是客户选择的核心因素
-- **品牌/声誉（中）：** 39年连续盈利，行业口碑扎实
-- **定价权（中）：** 能通过锌价附加费机制传导成本，但大客户有议价能力
+- **Network effects / scale barrier (strong):** A geographic network of 42 plants; new entrants need 2-3 years to build a plant plus obtain environmental permits
+- **Switching costs (medium):** Hot-dip galvanizing is a standardized service, but geographic distance and reliability are the core factors in customer selection
+- **Brand/reputation (medium):** 39 consecutive years of profitability, a solid industry reputation
+- **Pricing power (medium):** Able to pass through cost via a zinc-price surcharge mechanism, but large customers retain bargaining power
 
-### 7. 风险提示
+### 1.7 Risk factors
 
-1. **关税风险：** 钢铁关税波动可能影响下游建设需求，间接影响镀锌量
-2. **锌价波动：** 锌是核心原材料，价格波动直接影响成本（虽有传导机制但有时滞）
-3. **Precoat Metals增长乏力：** 住宅建筑周期如持续疲软，拖累整体增速
-4. **利率风险：** 约一半债务为浮动利率，锌价互换仅覆盖到2027年6月
-5. **估值已部分反映：** 股价已从一年前大幅上涨，短期回调风险存在
+1. **Tariff risk:** Fluctuations in steel tariffs could affect downstream construction demand, indirectly affecting galvanizing volume
+2. **Zinc price volatility:** Zinc is the core raw material; price swings directly affect costs (though there is a pass-through mechanism, it has a lag)
+3. **Weak growth at Precoat Metals:** If the residential construction cycle remains weak, it will drag on overall growth
+4. **Interest-rate risk:** Roughly half of debt is floating-rate, and the zinc-price swap only covers through June 2027
+5. **Valuation already partly reflects the thesis:** The stock has risen sharply from a year ago, and short-term pullback risk exists
 
-### 8. 催化剂
+### 1.8 Catalysts
 
-1. **数据中心建设高峰（2026-2028）：** 管理层明确表示数据中心项目加速进入施工阶段
-2. **电网升级周期：** 美国电网老化+AI用电需求=变电站/输电塔大规模建设
-3. **华盛顿新工厂投产：** FY2027增量产能释放
-4. **继续去杠杆：** 杠杆率降至1.0-2.0x后，可能增加分红或回购
-5. **被AI主题资金"发现"：** 一旦卖方分析师开始把AZZ纳入"AI基建受益股"框架，估值重估空间巨大
+1. **Data center construction peak (2026-2028):** Management has explicitly stated that data center projects are accelerating into the construction phase
+2. **Grid upgrade cycle:** Aging US power grid + AI electricity demand = large-scale construction of substations/transmission towers
+3. **Washington plant ramp-up:** Incremental capacity release in FY2027
+4. **Continued deleveraging:** Once leverage falls to 1.0-2.0x, dividends or buybacks may increase
+5. **"Discovery" by AI-themed capital:** Once sell-side analysts start including AZZ in the "AI infrastructure beneficiary" framework, there is significant room for valuation re-rating
 
-### 9. 结论
+### 1.9 Conclusion
 
-**评级：观望（等待回调买入）**
+**Rating: Watch (wait for a pullback to buy)**
 
-AZZ的AI基建逻辑完全成立——热镀锌是数据中心和电网建设的刚需环节，AZZ是北美绝对龙头。财务面极其健康：22%+ EBITDA利润率、快速去杠杆、强劲现金流。问题在于时机——股价已在$150附近创新高，前瞻P/E 22x不算便宜。理想买入区间在$110-$125（前瞻P/E 16-18x）。如果大盘回调或AZZ因单季度业绩波动而下跌，是绝佳买入机会。
+AZZ's AI infrastructure thesis fully holds up — hot-dip galvanizing is a rigid-demand link in data center and grid construction, and AZZ is the undisputed leader in North America. The financials are extremely healthy: 22%+ EBITDA margin, rapid deleveraging, strong cash flow. The problem is timing — the stock has made a new high near $150, and a forward P/E of 22x isn't cheap. The ideal buy range is $110-$125 (forward P/E of 16-18x). If the broader market corrects or AZZ falls due to a single quarter's earnings volatility, that would be an excellent buying opportunity.
 
 ---
 
-## 二、Archrock（NYSE: AROC）—— AI电力供应链的"心脏泵"
+## 2. Archrock (NYSE: AROC) — The "Heart Pump" of the AI Power Supply Chain
 
-### 1. 瓶颈定位：天然气压缩为什么是AI算力的命脉
+### 2.1 Bottleneck positioning: why natural gas compression is the lifeline of AI compute
 
-一个被市场严重低估的逻辑链：
+A logic chain severely underappreciated by the market:
 
-**AI数据中心需要电 → 短期内电主要靠天然气发电 → 天然气从页岩气田到电厂需要压缩输送 → Archrock是美国最大的合同压缩服务商。**
+**AI data centers need electricity → in the near term, electricity mostly comes from natural gas power plants → natural gas needs compression to move from shale gas fields to power plants → Archrock is the largest contract compression service provider in the US.**
 
-这条逻辑链每一环都是刚性需求。美国新批准的AI数据中心，绝大多数配套的是天然气发电厂（核电审批太慢，可再生能源不够稳定）。IEA预测美国2026年天然气发电量将连续第六年创新高。而天然气从Permian盆地、Haynesville页岩等产区输送到电厂，管道中的压力必须靠压缩机站维持。
+Every link in this chain is rigid demand. The vast majority of newly approved AI data centers in the US are paired with natural gas power plants (nuclear approval is too slow, renewables aren't stable enough). The IEA projects that US natural gas power generation will hit a new record for a sixth consecutive year in 2026. And to move natural gas from the Permian Basin, the Haynesville Shale, and other producing regions to power plants, pipeline pressure must be maintained by compressor stations.
 
-Archrock不卖压缩机设备，而是提供"压缩即服务"——在客户现场部署、运维压缩机组，按月收费。这是一个类似租赁的商业模式，收入高度可预测。
+Archrock doesn't sell compressor equipment — it provides "compression as a service," deploying and operating compressor units on customer sites and charging monthly fees. This is a leasing-like business model with highly predictable revenue.
 
-### 2. 竞争地位
+### 2.2 Competitive positioning
 
-| 排名 | 公司 | 市场份额（外包压缩市场） | 总马力 |
+| Rank | Company | Market Share (Contract Compression Market) | Total Horsepower |
 |------|------|--------------------------|--------|
-| 1 | **Archrock (AROC)** | **~30%** | **450万+** |
-| 2 | Kodiak Gas Services (KGS) | ~17% | ~280万 |
-| 3 | USA Compression (USAC) | ~15% | ~420万 |
-| 4 | Natural Gas Services (NGS) | ~5% | ~50万 |
+| 1 | **Archrock (AROC)** | **~30%** | **4.5 million+** |
+| 2 | Kodiak Gas Services (KGS) | ~17% | ~2.8 million |
+| 3 | USA Compression (USAC) | ~15% | ~4.2 million |
+| 4 | Natural Gas Services (NGS) | ~5% | ~500,000 |
 
-*来源：Pestel Analysis行业研究、公司财报*
+*Source: Pestel Analysis industry research, company filings*
 
-Archrock在合同压缩服务市场占据约30%份额，是绝对的行业老大。此外，Archrock在"生产商自有压缩设备的售后服务市场"占有高达70%的份额，这个售后服务业务利润率极高且极具粘性。
+Archrock holds about 30% share of the contract compression services market, making it the undisputed industry leader. In addition, Archrock holds as much as 70% share of the "aftermarket services for producer-owned compression equipment" market — an aftermarket business with extremely high margins and stickiness.
 
-**95%+利用率的深层含义：**
-- 行业产能已满载运行，新增需求只能靠新建压缩机组满足（交付周期12-18个月）
-- 客户"抢设备"的局面下，Archrock有定价权——每马力月租金持续上涨
-- 闲置率极低意味着几乎每台设备都在产生现金流
-- 新进入者难以快速扩张产能来抢市场
+**The deeper meaning of 95%+ utilization:**
+- The industry is running at full capacity — new demand can only be met by building new compressor units (delivery lead time of 12-18 months)
+- With customers "fighting over equipment," Archrock has pricing power — the monthly rental rate per horsepower keeps rising
+- Extremely low idle rates mean nearly every unit is generating cash flow
+- New entrants find it difficult to quickly expand capacity to compete for market share
 
-### 3. 核心财务数据
+### 2.3 Core financial data
 
-| 指标 | 2025全年 | 2024全年 | 同比变化 |
+| Metric | Full Year 2025 | Full Year 2024 | YoY Change |
 |------|----------|----------|----------|
-| 营收 | $14.898亿 | $11.576亿 | **+28.7%** |
-| 净利润 | $3.223亿 | $1.722亿 | **+87.2%** |
+| Revenue | $1.4898 billion | $1.1576 billion | **+28.7%** |
+| Net income | $322.3 million | $172.2 million | **+87.2%** |
 | EPS | $1.83 | $1.05 | +74.3% |
-| 调整后EBITDA | $9.009亿 | $5.954亿 | **+51.3%** |
+| Adjusted EBITDA | $900.9 million | $595.4 million | **+51.3%** |
 
-| 指标 | Q1 2026 | Q1 2025 | 同比变化 |
+| Metric | Q1 2026 | Q1 2025 | YoY Change |
 |------|---------|---------|----------|
-| 营收 | $3.738亿 | $3.472亿 | +7.7% |
-| 净利润 | $7380万 | $7090万 | +4.1% |
+| Revenue | $373.8 million | $347.2 million | +7.7% |
+| Net income | $73.8 million | $70.9 million | +4.1% |
 | EPS | $0.41 | $0.40 | +2.5% |
-| 调整后EBITDA | $2.21亿 | $1.978亿 | +11.7% |
-| 利用率 | 95% | 95% | 持平 |
-| 总运营马力 | 450万 | 430万 | +4.7% |
+| Adjusted EBITDA | $221 million | $197.8 million | +11.7% |
+| Utilization rate | 95% | 95% | Flat |
+| Total operating horsepower | 4.5 million | 4.3 million | +4.7% |
 
-*来源：Archrock SEC 8-K文件（2026年2月、5月发布）*
+*Source: Archrock SEC 8-K filings (released February, May 2026)*
 
-| 现金流与分红 | Q1 2026 | Q4 2025 |
+| Cash Flow & Dividends | Q1 2026 | Q4 2025 |
 |-------------|---------|---------|
-| 调整后自由现金流 | $9200万 | $2亿 |
-| 每股季度分红 | $0.22 | $0.22 |
-| 分红覆盖倍数 | 3.5x | 4.9x |
-| 年化股息率 | ~2.45% | — |
+| Adjusted free cash flow | $92 million | $200 million |
+| Quarterly dividend per share | $0.22 | $0.22 |
+| Dividend coverage ratio | 3.5x | 4.9x |
+| Annualized dividend yield | ~2.45% | — |
 
-**2026年全年指引：**
-- 净利润：$3.06亿-$3.56亿
-- 调整后EBITDA：$8.65亿-$9.15亿
-- 增长资本开支：$2.5亿-$2.75亿（用于新建压缩机组）
-- 目标杠杆率：维持3.0x以下（当前2.6x）
+**Full-year 2026 guidance:**
+- Net income: $306-$356 million
+- Adjusted EBITDA: $865-$915 million
+- Growth capital expenditures: $250-$275 million (for building new compressor units)
+- Target leverage ratio: maintain below 3.0x (currently 2.6x)
 
-### 4. 收购整合战略
+### 2.4 Acquisition and consolidation strategy
 
-Archrock近两年在积极整合市场：
+Archrock has been actively consolidating the market over the past two years:
 
-- **2024年：** 收购TOPS（Total Operations and Production Services），新增约58万马力电驱压缩设备
-- **2025年5月：** 完成收购Natural Gas Compression Systems（NGCS），交易额$3.57亿，立即增厚EPS和每股可分配现金
+- **2024:** Acquired TOPS (Total Operations and Production Services), adding about 580,000 horsepower of electric-drive compression equipment
+- **May 2025:** Completed the acquisition of Natural Gas Compression Systems (NGCS) for $357 million, immediately accretive to EPS and per-share distributable cash flow
 
-注意：用户提到的"J-W Power收购"在公开信息中未找到证据。J-W Power Company是Archrock的竞争对手，目前仍为独立运营。如果未来Archrock收购J-W Power，将进一步巩固其市场垄断地位。
+Note: No evidence was found in public information for the "J-W Power acquisition" referenced by the user. J-W Power Company is a competitor of Archrock and currently remains an independent operator. If Archrock were to acquire J-W Power in the future, it would further cement its market dominance.
 
-### 5. 估值对比USA Compression
+### 2.5 Valuation comparison with USA Compression
 
-| 估值指标 | Archrock (AROC) | USA Compression (USAC) |
+| Valuation Metric | Archrock (AROC) | USA Compression (USAC) |
 |---------|-----------------|------------------------|
-| 股价 | ~$38.6 | ~$27.6 |
+| Share price | ~$38.6 | ~$27.6 |
 | P/E (TTM) | ~21x | ~29-39x |
 | EV/EBITDA | ~8.5x | ~9-10x |
-| 股息率 | ~2.45% | ~7.46% |
-| 分红覆盖倍数 | 3.5x | ~1.5x |
-| 杠杆率 | 2.6x | 更高 |
-| 利用率 | 95% | ~93% |
-| 市场地位 | #1 | #3 |
+| Dividend yield | ~2.45% | ~7.46% |
+| Dividend coverage ratio | 3.5x | ~1.5x |
+| Leverage ratio | 2.6x | Higher |
+| Utilization rate | 95% | ~93% |
+| Market position | #1 | #3 |
 
-**对比结论：** Archrock在估值上比USAC更便宜（EV/EBITDA 8.5x vs 9-10x），而基本面明显更强——市场份额第一、利用率更高、分红覆盖倍数更健康（3.5x vs 1.5x）、杠杆率更低。USAC的高股息率（7.46%）看起来诱人，但分红覆盖倍数只有1.5x，可持续性存疑。
+**Comparison conclusion:** Archrock is cheaper than USAC on valuation (EV/EBITDA 8.5x vs. 9-10x), while its fundamentals are clearly stronger — the #1 market share, higher utilization, a healthier dividend coverage ratio (3.5x vs. 1.5x), and lower leverage. USAC's high dividend yield (7.46%) looks tempting, but with a coverage ratio of only 1.5x, its sustainability is questionable.
 
-### 6. 护城河评估：A-
+### 2.6 Moat assessment: A-
 
-- **规模壁垒（强）：** 450万马力的压缩机组舰队，新进入者几乎不可能快速复制
-- **转换成本（强）：** 合同期3-7年，压缩机组安装在客户现场，拆换成本极高
-- **资本密集度壁垒（强）：** 新建大马力压缩机组单价数百万美元，交付周期12-18个月
-- **售后服务粘性（强）：** 70%的售后市场份额，客户对设备运维高度依赖
-- **定价权（中-强）：** 95%利用率下，每马力月租金持续上行
+- **Scale barrier (strong):** A fleet of 4.5 million horsepower of compression units — nearly impossible for new entrants to quickly replicate
+- **Switching costs (strong):** Contract terms of 3-7 years, with compression units installed on customer sites — extremely high cost to switch out
+- **Capital-intensity barrier (strong):** New large-horsepower compressor units cost several million dollars each, with a 12-18 month delivery lead time
+- **Aftermarket service stickiness (strong):** 70% share of the aftermarket, with customers highly dependent on equipment maintenance
+- **Pricing power (medium-strong):** At 95% utilization, the monthly rental rate per horsepower continues to rise
 
-### 7. 风险提示
+### 2.7 Risk factors
 
-1. **天然气价格暴跌风险：** 若天然气价格长期低迷，页岩气生产商可能减产，压缩需求下降
-2. **能源转型长期风险：** 如果核电、可再生能源比预期更快替代天然气发电，长期需求天花板可能被压低
-3. **高杠杆：** 总债务$24亿，虽然杠杆率2.6x在可控范围，但利率上行仍有压力
-4. **收购整合风险：** 连续收购TOPS和NGCS，整合需要时间和管理资源
-5. **周期性：** 虽然AI数据中心提供了结构性需求增量，但天然气行业本质上仍是周期性行业
-6. **Q1 2026增速放缓：** 营收同比仅+7.7%，相比2025年的+28.7%明显减速，需关注是否触及增长瓶颈
+1. **Natural gas price collapse risk:** If natural gas prices stay depressed for a long time, shale gas producers may cut production, reducing compression demand
+2. **Long-term energy transition risk:** If nuclear power or renewables replace natural gas power generation faster than expected, the long-term demand ceiling could be lowered
+3. **High leverage:** Total debt of $2.4 billion; while the leverage ratio of 2.6x is within a manageable range, rising interest rates still create pressure
+4. **Acquisition integration risk:** With back-to-back acquisitions of TOPS and NGCS, integration requires time and management resources
+5. **Cyclicality:** Although AI data centers provide a structural incremental demand layer, the natural gas industry is still fundamentally cyclical
+6. **Q1 2026 growth deceleration:** Revenue grew only +7.7% year-over-year, a notable slowdown from +28.7% in 2025 — worth watching for signs of hitting a growth ceiling
 
-### 8. 催化剂
+### 2.8 Catalysts
 
-1. **AI数据中心天然气发电需求爆发（2026-2030）：** 几乎所有新批准的大型数据中心都配套天然气电厂
-2. **LNG出口持续扩张：** 美国LNG出口终端扩建推动天然气产量和输送需求
-3. **新建压缩机组交付：** 2026年后半段新建设备交付将推动马力和收入增长
-4. **潜在的J-W Power收购：** 如果发生，将是压缩服务市场的"终局整合"
-5. **分红持续增长：** 管理层已连续提高分红，3.5x覆盖倍数支持未来继续加码
-6. **被纳入AI基建主题：** Nasdaq已有文章将AROC与NVDA类比（"Chips to Compression"），叙事正在渗透
+1. **AI data center natural gas power demand boom (2026-2030):** Nearly all newly approved large data centers are paired with natural gas power plants
+2. **Continued expansion of LNG exports:** Expansion of US LNG export terminals drives natural gas production and transport demand
+3. **New compressor unit deliveries:** Deliveries of new equipment in the second half of 2026 will drive horsepower and revenue growth
+4. **Potential J-W Power acquisition:** If it occurs, it would be the "final consolidation" of the compression services market
+5. **Continued dividend growth:** Management has raised the dividend for several consecutive periods; a 3.5x coverage ratio supports further increases
+6. **Inclusion in the AI infrastructure theme:** Nasdaq has already published an article comparing AROC to NVDA ("Chips to Compression"), and the narrative is spreading
 
-### 9. 结论
+### 2.9 Conclusion
 
-**评级：买入**
+**Rating: Buy**
 
-Archrock是三家公司中投资确定性最高的标的。逻辑清晰且不可替代：AI数据中心 → 天然气发电 → 压缩服务。公司是行业绝对老大，30%市场份额+95%利用率=定价权。EV/EBITDA 8.5x的估值，对比其护城河深度和增长可见性，明显偏低。分红覆盖3.5x提供安全垫。主要担忧是能源转型的长期替代风险，但这至少是5-10年后的事，而AI数据中心的天然气需求爆发就在眼前。当前$38左右的价格，作为AI基建主题的"隐藏标的"，具有良好的风险收益比。
+Archrock is the most certain investment among the three companies. The logic is clear and irreplaceable: AI data centers → natural gas power generation → compression services. The company is the undisputed industry leader, with 30% market share + 95% utilization = pricing power. An EV/EBITDA of 8.5x, relative to the depth of its moat and the visibility of its growth, is clearly low. Dividend coverage of 3.5x provides a safety cushion. The main concern is the long-term substitution risk from the energy transition, but that is at least 5-10 years away, while the natural gas demand boom from AI data centers is imminent. At the current price of around $38, as a "hidden play" on the AI infrastructure theme, it offers a favorable risk/reward ratio.
 
 ---
 
-## 三、nVent Electric（NYSE: NVT）—— 半价Vertiv？数据中心机柜/液冷的隐形冠军
+## 3. nVent Electric (NYSE: NVT) — Half-Price Vertiv? The Hidden Champion of Data Center Racks/Liquid Cooling
 
-### 1. 瓶颈定位：做和Vertiv同样的事，估值只有一半
+### 3.1 Bottleneck positioning: doing the same thing as Vertiv, at half the valuation
 
-nVent Electric和Vertiv在数据中心基础设施领域有大量业务重叠——都做机柜/机架（enclosures）、配电（power distribution）、散热/液冷（cooling）。但Vertiv的P/E高达77x，而nVent只有35x左右。
+nVent Electric and Vertiv have extensive business overlap in data center infrastructure — both make enclosures/racks, power distribution, and cooling/liquid cooling systems. But Vertiv's P/E is as high as 77x, while nVent's is only about 35x.
 
-**核心问题：这个估值差是市场低估nVent，还是有合理原因？**
+**The core question: is this valuation gap due to the market undervaluing nVent, or is there a legitimate reason?**
 
-答案是：两者兼有。
+The answer is: both.
 
-### 2. 与Vertiv的详细估值对比
+### 3.2 Detailed valuation comparison with Vertiv
 
-| 指标 | nVent Electric (NVT) | Vertiv (VRT) |
+| Metric | nVent Electric (NVT) | Vertiv (VRT) |
 |------|---------------------|--------------|
-| 市值 | ~$190亿 | ~$550亿+ |
+| Market cap | ~$19 billion | ~$55 billion+ |
 | P/E (TTM) | ~28-35x | ~77x |
-| 前瞻P/E | ~28x（基于$4.50 EPS） | ~47x |
+| Forward P/E | ~28x (based on $4.50 EPS) | ~47x |
 | EV/EBITDA | ~24.6x | ~51.9x |
-| 营收 | ~$39亿（2025） | ~$108亿（TTM） |
-| 营收增速 | +29.5%（2025） | +30%（Q1 2026） |
-| 数据中心营收 | ~$10亿（2025） | 占总营收70%+ |
-| 订单积压 | $26亿 | $150亿 |
-| 毛利率 | 37.7% | ~39% |
-| 净利率 | 18.2% | ~14% |
-| 负债率(D/E) | 0.42 | 更高 |
+| Revenue | ~$3.9 billion (2025) | ~$10.8 billion (TTM) |
+| Revenue growth | +29.5% (2025) | +30% (Q1 2026) |
+| Data center revenue | ~$1.0 billion (2025) | 70%+ of total revenue |
+| Order backlog | $2.6 billion | $15 billion |
+| Gross margin | 37.7% | ~39% |
+| Net margin | 18.2% | ~14% |
+| Debt-to-equity (D/E) | 0.42 | Higher |
 
-*来源：Kavout Research、stockanalysis.com、MacroTrends、各公司SEC文件*
+*Source: Kavout Research, stockanalysis.com, MacroTrends, company SEC filings*
 
-### 3. 为什么nVent比Vertiv便宜一半？
+### 3.3 Why is nVent priced at half of Vertiv?
 
-**合理的原因：**
-1. **纯度不同：** Vertiv 70%以上收入来自数据中心，是最纯的"AI数据中心概念股"。nVent数据中心占比约26%（2025年$10亿/$39亿），其余是工业、商业建筑等传统市场。基金经理买AI概念，Vertiv的纯度更高。
-2. **体量差距：** Vertiv营收$108亿 vs nVent $39亿。大型机构投资者倾向于配置大市值标的。
-3. **品牌认知：** Vertiv在数据中心行业有更强的品牌（Liebert品牌历史超过60年）。nVent更被认知为"工业电气配件公司"。
-4. **积压订单规模：** Vertiv $150亿积压 vs nVent $26亿，Vertiv的增长可见性更长。
+**Legitimate reasons:**
+1. **Different purity:** Over 70% of Vertiv's revenue comes from data centers, making it the "purest" AI data center play. nVent's data center exposure is about 26% (2025's $1.0 billion / $3.9 billion), with the rest coming from industrial, commercial construction, and other traditional markets. Fund managers buying into the AI theme prefer Vertiv's higher purity.
+2. **Scale gap:** Vertiv's revenue of $10.8 billion vs. nVent's $3.9 billion. Large institutional investors tend to prefer larger-cap names.
+3. **Brand recognition:** Vertiv has stronger brand recognition in the data center industry (the Liebert brand has a history of over 60 years). nVent is more often perceived as an "industrial electrical components company."
+4. **Backlog scale:** Vertiv's $15 billion backlog vs. nVent's $2.6 billion — Vertiv's growth visibility extends further out.
 
-**不合理的原因（即nVent被低估的部分）：**
-1. **增速相当甚至更快：** nVent Q1 2026有机增长34%，数据中心相关订单增长270%，增速不输Vertiv
-2. **利润率更高：** nVent净利率18.2% > Vertiv 14%，赚钱效率更高
-3. **杠杆更低：** nVent D/E 0.42，Vertiv杠杆率显著更高
-4. **基础设施占比快速提升：** 从2024年的占比不到30%，到2026年预计超过50%——nVent正在快速"Vertiv化"
-5. **与英伟达和西门子的合作：** nVent已加入英伟达合作伙伴网络，与西门子合作开发100MW级AI数据中心液冷参考架构
+**Illegitimate reasons (i.e., the part where nVent is undervalued):**
+1. **Comparable, even faster, growth:** nVent's Q1 2026 organic growth was 34%, with data center-related orders up 270% — a growth rate on par with Vertiv
+2. **Higher margins:** nVent's net margin of 18.2% exceeds Vertiv's 14%, meaning higher earnings efficiency
+3. **Lower leverage:** nVent's D/E is 0.42, significantly lower than Vertiv's leverage
+4. **Infrastructure mix rising rapidly:** From less than 30% of the mix in 2024 to a projected 50%+ by 2026 — nVent is rapidly "becoming Vertiv"
+5. **Partnerships with Nvidia and Siemens:** nVent has joined the Nvidia Partner Network and is collaborating with Siemens on a 100MW-class AI data center liquid-cooling reference architecture
 
-### 4. 数据中心业务深度分析
+### 3.4 In-depth analysis of the data center business
 
-**业务线拆解：**
-- **Systems Protection（系统保护）：** Q1 2026营收$8.95亿，同比+76%（有机+50%）。包括机柜、液冷系统、配电单元。基础设施子类有机增长超过100%。
-- **Electrical Connections（电气连接）：** Q1 2026营收$3.47亿，同比+15%（有机+8%）。增长较慢，主要服务传统工业市场。
+**Business line breakdown:**
+- **Systems Protection:** Q1 2026 revenue of $895 million, up 76% year-over-year (+50% organic). Includes enclosures, liquid-cooling systems, and power distribution units. The infrastructure sub-category grew organically by more than 100%.
+- **Electrical Connections:** Q1 2026 revenue of $347 million, up 15% year-over-year (+8% organic). Slower growth, mainly serving traditional industrial markets.
 
-**液冷产品线：**
-- 十年以上液冷技术积累，已部署超过1GW冷却容量
-- 2025年11月SC25大会发布新一代模块化液冷方案：CDU CX121系列、行级和机架级冷却分配单元、下一代配电单元
-- 与西门子联合发布面向NVIDIA DGX GB200系统的Tier III级液冷+配电参考架构
-- 全球机柜市场份额Top 3（与Rittal、施耐德并列）
-- 2026年初明尼苏达州布莱恩新工厂（117,000平方英尺）投入运营
+**Liquid-cooling product line:**
+- Over ten years of liquid-cooling technology accumulation, with more than 1GW of cooling capacity already deployed
+- At the November 2025 SC25 conference, released a new generation of modular liquid-cooling solutions: the CDU CX121 series, row- and rack-level cooling distribution units, and next-generation power distribution units
+- Jointly released a Tier III-class liquid-cooling and power distribution reference architecture with Siemens for NVIDIA DGX GB200 systems
+- Top-3 global market share in enclosures (alongside Rittal and Schneider Electric)
+- A new plant (117,000 square feet) in Byron, Minnesota came online in early 2026
 
-### 5. 核心财务数据
+### 3.5 Core financial data
 
-| 指标 | Q1 2026 | Q1 2025 | 同比变化 |
+| Metric | Q1 2026 | Q1 2025 | YoY Change |
 |------|---------|---------|----------|
-| 总营收 | $12.42亿 | $8.13亿 | **+53%** |
-| 有机增长 | — | — | **+34%** |
-| 调整后EPS | $1.09 | $0.67 | **+63%** |
-| 净利润 | $1.404亿 | $8720万 | +61% |
-| 有机订单增长 | — | — | +40% |
-| 积压订单 | $26亿 | — | 同比翻三倍 |
+| Total revenue | $1.242 billion | $813 million | **+53%** |
+| Organic growth | — | — | **+34%** |
+| Adjusted EPS | $1.09 | $0.67 | **+63%** |
+| Net income | $140.4 million | $87.2 million | +61% |
+| Organic order growth | — | — | +40% |
+| Backlog | $2.6 billion | — | Tripled year-over-year |
 
-**2026年全年指引（上调后）：**
+**Full-year 2026 guidance (raised):**
 
-| 指标 | 2026指引 |
+| Metric | 2026 Guidance |
 |------|---------|
-| 营收增速（报告） | 26-28%（上调前15-18%）|
-| 有机增速 | ~20%+（上调前10-13%）|
-| 调整后EPS | $4.45-$4.55（上调前$4.00-$4.15）|
-| 自由现金流转化率 | 调整后净利润的90-95% |
+| Revenue growth (reported) | 26-28% (previously 15-18%) |
+| Organic growth | ~20%+ (previously 10-13%) |
+| Adjusted EPS | $4.45-$4.55 (previously $4.00-$4.15) |
+| Free cash flow conversion | 90-95% of adjusted net income |
 
-*来源：nVent Electric Q1 2026财报（2026年5月1日发布），SEC 8-K文件*
+*Source: nVent Electric Q1 2026 earnings (released May 1, 2026), SEC 8-K filing*
 
-**关键亮点：** 新产品贡献了超过20个百分点的总营收增长（管理层投资者日预期仅3个百分点），远超预期。数据中心相关订单增长270%。管理层大幅上调全年指引。
+**Key highlight:** New products contributed more than 20 percentage points of total revenue growth (management's investor day had projected only 3 percentage points). Data center-related orders grew 270%. Management significantly raised full-year guidance.
 
-### 6. 收购战略
+### 3.6 Acquisition strategy
 
-nVent通过战略收购快速扩大数据中心业务版图：
+nVent has been rapidly expanding its data center footprint through strategic acquisitions:
 
-| 收购标的 | 时间 | 金额 | 业务 |
+| Acquisition Target | Timing | Amount | Business |
 |---------|------|------|------|
-| Trachte | 2024年 | $6.95亿 | 定制电气控制室/保护建筑 |
-| AVAIL电气产品集团 | 2025年4月完成 | 未公开 | 电气基础设施解决方案 |
+| Trachte | 2024 | $695 million | Custom electrical control rooms/protective enclosures |
+| AVAIL Electrical Products Group | Completed April 2025 | Undisclosed | Electrical infrastructure solutions |
 
-### 7. 护城河评估：B+
+### 3.7 Moat assessment: B+
 
-- **技术壁垒（中-强）：** 液冷技术十年积累+1GW部署经验，但Vertiv、Eaton等大厂也在快速追赶
-- **客户关系（强）：** NVIDIA合作伙伴网络+西门子战略合作，进入超大规模数据中心供应链
-- **品牌认知（中）：** RAYCHEM在热管理领域是知名品牌，但整体品牌力不及Vertiv
-- **规模效应（中）：** 全球机柜Top 3，但和Rittal、施耐德比仍有差距
-- **转换成本（中）：** 液冷系统一旦安装，更换成本高；但标准机柜产品转换成本较低
+- **Technology barrier (medium-strong):** Ten years of liquid-cooling technology accumulation and 1GW of deployment experience, but large competitors like Vertiv and Eaton are catching up fast
+- **Customer relationships (strong):** NVIDIA Partner Network + strategic Siemens partnership, gaining entry to hyperscale data center supply chains
+- **Brand recognition (medium):** RAYCHEM is a well-known brand in thermal management, but overall brand strength trails Vertiv
+- **Scale effects (medium):** Top-3 globally in enclosures, but still a gap versus Rittal and Schneider Electric
+- **Switching costs (medium):** Once installed, liquid-cooling systems are costly to replace; but standard enclosure products have lower switching costs
 
-### 8. 风险提示
+### 3.8 Risk factors
 
-1. **关税影响：** 2026年预计增加约$8000万关税负担，可能侵蚀利润率
-2. **竞争加剧：** Vertiv收购Strategic Thermal Labs加强液冷布局，Eaton和施耐德也在发力
-3. **超大规模客户订单的"块状"特性：** 大订单来的时候增长爆表，没有大订单时增速可能骤降，季度波动大
-4. **液冷技术采纳障碍：** 目前不到30%的数据中心使用液冷，资本成本高、维护复杂、缺乏统一标准
-5. **估值已不便宜：** 前瞻P/E 28x，虽然比Vertiv便宜，但已不是"捡漏"的价格
-6. **非数据中心业务增长平淡：** 电气连接业务有机增长仅8%，依赖数据中心单一驱动力
+1. **Tariff impact:** Expected to add about $80 million in tariff burden in 2026, which could erode margins
+2. **Intensifying competition:** Vertiv's acquisition of Strategic Thermal Labs strengthens its liquid-cooling position, and Eaton and Schneider Electric are also pushing into the space
+3. **"Lumpy" nature of hyperscale customer orders:** Growth explodes when large orders come in, and can slow sharply without them, leading to significant quarterly volatility
+4. **Barriers to liquid-cooling adoption:** Currently less than 30% of data centers use liquid cooling, due to high capital costs, complex maintenance, and a lack of unified standards
+5. **Valuation already not cheap:** Forward P/E of 28x — while cheaper than Vertiv, it's no longer a "bargain" price
+6. **Lackluster growth in non-data-center business:** The Electrical Connections business had only 8% organic growth, leaving the company dependent on a single growth driver
 
-### 9. 催化剂
+### 3.9 Catalysts
 
-1. **AI数据中心液冷渗透率从<30%快速提升：** 下一代AI芯片（GB200/B300）功耗过高，液冷从"可选"变为"必选"
-2. **与西门子/英伟达的合作深化：** 参考架构推广可能带来批量订单
-3. **数据中心业务占比突破50%：** 一旦市场将nVent重新归类为"数据中心公司"而非"工业电气公司"，估值倍数将重新定价
-4. **新产品CDU CX121系列放量：** 2026年上半年推出的新液冷产品线
-5. **分析师上调目标价：** 巴克莱已将目标价从$150上调至$190
+1. **Liquid-cooling penetration in AI data centers rising rapidly from <30%:** Next-generation AI chips (GB200/B300) run too hot, making liquid cooling shift from "optional" to "mandatory"
+2. **Deepening partnerships with Siemens/Nvidia:** Promotion of the reference architecture could bring in bulk orders
+3. **Data center share of revenue crossing 50%:** Once the market re-classifies nVent as a "data center company" rather than an "industrial electrical company," valuation multiples will be re-rated
+4. **Ramp-up of the new CDU CX121 series:** The new liquid-cooling product line launched in the first half of 2026
+5. **Analyst price-target upgrades:** Barclays has already raised its price target from $150 to $190
 
-### 9. 结论
+### 3.10 Conclusion
 
-**评级：买入（适度仓位）**
+**Rating: Buy (moderate position size)**
 
-nVent是三家公司中AI逻辑最直接、增速最快的标的。Q1 2026有机增长34%、数据中心订单+270%、积压翻三倍——这些数字在工业股中极为罕见。与Vertiv相比，nVent估值确实便宜一半，而增速相当、利润率更高、杠杆更低。估值差主要来自数据中心纯度（26% vs 70%+），但这个纯度正在快速提升。
+nVent is the most direct, fastest-growing AI play among the three companies. Q1 2026 organic growth of 34%, data center orders up 270%, and backlog tripling — these numbers are extremely rare among industrial stocks. Compared with Vertiv, nVent is indeed priced at half the valuation, while growing at a comparable rate, with higher margins and lower leverage. The valuation gap mainly stems from data center "purity" (26% vs. 70%+), but that purity is rising rapidly.
 
-风险在于：前瞻P/E 28x已不便宜，如果数据中心订单出现季度波动，股价可能剧烈回调。适合以适度仓位建仓，在大订单驱动的季度波动中逢低加仓。
+The risk is that a forward P/E of 28x is no longer cheap — if data center orders show quarterly volatility, the stock could pull back sharply. It's suitable for building a moderate position and adding on dips driven by large-order-related quarterly volatility.
 
 ---
 
-## 总结对比
+## Summary Comparison
 
-| 维度 | AZZ (热镀锌) | Archrock (天然气压缩) | nVent (机柜/液冷) |
+| Dimension | AZZ (Hot-Dip Galvanizing) | Archrock (Natural Gas Compression) | nVent (Enclosures/Liquid Cooling) |
 |------|-------------|---------------------|-------------------|
-| 市场地位 | 北美#1 | 美国#1 | 全球Top 3 |
-| AI逻辑直接性 | 间接（电网+建筑钢结构）| 间接但关键（天然气发电供应链）| 直接（数据中心设备）|
-| 估值 | P/E ~22x（前瞻）| EV/EBITDA ~8.5x | P/E ~28x（前瞻）|
-| 增速 | +5-8%（FY2027指引）| +7-10%（2026指引隐含）| +26-28%（2026指引）|
-| 护城河 | B+（地理网络）| A-（规模+转换成本）| B+（技术+客户）|
-| 现金流质量 | 极强（$5.25亿OCF）| 强（$2.21亿Q1 EBITDA）| 良好（90-95% FCF转化）|
-| 分红 | 有（小额）| 有（$0.88/年，2.45%）| 有（0.7%）|
-| **投资评级** | **观望（等回调）** | **买入** | **买入（适度仓位）** |
+| Market position | #1 in North America | #1 in the US | Top 3 globally |
+| Directness of AI logic | Indirect (grid + building steel structures) | Indirect but critical (natural gas power supply chain) | Direct (data center equipment) |
+| Valuation | P/E ~22x (forward) | EV/EBITDA ~8.5x | P/E ~28x (forward) |
+| Growth | +5-8% (FY2027 guidance) | +7-10% (implied by 2026 guidance) | +26-28% (2026 guidance) |
+| Moat | B+ (geographic network) | A- (scale + switching costs) | B+ (technology + customers) |
+| Cash flow quality | Very strong ($525 million OCF) | Strong ($221 million Q1 EBITDA) | Good (90-95% FCF conversion) |
+| Dividend | Yes (small) | Yes ($0.88/year, 2.45%) | Yes (0.7%) |
+| **Investment Rating** | **Watch (wait for pullback)** | **Buy** | **Buy (moderate position)** |
 
-**最终排序（确定性 x 风险收益比）：**
+**Final ranking (certainty x risk/reward):**
 
-1. **Archrock（AROC）** —— 确定性最高，估值最低，护城河最深。AI数据中心天然气需求是未来3-5年的确定趋势，8.5x EV/EBITDA买入行业龙头，下行风险有限。
-2. **nVent（NVT）** —— 弹性最大，增速最快。如果AI数据中心液冷渗透率如期提升，nVent可能在2-3年内被市场重新定价为"小Vertiv"，估值倍数有翻倍空间。但季度波动风险需要承受力。
-3. **AZZ（AZZ）** —— 逻辑成立但股价已跑在前面。等$120以下再出手。
+1. **Archrock (AROC)** — The highest certainty, the lowest valuation, and the deepest moat. AI data center natural gas demand is a confirmed trend for the next 3-5 years; buying the industry leader at 8.5x EV/EBITDA carries limited downside risk.
+2. **nVent (NVT)** — The greatest upside potential and the fastest growth. If AI data center liquid-cooling penetration rises as expected, nVent could be re-rated by the market within 2-3 years as a "mini-Vertiv," with room for its valuation multiple to double. But it requires the risk tolerance for quarterly volatility.
+3. **AZZ (AZZ)** — The logic holds, but the stock price has already run ahead. Wait until below $120 before acting.
 
 ---
 
-**数据来源：**
-- [AZZ FY2026全年业绩](https://www.prnewswire.com/news-releases/azz-inc-reports-fourth-quarter-and-fiscal-year-2026-full-year-results-302750753.html)
-- [AZZ FY2027指引](https://www.stocktitan.net/news/AZZ/azz-inc-issues-fiscal-year-2027-nqf5cdp5x8gp.html)
-- [AZZ Q1深度分析：数据中心需求](https://www.tradingview.com/news/stockstory:3397e66eb094b:0-azz-q1-deep-dive-data-center-demand-and-infrastructure-tailwinds-offset-residential-softness/)
-- [AZZ设定创纪录销售，镀锌需求激增](https://www.steelmarketupdate.com/2026/01/08/azz-sets-record-sales-as-galvanizing-demand-surges/)
-- [Archrock Q4 2025业绩](https://www.theglobeandmail.com/investing/markets/stocks/AROC/pressreleases/437091/archrock-posts-strong-q4-2025-results-raises-dividend/)
-- [Archrock Q1 2026 SEC文件](https://www.sec.gov/Archives/edgar/data/0001389050/000138905026000015/aroc-20260505xex99d1.htm)
-- [Archrock竞争格局分析](https://pestel-analysis.com/blogs/competitors/archrock)
-- [Archrock AI驱动增长](https://www.naturalgasintel.com/news/ai-power-lng-growth-sparking-natural-gas-compression-boom-for-archrock/)
-- [从芯片到压缩：AROC与NVDA](https://www.nasdaq.com/articles/chips-compression-why-nvda-investors-shouldnt-overlook-aroc)
-- [nVent Q1 2026业绩](https://www.tikr.com/blog/nvent-electric-q1-2026-earnings-revenue-surges-53-on-ai-data-center-demand)
-- [nVent AI数据中心关键角色](https://www.kavout.com/market-lens/why-is-nvent-electric-a-key-player-in-the-ai-data-center-boom)
-- [nVent与西门子液冷合作](https://press.siemens.com/global/en/pressrelease/siemens-and-nvent-release-joint-reference-architecture-purpose-built-nvidia-ai-data)
-- [nVent SC25液冷新品发布](https://www.businesswire.com/news/home/20251117098362/en/nVent-Unveils-New-Liquid-Cooling-and-Power-Portfolio-at-SC25)
-- [nVent估值分析](https://finance.yahoo.com/markets/stocks/articles/look-nvent-electric-nvt-valuation-131044633.html)
-- [Vertiv PE估值](https://www.macrotrends.net/stocks/charts/VRT/vertiv-holdings/pe-ratio)
-- [北美镀锌市场报告](https://www.mordorintelligence.com/industry-reports/north-america-galvanizing-market)
-- [USA Compression估值数据](https://stockanalysis.com/stocks/usac/)
+**Data sources:**
+- [AZZ FY2026 Full-Year Results](https://www.prnewswire.com/news-releases/azz-inc-reports-fourth-quarter-and-fiscal-year-2026-full-year-results-302750753.html)
+- [AZZ FY2027 Guidance](https://www.stocktitan.net/news/AZZ/azz-inc-issues-fiscal-year-2027-nqf5cdp5x8gp.html)
+- [AZZ Q1 Deep Dive: Data Center Demand](https://www.tradingview.com/news/stockstory:3397e66eb094b:0-azz-q1-deep-dive-data-center-demand-and-infrastructure-tailwinds-offset-residential-softness/)
+- [AZZ Sets Record Sales as Galvanizing Demand Surges](https://www.steelmarketupdate.com/2026/01/08/azz-sets-record-sales-as-galvanizing-demand-surges/)
+- [Archrock Q4 2025 Results](https://www.theglobeandmail.com/investing/markets/stocks/AROC/pressreleases/437091/archrock-posts-strong-q4-2025-results-raises-dividend/)
+- [Archrock Q1 2026 SEC Filing](https://www.sec.gov/Archives/edgar/data/0001389050/000138905026000015/aroc-20260505xex99d1.htm)
+- [Archrock Competitive Landscape Analysis](https://pestel-analysis.com/blogs/competitors/archrock)
+- [Archrock AI-Driven Growth](https://www.naturalgasintel.com/news/ai-power-lng-growth-sparking-natural-gas-compression-boom-for-archrock/)
+- [From Chips to Compression: AROC and NVDA](https://www.nasdaq.com/articles/chips-compression-why-nvda-investors-shouldnt-overlook-aroc)
+- [nVent Q1 2026 Results](https://www.tikr.com/blog/nvent-electric-q1-2026-earnings-revenue-surges-53-on-ai-data-center-demand)
+- [nVent's Key Role in AI Data Centers](https://www.kavout.com/market-lens/why-is-nvent-electric-a-key-player-in-the-ai-data-center-boom)
+- [nVent and Siemens Liquid-Cooling Partnership](https://press.siemens.com/global/en/pressrelease/siemens-and-nvent-release-joint-reference-architecture-purpose-built-nvidia-ai-data)
+- [nVent SC25 Liquid-Cooling New Product Launch](https://www.businesswire.com/news/home/20251117098362/en/nVent-Unveils-New-Liquid-Cooling-and-Power-Portfolio-at-SC25)
+- [nVent Valuation Analysis](https://finance.yahoo.com/markets/stocks/articles/look-nvent-electric-nvt-valuation-131044633.html)
+- [Vertiv P/E Valuation](https://www.macrotrends.net/stocks/charts/VRT/vertiv-holdings/pe-ratio)
+- [North America Galvanizing Market Report](https://www.mordorintelligence.com/industry-reports/north-america-galvanizing-market)
+- [USA Compression Valuation Data](https://stockanalysis.com/stocks/usac/)
 
-> 免责声明：本报告仅为投资研究参考，不构成投资建议。投资者应独立判断，自行承担风险。
+> Disclaimer: This report is for investment research reference only and does not constitute investment advice. Investors should exercise independent judgment and bear their own risks.

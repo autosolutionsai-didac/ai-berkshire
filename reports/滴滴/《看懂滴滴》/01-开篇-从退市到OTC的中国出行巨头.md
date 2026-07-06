@@ -1,189 +1,189 @@
-# 从退市到OTC的中国出行巨头
+# From Delisting to OTC: China's Mobility Giant
 
-> 《看懂滴滴》系列 · 第 01 篇 · 开篇
-> 阅读时间约 8 分钟
-
----
-
-## 一家你每天都在用、却几乎看不懂的公司
-
-一个矛盾：中国 **7.49 亿**人一年至少用过一次滴滴，日均订单 **4,000 万**单，峰值破 **6,500 万**单。按业务体量算，它是全球最大的单市场网约车平台，年交易额近半万亿人民币。但你在纽交所、纳斯达克、港交所——任何一个主流市场——都找不到它的股票。
-
-滴滴的股票只能在美国场外粉单市场（OTC）买到，代码 DIDIY，日均成交量远低于任何一只普通中概股。七亿用户、四千万日单，换来的是一张没有分析师覆盖、没有机构参与的"无人问津"标签。这种错位，才是读懂滴滴的真正起点。
-
-让我们快速回顾它的股价轨迹：
-
-- **2021 年 6 月 30 日**：纽交所上市，发行价 **14 美元**，市值约 **670 亿美元**
-- **2021 年 7 月 2 日**：上市第三天，网信办宣布审查，App 被下架
-- **2022 年 6 月**：从纽交所退市
-- **2022 年 7 月**：网信办罚款 **80.26 亿元**
-- **2023 年 1 月**：App 恢复上架，整改通过
-- **2024-2025 年**：OTC 粉单市场交易，股价在 **3-7 美元**区间波动
-- **2026 年 5 月**：OTC 股价约 **3.55 美元**，市值约 **165 亿美元**
-
-（数据来源：Yahoo Finance、网信办公告、滴滴 20-F 年报）
-
-**5 年时间，同一家公司的市值从 670 亿美元缩水到 165 亿美元**——但它的业务比上市时更大、更赚钱。
-
-这就是滴滴最大的矛盾：**业务在变好，价格在变差**。
+> *Understanding Didi* series · Part 01 · Introduction
+> Reading time: about 8 minutes
 
 ---
 
-## 一组让你重新审视滴滴的数字
+## A company you use every day, yet barely understand
 
-打开滴滴 2025 年报（20-F），它的核心数据是这样的：
+Here's a paradox: **749 million** people in China used Didi at least once in the past year, with average daily orders of **40 million** and a peak of over **65 million**. By business scale, it is the world's largest single-market ride-hailing platform, with annual transaction value approaching half a trillion yuan. Yet you won't find its stock on the NYSE, Nasdaq, the Hong Kong Stock Exchange — any major market.
 
-| 指标 | 2025 年 | 同比 | 量级判断 |
+Didi's stock can only be bought on the U.S. over-the-counter pink sheets market (OTC), under the ticker DIDIY, with average daily trading volume far below that of any ordinary Chinese ADR. Seven hundred million users, forty million daily orders — and what it has to show for it is a label that reads "nobody's watching": no analyst coverage, no institutional participation. That mismatch is the real starting point for understanding Didi.
+
+Let's quickly recap its stock-price trajectory:
+
+- **June 30, 2021**: Listed on the NYSE at an IPO price of **$14**, with a market cap of about **$67 billion**
+- **July 2, 2021**: On its third day of trading, the Cyberspace Administration of China (CAC) announced a review and the app was pulled from app stores
+- **June 2022**: Delisted from the NYSE
+- **July 2022**: Fined **8.026 billion yuan** by the CAC
+- **January 2023**: App restored, rectification approved
+- **2024-2025**: Trading on the OTC pink sheets market, with the stock price fluctuating in the **$3-7** range
+- **May 2026**: OTC price around **$3.55**, market cap of about **$16.5 billion**
+
+(Source: Yahoo Finance, CAC announcements, Didi 20-F annual report)
+
+**In five years, the same company's market cap shrank from $67 billion to $16.5 billion** — yet its business is bigger and more profitable than it was at IPO.
+
+That is Didi's biggest contradiction: **the business is getting better while the price is getting worse**.
+
+---
+
+## A set of numbers that will make you look at Didi differently
+
+Open Didi's 2025 annual report (20-F) and here's what the core numbers look like:
+
+| Metric | 2025 | YoY | Scale assessment |
 |------|---------|------|---------|
-| 总营收 | **2,267 亿元** | +9.6% | 中国互联网前十 |
-| 中国出行营收 | **2,019 亿元** | — | 占总营收 **89%** |
-| 核心订单量 | **182.4 亿单** | +14% | 日均 ~5,000 万单 |
-| 核心 GTV | **4,508 亿元** | +14.8% | 年交易额近半万亿 |
-| 经调整净利润 | **78.6 亿元** | +41% | 连续改善 |
-| GAAP 净利润 | **~9.9 亿元** | — | 含国际亏损+公允变动 |
-| 年活跃用户 | **7.49 亿** | — | 接近中国移动互联网用户总量 |
-| 现金+短期投资 | **~557 亿元** | — | 资产负债表稳健 |
-| 中国出行市占率 | **70-73%** | — | 绝对龙头 |
+| Total revenue | **226.7 billion yuan** | +9.6% | Top 10 in Chinese internet |
+| China Mobility revenue | **201.9 billion yuan** | — | **89%** of total revenue |
+| Core order volume | **18.24 billion orders** | +14% | ~50 million average daily orders |
+| Core GTV | **450.8 billion yuan** | +14.8% | Annual transaction value approaching half a trillion |
+| Adjusted net profit | **7.86 billion yuan** | +41% | Steadily improving |
+| GAAP net profit | **~990 million yuan** | — | Includes international losses + fair-value changes |
+| Annual active users | **749 million** | — | Close to China's total mobile internet user base |
+| Cash + short-term investments | **~55.7 billion yuan** | — | A solid balance sheet |
+| China Mobility market share | **70-73%** | — | Absolute market leader |
 
-（数据来源：滴滴 2025 年 20-F 年报、2026 年 3 月发布）
+(Source: Didi 2025 20-F annual report, published March 2026)
 
-把这些放一起看——**一家年营收 2,267 亿、经调整净利 79 亿、日均 4,000-5,000 万单、市占 70%+ 的出行巨头，当前市值只有约 165 亿美元（约 1,200 亿元人民币）**。
+Put it all together — **a mobility giant with 226.7 billion yuan in annual revenue, 7.9 billion yuan in adjusted net profit, 40-50 million average daily orders, and a market share above 70% is currently valued at only about $16.5 billion (roughly 120 billion yuan)**.
 
-作为对比：
+For comparison:
 
-| 公司 | 市值（美元） | 2025 营收 | PS |
+| Company | Market cap (USD) | 2025 revenue | P/S |
 |------|-----------|----------|-----|
-| **Uber** | **~1,700 亿** | ~460-480 亿 | **3.5-3.7倍** |
-| Grab | ~180 亿 | ~30 亿 | ~6倍 |
-| **滴滴** | **~165 亿** | **~310 亿**（按美元）| **~0.5倍** |
+| **Uber** | **~$170 billion** | ~$46-48 billion | **3.5-3.7x** |
+| Grab | ~$18 billion | ~$3 billion | ~6x |
+| **Didi** | **~$16.5 billion** | **~$31 billion** (in USD) | **~0.5x** |
 
-（数据来源：各公司财报、Yahoo Finance、stockanalysis.com，2026 年 5 月）
+(Source: company filings, Yahoo Finance, stockanalysis.com, May 2026)
 
-滴滴的 PS 约为 Uber 的 **七分之一**。这个折价的名字叫什么？后面会一层层拆开。
-
----
-
-## 三个关于滴滴的常见错觉
-
-### 错觉一：滴滴已经"凉了"
-
-这是最常见的认知。
-
-2021 年的退市风波给公众留下了深刻印象——"滴滴被罚了""滴滴退市了""滴滴完了"。但实际业务数据说的是另一个故事：
-
-- 2023 年 1 月 App 恢复上架后，订单量**连续 12 个季度双位数增长**
-- 2025 年核心订单 **182.4 亿单**，比 2021 年上市时更多
-- 中国出行 EBITA **~123 亿元**，主业现金流稳健
-- 国际业务（巴西、墨西哥等 14 国）连续两年 EBITA 盈利
-
-**滴滴的业务不但没凉，反而在闷声复苏**。但因为它在 OTC 粉单市场交易，没有卖方分析师覆盖、没有机构投资者关注、没有财经媒体跟踪——大部分人的认知还停在 2021 年。
-
-**反方观点**：业务复苏不假，但 GAAP 净利润仅 **9.9 亿元**（vs 经调整 78.6 亿），两者差距巨大。经调整净利剔除了股权激励、公允价值变动等项目，真实盈利质量仍有争议。
-
-### 错觉二：滴滴是一家"打车公司"
-
-更准确地说，**滴滴是一家双边网络平台**——连接司机和乘客，靠抽佣和广告赚钱。
-
-滴滴的商业模式本质：
-- 乘客支付 **100 元**
-- 司机拿走约 **79 元**
-- 政府税费+支付通道约 **4 元**
-- 乘客/司机补贴约 **12-14 元**
-- **滴滴净收入约 4-4.3 元**（净 take rate ~4%）
-
-（数据来源：滴滴 20-F 年报、行业分析估算）
-
-这意味着滴滴的"真实抽成"不是公众印象里的 20%+，而是扣除所有补贴和激励后的 **4%**。这个数字决定了两件事：
-
-1. **滴滴不是暴利生意**——净利润率很薄
-2. **滴滴几乎没有提价空间**——监管盯着、司机抱怨、高德在旁边压价
-
-### 错觉三：退市 = 投不了
-
-滴滴 2022 年从纽交所退市后，以 **DIDIY** 代码在美国 OTC 粉单市场（Pink Sheets）交易。
-
-OTC 交易的特点：
-- **流动性差**——日均成交量远低于主板
-- **没有卖方研究覆盖**——华尔街分析师不跟踪
-- **机构投资者受限**——很多基金章程不允许持有 OTC 股票
-- **信息不对称严重**——但滴滴仍按 SEC 要求提交 20-F 年报
-
-这意味着：**滴滴的价格发现机制是残缺的**。165 亿美元的市值，可能既不反映真实价值，也不反映真实风险——它反映的是"流动性折价+信息折价+监管折价"的叠加。
-
-**反方观点**：OTC 的价格也可能是"正确的"——市场在定价一个"可能永远无法重新上市、股东永远无法获得正常流动性"的情景。便宜不一定是错的。
+Didi's P/S is roughly **one-seventh** of Uber's. What is this discount actually called? We'll unpack it layer by layer below.
 
 ---
 
-## 看懂滴滴，需要回答四个问题
+## Three common misconceptions about Didi
 
-如果用一句话定义滴滴：
+### Misconception 1: Didi is already "finished"
 
-> **滴滴 = 中国出行市场 70% 份额的双边网络平台（现金牛）+ 14 国国际业务（增长故事）+ 自动驾驶子公司（期权）+ 悬而未决的港股 IPO（催化剂）——打包在一个 OTC 粉单的壳里，以 Uber 七分之一的价格交易。**
+This is the most common perception.
 
-要判断这个价格是"极度低估"还是"合理折价"，至少需要回答四个问题：
+The 2021 delisting saga left a deep impression on the public — "Didi got fined," "Didi got delisted," "Didi is done." But the actual operating data tells a different story:
 
-| 问题 | 本系列哪篇展开 |
+- After the app was restored in January 2023, order volume grew at a **double-digit rate for 12 consecutive quarters**
+- Core orders reached **18.24 billion** in 2025 — more than at the time of its 2021 IPO
+- China Mobility EBITA was **~12.3 billion yuan**, with the core business generating solid cash flow
+- The international business (Brazil, Mexico, and 14 countries total) has posted two consecutive years of EBITA profitability
+
+**Didi's business hasn't just failed to collapse — it has been quietly recovering**. But because it trades on the OTC pink sheets, with no sell-side analyst coverage, no institutional investor attention, and no financial media tracking it, most people's perception is still stuck in 2021.
+
+**Counterpoint**: the business recovery is real, but GAAP net profit is only **990 million yuan** (vs. 7.86 billion yuan adjusted) — a huge gap between the two. Adjusted net profit strips out items like equity compensation and fair-value changes, so the true quality of earnings remains debatable.
+
+### Misconception 2: Didi is a "taxi-hailing company"
+
+More precisely, **Didi is a two-sided network platform** — connecting drivers and riders, making money through commissions and advertising.
+
+The essence of Didi's business model:
+- A rider pays **100 yuan**
+- The driver takes home about **79 yuan**
+- Government taxes + payment channel fees are about **4 yuan**
+- Rider/driver subsidies are about **12-14 yuan**
+- **Didi's net revenue is about 4-4.3 yuan** (net take rate ~4%)
+
+(Source: Didi 20-F annual report, industry analysis estimates)
+
+This means Didi's "real commission" isn't the 20%+ the public perceives, but **4%** after netting out all subsidies and incentives. This figure determines two things:
+
+1. **Didi is not a high-margin business** — its net profit margin is very thin
+2. **Didi has almost no room to raise prices** — regulators are watching closely, drivers complain, and Amap is undercutting on price nearby
+
+### Misconception 3: Delisted = uninvestable
+
+After delisting from the NYSE in 2022, Didi began trading under the ticker **DIDIY** on the U.S. OTC pink sheets market.
+
+Characteristics of OTC trading:
+- **Poor liquidity** — average daily trading volume is far below that of a main-board listing
+- **No sell-side research coverage** — Wall Street analysts don't track it
+- **Institutional investors are constrained** — many fund charters don't permit holding OTC stocks
+- **Severe information asymmetry** — though Didi still files 20-F annual reports as required by the SEC
+
+This means: **Didi's price-discovery mechanism is broken**. A $16.5 billion market cap may reflect neither its true value nor its true risk — it reflects a stacking of "liquidity discount + information discount + regulatory discount."
+
+**Counterpoint**: the OTC price could also be "correct" — the market may be pricing in a scenario where Didi "may never relist, and shareholders may never regain normal liquidity." Cheap isn't necessarily wrong.
+
+---
+
+## Understanding Didi requires answering four questions
+
+If we define Didi in one sentence:
+
+> **Didi = a two-sided network platform with 70% share of China's mobility market (a cash cow) + an international business spanning 14 countries (a growth story) + an autonomous-driving subsidiary (an option) + a pending Hong Kong IPO (a catalyst) — all packaged inside an OTC pink-sheet shell, trading at one-seventh of Uber's price.**
+
+To judge whether this price represents "extreme undervaluation" or "reasonable discount," at least four questions need answers:
+
+| Question | Which installment covers it |
 |------|--------------|
-| 滴滴的赚钱机器到底怎么运转？抽成模式能持续吗？ | 第 02 篇 |
-| 高德聚合、美团打车、自动驾驶——谁能真正威胁滴滴？ | 第 03 篇 |
-| 港股 IPO 能不能成？司机社保会不会吞掉利润？ | 第 04 篇 |
-| 综合来看，这个价格意味着什么？ | 第 04 篇 |
+| How does Didi's money-making machine actually work? Is the commission model sustainable? | Part 02 |
+| Amap's aggregation, Meituan's ride-hailing, autonomous driving — who can genuinely threaten Didi? | Part 03 |
+| Can the Hong Kong IPO happen? Will driver social-insurance costs eat into profit? | Part 04 |
+| Taken together, what does this price actually mean? | Part 04 |
 
 ---
 
-## 一个预告：滴滴的估值到底有多"扭曲"？
+## A preview: just how "distorted" is Didi's valuation?
 
-留几个数字，在后面几篇会详细展开：
+Here are a few numbers we'll unpack in detail in later installments:
 
-| 指标 | 滴滴（2026-05） | Uber（2026-05） |
+| Metric | Didi (May 2026) | Uber (May 2026) |
 |------|----------------|-----------------|
-| 市值 | ~**165 亿美元** | ~**1,700 亿美元** |
-| 2025 营收 | ~**310 亿美元** | ~**460 亿美元** |
-| PS | **~0.5倍** | **~3.5倍** |
-| 中国市占 / 全球市占 | **70%+**（中国） | **~30%**（全球） |
-| 经调整 EBITA | **~89 亿元** | — |
-| 现金 | **~557 亿元** | — |
-| 上市状态 | **OTC 粉单** | **纽交所** |
+| Market cap | ~**$16.5 billion** | ~**$170 billion** |
+| 2025 revenue | ~**$31 billion** | ~**$46 billion** |
+| P/S | **~0.5x** | **~3.5x** |
+| China market share / global market share | **70%+** (China) | **~30%** (global) |
+| Adjusted EBITA | **~8.9 billion yuan** | — |
+| Cash | **~55.7 billion yuan** | — |
+| Listing status | **OTC pink sheets** | **NYSE** |
 
-（数据来源：滴滴 20-F、Uber 财报、Yahoo Finance、stockanalysis.com）
+(Source: Didi 20-F, Uber financial reports, Yahoo Finance, stockanalysis.com)
 
-滴滴的营收是 Uber 的 **67%**，但市值只有 Uber 的 **不到 10%**。
+Didi's revenue is **67%** of Uber's, but its market cap is **less than 10%** of Uber's.
 
-这个差距里，有多少是"合理的风险折价"，有多少是"市场定价失灵"？**这正是接下来三篇要拆的问题。**
+How much of that gap is a "reasonable risk discount," and how much is a "market pricing failure"? **That is exactly what the next three installments will dissect.**
 
 ---
 
-## 与《看懂拼多多》的对照
+## A comparison with *Understanding Pinduoduo*
 
-如果你看过《看懂拼多多》系列——滴滴和拼多多有一个共同点：**都是被市场严重误读的中概股**。但误读的原因完全不同：
+If you've read the *Understanding Pinduoduo* series, Didi and Pinduoduo share one thing in common: **both are severely misread Chinese ADRs**. But the reasons for the misreading are completely different:
 
-| 维度 | 拼多多 | 滴滴 |
+| Dimension | Pinduoduo | Didi |
 |------|--------|------|
-| 误读原因 | 管理层故意不让你看清楚 | 退市导致信息真空 |
-| 财务质感 | 极高（毛利 60%+、ROE 31%） | 一般（净 take rate 4%、净利率薄） |
-| 估值 | PE 10.5倍（便宜但有信任折价） | PS 0.5倍（便宜但有流动性折价） |
-| 核心风险 | Temu 政治风险 + 不分红 | 监管 + 司机社保 + IPO 不确定 |
-| 适合的投资者 | 能接受高不确定的价值套利型 | 能接受"特殊情况"的事件驱动型 |
+| Reason for misreading | Management deliberately obscures the picture | Delisting created an information vacuum |
+| Financial quality | Extremely high (60%+ gross margin, 31% ROE) | Average (4% net take rate, thin net margin) |
+| Valuation | P/E of 10.5x (cheap, but with a trust discount) | P/S of 0.5x (cheap, but with a liquidity discount) |
+| Core risk | Temu political risk + no dividends | Regulation + driver social insurance + IPO uncertainty |
+| Suitable investor type | Value-arbitrage investors who can tolerate high uncertainty | Event-driven investors who can tolerate "special situations" |
 
-拼多多像"打了六折的奢侈品，但不确定有没有破洞"。
-滴滴像"被扔进当铺的名牌手表——东西没坏，但你不知道什么时候能赎回来"。
-
----
-
-## 下期预告
-
-下一篇，我们拆滴滴的**赚钱机器**——网约车平台的抽成模式、网络效应、单位经济学。
-
-要回答的几个尖锐问题：
-
-- 滴滴"抽成 20%"是真的吗？真实 take rate 到底多少？
-- 双边网络效应有多强？为什么滴滴能维持 70% 份额？
-- 国际业务（巴西 99 + 墨西哥）能复制中国模式吗？
-- 自动驾驶子公司估值 50 亿美元——是真期权还是画饼？
-
-下周见。
+Pinduoduo is like "a luxury good sold at 40% off, but you're not sure if there's a defect."
+Didi is like "a name-brand watch pawned at a pawnshop — nothing's broken, but you don't know when you'll be able to redeem it."
 
 ---
 
-*本文是《看懂滴滴》系列第 01 篇。后续 3 篇将陆续推出。*
-*本系列不构成任何投资建议。滴滴在 OTC 粉单市场交易，流动性差、信息不对称严重，投资决策需极度谨慎。*
+## Coming up next
+
+In the next installment, we'll take apart Didi's **money-making machine** — the ride-hailing platform's commission model, network effects, and unit economics.
+
+Sharp questions to answer:
+
+- Is the "20% commission" real? What is the actual take rate?
+- How strong are the two-sided network effects? Why has Didi been able to maintain 70% market share?
+- Can the international business (Brazil's 99 + Mexico) replicate the China playbook?
+- The autonomous-driving subsidiary is valued at $5 billion — is that a real option or just a pie in the sky?
+
+See you next week.
+
+---
+
+*This article is Part 01 of the Understanding Didi series. Three more installments are forthcoming.*
+*This series does not constitute investment advice. Didi trades on the OTC pink sheets market, where liquidity is poor and information asymmetry is severe; investment decisions require extreme caution.*

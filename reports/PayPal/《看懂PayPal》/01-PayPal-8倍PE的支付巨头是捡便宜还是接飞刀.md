@@ -1,181 +1,181 @@
-# PayPal：8倍市盈率的支付巨头，是捡便宜还是接飞刀？
+# PayPal: An 8x P/E Payments Giant — Is It a Bargain, or a Falling Knife?
 
-> 阅读时间约 15 分钟
+> Reading time: about 15 minutes
 
 ---
 
-## 一组让你重新审视PayPal的数字
+## A Set of Numbers That Will Make You Rethink PayPal
 
-先看一组数据，不做任何评价：
+Let's start with a set of data, no judgment yet:
 
-| 指标 | 数据 |
+| Metric | Data |
 |------|------|
-| 年收入 | **332亿美元** |
-| 年自由现金流 | **56亿美元** |
-| 净现金 | **150亿美元** |
-| 活跃账户 | **4.39亿** |
-| 年处理支付 | **1.79万亿美元** |
-| 当前市值 | **364亿美元** |
-| 市盈率 | **8.7倍** |
-| 股价距历史高点 | **跌了87%** |
+| Annual revenue | **$33.2 billion** |
+| Annual free cash flow | **$5.6 billion** |
+| Net cash | **$15 billion** |
+| Active accounts | **439 million** |
+| Annual payment volume processed | **$1.79 trillion** |
+| Current market cap | **$36.4 billion** |
+| P/E ratio | **8.7x** |
+| Decline from all-time high | **down 87%** |
 
-一家年赚56亿美元现金的公司，市场给364亿定价——相当于只用不到7年的现金流就能回本。它的市值几乎等于一年的收入。
+A company that earns $5.6 billion in cash every year is priced by the market at $36.4 billion — which means it would pay for itself in less than 7 years of cash flow. Its market cap is almost equal to a single year of revenue.
 
-**如果这是一家没人听过的小公司，这些数字足以让任何价值投资者兴奋。**
+**If this were a small, unknown company, these numbers alone would excite any value investor.**
 
-但这是PayPal——一家从310美元跌到41美元、两年半换了三个CEO的公司。便宜从来不是没有原因的。
-
----
-
-## 从310美元到41美元：发生了什么
-
-要理解今天的PayPal，得先搞懂它是怎么从天上摔到地上的。
-
-**2021年7月，股价310美元。** 疫情把全球消费者推向线上，PayPal是最大受益者。市场认为「电商永远改变了世界」，给了PayPal超过60倍的市盈率。
-
-**然后泡沫破了。**
-
-疫情红利消退，电商增速回归常态。更致命的是，苹果支付、Stripe、Shopify开始从各个方向蚕食PayPal的领地。PayPal同时在追逐加密货币、先买后付、超级应用——什么都想做，什么都没做好。
-
-利润率从22.8%一路跌到7.8%。股价从310跌到50。
-
-**2023年底触底，新CEO Alex Chriss上任，推动「利润率优先」改革。** 2024年出现改善迹象，股价反弹到80。市场一度以为转机来了。
-
-**2025年Q4，品牌结账增速骤降到1%。股价暴跌10%。**
-
-**2026年2月，董事会突然换CEO，换来的是一个卖打印机的。** 股价再次崩塌，跌至41美元。
-
-这不是「触底反弹」的故事。这是「触底→反弹→发现问题没解决→二次探底」的故事。
+But this is PayPal — a company that has fallen from $310 to $41 and gone through three CEOs in two and a half years. Cheap is never without a reason.
 
 ---
 
-## PayPal到底赚谁的钱
+## From $310 to $41: What Happened
 
-PayPal的收入来自四个地方，理解它们的差异至关重要：
+To understand today's PayPal, you first need to understand how it fell from the sky to the ground.
 
-### 品牌结账：利润最厚，但长不动了
+**In July 2021, the share price was $310.** The pandemic pushed the world's consumers online, and PayPal was the biggest beneficiary. The market believed "e-commerce had changed the world forever" and awarded PayPal a P/E of more than 60x.
 
-当你在网上购物时看到「PayPal按钮」并点击支付——这就是品牌结账。PayPal每笔抽成约3.5%，利润率极高。
+**Then the bubble burst.**
 
-问题是：**这个按钮越来越不被需要了。**
+The pandemic tailwind faded, and e-commerce growth returned to normal. More fatally, Apple Pay, Stripe, and Shopify began eating into PayPal's territory from every direction. At the same time, PayPal was chasing crypto, Buy Now Pay Later, and the "super app" all at once — trying to do everything and doing nothing well.
 
-苹果支付用面容识别一秒完成支付，不需要跳转到PayPal页面、不需要登录、不需要记密码。对年轻人来说，PayPal按钮是个「多余的步骤」。
+Margins fell steadily from 22.8% to 7.8%. The stock fell from $310 to $50.
 
-数据已经反映了这一点：品牌结账增速从6%降到1-2%。美国苹果支付用户（9,050万）和PayPal用户（9,210万）的差距几乎为零。
+**It bottomed in late 2023, and new CEO Alex Chriss took over, pushing a "margin-first" turnaround.** Improvement appeared in 2024, and the stock rebounded to $80. For a moment, the market thought the turnaround had arrived.
 
-**这是PayPal最高利润率的核心业务，也是跌得最痛的一块。**
+**In Q4 2025, Branded Checkout growth suddenly collapsed to 1%. The stock plunged 10%.**
 
-### Braintree：增长最快，但几乎不赚钱
+**In February 2026, the board abruptly replaced the CEO — with someone who used to sell printers.** The stock collapsed again, falling to $41.
 
-你在网上用信用卡付款时，可能根本没意识到背后是PayPal在处理——这就是Braintree。它是一个「看不见的后端」，帮商户处理支付。
-
-Braintree增长很快（交易量+11%），但为了抢客户，价格压得很低。**这是一个「赔本赚吆喝」的生意**——增长越快，整体抽成率越低。
-
-**核心矛盾就在这里：增长最快的业务利润最低，利润最高的业务长不动。**
-
-### Venmo：年轻人的钱包
-
-Venmo是美国最流行的P2P支付应用——朋友之间分账、AA付款、转账。月活超1亿，在年轻人中品牌认知度极高。
-
-好消息是Venmo终于开始赚钱了。2025年收入17亿美元（+20%），借记卡增长60%，商户支付增长34%。
-
-坏消息是17亿只占PayPal总收入的5%。**Venmo是一个「好故事」但还不是「大生意」。**
-
-### 新业务：广告、稳定币、AI
-
-PayPal正在用25年积累的交易数据做广告——和Meta/谷歌不同，PayPal知道你**真的买了什么**而不只是看了什么。
-
-PYUSD稳定币市值从6亿飙升到41亿，扩展至70个市场。
-
-AI被用于反欺诈（每季度拦截5亿美元欺诈）和智能结账。
-
-**这些都是方向正确的尝试，但目前对收入的贡献几乎可以忽略。**
+This is not a story of "hitting bottom and bouncing back." It's a story of "hit bottom → bounce back → discover the problem wasn't solved → hit bottom again."
 
 ---
 
-## 护城河：还在，但在变薄
+## Who Actually Pays PayPal
 
-### 仍然存在的优势
+PayPal's revenue comes from four places, and understanding their differences is essential:
 
-1. **全球最大的在线支付网络** — 4.39亿账户+3,500万商户的双边网络不是一夜能建成的
-2. **信任品牌** — 在陌生网站上看到PayPal，消费者更愿意付款。这种信任花了20年建立
-3. **风控能力** — 500个数据点、5亿美元季度反欺诈，这对商户有真实价值
-4. **56亿美元年现金流** — 再怎么唱衰，这台机器每年还在稳定地印钞票
+### Branded Checkout: Thickest Margin, But No Longer Growing
 
-### 正在被侵蚀的部分
+When you shop online and see the "PayPal button" and click to pay — that's Branded Checkout. PayPal takes a cut of about 3.5% per transaction, at a very high margin.
 
-1. **定价权在下降** — 抽成率连年走低（1.73%），业务组合越来越偏向低利润
-2. **品牌结账被绕过** — 苹果支付用操作系统级优势让PayPal按钮变得「可有可无」
-3. **用户基座在缩** — 活跃账户从峰值下降，年轻人不再把PayPal当首选
-4. **管理层不稳定** — 两年半三个CEO，战略方向不确定
+The problem is: **this button is becoming less and less necessary.**
+
+Apple Pay completes a payment in one second with facial recognition — no redirect to a PayPal page, no login, no password to remember. To younger people, the PayPal button feels like "an extra step."
+
+The data already reflects this: Branded Checkout growth has fallen from 6% to 1-2%. The gap between US Apple Pay users (90.5 million) and PayPal users (92.1 million) is now nearly zero.
+
+**This is PayPal's highest-margin core business, and also the one that's hurting the most.**
+
+### Braintree: Fastest Growth, But Barely Profitable
+
+When you pay by credit card online, you may not even realize PayPal is processing it behind the scenes — that's Braintree. It's an "invisible back end" that helps merchants process payments.
+
+Braintree is growing fast (transaction volume +11%), but prices have been pushed low to win customers. **This is a "grow revenue at a loss" business** — the faster it grows, the lower the overall take rate.
+
+**The core contradiction lies right here: the fastest-growing business has the lowest margin, and the highest-margin business isn't growing.**
+
+### Venmo: The Wallet of Young People
+
+Venmo is the most popular P2P payment app in the US — splitting bills between friends, paying each other back, transferring money. It has more than 100 million monthly actives and extremely high brand recognition among young people.
+
+The good news is Venmo is finally starting to make money. 2025 revenue was $1.7 billion (+20%), debit card usage grew 60%, and merchant payments grew 34%.
+
+The bad news is that $1.7 billion is only 5% of PayPal's total revenue. **Venmo is a "good story" but not yet a "big business."**
+
+### New Businesses: Advertising, Stablecoins, AI
+
+PayPal is using 25 years of accumulated transaction data to build an advertising business — unlike Meta or Google, PayPal knows what you **actually bought**, not just what you looked at.
+
+The PYUSD stablecoin's market cap has jumped from $600 million to $4.1 billion, now live in 70 markets.
+
+AI is being used for anti-fraud (blocking $500 million in fraud per quarter) and smart checkout.
+
+**These are all directionally correct attempts, but their contribution to revenue today is nearly negligible.**
 
 ---
 
-## 便宜还是陷阱：一个关键问题
+## The Moat: Still There, But Thinning
 
-市场给PayPal 8.7倍市盈率，只有历史中位数的五分之一。这意味着市场在定价以下几种可能之一：
+### Advantages That Still Hold
 
-**可能A：市场错了，PayPal被严重低估**
-- 332亿收入、56亿现金流的公司不值得只有364亿市值
-- 每年60亿回购，3年后流通股减少50%，每股收益可能翻倍
-- Venmo和广告是免费赠送的期权
-- Michael Burry在49美元建仓，说明聪明钱看到了价值
+1. **The world's largest online payments network** — a two-sided network of 439 million accounts and 35 million merchants isn't built overnight
+2. **A trusted brand** — seeing PayPal on an unfamiliar website makes consumers more willing to pay. This trust took 20 years to build
+3. **Risk-management capability** — 500 data points, $500 million in quarterly anti-fraud blocking; this creates real value for merchants
+4. **$5.6 billion in annual cash flow** — however much people talk down PayPal, this machine is still steadily printing cash every year
 
-**可能B：市场对了，PayPal在缓慢衰退**
-- 品牌结账份额丢失是结构性的，不可逆
-- 苹果支付将在5-10年内取代大部分线上PayPal结账
-- 支付正在变成基础设施，没人愿意为基础设施付溢价
-- 回购跑不赢业务的萎缩
+### Parts Being Eroded
 
-**决定你站哪一边的，就一个问题：品牌结账能不能止跌？**
-
-如果能——8.7倍PE是10年一遇的便宜。
-如果不能——低PE不是安全垫，而是衰退预告。
+1. **Pricing power is declining** — the take rate keeps falling (1.73%), and the business mix is skewing increasingly toward low-margin segments
+2. **Branded Checkout is being bypassed** — Apple Pay's OS-level advantage is making the PayPal button "optional"
+3. **The user base is shrinking** — active accounts have fallen from their peak, and young people no longer default to PayPal
+4. **Management is unstable** — three CEOs in two and a half years, with an uncertain strategic direction
 
 ---
 
-## 三种情景，三种命运
+## Bargain or Trap: One Key Question
 
-| 情景 | 假设 | 合理估值 | 上行/下行 |
+The market has priced PayPal at 8.7x earnings, only one-fifth of its historical median. This means the market is pricing in one of the following possibilities:
+
+**Possibility A: The market is wrong, and PayPal is severely undervalued**
+- A company with $33.2 billion in revenue and $5.6 billion in cash flow doesn't deserve a market cap of only $36.4 billion
+- With $6 billion in annual buybacks, shares outstanding could fall 50% within three years, potentially doubling earnings per share
+- Venmo and advertising are a free option
+- Michael Burry built a position at $49, suggesting smart money sees value here
+
+**Possibility B: The market is right, and PayPal is in slow decline**
+- The loss of Branded Checkout share is structural and irreversible
+- Apple Pay will replace most online PayPal checkout within 5-10 years
+- Payments are becoming infrastructure, and no one wants to pay a premium for infrastructure
+- Buybacks can't outrun the shrinkage of the business
+
+**The single question that determines which side you're on: can Branded Checkout stop declining?**
+
+If it can — 8.7x P/E is a once-in-a-decade bargain.
+If it can't — the low P/E isn't a margin of safety, it's a warning of decline.
+
+---
+
+## Three Scenarios, Three Fates
+
+| Scenario | Assumption | Fair Valuation | Upside/Downside |
 |------|------|---------|----------|
-| **乐观** | 品牌结账恢复5%增长 + Venmo加速 + 广告贡献 | 700-800亿美元 | **股价翻倍** |
-| **中性** | 品牌结账低个位数增长 + 利润率稳定 + 回购驱动每股收益 | 500-600亿美元 | **+30-50%** |
-| **悲观** | 品牌结账持续丢份额 + 利润率下行 + 商品化 | 300-350亿美元 | **-15-25%** |
+| **Bull** | Branded Checkout recovers to 5% growth + Venmo accelerates + advertising contributes | $70-80 billion | **stock doubles** |
+| **Base** | Branded Checkout grows in the low single digits + margins stabilize + buybacks drive EPS | $50-60 billion | **+30-50%** |
+| **Bear** | Branded Checkout keeps losing share + margins decline + commoditization | $30-35 billion | **-15-25%** |
 
 ---
 
-## 值得跟踪的信号
+## Signals Worth Tracking
 
-如果你在考虑是否投资PayPal，以下几个信号比任何分析师报告都重要：
+If you're considering investing in PayPal, the following signals matter more than any analyst report:
 
-**看多信号：**
-- 品牌结账季度增速回到3%以上
-- Fastlane一键结账的商户采用率加速
-- Venmo季度收入增速保持20%+
-- 新CEO提出清晰且可执行的战略
+**Bullish signals:**
+- Branded Checkout quarterly growth returns above 3%
+- Merchant adoption of Fastlane one-click checkout accelerates
+- Venmo quarterly revenue growth stays above 20%
+- The new CEO articulates a clear, executable strategy
 
-**看空信号：**
-- 品牌结账增速降至零或负增长
-- 活跃账户跌破3.5亿
-- 营业利润率连续下行
-- 又一次换CEO
-
----
-
-## 最后一段话
-
-PayPal让我想到一个比喻。
-
-它像一座正在漏水的大坝。坝体本身——332亿收入、56亿现金流、150亿净现金——依然坚固。但裂缝——品牌结账减速、管理层动荡、苹果竞争——在扩大。
-
-8.7倍市盈率，是市场给出的修缮价格。
-
-如果裂缝能堵住，这个价格极度便宜。如果堵不住，大坝终将被侵蚀。
-
-Michael Burry在49美元建仓说明他赌前者。市场跌到41美元说明多数人赌后者。
-
-你赌哪一边？
+**Bearish signals:**
+- Branded Checkout growth falls to zero or negative
+- Active accounts fall below 350 million
+- Operating margin declines for consecutive quarters
+- Yet another CEO change
 
 ---
 
-*本文不构成任何投资建议。投资有风险，决策需谨慎。*
+## A Final Word
+
+PayPal reminds me of a metaphor.
+
+It's like a dam that's springing leaks. The dam body itself — $33.2 billion in revenue, $5.6 billion in cash flow, $15 billion of net cash — remains solid. But the cracks — Branded Checkout deceleration, management turmoil, Apple's competition — are widening.
+
+8.7x P/E is the market's repair price.
+
+If the cracks can be sealed, this price is extremely cheap. If they can't, the dam will eventually be worn away.
+
+Michael Burry built his position at $49, betting on the former. The market's fall to $41 shows most people are betting on the latter.
+
+Which side are you betting on?
+
+---
+
+*This article does not constitute investment advice. Investing involves risk; decisions should be made with care.*

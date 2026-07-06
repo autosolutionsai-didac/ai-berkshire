@@ -1,139 +1,139 @@
-# 腾讯Q1财报：利润只增9%？拆开AI核心业务藏着17%
+# Tencent's Q1 Earnings: Profit Up Only 9%? Peel Back the AI Spend and Core Business Grew 17%
 
-腾讯Q1营收1,965亿，低于市场预期25亿。
+Tencent's Q1 revenue was 196.5 billion yuan, missing the market consensus by 2.5 billion yuan.
 
-但如果你只看到这个数字就下结论，你会错过这份财报里最重要的新信息——腾讯第一次把AI投入单独拆出来了。剔除AI产品的亏损后，核心业务利润增长17%，利润率43%。
+But if you stop at that number, you'll miss the most important new disclosure in this earnings report: for the first time, Tencent broke out its AI spending separately. Stripping out the AI product losses, core business profit grew 17%, with a 43% margin.
 
-换句话说，腾讯的核心引擎不是在减速，是在给AI这个"新乘客"腾座位。
+In other words, Tencent's core engine isn't slowing down — it's making room in the seats for a new passenger: AI.
 
-马化腾在今天的股东大会上用了一个比喻：
+Pony Ma used an analogy at today's shareholder meeting:
 
-> "原来一年前我们以为上了船，后来发现那个船漏水了，现在感觉站上去了，还坐不下去，还是希望船速能快一点。"
+> "A year ago we thought we'd boarded the boat, then found out it was leaking. Now it feels like we're standing on it, but we still can't sit down — we just wish the boat would go faster."
 
-这句话很诚实。腾讯的AI进展，大概就是这个状态——没掉下去，但也没坐稳。
+That's a remarkably honest line. Tencent's AI progress is roughly in that state — it hasn't fallen off, but it hasn't found its footing either.
 
-> **阅读提示**：腾讯财报有两套利润数字。本文主要使用"Non-IFRS利润"，即剔除股权激励、投资波动等一次性因素后的利润，更能反映核心业务的真实赚钱能力。
+> **Reading note**: Tencent's earnings report contains two sets of profit figures. This article primarily uses "Non-IFRS profit" — profit with one-off items such as share-based compensation and investment fluctuations stripped out — which better reflects the true earning power of the core business.
 
 ---
 
-## 一、成绩单
+## I. The Scorecard
 
-| 指标 | Q1 2026 | 同比 | 市场预期 | 达标？ |
+| Metric | Q1 2026 | YoY | Market Estimate | Met? |
 |------|---------|------|---------|-------|
-| 总收入 | 1,965亿 | +9% | 1,994亿 | ❌ 少了25亿 |
-| Non-IFRS归母净利 | 679亿 | +11% | 672-678亿 | ✅ 小幅超预期 |
-| 自由现金流 | 567亿 | +20% | — | 造血能力极强 |
-| 微信月活 | 14.32亿 | +2% | — | 稳步增长 |
+| Total revenue | RMB 196.5bn | +9% | RMB 199.4bn | ❌ Missed by RMB 2.5bn |
+| Non-IFRS net profit attributable | RMB 67.9bn | +11% | RMB 67.2-67.8bn | ✅ Slight beat |
+| Free cash flow | RMB 56.7bn | +20% | — | Very strong cash generation |
+| WeChat MAU | 1.432bn | +2% | — | Steady growth |
 
-**分业务**：
+**By segment**:
 
-| 业务 | Q1 2026 | 同比 | 一句话点评 |
+| Segment | Q1 2026 | YoY | One-line take |
 |------|---------|------|-----------|
-| 本土游戏 | 454亿 | +6% | 王者荣耀、和平精英、三角洲行动流水均创历史新高，收入增速偏低是春节错位导致收入确认推迟 |
-| 国际游戏 | 188亿 | +13% | 皇室战争、鸣潮、无畏契约贡献增量 |
-| 社交网络 | 319亿 | -2% | 唯一负增长板块，同样受春节时差影响 |
-| **营销服务（广告）** | **382亿** | **+20%** | **增速最快，AI驱动广告效率提升** |
-| 金融科技及企业服务 | 599亿 | +9% | 其中企业服务（含云）增速+20% |
+| Domestic games | RMB 45.4bn | +6% | Honor of Kings, PUBG Mobile and Delta Force all hit record gross billings; the lower revenue growth reflects deferred revenue recognition due to the Lunar New Year timing shift |
+| International games | RMB 18.8bn | +13% | Clash Royale, Wuthering Waves and Valorant drove the incremental growth |
+| Social networks | RMB 31.9bn | -2% | The only segment with negative growth, also affected by the Lunar New Year timing shift |
+| **Marketing services (advertising)** | **RMB 38.2bn** | **+20%** | **Fastest-growing segment, driven by AI-powered ad efficiency gains** |
+| FinTech and business services | RMB 59.9bn | +9% | Within this, business services (including cloud) grew +20% |
 
-收入增速稳定在9-13%区间，没有加速也没有恶化。真正的看点不在收入，在利润结构。
+Revenue growth held steady in the 9-13% range — neither accelerating nor deteriorating. The real story isn't in revenue; it's in the profit structure.
 
 ---
 
-## 二、三个关键变化
+## II. Three Key Changes
 
-### 变化一：腾讯第一次"报小账"——核心业务利润率43%
+### Change One: Tencent Discloses a "Sub-Ledger" for the First Time — Core Business Margin at 43%
 
-这是本季最重要的新信息。腾讯第一次把AI新产品（混元、元宝、CodeBuddy、WorkBuddy、QClaw）的投入从核心业务中拆出来了：
+This is the most important new disclosure this quarter. For the first time, Tencent separated spending on new AI products (Hunyuan, Yuanbao, CodeBuddy, WorkBuddy, QClaw) from the core business:
 
-| 口径 | Q1 2026 | Q1 2025 | 同比 | 利润率 |
+| Basis | Q1 2026 | Q1 2025 | YoY | Margin |
 |------|---------|---------|------|--------|
-| Non-IFRS经营利润（含AI产品） | 756亿 | 693亿 | +9% | 38.5% |
-| **Non-IFRS经营利润（剔除AI产品）** | **844亿** | **721亿** | **+17%** | **43.0%** |
-| AI新产品亏损 | **约88亿** | 约28亿 | +214% | — |
+| Non-IFRS operating profit (including AI products) | RMB 75.6bn | RMB 69.3bn | +9% | 38.5% |
+| **Non-IFRS operating profit (excluding AI products)** | **RMB 84.4bn** | **RMB 72.1bn** | **+17%** | **43.0%** |
+| AI new product losses | **~RMB 8.8bn** | ~RMB 2.8bn | +214% | — |
 
-看到这组数字，你可能和我一样有个直觉——腾讯在"报小账"。
+Looking at these numbers, you might share my instinct: Tencent is keeping a "sub-ledger."
 
-表面上利润只增长了9%，但核心业务（游戏+广告+金融科技）的利润增速是17%，利润率43%。所谓的"增速放缓"，完全是因为一季度往AI产品里砸了88亿。
+On the surface, profit grew only 9%. But the core business (games + advertising + fintech) grew profit 17%, at a 43% margin. The so-called "slowdown" is entirely because the company poured RMB 8.8 billion into AI products in Q1.
 
-一句话：腾讯不是赚不到钱了，是把赚到的钱拿去喂了AI。一季度喂了88亿。
+In one line: Tencent isn't earning less — it's feeding what it earns to AI. In Q1 it fed AI RMB 8.8 billion.
 
-### 变化二：广告业务加速到+20%，AI的钱没白花
+### Change Two: Advertising Accelerates to +20% — the AI Spend Isn't Wasted
 
-营销服务收入增速从上季度的17%提升至20%，是所有板块中增速最快的。
+Marketing services revenue growth accelerated from 17% last quarter to 20%, the fastest of any segment.
 
-增长来自两方面：视频号用户时长同比+20%带来了更多广告库存（量），AI驱动的广告推荐模型升级提升了广告效果和定价能力（价）。AIM+自动化投放方案已经覆盖了约30%的广告主支出。具体"量"和"价"各贡献多少，财报没有披露。
+The growth came from two sources: Video Accounts user time spent grew +20% year over year, generating more ad inventory (volume); and upgrades to the AI-driven ad recommendation model improved ad performance and pricing power (price). The AIM+ automated ad-buying solution now covers roughly 30% of advertiser spend. The earnings report did not disclose how much each of "volume" and "price" contributed.
 
-广告是AI赋能现有业务最直观的案例——AI投入不全是在"烧钱"，有一部分已经在赚钱了。
+Advertising is the clearest example of AI empowering an existing business — the AI spend isn't all "burning cash"; part of it is already making money.
 
-### 变化三：回购"退潮"——钱去哪了？
+### Change Three: Buybacks Recede — Where Did the Money Go?
 
-过去两年，腾讯靠回购给股东发"红包"。现在这笔红包预算被挪去招AI工程师和买GPU了。
+Over the past two years, Tencent handed shareholders a "red envelope" through buybacks. Now that budget is being redirected to hiring AI engineers and buying GPUs.
 
-回购从2024全年的1,120亿港元，到2025年的约800亿，再到Q1 2026的76亿（年化约300亿），节奏明显放慢。与此同时，资本开支从去年Q1的275亿跳升至319亿（+16%），环比更是暴增63%。
+Buybacks fell from HK$112 billion for full-year 2024, to roughly HK$80 billion in 2025, to HK$7.6 billion in Q1 2026 (an annualized rate of roughly HK$30 billion) — a clear slowdown in pace. At the same time, capex jumped from RMB 27.5 billion in Q1 last year to RMB 31.9 billion (+16%), and surged 63% quarter over quarter.
 
-好消息是：即使回购缩减、资本开支增加，腾讯的净现金还是从902亿增至1,469亿（+63%）。兜里的现金不但没少，反而更多了。自由现金流567亿，同比+20%——赚钱速度比花钱速度更快。
+The good news: even with buybacks shrinking and capex rising, Tencent's net cash still grew from RMB 90.2 billion to RMB 146.9 billion (+63%). The cash in its pocket hasn't shrunk — it's grown. Free cash flow was RMB 56.7 billion, up 20% year over year — the company is earning faster than it's spending.
 
-刘炽平在业绩会上的定调是：**2026年"收入增速可能快于利润增速"**——这是在提前管理市场预期，意思是AI还要继续烧，利润增速别期待太高。
+Martin Lau set the tone on the earnings call: **in 2026, "revenue growth may outpace profit growth"** — a preemptive expectation-management move, signaling that AI spending will keep burning and investors shouldn't expect too much from profit growth.
 
-风险也很明确：如果几年后AI没做出名堂，这些本来可以回购的钱就算白花了。这笔账划不划算，要3年后才知道。
-
----
-
-## 三、管理层说了什么真话
-
-财报数字之外，股东大会和业绩说明会上管理层的发言比新闻稿坦诚得多。
-
-**马化腾谈AI竞争策略：**
-
-> "不能看着别人在那边做就随便跨过去，抢别人的地盘，过去我们也抢过但后来基本失败了。"
-
-这句话等于承认了腾讯过去在一些领域（短视频、电商等）盲目跟风的教训。放在AI语境下，意思是腾讯不会去做通用大模型的军备竞赛，而是聚焦自己有优势的场景（社交、广告、游戏）来做AI应用。
-
-**刘炽平对混元的自我批评：**
-
-据36氪报道，刘炽平内部评价混元"**更像应试考试，单项成绩表现不错，但一进考场就露馅，不少关键能力都有缺失**"。
-
-混元3 Preview虽然在OpenRouter上登顶Token用量排行榜，但这个成绩有一定水分——期间有限免推广，加上内部业务的配额调用。真正的考验在限免期结束后，能否靠产品力留住外部开发者。
-
-**元宝的真实用户数据：**
-
-元宝3月MAU约5,735万，但这个数字需要放在语境中理解：春节期间峰值曾超1.14亿（腾讯砸了10亿做推广），节后快速回落。一季度净增用户仅约820万。作为对比，字节豆包同期日均调用量是混元的约30倍，一季度净增用户约1亿。
-
-差距是客观存在的。但管理层的态度是接受"慢"，不急于追赶：马化腾说"稳扎稳打"，刘炽平说"变现将随使用量提升而自然实现"。
-
-**刘炽平回应裁员传闻：**
-
-> "肯定没有大裁员计划，腾讯跟硅谷公司不太一样。"
+The risk is equally clear: if AI hasn't amounted to anything in a few years, the money that could have gone to buybacks will have been wasted. Whether this bet pays off won't be known for another three years.
 
 ---
 
-## 四、一个容易被忽略的细节
+## III. What Management Said, Off the Script
 
-应收账款增速（+16%）明显快于收入增速（+9%），需要在Q2观察是否正常回收。可能的原因是广告和云业务快速增长中大客户的账期较长，但如果持续扩大就需要警惕了。
+Beyond the numbers in the report, management's remarks at the shareholder meeting and earnings call were far more candid than the press release.
+
+**Pony Ma on AI competitive strategy:**
+
+> "We can't just see someone else doing something and casually jump in to grab their turf. We tried that before, and it mostly failed."
+
+That's effectively an admission of past lessons from blindly chasing trends in areas like short video and e-commerce. In the AI context, it means Tencent won't join the arms race for general-purpose large models, but will instead focus AI applications on the scenarios where it already has an edge — social, advertising, and gaming.
+
+**Martin Lau's self-criticism of Hunyuan:**
+
+According to 36Kr, Martin Lau's internal assessment of Hunyuan was that it "**is more like exam-taking — it scores well on individual tests, but the moment it enters the real exam room the cracks show; a number of key capabilities are still missing**."
+
+Hunyuan 3 Preview did top OpenRouter's token-usage leaderboard, but that result carries some inflation — it coincided with a limited-time free promotion plus quota calls from internal business units. The real test comes after the free period ends: whether product strength alone can retain external developers.
+
+**Yuanbao's real user numbers:**
+
+Yuanbao's March MAU was approximately 57.35 million, but that figure needs context: during the Lunar New Year it peaked above 114 million (Tencent poured RMB 1 billion into promotion), then fell back quickly afterward. Net new users added in Q1 were only around 8.2 million. By comparison, ByteDance's Doubao had roughly 30 times Hunyuan's daily call volume over the same period, and added roughly 100 million net new users in Q1.
+
+The gap is real. But management's attitude is to accept being "slow" rather than rush to catch up: Pony Ma said the approach is to "proceed steadily, step by step," while Martin Lau said "monetization will naturally follow as usage grows."
+
+**Martin Lau on layoff rumors:**
+
+> "There is definitely no plan for large-scale layoffs. Tencent isn't quite like the Silicon Valley companies."
 
 ---
 
-## 五、结论：这份财报改变了什么？
+## IV. An Easily Overlooked Detail
 
-**表面低于预期，实质略超。**
-
-收入少了25亿主要因为春节错位导致游戏收入确认推迟，这是老问题，Q2自然会补回来。真正重要的是首次披露的"剔除AI产品"利润数据——核心业务+17%增长、43%利润率——远好于市场担忧。
-
-**对持有者来说：持有，不需要做任何动作。**
-
-核心业务的赚钱机器转得好好的，砸钱做AI是主动出击不是被逼的。净现金1,469亿提供充足安全垫。唯一需要警惕的是：如果连续2-3个季度AI产品用户数据无改善，就需要重新评估AI投入的回报预期。
-
-**下一个看点**：
-- Q2财报——游戏收入春节时差回补 + AI产品亏损规模是否继续扩大
-- 混元3正式版——限免期结束后能否留住外部开发者
-- 元宝用户增长——春节冲高后回落至5,700万，能否重新起势
+Accounts receivable growth (+16%) notably outpaced revenue growth (+9%), and it's worth watching in Q2 whether these are collected normally. A plausible explanation is longer payment terms from large clients amid rapid growth in advertising and cloud, but if the gap keeps widening it would warrant caution.
 
 ---
 
-**一句话总结这份财报**：核心业务稳如磐石，AI投入烧钱凶猛，回购退潮令人遗憾。
+## V. Conclusion: What Did This Report Change?
 
-投资腾讯，本质上是在赌一件事：这家公司能不能在AI时代再造一个"微信级别"的产品。Q1的答案是：还不能，但它花得起这个钱去试。用马化腾自己的话说——船站上去了，但还坐不下去。
+**Superficially below expectations, substantively a slight beat.**
+
+The RMB 2.5 billion revenue shortfall is mainly because the Lunar New Year timing shift delayed game revenue recognition — an old, familiar issue that will naturally be made up in Q2. What really matters is the first-ever disclosure of "ex-AI-product" profit figures: core business growth of +17% at a 43% margin — far better than the market had feared.
+
+**For holders: hold. No action needed.**
+
+The core-business money machine is running fine, and pouring money into AI is a proactive offensive move, not one made under duress. Net cash of RMB 146.9 billion provides ample cushion. The one thing to watch: if AI product user metrics show no improvement for 2-3 consecutive quarters, the return expectations on AI spending will need to be reassessed.
+
+**What to watch next:**
+- Q2 earnings — whether game revenue catches up from the Lunar New Year timing shift, and whether the scale of AI product losses keeps expanding
+- The official Hunyuan 3 release — whether it can retain external developers after the free promotion period ends
+- Yuanbao's user growth — after the Lunar New Year spike it fell back to 57 million; can it regain momentum
 
 ---
 
-*数据来源：腾讯官方2026年Q1业绩公告、股东大会及业绩说明会发言、36氪*
+**This earnings report in one line**: the core business is rock-solid, AI spending is burning cash aggressively, and the retreat in buybacks is regrettable.
+
+Investing in Tencent is, at its core, a bet on one thing: whether the company can build another "WeChat-level" product in the AI era. Q1's answer is: not yet, but it can afford to keep trying. In Pony Ma's own words — the boat is being stood on, but there's still no seat to sit in.
+
+---
+
+*Sources: Tencent's official Q1 2026 earnings announcement, remarks at the shareholder meeting and earnings call, 36Kr*
