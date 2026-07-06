@@ -1,334 +1,334 @@
-# 华工科技（000988.SZ）投资研究报告
+# HGTECH (000988.SZ) Investment Research Report
 
-> **研究日期**：2026年6月23日
-> **股价**：CNY 163.66 | **市值**：CNY 1,630亿
-> **52周区间**：CNY 44.00 - 181.57 | **1年涨幅**：+269%
-
----
-
-## AI研究偏见自觉
-
-**信息丰富度评级：B+级（信息适中偏充裕）**
-
-华工科技上市20余年，但在AI算力/光模块概念爆发前（2024年以前），券商覆盖和市场关注度有限。2024年起因800G/1.6T光模块需求爆发成为热门标的，覆盖迅速增加但时间较短。公司三大业务板块（联接/感知/智能制造）中，光电器件板块信息最充裕，激光和感知板块相对透明度低。
-
-**B+级的AI研究陷阱**：市场对华工科技的认知高度集中在"AI光模块"叙事上，忽视了激光和感知板块（合计占收入53%）增速远低于光模块的事实。AI可能过度强化热门叙事，低估传统业务的拖累效应。
-
-**偏见自查**：
-- 1年涨幅269%后的"确定性感"更多来自股价momentum而非生意本质
-- PE 111倍（FY2025基准）意味着市场已极度乐观——还有多少上行空间？
-- AI光模块叙事可能掩盖了一个事实：华工科技在光模块市场仅排全球第5，份额6-8%
+> **Research date**: June 23, 2026
+> **Share price**: CNY 163.66 | **Market cap**: CNY 163.0 billion
+> **52-week range**: CNY 44.00 - 181.57 | **1-year gain**: +269%
 
 ---
 
-## 关键数据交叉验证记录
+## AI Research Bias Self-Check
 
-| 验证项 | 来源1 | 来源2 | 偏差 | 结果 |
+**Information richness rating: B+ (moderate-to-ample information)**
+
+HGTECH has been listed for more than 20 years, but before the AI compute/optical module theme exploded (pre-2024), brokerage coverage and market attention were limited. Since 2024, the company has become a hot name on the back of surging 800G/1.6T optical module demand, and coverage has expanded quickly but over a short span. Among the company's three business segments (Connectivity/Sensing/Intelligent Manufacturing), the optoelectronic devices segment has the most abundant information, while the laser and sensing segments remain relatively opaque.
+
+**The B+ AI research trap**: Market perception of HGTECH is heavily concentrated on the "AI optical module" narrative, which overlooks the fact that the laser and sensing segments (53% of revenue combined) are growing far more slowly than the optical module business. AI may over-amplify the hot narrative and underweight the drag from the legacy businesses.
+
+**Bias self-check**:
+- The "sense of certainty" that follows a 269% one-year rally comes more from share-price momentum than from the underlying nature of the business
+- A P/E of 111x (on an FY2025 basis) implies the market is already extremely optimistic — how much upside room is left?
+- The AI optical module narrative may obscure a fact: HGTECH ranks only 5th globally in the optical module market, with a 6-8% share
+
+---
+
+## Key Data Cross-Validation Log
+
+| Item verified | Source 1 | Source 2 | Deviation | Result |
 |--------|-------|-------|------|------|
-| 市值（CNY 1,630亿） | 股价163.66×股本9.957亿=1,629.6亿 | Investing.com 1,629.6亿 | 0.00% | 通过 |
-| FY2025收入（143.55亿） | 公司年报 | 东方财富/搜狐财经 | 一致 | 通过 |
-| FY2025归母净利（14.71亿） | 公司年报 | 证券之星 | 一致 | 通过 |
-| 总股本（9.957亿） | 分红公告基数9.96亿 | Investing.com 9.957亿 | 一致 | 通过 |
+| Market cap (CNY 163.0 billion) | Share price 163.66 x share count 995.7 million = CNY 162.96 billion | Investing.com CNY 162.96 billion | 0.00% | Passed |
+| FY2025 revenue (CNY 14.355 billion) | Company annual report | Eastmoney / Sohu Finance | Consistent | Passed |
+| FY2025 net profit attributable to parent (CNY 1.471 billion) | Company annual report | Stockstar | Consistent | Passed |
+| Total share count (995.7 million) | Dividend-announcement base of 996 million | Investing.com 995.7 million | Consistent | Passed |
 
-> PE(FY2025)=111.33x、PB=13.94x、ROE=12.52%、股息率=0.15% 均通过 `financial_rigor.py` 精确验算。
+> P/E(FY2025)=111.33x, P/B=13.94x, ROE=12.52%, dividend yield=0.15%, all precisely verified via `financial_rigor.py`.
 
 ---
 
-## 一、生意本质分析
+## I. Nature of the Business
 
-### 一句话定义
+### One-sentence definition
 
-**华工科技是一家脱胎于华中科技大学的"光+智造"平台型公司，核心价值在于光电器件（光模块）业务搭上了AI算力需求的爆发浪潮，同时拥有激光加工和传感器两个传统支撑业务。**
+**HGTECH is a "photonics + smart manufacturing" platform company spun out of Huazhong University of Science and Technology (HUST). Its core value proposition is that its optoelectronic devices (optical modules) business has ridden the wave of surging AI compute demand, while it also holds two traditional supporting businesses — laser processing and sensors.**
 
-### 收入结构拆解（FY2025）
+### Revenue Breakdown (FY2025)
 
-| 业务板块 | 收入（亿元） | 占比 | 同比增速 | 定位 |
+| Segment | Revenue (CNY billion) | Share | YoY growth | Positioning |
 |----------|------------|------|---------|------|
-| **联接业务**（华工正源/光电器件） | 60.97 | **42.5%** | **+53.4%** | 光模块（400G/800G/1.6T），AI算力核心受益 |
-| **感知业务**（华工高理） | 40.27 | 28.0% | +9.8% | PTC加热器/温度传感器，下游家电+新能源车 |
-| **智能制造**（华工激光） | 36.36 | 25.3% | +4.1% | 激光切割/焊接设备，下游汽车/锂电/3C |
-| 其他/抵销 | ~5.95 | 4.1% | — | — |
-| **合计** | **143.55** | **100%** | **+22.6%** | — |
+| **Connectivity** (HG Genuine / optoelectronic devices) | 6.097 | **42.5%** | **+53.4%** | Optical modules (400G/800G/1.6T), core beneficiary of AI compute |
+| **Sensing** (Huagong Gaoli) | 4.027 | 28.0% | +9.8% | PTC heaters/temperature sensors, downstream in home appliances + EVs |
+| **Intelligent Manufacturing** (HG Laser) | 3.636 | 25.3% | +4.1% | Laser cutting/welding equipment, downstream in autos/lithium batteries/3C |
+| Other/eliminations | ~0.595 | 4.1% | — | — |
+| **Total** | **14.355** | **100%** | **+22.6%** | — |
 
-**关键发现**：光模块板块贡献了42.5%收入和几乎全部增量（增长贡献率>100%），但感知+激光合计占57.5%收入且增速仅个位数。**华工科技的估值故事是光模块的故事，但收入结构讲的是一个多元化但不平衡的故事。**
+**Key finding**: The optical module segment contributed 42.5% of revenue and nearly all of the incremental growth (its contribution to growth exceeds 100%), while Sensing plus Laser together account for 57.5% of revenue and grow only in the single digits. **HGTECH's valuation story is an optical-module story, but its revenue structure tells a diversified yet unbalanced story.**
 
-### 5年盈利趋势
+### 5-Year Earnings Trend
 
-| 指标 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |------|--------|--------|--------|--------|--------|
-| 总收入（亿） | ~78 | ~88 | 103.1 | 117.1 | 143.55 |
-| 收入增速 | — | ~13% | ~17% | +13.6% | +22.6% |
-| 归母净利润（亿） | ~7.0 | ~7.5 | 10.07 | 12.21 | 14.71 |
-| 净利润增速 | — | ~7% | ~34% | +21.3% | +20.5% |
-| 扣非净利润（亿） | — | — | — | 8.97 | 11.87 |
-| 扣非增速 | — | — | — | — | +32.3% |
-| EPS（元） | ~0.70 | ~0.75 | ~1.01 | ~1.23 | 1.47 |
-| 经营现金流（亿） | — | — | — | ~7.3 | 12.21 |
-| 研发费用（亿） | — | — | — | ~9.9 | 10.92 |
-| 研发占收入比 | — | — | — | ~8.5% | 7.6% |
+| Total revenue (CNY billion) | ~7.8 | ~8.8 | 10.31 | 11.71 | 14.355 |
+| Revenue growth | — | ~13% | ~17% | +13.6% | +22.6% |
+| Net profit attributable to parent (CNY billion) | ~0.70 | ~0.75 | 1.007 | 1.221 | 1.471 |
+| Net profit growth | — | ~7% | ~34% | +21.3% | +20.5% |
+| Non-GAAP net profit (CNY billion) | — | — | — | 0.897 | 1.187 |
+| Non-GAAP growth | — | — | — | — | +32.3% |
+| EPS (CNY) | ~0.70 | ~0.75 | ~1.01 | ~1.23 | 1.47 |
+| Operating cash flow (CNY billion) | — | — | — | ~0.73 | 1.221 |
+| R&D expense (CNY billion) | — | — | — | ~0.99 | 1.092 |
+| R&D as % of revenue | — | — | — | ~8.5% | 7.6% |
 
-**核心观察**：
-- 收入从2021年的~78亿增长至2025年的143.55亿，5年CAGR约16%——扎实但不算爆发
-- 净利润5年CAGR约20%——高于收入增速，体现了产品结构优化（高毛利光模块占比提升）
-- 扣非净利11.87亿 vs 归母14.71亿——**非经常性损益2.84亿，占比19%**，政府补助和投资收益占比不低
+**Core observations**:
+- Revenue grew from ~CNY 7.8 billion in 2021 to CNY 14.355 billion in 2025 — a 5-year CAGR of roughly 16%, solid but not explosive
+- Net profit's 5-year CAGR is roughly 20% — higher than revenue growth, reflecting an improving product mix (a rising share of higher-margin optical modules)
+- Non-GAAP net profit of CNY 1.187 billion vs. CNY 1.471 billion attributable net profit — **non-recurring gains of CNY 284 million, or 19% of the total** — a non-trivial share coming from government subsidies and investment gains
 
-### 商业模式画布
+### Business Model Canvas
 
-- **类型**：科技制造业，硬件设备+器件销售，一次性交易为主
-- **客户**：光模块→北美/国内云厂商（数据中心）；激光→汽车/锂电/3C制造商；感知→家电/汽车OEM
-- **复购性**：光模块随数据中心扩建持续采购；激光设备为大额低频采购+耗材复购；传感器随终端产品出货持续
-- **毛利率特征**：光模块毛利率在30-40%区间（行业水平），激光设备30-35%，传感器25-30%
+- **Type**: Technology manufacturing, hardware/component sales, predominantly one-off transactions
+- **Customers**: Optical modules -> North American/domestic cloud providers (data centers); lasers -> auto/lithium-battery/3C manufacturers; sensors -> home appliance/auto OEMs
+- **Repeat purchase pattern**: Optical modules see continued procurement as data centers expand; laser equipment is a large, low-frequency purchase plus recurring consumables; sensors see continuous purchasing tied to end-product shipments
+- **Gross margin profile**: Optical modules run 30-40% gross margin (in line with the industry), laser equipment 30-35%, sensors 25-30%
 
-### 追问：这门生意好在哪？
+### Follow-up question: What makes this business good?
 
-**如果只能用一句话描述**：华工科技是少数同时拥有"光通信芯片到模块全自研能力"和"激光核心器件自制能力"的中国企业——但这门生意目前更像是一个"AI概念的受益者"而非"AI生态的主导者"。
+**In one sentence**: HGTECH is one of the few Chinese companies with both "fully self-developed capability from optical-communication chips to modules" and "in-house manufacturing of core laser components" — but today this business looks more like a "beneficiary of the AI theme" than a "leader of the AI ecosystem."
 
-生意的好处：
-1. **站在AI算力风口上**——800G/1.6T光模块需求爆发，联接业务+53%
-2. **三条腿走路**——光模块+激光+感知，单一板块下行时有缓冲
-3. **校企背景=技术底蕴**——硅光芯片全自研、1.6T产品已送样北美OTT
+Strengths of the business:
+1. **Riding the AI-compute tailwind** — surging demand for 800G/1.6T optical modules has driven the Connectivity segment up +53%
+2. **Three-legged stool** — optical modules + lasers + sensors, providing a buffer when any single segment turns down
+3. **University-affiliated pedigree = technical depth** — fully self-developed silicon photonics chips; 1.6T products already sampled to North American OTTs
 
-生意的隐忧：
-1. **光模块全球仅第5**——中际旭创28-30%份额，华工正源仅6-8%，差距悬殊
-2. **收入结构"两热一冷"**——光模块高增长掩盖了激光/感知的平庸
-3. **PE 111倍**——按FY2025利润计，即使按2026E也有45-50倍，已极度乐观
+Concerns about the business:
+1. **Only 5th globally in optical modules** — Innolight holds a 28-30% share, versus HG Genuine's mere 6-8%, a wide gap
+2. **A revenue mix that is "two hot, one cold"** — the high growth in optical modules masks mediocrity in lasers/sensing
+3. **A P/E of 111x** — based on FY2025 profit; even on 2026E estimates it is still 45-50x, already pricing in extreme optimism
 
 ---
 
-## 二、护城河评估
+## II. Moat Assessment
 
-### 五类护城河逐项验证
+### The Five Moat Types, Verified One by One
 
-| 护城河类型 | 强度 | 验证分析 |
+| Moat type | Strength | Verification analysis |
 |-----------|------|---------|
-| **品牌/定价权** | 弱 | 光模块是标准化器件，价格竞争激烈。华工正源无品牌溢价，定价跟随行业 |
-| **转换成本** | 中等 | 数据中心光模块需要通过严格认证（6-12个月），一旦入围短期内不易被替换。但每一代新产品（800G→1.6T）都需重新认证 |
-| **网络效应** | 无 | 硬件制造无网络效应 |
-| **规模效应** | 中等 | 光模块的规模优势有限（中际旭创份额4-5倍于华工正源），激光和感知板块在细分领域有一定规模 |
-| **技术壁垒** | **中等偏强** | 硅光芯片全自研（单波200G芯片已用于1.6T模块）；3.2T CPO光引擎有前瞻布局；激光核心器件部分自制。但与Coherent/Lumentum的技术代差仍存在 |
+| **Brand/pricing power** | Weak | Optical modules are standardized components with intense price competition. HG Genuine has no brand premium and prices in line with the industry |
+| **Switching costs** | Moderate | Data-center optical modules must pass rigorous qualification (6-12 months); once qualified, a supplier is not easily replaced in the near term. But each new generation (800G -> 1.6T) requires re-qualification |
+| **Network effects** | None | Hardware manufacturing has no network effects |
+| **Economies of scale** | Moderate | Scale advantages in optical modules are limited (Innolight's share is 4-5x HG Genuine's); the laser and sensing segments have some scale advantage within their niches |
+| **Technology barriers** | **Moderate-to-strong** | Fully self-developed silicon photonics chips (single-wavelength 200G chips already used in 1.6T modules); forward-looking layout in 3.2T CPO (co-packaged optics) optical engines; some in-house manufacturing of core laser components. Still, a technology gap versus Coherent/Lumentum remains |
 
-### 护城河趋势
+### Moat Trend
 
-**过去3年：快速变宽**——从800G到1.6T、从传统光模块到硅光/CPO，技术壁垒在加厚。进入北美OTT供应链是重要里程碑。
+**Past 3 years: widening rapidly** — from 800G to 1.6T, from traditional optical modules to silicon photonics/CPO, the technology barrier has been thickening. Entry into the North American OTT supply chain is a major milestone.
 
-**未来3年：关键分歧期**
-- **变宽路径**：1.6T量产+CPO放量+更多北美客户认证→份额从6-8%提升至10-15%
-- **变窄路径**：中际旭创/新易盛以量压价+CPO颠覆传统光模块→华工正源被边缘化
+**Next 3 years: a critical fork**
+- **Widening path**: 1.6T mass production + CPO ramp + more North American customer qualifications -> share rises from 6-8% to 10-15%
+- **Narrowing path**: Innolight/Eoptolink compete on volume and price, and CPO disrupts traditional optical modules -> HG Genuine gets marginalized
 
-### 追问：10年后这条护城河还在吗？
+### Follow-up question: Will this moat still exist in 10 years?
 
-**不确定**。光模块行业技术迭代极快（每2-3年一代），今天的技术优势3年后可能毫无意义。CPO（共封装光学）如果成为主流，可能重塑整个光模块供应链格局。华工科技的硅光+CPO布局是正确方向，但能否在中际旭创面前守住并扩大份额，是最大的未知数。
+**Uncertain**. The optical module industry iterates extremely fast (a new generation roughly every 2-3 years) — today's technology edge may be worthless in 3 years. If CPO (co-packaged optics) becomes mainstream, it could reshape the entire optical module supply chain. HGTECH's silicon photonics + CPO positioning is directionally correct, but whether it can defend and expand share against Innolight is the biggest unknown.
 
 ---
 
-## 三、逆向思考与风险清单
+## III. Contrarian Thinking and Risk Checklist
 
-### 失败路径全景
+### Panorama of Failure Paths
 
-| 失败路径 | 概率 | 影响程度 |
-|----------|------|---------|
-| AI算力投资周期性放缓（类似2000年光通信泡沫） | 25-35% | 极高——PE 100x回归30x意味着-70% |
-| 中际旭创/新易盛以规模优势挤压份额 | 40-50% | 高——份额从6-8%萎缩至3-5% |
-| CPO技术颠覆传统可插拔光模块 | 15-25% | 极高——但华工已布局CPO，非零对冲 |
-| 北美客户认证不及预期（1.6T送样→量产脱节） | 20-30% | 高——光模块板块增速断崖 |
-| 激光/感知业务持续低迷拖累整体 | 40-50% | 中等——合计占收入57%但利润贡献低 |
-| 美国对华光通信技术出口管制 | 15-20% | 中高——核心芯片/设备受限 |
-| 估值回归均值（PE从100x回到30-40x） | 50-60% | 极高——即使业绩增长，股价也可能下跌 |
+| Failure path | Probability | Impact |
+|----------|------|----------|
+| AI compute investment cycle slows (similar to the 2000 optical-communications bubble) | 25-35% | Extreme — PE reverting from 100x to 30x implies -70% |
+| Innolight/Eoptolink squeeze share via scale advantage | 40-50% | High — share shrinks from 6-8% to 3-5% |
+| CPO technology disrupts traditional pluggable optical modules | 15-25% | Extreme — but HGTECH has already positioned in CPO, a partial hedge |
+| North American customer qualification falls short of expectations (1.6T sampling fails to convert to volume production) | 20-30% | High — optical module segment growth falls off a cliff |
+| Persistent weakness in laser/sensing businesses drags on the whole company | 40-50% | Moderate — together 57% of revenue but a low profit contribution |
+| US export controls on Chinese optical-communications technology | 15-20% | Moderate-to-high — core chips/equipment could be restricted |
+| Valuation reverts to the mean (PE falls from 100x back to 30-40x) | 50-60% | Extreme — even with earnings growth, the share price could still fall |
 
-### 历史类比
+### Historical Analogies
 
-| 类比 | 相似点 | 结局 | 启示 |
+| Analogy | Similarity | Outcome | Lesson |
 |------|--------|------|------|
-| **2000年光通信泡沫（JDS Uniphase）** | 光通信需求暴增→估值疯涨 | 泡沫破裂后跌去99% | AI光模块需求真实性远强于2000年，但估值泡沫的风险依然存在 |
-| **2019-2020年5G光模块行情** | 5G建设拉动光模块需求→股价大涨 | 2021年5G建设放缓后光模块公司股价回调30-50% | 通信设备投资有周期性，AI也不例外 |
-| **中际旭创（2023-2026）** | AI光模块龙头，从200亿涨至4000亿市值 | 进行中——市值已20倍于华工科技 | 龙头效应极强，第二梯队获得的估值溢价远低于龙头 |
+| **The 2000 optical-communications bubble (JDS Uniphase)** | Optical-communications demand surged -> valuations soared | Bubble burst; shares fell 99% | AI optical-module demand is far more genuine than in 2000, but valuation-bubble risk still exists |
+| **The 2019-2020 5G optical-module rally** | 5G buildout drove optical-module demand -> shares rallied hard | Share prices of optical-module makers pulled back 30-50% after 5G buildout slowed in 2021 | Telecom-equipment investment is cyclical, and AI is no exception |
+| **Innolight (2023-2026)** | AI optical-module leader, market cap rose from CNY 20 billion to CNY 400 billion | Ongoing — market cap already 20x that of HGTECH | Leader effects are extremely strong; second-tier players earn far lower valuation premiums than the leader |
 
-### 追问：我最可能在哪里犯错？
+### Follow-up question: Where am I most likely to be wrong?
 
-1. **把"AI算力趋势"等同于"华工科技确定受益"**。AI确实需要光模块，但华工科技全球份额仅6-8%，中际旭创占30%。趋势对、标的不一定对
-2. **锚定269%的1年涨幅产生追涨冲动**。过去1年涨了269%不意味着未来1年还能涨。PE从30倍到100倍的估值扩张已经完成
-3. **忽视57%的"非AI"收入**。激光和感知板块增速仅4-10%，如果光模块增速放缓，整体利润增速可能骤降至个位数
+1. **Equating "the AI-compute trend" with "HGTECH is a certain beneficiary."** AI genuinely needs optical modules, but HGTECH's global share is only 6-8% versus Innolight's 30%. The trend is right; the specific stock may not be
+2. **Anchoring on the 269% one-year gain and chasing the rally.** A 269% gain over the past year doesn't mean it can rally again next year. The valuation expansion from 30x to 100x P/E has already run its course
+3. **Ignoring the 57% of revenue that is "non-AI."** The laser and sensing segments grow only 4-10%; if optical-module growth slows, overall profit growth could plunge to the single digits
 
-**聪明人为什么不买**：
-- PE 111倍（FY2025），即使用2026E也有45-50倍——比中际旭创（~35x）贵30%+
-- 光模块全球第5，份额仅中际旭创的1/4——买行业beta为什么不直接买龙头？
-- 2026Q1扣非增速仅18-23%，与100倍PE严重不匹配
-- 1年涨269%后，大部分利好已在股价中
+**Why smart people wouldn't buy**:
+- P/E of 111x (FY2025); even on 2026E it is 45-50x — over 30% pricier than Innolight (~35x)
+- Ranks only 5th globally in optical modules, with a share only 1/4 of Innolight's — why buy industry beta when you could buy the leader outright?
+- 2026 Q1 non-GAAP growth was only 18-23%, severely mismatched with a 100x P/E
+- After a 269% one-year rally, most of the good news is already in the price
 
 ---
 
-## 四、管理层评估
+## IV. Management Assessment
 
-### 核心管理层
+### Core Management
 
-| 职务 | 姓名 | 背景 |
+| Position | Name | Background |
 |------|------|------|
-| 董事长兼总经理 | 马新强 | 1965年生，全国人大代表（三届），华中科技大学激光国家工程研究中心副主任。从校办企业时代即开始经营华工科技 |
+| Chairman & General Manager | Ma Xinqiang | Born 1965; National People's Congress deputy (three terms); Deputy Director of the National Engineering Research Center for Laser Technology at HUST. Has run HGTECH since its days as a university-run enterprise |
 
-### 股权结构
+### Ownership Structure
 
-- **实际控制人**：武汉市国资委（通过华中科技大学资产经营公司等平台间接控制）
-- **校企改革**：2021年完成校企分离，华中科技大学不再直接控股，转由武汉国资委管理
-- 管理层个人持股比例较低（校企/国企背景）
+- **Actual controller**: Wuhan Municipal SASAC (indirect control via platforms such as the HUST asset-management company)
+- **University-enterprise reform**: The separation from the university was completed in 2021 — HUST no longer holds a direct controlling stake, and control passed to Wuhan Municipal SASAC
+- Management's personal shareholding is relatively low (a legacy of its university-enterprise/state-owned background)
 
-### 关键决策评估
+### Key Decision Assessment
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Outcome | Grade |
 |------|------|------|------|
-| 2010s | 布局光模块业务（华工正源） | 赶上AI光模块爆发，成为公司最大增长引擎 | A |
-| 2024-2025 | 硅光芯片全自研投入 | 单波200G硅光芯片已用于1.6T模块，技术方向正确 | A |
-| 2025-2026 | 布局3.2T CPO光引擎 | 前瞻布局，但量产尚早 | B+（待验证） |
-| 持续 | 研发高投入（7.6%占收入比） | 研发费10.92亿，在中游制造企业中比例较高 | A- |
-| 持续 | 激光/感知业务维持 | 增速低迷（4-10%），未见显著战略调整 | C+（缺乏活力） |
+| 2010s | Entered the optical-module business (HG Genuine) | Caught the AI optical-module boom; became the company's largest growth engine | A |
+| 2024-2025 | Full self-development investment in silicon photonics chips | Single-wavelength 200G silicon-photonics chips already used in 1.6T modules; correct technology direction | A |
+| 2025-2026 | Positioning in 3.2T CPO optical engines | Forward-looking positioning, but mass production is still early | B+ (to be confirmed) |
+| Ongoing | High R&D investment (7.6% of revenue) | R&D expense of CNY 1.092 billion, a relatively high ratio among mid-stream manufacturers | A- |
+| Ongoing | Maintaining the laser/sensing businesses | Sluggish growth (4-10%), no visible strategic pivot | C+ (lacking dynamism) |
 
-### 追问：如果CEO退休，公司还能保持竞争力吗？
+### Follow-up question: If the CEO retired, could the company stay competitive?
 
-**中短期能**。华工科技的竞争力更多来自技术平台和客户关系而非个人。马新强运营公司20余年，已建立了完善的产学研体系。但长期看，校企/国企背景可能在市场化竞争中（特别是与中际旭创等民企的竞争）形成机制劣势。
+**Yes, in the near-to-medium term.** HGTECH's competitiveness derives more from its technology platform and customer relationships than from any one individual. Ma Xinqiang has run the company for over 20 years and built a solid industry-university-research ecosystem. Longer term, however, its university-enterprise/state-owned background could become a mechanism-level disadvantage in market competition, particularly against private competitors like Innolight.
 
 ---
 
-## 五、行业与文明趋势
+## V. Industry and Civilizational Trends
 
-### 范式转移判断
+### Paradigm-Shift Assessment
 
-AI算力需求驱动的数据中心扩建是一次**文明级基础设施升级**，类似于2000年代互联网对通信基础设施的需求。光模块是这一升级的关键环节——每个GPU集群都需要大量高速光互连。
+The data-center buildout driven by AI-compute demand is a **civilization-scale infrastructure upgrade**, comparable to the internet-driven demand for telecom infrastructure in the 2000s. Optical modules are a key link in this upgrade — every GPU cluster requires a large volume of high-speed optical interconnects.
 
-### TAM增长曲线
+### TAM Growth Curve
 
-| 市场 | 2024年规模 | 2030年预测 | CAGR |
+| Market | 2024 size | 2030 forecast | CAGR |
 |------|-----------|-----------|------|
-| 全球数据中心光模块 | ~140亿美元 | ~400-500亿美元 | ~20-25% |
-| 全球AI算力基础设施 | ~2,000亿美元 | ~8,000-10,000亿美元 | ~25-30% |
-| 中国激光加工设备 | ~900亿元 | ~1,500亿元 | ~10% |
-| 全球传感器 | ~2,000亿美元 | ~3,000亿美元 | ~7% |
+| Global data-center optical modules | ~USD 14 billion | ~USD 40-50 billion | ~20-25% |
+| Global AI compute infrastructure | ~USD 200 billion | ~USD 800 billion-1 trillion | ~25-30% |
+| China laser-processing equipment | ~CNY 90 billion | ~CNY 150 billion | ~10% |
+| Global sensors | ~USD 200 billion | ~USD 300 billion | ~7% |
 
-**华工科技面对的核心TAM**：全球光模块市场20-25% CAGR是极高增速，但华工科技仅占6-8%份额，增长空间取决于能否抢占更多份额。
+**The core TAM HGTECH faces**: The global optical-module market's 20-25% CAGR is extremely high, but HGTECH holds only a 6-8% share — its growth potential hinges on whether it can capture more share.
 
-### 追问：20年后这家公司是"标准石油"还是"3Com"？
+### Follow-up question: In 20 years, will this company be "Standard Oil" or "3Com"?
 
-**更可能是"中国的Lumentum"**——一家在光电器件领域有技术积累、占据第二梯队位置的专业化公司。不会成为行业霸主（中际旭创更接近那个角色），也不太可能消失（三条业务线提供了生存韧性）。
+**More likely "China's Lumentum"** — a specialized company with technical depth in optoelectronic devices, occupying a second-tier position. It's unlikely to become the industry hegemon (Innolight is closer to that role), but also unlikely to disappear (its three business lines provide resilience).
 
-关键风险是"3Com式衰败"——如果CPO技术让传统可插拔光模块过时，而华工科技的CPO转型不够快，可能沦为技术换代的牺牲品。
+The key risk is a "3Com-style decline" — if CPO technology renders traditional pluggable optical modules obsolete and HGTECH's CPO transition isn't fast enough, it could become a casualty of the technology transition.
 
 ---
 
-## 六、估值与安全边际
+## VI. Valuation and Margin of Safety
 
-### 当前市场定价
+### Current Market Pricing
 
-| 指标 | 数值 | 说明 |
+| Metric | Value | Note |
 |------|------|------|
-| PE（FY2025） | **111.33x** | 基于归母14.71亿 |
-| PE（TTM） | **~96x** | 含2026Q1增量 |
-| PE（2026E） | **~45-50x** | 基于券商预测归母~23-25亿 |
-| PB | **13.94x** | 远超行业中位数 |
-| PS | **11.35x** | — |
-| ROE | 12.52% | 合理但不算出色 |
-| FCF Yield | **0.43%** | 极低 |
-| 股息率 | **0.15%** | 几乎可忽略 |
+| P/E (FY2025) | **111.33x** | Based on attributable net profit of CNY 1.471 billion |
+| P/E (TTM) | **~96x** | Including 2026 Q1 growth |
+| P/E (2026E) | **~45-50x** | Based on brokerage forecasts of ~CNY 2.3-2.5 billion attributable net profit |
+| P/B | **13.94x** | Far above the industry median |
+| P/S | **11.35x** | — |
+| ROE | 12.52% | Reasonable but unexceptional |
+| FCF Yield | **0.43%** | Extremely low |
+| Dividend yield | **0.15%** | Practically negligible |
 
-> 所有指标经 `financial_rigor.py` 精确验算。
+> All metrics precisely verified via `financial_rigor.py`.
 
-### PE历史区间
+### Historical P/E Range
 
-| 年份 | 平均PE | 最高PE | 最低PE |
+| Year | Average P/E | Highest P/E | Lowest P/E |
 |------|--------|--------|--------|
 | 2022 | 24.28 | 32.16 | **18.75** |
 | 2023 | 31.17 | 46.09 | 19.62 |
 | 2024 | 31.21 | 38.86 | 24.12 |
 | 2025 | 41.65 | 66.15 | 31.83 |
-| 2026（至今） | 63.08 | **92.47** | 46.33 |
+| 2026 (to date) | 63.08 | **92.47** | 46.33 |
 
-当前PE处于近5年**100%分位**（历史最高区间）。2022年底PE低点为18.75倍——如果回到那个水平，股价将跌至约27元（-83%）。
+The current P/E sits at the **100th percentile** of the past 5 years (the historical high). The 2022 P/E trough was 18.75x — a return to that level would send the share price down to roughly CNY 27 (-83%).
 
-### 三情景估值
+### Three-Scenario Valuation
 
-> 基于2026年预估EPS=2.30（券商预测归母~23亿/9.96亿股），投射3年至2029年。经工具精确验算。
+> Based on projected 2026 EPS of CNY 2.30 (brokerage forecasts of ~CNY 2.3 billion attributable net profit / 996 million shares), projected forward 3 years to 2029. Precisely verified via the tool.
 
-| 情景 | 年增速 | 目标PE | 2029年EPS | 目标股价 | 较现价涨跌 |
+| Scenario | Annual growth | Target P/E | 2029 EPS | Target price | Change vs. current price |
 |------|--------|--------|-----------|---------|-----------|
-| **乐观**（AI持续爆发+份额提升+1.6T/CPO放量） | 40% | 45x | CNY 6.31 | **CNY 284** | +74% |
-| **中性**（AI增速放缓+份额稳定+激光感知温和增长） | 20% | 30x | CNY 3.97 | **CNY 119** | -27% |
-| **悲观**（AI投资周期下行+份额萎缩+估值回归） | 5% | 18x | CNY 2.66 | **CNY 48** | -71% |
+| **Bull** (AI keeps booming + share gains + 1.6T/CPO ramp) | 40% | 45x | CNY 6.31 | **CNY 284** | +74% |
+| **Base** (AI growth slows + share stable + moderate laser/sensing growth) | 20% | 30x | CNY 3.97 | **CNY 119** | -27% |
+| **Bear** (AI investment cycle turns down + share erodes + valuation reverts) | 5% | 18x | CNY 2.66 | **CNY 48** | -71% |
 
-**关键洞察**：
-- 即使乐观情景（40%年增长+45x PE），3年上行仅74%（年化20%）——对一个PE 100+的股票来说，赔率偏低
-- 中性情景直接亏27%——市场需要"一切顺利"才能打平
-- 悲观情景-71%——如果AI投资周期放缓，杀估值+杀业绩双重打击
+**Key insight**:
+- Even in the bull scenario (40% annual growth + 45x P/E), the 3-year upside is only 74% (about 20% annualized) — a low reward-to-risk ratio for a stock trading above 100x P/E
+- The base scenario loses 27% outright — the market needs "everything to go perfectly" just to break even
+- The bear scenario is -71% — if the AI investment cycle slows, it would be a double hit of valuation compression and earnings deterioration
 
-### 与同行估值对比
+### Valuation Comparison with Peers
 
-| 公司 | PE（TTM） | PS | 光模块市占 | 1年涨幅 |
+| Company | P/E (TTM) | P/S | Optical-module share | 1-year gain |
 |------|----------|-----|-----------|--------|
-| **华工科技** | **~96x** | **11.4x** | **6-8%** | **+269%** |
-| 中际旭创 | ~35x | ~8x | 28-30% | +180% |
-| 新易盛 | ~30x | ~7x | 15-18% | +150% |
-| 光迅科技 | ~45x | ~5x | 5-8% | +120% |
+| **HGTECH** | **~96x** | **11.4x** | **6-8%** | **+269%** |
+| Innolight | ~35x | ~8x | 28-30% | +180% |
+| Eoptolink | ~30x | ~7x | 15-18% | +150% |
+| Accelink | ~45x | ~5x | 5-8% | +120% |
 
-**华工科技的PE几乎是龙头中际旭创的3倍，但份额仅其1/4**。这一估值溢价极不合理——除非市场认为华工科技的份额会在未来3年追上中际旭创，否则当前价格透支了过多预期。
+**HGTECH's P/E is nearly 3x that of leader Innolight, yet its share is only 1/4 as large**. This valuation premium is deeply unreasonable — unless the market believes HGTECH's share will catch up to Innolight's within 3 years, the current price is discounting far too much optimism.
 
-### 追问：如果股市明天关闭5年，你愿意以这个价格持有吗？
+### Follow-up question: If the market closed for 5 years starting tomorrow, would you want to hold at this price?
 
-**不愿意。**
+**No.**
 
-163.66元对应PE 111倍（FY2025）或~50倍（2026E）。5年后（2031年），即使华工科技净利润增长到40-50亿（3年CAGR 30%+），PE回归到合理的25-30倍，股价也仅在100-150元——与当前163元相比几乎无上行空间甚至下行。
+CNY 163.66 corresponds to a P/E of 111x (FY2025), or ~50x (2026E). Even if HGTECH's net profit grows to CNY 4-5 billion by 5 years out (2031) — a 3-year-plus CAGR above 30% — and its P/E reverts to a reasonable 25-30x, the share price would land only around CNY 100-150 — essentially flat to down versus the current CNY 163.
 
-**只有在净利润持续5年40%+增长且PE维持在40倍以上时，当前价格才能获得合理回报**——这需要光模块业务出现超预期的市占率提升，且AI算力投资不出现任何周期性放缓。这个概率不超过20-25%。
+**Only if net profit keeps growing 40%+ for 5 straight years and the P/E stays above 40x would the current price deliver a reasonable return** — which would require an above-expectations market-share gain in optical modules and no cyclical slowdown whatsoever in AI compute investment. This probability is no higher than 20-25%.
 
 ---
 
-## 七、综合决策备忘录
+## VII. Comprehensive Decision Memo
 
-### 维度汇总
+### Summary by Dimension
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| 生意质量 | 中等偏上——光模块搭上AI风口是真实的增长引擎，但激光/感知板块平庸。ROE仅12.5%，非经常性损益占比高 | 70% |
-| 护城河 | 中等——硅光自研+客户认证有一定壁垒，但全球份额仅6-8%，与龙头差距悬殊 | 60% |
-| 管理层 | 中等——马新强经营20余年稳健，研发投入高，但校企/国企背景在市场化竞争中可能是劣势 | 65% |
-| 最大风险 | 估值极端高位（PE 100x, 近5年100%分位）+ AI投资周期性风险 + 光模块份额竞争 | 85%（风险确定性高） |
-| 文明趋势 | 强烈顺风——AI算力对光互连的需求是文明级趋势 | 85% |
-| 估值 | **严重偏高**——PE 100+x对一个全球份额仅6-8%的第二梯队光模块企业完全不合理。中性情景3年亏27% | 80% |
+| Business quality | Moderately above average — the optical-module business riding the AI wave is a genuine growth engine, but the laser/sensing segments are mediocre. ROE is only 12.5%, and non-recurring gains are a high share of profit | 70% |
+| Moat | Moderate — self-developed silicon photonics and customer qualification provide some barrier, but global share is only 6-8%, far behind the leader | 60% |
+| Management | Moderate — Ma Xinqiang has run the company steadily for 20+ years with high R&D investment, but the university-enterprise/state-owned background could be a disadvantage in market competition | 65% |
+| Biggest risk | Extreme valuation (P/E 100x, 100th percentile over 5 years) + AI investment cyclicality risk + competition for optical-module share | 85% (high confidence in the risk itself) |
+| Civilizational trend | Strongly favorable — AI-compute demand for optical interconnects is a civilization-scale trend | 85% |
+| Valuation | **Severely overvalued** — a P/E above 100x is entirely unreasonable for a second-tier optical-module maker with only 6-8% global share. The base-case scenario loses 27% over 3 years | 80% |
 
-### 最终决策
+### Final Decision
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **回避。当前价格不具备投资价值。** PE 100x、PB 14x、股息率0.15%——这是一个极度拥挤的交易。如果看好AI光模块，中际旭创（PE 35x、份额30%）的性价比远优于华工科技。如果非要买华工科技，等待回调至CNY 70-80（2026E PE ~30-35x）以下 |
-| **持仓者** | **强烈建议减仓至5%以下甚至清仓**。1年涨269%后获利了结是理性选择。当前估值需要"一切完美"才能维持——任何低于预期的季度业绩或AI投资放缓的信号都可能导致30%+回调 |
-| **卖出信号** | （1）2026Q2-Q3光模块出货量环比增速放缓；（2）北美云厂商资本开支指引下调；（3）中际旭创/新易盛大幅降价挤压份额；（4）PE回到60x以上时如无新催化剂支撑 |
-| **加仓信号** | （1）股价回调至CNY 70-80（2026E PE 30-35x）；（2）1.6T光模块获得北美OTT正式大批量订单；（3）全球光模块市占率从6-8%提升至12%+；（4）CPO产品开始贡献收入 |
+| **Investors with no position** | **Avoid. The current price offers no investment value.** P/E of 100x, P/B of 14x, dividend yield of 0.15% — this is an extremely crowded trade. If bullish on AI optical modules, Innolight (P/E 35x, 30% share) offers far better value than HGTECH. If HGTECH must be bought, wait for a pullback to CNY 70-80 (2026E P/E ~30-35x) or below |
+| **Existing holders** | **Strongly recommend cutting position to below 5% or exiting entirely.** Taking profits after a 269% one-year rally is the rational choice. The current valuation requires "everything to be perfect" to hold up — any below-expectations quarterly result or sign of an AI investment slowdown could trigger a 30%+ pullback |
+| **Sell signals** | (1) Optical-module shipment volume growth decelerates quarter-over-quarter in 2026 Q2-Q3; (2) North American cloud providers cut capex guidance; (3) Innolight/Eoptolink cut prices aggressively to squeeze share; (4) P/E returns above 60x with no new catalyst to support it |
+| **Add signals** | (1) Share price pulls back to CNY 70-80 (2026E P/E 30-35x); (2) 1.6T optical modules win formal large-volume orders from North American OTTs; (3) global optical-module share rises from 6-8% to 12%+; (4) CPO products begin contributing revenue |
 
-### 四维度模拟点评
+### Four-Dimension Simulated Commentary
 
-> **生意质量视角**：华工科技是一家典型的"时代给了机会"的公司。2023年之前它是一家平淡无奇的中游制造企业，收入增速10-15%，ROE 12%——放在任何时代都不值100倍PE。AI算力浪潮把它的光模块业务推上了风口，但它在这个风口上只排第5。好的投资应该是在确定的赛道上买确定的龙头——而不是在确定的赛道上买第5名然后给出比龙头更高的估值。
+> **Business-quality perspective**: HGTECH is a textbook case of a company that "got lucky with the times." Before 2023 it was an unremarkable mid-stream manufacturer, with revenue growing 10-15% and ROE of 12% — not a business that would command 100x P/E in any era. The AI-compute wave pushed its optical-module business to the forefront of the trend, but on that very frontier it ranks only 5th. A good investment should mean buying the certain leader in a certain track — not buying the 5th-place player in a certain track and paying a higher valuation than the leader commands.
 
-> **逆向思维视角**：让我最不安的是这个数字：269%。一年涨269%后还有多少人在认真做基本面分析？又有多少人只是在追momentum？2000年光通信泡沫时JDS Uniphase的PE超过1000倍，所有人都说"这次不一样"。AI的需求当然比2000年的互联网更真实——但估值永远有均值回归的地心引力。
+> **Contrarian perspective**: What unsettles me most is this number: 269%. After a stock gains 269% in a year, how many people are still doing serious fundamental analysis, and how many are simply chasing momentum? During the 2000 optical-communications bubble, JDS Uniphase's P/E exceeded 1,000x, and everyone said "this time it's different." AI demand is of course more genuine than the internet demand of 2000 — but valuation always has the gravitational pull of mean reversion.
 
-> **管理层视角**：马新强是一位稳健的技术型管理者，但他不是一个能把第5做成第1的"杀手型"CEO。华工科技的文化是学院派的、稳重的、注重技术积累的——这些在正常时期是优点，但在光模块这样竞争白热化的市场上，可能不够"凶狠"。看看中际旭创的扩产速度和客户攻占力度，再看看华工科技——差距不仅在规模，更在组织的进攻性。
+> **Management perspective**: Ma Xinqiang is a steady, technically minded manager, but he is not a "killer" CEO capable of turning the 5th-place player into the leader. HGTECH's culture is academic, cautious, and focused on technical accumulation — virtues in normal times, but perhaps not "ruthless" enough in a white-hot market like optical modules. Compare Innolight's pace of capacity expansion and customer conquest with HGTECH's — the gap isn't just in scale, but in organizational aggressiveness.
 
-> **文明趋势视角**：AI对光互连的需求是真实的、持久的、文明级的。每一个GPU集群都需要光模块，每一个数据中心都需要高速互连。但文明趋势正确不等于个股投资正确。20年后全球光模块市场可能有5000亿美元——问题是华工科技能分到多少？6-8%的份额可能变成3%也可能变成15%。在这个不确定性下，给100倍PE是在赌一个极度乐观的结果。
+> **Civilizational-trend perspective**: AI's demand for optical interconnects is real, durable, and civilization-scale. Every GPU cluster needs optical modules; every data center needs high-speed interconnects. But a correct civilizational trend doesn't guarantee a correct single-stock investment. In 20 years the global optical-module market could be worth USD 500 billion — the question is how much of it HGTECH will capture. A 6-8% share could become 3%, or it could become 15%. Under this uncertainty, paying a 100x P/E is betting on an extremely optimistic outcome.
 
 ---
 
-## 附录：AI分析置信度 vs 投资确定性
+## Appendix: AI Analysis Confidence vs. Investment Certainty
 
-| 结论 | AI分析置信度 | 投资确定性 | 说明 |
+| Conclusion | AI analysis confidence | Investment certainty | Note |
 |------|------------|-----------|------|
-| AI光模块需求持续高增长 | **高（90%）** | **高（85%）** | 北美云厂商资本开支数据确凿，AI训练/推理对光互连需求明确 |
-| 华工科技光模块份额6-8% | **高（85%）** | **中高（75%）** | LightCounting等第三方数据验证 |
-| 1.6T光模块将成为2027年主流 | **中高（75%）** | **中（65%）** | 技术路线基本确定，但量产时间和价格曲线有不确定性 |
-| 当前PE 100+严重偏高 | **高（90%）** | **高（85%）** | 与龙头中际旭创35x对比、与自身历史对比，均显示极端高估 |
-| 华工科技能提升份额至10%+ | **低（35%）** | **低（30%）** | 竞争格局固化，中际旭创/新易盛的规模优势持续扩大 |
-| 激光/感知业务能加速增长 | **低（30%）** | **低（25%）** | 过去3年增速仅个位数，无明显催化剂 |
+| Sustained high growth in AI optical-module demand | **High (90%)** | **High (85%)** | North American cloud-provider capex data is solid; demand for optical interconnects from AI training/inference is clear |
+| HGTECH's optical-module share of 6-8% | **High (85%)** | **Moderate-high (75%)** | Verified by third-party data such as LightCounting |
+| 1.6T optical modules will become mainstream in 2027 | **Moderate-high (75%)** | **Moderate (65%)** | The technology roadmap is largely settled, but mass-production timing and the price curve remain uncertain |
+| Current P/E above 100x is severely excessive | **High (90%)** | **High (85%)** | Both the comparison against leader Innolight's 35x and against its own history show extreme overvaluation |
+| HGTECH can lift its share to 10%+ | **Low (35%)** | **Low (30%)** | The competitive landscape is entrenched, and Innolight/Eoptolink's scale advantage keeps widening |
+| The laser/sensing businesses can accelerate | **Low (30%)** | **Low (25%)** | Growth has been in the single digits for the past 3 years, with no clear catalyst in sight |
 
-**核心区分**：
-- AI光模块趋势的确定性高，但**华工科技在这个趋势中的受益程度远不如龙头**
-- **当前估值的最大问题不是"公司不好"，而是"价格太贵"**。以100倍PE买一个6-8%份额的第二梯队玩家，风险回报比严重失衡
-- 如果回调至CNY 70-80（PE 30-35x），华工科技会成为一个不错的AI光模块投资标的——但在163元，它不是
+**Core distinction**:
+- Confidence in the AI optical-module trend is high, but **HGTECH's degree of benefit from this trend is far below that of the leader**
+- **The biggest problem with the current valuation isn't "the company is bad" — it's "the price is too expensive."** Buying a second-tier player with 6-8% share at a 100x P/E creates a severely unbalanced risk/reward
+- If it pulls back to CNY 70-80 (P/E 30-35x), HGTECH would become a solid AI optical-module investment — but at CNY 163, it is not
 
 ---
 
-*报告生成时间：2026年6月23日 | 数据截止：2026年6月23日*
-*货币单位：人民币（CNY）*
-*数据来源：华工科技年报/中报/季报、Investing.com、亿牛网、东方财富、LightCounting、C114通信网、证券之星、同花顺、券商研报（华泰/国海/东吴等）*
+*Report generated: June 23, 2026 | Data as of: June 23, 2026*
+*Currency unit: Chinese Yuan (CNY)*
+*Data sources: HGTECH annual/interim/quarterly reports, Investing.com, Niuguke, Eastmoney, LightCounting, C114 Communications Network, Stockstar, THS (10jqka), brokerage research reports (Huatai/Guohai/Soochow Securities, etc.)*

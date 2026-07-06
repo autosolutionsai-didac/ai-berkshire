@@ -1,215 +1,215 @@
-# Firefly 是救星还是掘墓人
+# Is Firefly a Savior or a Gravedigger
 
-> 《看懂Adobe》系列 · 第 03 篇 · AI 冲击
-> 阅读时间约 10 分钟
-
----
-
-## 为什么 AI 是 Adobe 投资论文的胜负手？
-
-2022 年没人相信 AI 能画出好图，2023 年 Midjourney V5 就做到了。这个速度让市场对 Adobe 的定价出现了极端分裂——一边是财务数据持续创纪录，另一边是估值跌到十年最低。市场在赌的不是 Adobe 现在怎样，而是三年后整个创意工作流还需不需要 Photoshop。
-
-这篇要做的，是把"AI 威胁"这件事拆成三个层次，逐层评估它对 Adobe 真实的冲击力度——而不是用一个模糊的恐惧覆盖所有问题。
+> Understanding Adobe series - Part 03 - AI impact
+> Reading time: about 10 minutes
 
 ---
 
-## Firefly：Adobe 的 AI 赌注
+## Why is AI the deciding factor in the Adobe investment thesis?
 
-### 数据全景
+In 2022, nobody believed AI could produce good images; by 2023, Midjourney V5 had already done it. That pace of change is exactly why the market's pricing of Adobe has split into such extremes - on one side, financial results keep hitting records; on the other, the valuation has fallen to a decade low. What the market is betting on isn't how Adobe is doing now, but whether the entire creative workflow will still need Photoshop three years from now.
 
-| 指标 | 数据 | 来源 |
+This piece breaks the "AI threat" into three layers and assesses, layer by layer, how much real impact it has on Adobe - rather than letting one vague fear blanket every question.
+
+---
+
+## Firefly: Adobe's AI bet
+
+### The data at a glance
+
+| Metric | Data | Source |
 |------|------|------|
-| 累计生成资产 | **超 240 亿个**（截至 2025 年底）| Adobe 官方 |
-| 直接收入贡献 | **~4 亿美元**（2024-2025 累计）| ainvest 分析 |
-| AI 相关 ARR 增速 | **同比超 3 倍**（Q1 FY2026）| Adobe Q1 FY2026 财报 |
-| 生成式积分消耗增速 | **季度环比 >45%** | Adobe Q1 FY2026 财报 |
-| Firefly 订阅+积分包 ARR 增速 | **季度环比 75%** | Adobe Q1 FY2026 财报 |
-| 财富 500 强采用率 | **75%** | Adobe 官方 |
+| Cumulative assets generated | **more than 24 billion** (as of end of 2025) | Adobe official |
+| Direct revenue contribution | **~$400 million** (2024-2025 cumulative) | ainvest analysis |
+| AI-related ARR growth | **more than 3x year over year** (Q1 FY2026) | Adobe Q1 FY2026 earnings |
+| Generative credit consumption growth | **>45% quarter over quarter** | Adobe Q1 FY2026 earnings |
+| Firefly subscription + credit-pack ARR growth | **75% quarter over quarter** | Adobe Q1 FY2026 earnings |
+| Fortune 500 adoption rate | **75%** | Adobe official |
 
-**240 亿个生成资产——这是一个惊人的数字。** 它说明 Firefly 的使用频率极高。但直接收入只有约 4 亿美元，占 Adobe 240 亿年收入的不到 2%。
+**24 billion generated assets - that's a staggering number.** It shows Firefly's usage frequency is extremely high. But direct revenue is only about $400 million, less than 2% of Adobe's $24 billion in annual revenue.
 
-这里有一个关键的认知陷阱：**Firefly 的价值不能只看直接收入。** 它的更大价值在于：
+There's a key cognitive trap here: **Firefly's value can't be measured by direct revenue alone.** Its larger value lies in:
 
-1. **支撑提价**：Creative Cloud Pro（69.99 美元/月）比 Standard（54.99 美元/月）贵 27%，核心差异就是更多的 AI 功能和积分。Firefly 让 Adobe 有了提价的理由。
-2. **驱动积分消耗**：生成式积分是在订阅费之上的增量收入，积分消耗量环比增长 45%+ 说明用户正在养成"用 AI"的习惯。
-3. **降低流失率**：当用户开始依赖 AI 功能来提升效率，他们离开 Adobe 的可能性进一步降低。
+1. **Supporting the price increase**: Creative Cloud Pro ($69.99/month) costs 27% more than Standard ($54.99/month), and the core difference is more AI features and credits. Firefly gives Adobe a reason to raise prices.
+2. **Driving credit consumption**: generative credits are incremental revenue layered on top of the subscription fee - credit consumption growing 45%+ quarter over quarter shows users are developing an "AI habit."
+3. **Reducing churn**: once users start relying on AI features to boost their efficiency, their likelihood of leaving Adobe drops further.
 
-### 三条货币化路径
+### Three monetization paths
 
-| 路径 | 机制 | 当前进展 |
+| Path | Mechanism | Current progress |
 |------|------|---------|
-| 提价嵌入 | AI 功能打包进更高价套餐，推动 ARPU 提升 | 已执行（Standard → Pro 升级）|
-| 消费式收入 | 生成式积分包（19.99 美元/4,000 积分）| 快速增长中（环比 75%）|
-| 企业级定制 | Firefly Foundry——为品牌训练定制 AI 模型 | 早期阶段，已签约部分大客户 |
+| Embedded in price increases | AI features bundled into higher-priced tiers, lifting ARPU | Already executed (Standard -> Pro upgrade) |
+| Consumption-based revenue | Generative credit packs ($19.99 / 4,000 credits) | Growing fast (75% quarter over quarter) |
+| Enterprise customization | Firefly Foundry - training custom AI models for brands | Early stage, some large customers already signed |
 
-**如果 AI 相关收入在未来 3 年达到总收入的 10-15%（即 30-45 亿美元），将显著提升 Adobe 的增长中枢。** 考虑到当前的增长曲线，这个目标具备可行性——但远非确定。
+**If AI-related revenue reaches 10-15% of total revenue within the next three years (i.e., $3-4.5 billion), it would meaningfully lift Adobe's growth trajectory.** Given the current growth curve, this target is achievable - but far from certain.
 
 ---
 
-## "商业安全"：Adobe 最被低估的 AI 护城河
+## "Commercial safety": Adobe's most underrated AI moat
 
-在讨论 AI 威胁之前，先说一个大多数人忽略的优势。
+Before discussing the AI threat, let's cover an advantage most people overlook.
 
-### 训练数据的"干净度"问题
+### The "cleanliness" problem in training data
 
-Midjourney、Stable Diffusion、DALL-E 等 AI 图像生成工具有一个共同的法律灰区：**它们的训练数据来源不透明，很可能包含大量未授权的版权作品。** 多起诉讼正在进行中（Getty Images vs Stability AI、多位艺术家集体诉讼等）。
+Midjourney, Stable Diffusion, DALL-E and other AI image-generation tools share a common legal gray area: **the source of their training data is opaque, and likely includes a large amount of unauthorized copyrighted work.** Multiple lawsuits are ongoing (Getty Images vs. Stability AI, class actions by various artists, etc.).
 
-Adobe Firefly 的训练数据完全不同：
+Adobe Firefly's training data is entirely different:
 
-- **仅使用 Adobe Stock 授权内容 + 公共领域内容**
-- **不使用客户上传的数据**
-- **不使用互联网爬取的内容**
+- **Uses only licensed Adobe Stock content plus public-domain content**
+- **Does not use customer-uploaded data**
+- **Does not use content scraped from the internet**
 
-### 这意味着什么？
+### What does this mean?
 
-对于个人用户来说，这个差异不大——你用 Midjourney 生成一张图发朋友圈，没人会来告你。
+For individual users, the difference isn't large - if you generate an image with Midjourney and post it on social media, nobody is going to sue you.
 
-但对于**企业客户**来说，这个差异是决定性的：
+But for **enterprise customers**, this difference is decisive:
 
-| 场景 | 用 Midjourney/Stable Diffusion | 用 Adobe Firefly |
+| Scenario | Using Midjourney/Stable Diffusion | Using Adobe Firefly |
 |------|-------------------------------|-----------------|
-| 品牌广告投放 | 版权风险不确定 | Adobe 提供**知识产权赔偿保障** |
-| 商品包装设计 | 可能侵犯某位艺术家的风格版权 | 训练数据全部授权 |
-| 出版物插图 | 出版社法务部可能否决 | 合规链条完整 |
-| 大型企业内部物料 | IT 合规审查可能不通过 | 满足企业合规要求 |
+| Brand ad placement | Copyright risk uncertain | Adobe provides **IP indemnification** |
+| Product packaging design | May infringe an artist's style copyright | Training data fully licensed |
+| Publication illustrations | Publisher's legal department may veto | Compliance chain is complete |
+| Large-enterprise internal materials | IT compliance review may not pass | Meets enterprise compliance requirements |
 
-**Adobe 的"知识产权赔偿"意味着：如果有人因为你使用 Firefly 生成的内容而起诉你，Adobe 替你承担赔偿。** 这是 Midjourney、Stable Diffusion 都无法提供的承诺。
+**Adobe's "IP indemnification" means: if someone sues you over content you generated with Firefly, Adobe covers the damages on your behalf.** This is a commitment neither Midjourney nor Stable Diffusion can offer.
 
-在 AI 版权诉讼频发的 2025-2026 年，这一优势的价值正在放大。**75% 的财富 500 强已经采用 Firefly——企业选择 Firefly 很大程度上不是因为它生成质量最好，而是因为它最"安全"。**
+In 2025-2026, with AI copyright litigation surging, the value of this advantage is amplifying. **75% of the Fortune 500 have already adopted Firefly - and companies choosing Firefly is, to a significant degree, not because it produces the best-quality output, but because it's the "safest."**
 
-**反方观点**：如果 AI 版权法最终确立"AI 生成内容不构成侵权"的原则（目前美国法院尚未形成一致判例），Adobe 的"商业安全"优势就会大幅缩水。另外，Midjourney 等竞品也在逐步通过购买训练数据授权来弥补这一短板。
-
----
-
-## AI 威胁的三个层次
-
-现在来看硬币的另一面——AI 对 Adobe 的威胁。这个威胁不是单一的，而是分为三个层次，每个层次的严重程度不同。
-
-### 第一层：低端市场被民主化（已发生）
-
-**现状**：用 Midjourney 输入一句话就能生成一张质量尚可的图片。用 Canva + AI 可以在 5 分钟内做出一张社交媒体海报。
-
-**影响**：原本需要入门级设计师完成的工作（简单海报、社交媒体图、产品图修改等），现在非设计人员也能做。
-
-**对 Adobe 的影响**：**有限。** 这些用户本来就不是 Adobe 的核心客户群——他们要么用 Canva，要么外包给低价设计师。AI 民主化做的是"扩大市场"而非"抢 Adobe 的客户"。
-
-**严重程度：低**
-
-### 第二层：专业工作流中 AI 渗透率上升（正在发生）
-
-**现状**：专业设计师越来越多地将 AI 工具整合进工作流——用 Midjourney 找灵感和生成草图，再用 Photoshop 精修；用 AI 扩图/补图功能节省时间。
-
-**关键问题**：当 AI 成为工作流的一部分时，AI 功能是**内嵌在 Adobe 工具中**还是**独立于 Adobe 工具之外**？
-
-目前的数据偏向 Adobe：
-
-- Photoshop 内置的"生成式填充"（Generative Fill）是专业设计师使用最频繁的 AI 功能之一
-- Firefly 累计 240 亿个生成资产，大量是通过 Adobe 产品内部调用的
-- Adobe 的 AI 功能直接嵌入在用户已有的工作流中，无需切换工具
-
-**但也有不利信号**：部分设计师已经形成了"Midjourney 生图 → Photoshop 修图"的双工具流程。如果 Midjourney 的质量持续提升到"不需要 Photoshop 精修"的程度，Adobe 的价值就会从"必需品"降级为"可选品"。
-
-**严重程度：中等，需要持续监控**
-
-### 第三层：AI 从根本上重新定义创意工作（尚未发生）
-
-**假设情景**：3-5 年后，只需输入"为 Nike 做一条 30 秒的运动鞋广告，风格参考 2024 年超级碗广告"，AI 就能直接输出一条完整的、商业级质量的广告片。
-
-如果这个情景成为现实：
-
-- Premiere Pro 的时间线编辑失去大部分价值
-- After Effects 的特效合成需求大幅下降
-- Photoshop 的精修需求被 AI 一键处理替代
-- Adobe 的核心价值从"创作工具"降级为"AI 输出的微调工具"
-
-**这是 Adobe 面临的最大长期风险——不是渐进式的竞争侵蚀，而是整个创意工作范式的改变。**
-
-**但有几个因素限制了这一情景的发生概率（至少在 3-5 年内）**：
-
-1. **精确控制需求**：品牌方需要精确到像素级别的控制——字体、颜色、构图、品牌元素的放置。AI 目前无法提供这种精度。
-2. **迭代修改需求**：真实的商业项目需要反复修改（"把 logo 往左移 3 像素""把色调调暖一点"），AI 的可控性还不够。
-3. **质量一致性**：品牌需要所有物料保持视觉一致性。AI 每次生成的结果有随机性，这在品牌管理中是不可接受的。
-
-**概率评估：3-5 年内，AI 完全替代专业创意工具的概率约 15-20%。** 更可能的结果是"AI 增强人类创作者"的模式主导，而 Adobe 在这个模式中处于有利位置。
-
-**反方观点**：AI 的进步速度可能超出预期。2022 年没人觉得 AI 能画出好看的图，2023 年 Midjourney V5 就做到了。如果 AI 视频生成在 2027-2028 年达到"商用级别"，Premiere Pro 的护城河可能比我们想象的更脆弱。
+**Counterpoint**: if AI copyright law ultimately settles on the principle that "AI-generated content does not constitute infringement" (US courts have not yet reached a consistent precedent), Adobe's "commercial safety" advantage would shrink substantially. In addition, competitors like Midjourney are gradually closing this gap by purchasing licenses for training data.
 
 ---
 
-## Adobe 的 AI 战略：进攻还是防守？
+## Three layers of the AI threat
 
-判断 Adobe 在 AI 时代的前景，关键看一个问题：**Adobe 是在用 AI 增强自己的护城河，还是只是在给一座注定要被冲垮的城堡加固城墙？**
+Now let's look at the other side of the coin - the threat AI poses to Adobe. This threat isn't a single thing; it splits into three layers, each with a different severity.
 
-**支持"增强"的证据：**
+### Layer one: the low end is being democratized (already happened)
 
-| 信号 | 数据 |
+**Current state**: type one sentence into Midjourney and get a decent-quality image. Use Canva + AI and produce a social media poster in five minutes.
+
+**Impact**: work that used to require an entry-level designer (simple posters, social media graphics, product-image edits, etc.) can now be done by non-designers.
+
+**Impact on Adobe**: **Limited.** These users were never Adobe's core customer base to begin with - they either used Canva already, or outsourced to low-cost designers. AI democratization is "expanding the market," not "taking Adobe's customers."
+
+**Severity: low**
+
+### Layer two: rising AI penetration in professional workflows (happening now)
+
+**Current state**: professional designers are increasingly integrating AI tools into their workflow - using Midjourney for inspiration and rough drafts, then refining in Photoshop; using AI outpainting/inpainting features to save time.
+
+**The key question**: when AI becomes part of the workflow, are the AI features **embedded inside Adobe's tools**, or **living outside them**?
+
+The current data leans in Adobe's favor:
+
+- Photoshop's built-in Generative Fill is one of the most frequently used AI features among professional designers
+- Firefly's cumulative 24 billion generated assets are, in large part, invoked from within Adobe products
+- Adobe's AI features are embedded directly into users' existing workflows, with no need to switch tools
+
+**But there are also unfavorable signals**: some designers have already formed a two-tool workflow of "generate in Midjourney -> touch up in Photoshop." If Midjourney's quality keeps improving to the point where "no Photoshop touch-up is needed," Adobe's value would downgrade from "necessity" to "optional."
+
+**Severity: moderate, needs continuous monitoring**
+
+### Layer three: AI fundamentally redefines creative work (has not happened yet)
+
+**Hypothetical scenario**: three to five years from now, you type "make a 30-second running-shoe ad for Nike, styled after a 2024 Super Bowl commercial," and AI directly outputs a complete, commercial-grade ad film.
+
+If this scenario becomes reality:
+
+- Premiere Pro's timeline editing loses most of its value
+- Demand for After Effects' compositing work drops sharply
+- Photoshop's touch-up needs are replaced by one-click AI processing
+- Adobe's core value downgrades from "creation tool" to "fine-tuning tool for AI output"
+
+**This is the biggest long-term risk Adobe faces - not gradual competitive erosion, but a change in the entire creative-work paradigm.**
+
+**But several factors limit the probability of this scenario occurring, at least within 3-5 years**:
+
+1. **Need for precise control**: brands need pixel-level precision control - fonts, colors, composition, placement of brand elements. AI currently cannot provide this level of precision.
+2. **Need for iterative revision**: real commercial projects require repeated edits ("move the logo 3 pixels to the left," "make the tone warmer"), and AI's controllability isn't there yet.
+3. **Consistency of quality**: brands need all materials to maintain visual consistency. Each AI generation has an element of randomness, which is unacceptable in brand management.
+
+**Probability assessment: within 3-5 years, the probability that AI fully replaces professional creative tools is about 15-20%.** The more likely outcome is that the "AI augments human creators" model dominates - and Adobe is well positioned within that model.
+
+**Counterpoint**: AI's pace of progress may exceed expectations. In 2022 nobody thought AI could produce attractive images; by 2023 Midjourney V5 had already done it. If AI video generation reaches "commercial grade" by 2027-2028, Premiere Pro's moat could prove more fragile than we imagine.
+
+---
+
+## Adobe's AI strategy: offense or defense?
+
+Judging Adobe's prospects in the AI era comes down to one question: **is Adobe using AI to strengthen its own moat, or merely reinforcing the walls of a castle that's destined to be overrun?**
+
+**Evidence supporting "strengthening":**
+
+| Signal | Data |
 |------|------|
-| AI 整合速度 | Firefly 从发布到商业化不到 1 年，比多数大公司更快 |
-| 用户采用率 | 240 亿个生成资产，75% 财富 500 强采用 |
-| 收入贡献 | AI ARR 同比增长 3 倍+，积分消耗环比增长 45%+ |
-| 创新模式 | 内容凭证系统（Content Credentials）引领行业标准 |
-| 企业优势 | 唯一提供知识产权赔偿保障的 AI 创意工具 |
+| Speed of AI integration | Firefly went from launch to commercialization in under a year, faster than most large companies |
+| User adoption | 24 billion generated assets, 75% Fortune 500 adoption |
+| Revenue contribution | AI ARR up 3x+ year over year, credit consumption up 45%+ quarter over quarter |
+| Innovation model | Content Credentials system leading an industry standard |
+| Enterprise advantage | The only AI creative tool offering IP indemnification |
 
-**支持"防守"的证据：**
+**Evidence supporting "defense":**
 
-| 信号 | 数据 |
+| Signal | Data |
 |------|------|
-| 生成质量 | Firefly 的图像生成质量公认不如 Midjourney |
-| 纯 AI 产品 | Adobe 没有推出类似 Midjourney 那样的"AI 原生创作工具" |
-| 创新者困境 | 需要保护 240 亿订阅收入，限制了激进创新 |
-| XD 前车之鉴 | 在 UI/UX 领域已经输给了"原生"竞争对手 Figma |
+| Generation quality | Firefly's image generation quality is widely seen as inferior to Midjourney |
+| Pure-AI products | Adobe has not launched an "AI-native creation tool" comparable to Midjourney |
+| Innovator's dilemma | Needing to protect $24 billion in subscription revenue limits how aggressively it can innovate |
+| The XD precedent | Already lost to a "native" competitor, Figma, in the UI/UX space |
 
-**综合证据的指向**：目前的数据更支持"增强"，但需要附加一个重要的时间限定——**在 3-5 年的投资周期内。** 超过 5 年，AI 对创意工作流的重新定义可能达到临界点，届时需要重新评估。
+**Where the combined evidence points**: the current data leans more toward "strengthening," but with one important time qualifier attached - **within a 3-5 year investment horizon.** Beyond 5 years, AI's redefinition of creative workflows may reach a tipping point, at which point the assessment would need to be revisited.
 
 ---
 
-## 一个关键的思考框架：AI 对不同业务的影响不对称
+## A key framework: AI's impact is asymmetric across businesses
 
-Adobe 的三块业务受 AI 冲击的程度截然不同：
+Adobe's three business segments face very different degrees of AI impact:
 
-| 业务 | AI 影响方向 | 影响程度 | 理由 |
+| Business | AI impact direction | Impact severity | Reason |
 |------|-----------|---------|------|
-| Creative Cloud | 双刃剑 | **高** | AI 既增强工具价值，也可能替代工具 |
-| Document Cloud | 正面 | **中低** | AI 增强 PDF 提取/搜索/总结功能，不太可能替代 PDF 本身 |
-| Experience Cloud | 正面 | **中** | AI 增强营销自动化/个性化能力，是纯正的 AI 受益方 |
+| Creative Cloud | Double-edged sword | **High** | AI both enhances the tools' value and could replace them |
+| Document Cloud | Positive | **Medium-low** | AI enhances PDF extraction/search/summarization but is unlikely to replace the PDF itself |
+| Experience Cloud | Positive | **Medium** | AI enhances marketing automation and personalization - a genuine AI beneficiary |
 
-**被忽略的重点**：市场的 AI 恐惧主要集中在 Creative Cloud，但 Document Cloud 和 Experience Cloud 加起来占收入的约 40%。**这两块业务受 AI 的正面影响大于负面影响**——AI 让 PDF 更智能、让营销自动化更精准，而不是让这些产品失去存在价值。
+**An overlooked point**: the market's AI fear is concentrated mainly on Creative Cloud, but Document Cloud and Experience Cloud together account for roughly 40% of revenue. **These two segments benefit more from AI than they're harmed by it** - AI makes PDFs smarter and marketing automation more precise, rather than making these products lose their reason to exist.
 
-即使在最悲观的情景下——假设 Creative Cloud 因 AI 颠覆而收入下降 20%——Document Cloud 和 Experience Cloud 的 AI 增强可能部分抵消这一影响。
+Even in the most pessimistic scenario - assuming Creative Cloud's revenue falls 20% due to AI disruption - AI enhancement in Document Cloud and Experience Cloud could partly offset that impact.
 
 ---
 
-## AI 冲击小结
+## AI impact: summary
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| AI 作为增长引擎 | **初见成效**——积分消耗快速增长，提价获得支撑，企业采用率高 |
-| "商业安全"壁垒 | **有独特价值**——版权合规训练 + 知识产权赔偿，企业市场有真实壁垒 |
-| AI 作为颠覆威胁 | **真实但分层**——低端已被民主化（影响小）、中端正在渗透（需监控）、高端尚未发生（概率 15-20%）|
-| 总体判断 | **3-5 年内，AI 对 Adobe 是净正面。超过 5 年，不确定性显著增加** |
+| AI as a growth engine | **Early traction** - credit consumption growing fast, supporting the price increase, high enterprise adoption |
+| "Commercial safety" moat | **Genuinely valuable** - copyright-compliant training plus IP indemnification, a real barrier in the enterprise market |
+| AI as a disruptive threat | **Real, but layered** - the low end has already been democratized (small impact), the mid-tier is currently being penetrated (needs monitoring), the high end has not yet happened (probability 15-20%) |
+| Overall judgment | **Within 3-5 years, AI is a net positive for Adobe. Beyond 5 years, uncertainty rises significantly** |
 
-**Adobe 在 AI 时代的核心命题是**：它能不能从"人们用来创作内容的工具"进化为"人们用来指挥 AI 创作内容的平台"。如果能完成这个进化，AI 就是救星；如果不能，AI 就是掘墓人。
+**Adobe's core proposition in the AI era is**: can it evolve from "a tool people use to create content" into "a platform people use to direct AI to create content"? If it can complete that evolution, AI is a savior; if it can't, AI is a gravedigger.
 
-目前的证据显示，进化正在发生——但还远未完成。
-
----
-
-## 下期预告
-
-最后一篇，我们回答最实际的问题：**Adobe 当前的价格到底值不值得买？**
-
-要覆盖的内容：
-
-- CEO 交接——18 年 CEO 离任，新人选会影响什么？
-- 250 亿美元回购——管理层在用真金白银说什么？
-- 估值判断——PE 十年最低是机会还是陷阱？
-- 竞争加剧——Canva 和 Figma 即将 IPO，意味着什么？
-- 关键跟踪指标——买了以后盯什么？
+The current evidence shows the evolution is happening - but it is far from complete.
 
 ---
 
-*本文是《看懂Adobe》系列第 03 篇。最后 1 篇将在下期推出。*
+## Coming up next
 
-*免责声明：本文仅为个人投资研究记录，不构成任何投资建议。文中数据来源于 Adobe 官方财报、公开市场信息、行业分析报告，可能存在时效性偏差。AI 技术发展速度极快，文中的判断可能随技术突破而迅速过时。投资有风险，决策须谨慎。*
+In the final piece, we answer the most practical question: **is Adobe's current price actually worth buying?**
 
-*数据来源：Adobe Q1 FY2026 财报、Adobe FY2025 年报、Adobe Firefly 官方页面、ainvest 研究报告、Miracuves Adobe Firefly 收入模型分析。*
+What we'll cover:
+
+- CEO transition - after 18 years, the CEO is departing; what will the successor change?
+- A $25 billion buyback - what is management saying with real money?
+- Valuation judgment - is a decade-low P/E an opportunity or a trap?
+- Intensifying competition - what does it mean that Canva and Figma are both heading toward IPOs?
+- Key metrics to track - what should you watch after buying?
+
+---
+
+*This is Part 03 of the Understanding Adobe series. The final part is coming next.*
+
+*Disclaimer: This piece is a personal investment research record only and does not constitute investment advice of any kind. Data is sourced from Adobe's official filings, public market information, and industry analysis reports, and may be subject to timing lags. AI technology is developing extremely fast, and the judgments in this piece could quickly become outdated as new technical breakthroughs occur. Investing carries risk; decisions should be made with care.*
+
+*Sources: Adobe Q1 FY2026 earnings, Adobe FY2025 annual report, Adobe Firefly official page, ainvest research report, Miracuves Adobe Firefly revenue model analysis.*

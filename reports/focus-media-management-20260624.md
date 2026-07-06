@@ -1,301 +1,301 @@
-# 分众传媒管理层纵深研究：江南春
+# Focus Media Management Deep Dive: Jiang Nanchun
 
-> "买股票就是买人。找到你信任的人，然后长期持有。" —— 段永平
+> "Buying a stock is buying a person. Find someone you trust, then hold for the long term." — Duan Yongping
 
-研究日期：2026年6月24日
-
----
-
-## 一、关键人物速览
-
-| 角色 | 姓名 | 任期 | 背景 | 持股比例 |
-|------|------|------|------|---------|
-| 董事长/总裁/CEO | 江南春 | 2003年创立至今（23年） | 华东师范大学中文系，1973年生，新加坡国籍 | 23.72%（通过Media Management Hong Kong Limited） |
-| CFO/董秘 | 孔微微 | 多年 | 财务背景 | 未披露大量持股 |
-| 财务副总裁 | 王晶晶 | 多年 | 财务背景 | 未披露 |
-| 副总裁/CMO | 嵇海荣 | 多年 | 营销背景，年薪153.6万 | 未披露 |
-| 首席增长官（新任） | 张继学 | 2025年起（原新潮传媒创始人） | 新潮传媒创始人，负责海外业务和AI | 收购对价换股 |
-
-**核心判断：江南春=分众传媒。** 他既是创始人、实际控制人，又是董事长兼CEO，持股23.72%，60-70位高管直接向他汇报。分众是一家高度依赖创始人个人能力的公司。江南春自己也坦承："我不是一个优秀的管理者...长板非常明显，短板也非常明显。"
+Research date: June 24, 2026
 
 ---
 
-## 二、诚信度评估
+## 1. Key Figures at a Glance
 
-### 2.1 承诺vs兑现追踪
+| Role | Name | Tenure | Background | Shareholding |
+|------|------|--------|------|---------|
+| Chairman/President/CEO | Jiang Nanchun | Founded the company in 2003, still leading it today (23 years) | Chinese Language and Literature, East China Normal University; born 1973; Singaporean citizenship | 23.72% (via Media Management Hong Kong Limited) |
+| CFO/Board Secretary | Kong Weiwei | Many years | Finance background | Shareholding not substantially disclosed |
+| VP of Finance | Wang Jingjing | Many years | Finance background | Not disclosed |
+| VP/CMO | Ji Hairong | Many years | Marketing background; annual salary RMB 1.536 million | Not disclosed |
+| Chief Growth Officer (newly appointed) | Zhang Jixue | Since 2025 (formerly founder of Xinchao Media) | Founder of Xinchao Media; responsible for overseas business and AI | Received shares as acquisition consideration |
 
-| # | 时间 | 承诺内容 | 承诺场合 | 兑现情况 | 评价 |
+**Core judgment: Jiang Nanchun *is* Focus Media.** He is the founder, the actual controller, and simultaneously chairman and CEO, holding 23.72% of shares, with 60-70 executives reporting to him directly. Focus Media is a company that depends heavily on the personal capability of its founder. Jiang Nanchun himself has admitted: "I am not an excellent manager... my strengths are very pronounced, and so are my weaknesses."
+
+---
+
+## 2. Integrity Assessment
+
+### 2.1 Promises vs. Delivery Tracking
+
+| # | Time | Promise | Context | Delivery | Assessment |
 |---|------|---------|---------|---------|------|
-| 1 | 2018年2月 | "覆盖500城、500万终端、5亿新中产" | 分众15周年庆典 | 截至2025年底覆盖约340城，点位约280万台（含新潮74万台待并表），触达约7亿人次 | ⚠️ 城市数和终端数距目标有差距，但方向正确；收购新潮后有望接近 |
-| 2 | 2018年 | 推出四大系统（实时收视率、跨屏分析、关键词精准投放、电商定向投放） | 15周年庆典 | 部分落地：数字化投放已实现，"碰一下"NFC交互2025年推出，但完整的品效闭环仍在建设中 | ⚠️ 方向对但落地慢 |
-| 3 | 2019-2020年 | "正常情况下每年10%的速度增加点位" | 业绩说明会 | 2020-2021年点位基本持平甚至略减（265.9万台同比减约1%），受疫情和竞争影响 | ⚠️ 环境变化导致调整，但管理层主动放慢了扩张 |
-| 4 | 2022年10月 | 回购4-8亿元股份，价格不超过7元/股，12个月内完成 | 董事会决议 | **2023年4月宣布终止回购，半年内未执行任何回购**，被市场指为"忽悠式回购" | ❌ 严重失信：股价4.1元时不买，涨到7元时终止 |
-| 5 | 2023年12月 | "每年不低于扣非净利润80%进行现金分红" | 未来三年分红规划 | 2024年分红47.66亿元，占净利润92.45%，超额兑现 | ✅ |
-| 6 | 2023-2024年 | "未来三到五年打造全球性企业" | 年报/投资者活动 | 截至2025年中已覆盖11个国家、18万台海外设备，海外收入双位数增长 | ✅ 在推进中 |
-| 7 | 2024年 | "海外点位和收入双位数增长" | 投资者关系活动 | 2024年海外确实实现双位数增长 | ✅ |
-| 8 | 2025年4月 | 83亿收购新潮传媒，"本质上和收购聚众相同" | 收购公告/采访 | 2026年1月获深交所受理，仍待证监会注册和反垄断审查 | 进行中 |
+| 1 | February 2018 | "Cover 500 cities, 5 million terminals, 500 million new middle-class consumers" | Focus Media's 15th anniversary celebration | By the end of 2025, coverage reached roughly 340 cities, with about 2.8 million points (including 740,000 from Xinchao Media pending consolidation), reaching about 700 million people | ⚠️ City count and terminal count fall short of the target, but the direction is correct; the Xinchao Media acquisition could bring the company closer |
+| 2 | 2018 | Launch of four major systems (real-time viewership rating, cross-screen analysis, precision keyword targeting, e-commerce-directed placement) | 15th anniversary celebration | Partially delivered: digital placement has been implemented, the "Tap" NFC interaction launched in 2025, but a complete brand-to-effectiveness closed loop is still under construction | ⚠️ Right direction, slow execution |
+| 3 | 2019-2020 | "Under normal circumstances, points will grow at 10% per year" | Earnings briefing | In 2020-2021, the point count roughly held flat or even declined slightly (2.659 million units, down about 1% year over year), affected by the pandemic and competition | ⚠️ Environmental changes forced an adjustment, but management proactively slowed expansion |
+| 4 | October 2022 | Buy back RMB 400-800 million in shares at no more than RMB 7/share, to be completed within 12 months | Board resolution | **In April 2023 the buyback was announced terminated, with zero execution over six months** — criticized by the market as a "bait-and-switch buyback" | ❌ Serious breach of trust: didn't buy at RMB 4.1/share, then terminated once the price rose to RMB 7 |
+| 5 | December 2023 | "No less than 80% of non-recurring net profit distributed as cash dividends each year" | Three-year dividend plan | 2024 dividend of RMB 4.766 billion, 92.45% of net profit — delivered above target | ✅ |
+| 6 | 2023-2024 | "Build a global enterprise over the next three to five years" | Annual report / investor activities | By mid-2025, coverage had reached 11 countries and 180,000 overseas devices, with double-digit growth in overseas revenue | ✅ In progress |
+| 7 | 2024 | "Double-digit growth in overseas points and revenue" | Investor relations activity | Overseas business did achieve double-digit growth in 2024 | ✅ |
+| 8 | April 2025 | RMB 8.3 billion acquisition of Xinchao Media, "essentially the same as the Framedia acquisition" | Acquisition announcement / interview | Accepted by the Shenzhen Stock Exchange in January 2026; still pending CSRC registration and antitrust review | In progress |
 
-**兑现率评估：约60-65%**——大方向说到做到（分红、海外扩张、数字化升级），但在关键承诺上有重大失信（终止回购），500城目标明显过于激进。
+**Delivery-rate assessment: roughly 60-65%** — the broad strokes were delivered (dividends, overseas expansion, digital upgrades), but there was a major breach of trust on a key commitment (the terminated buyback), and the 500-cities target was clearly too aggressive.
 
-### 2.2 困难时期的表现
+### 2.2 Performance During Difficult Periods
 
-| 危机事件 | 时间 | 管理层反应 | 事后评价 |
+| Crisis event | Time | Management's response | Retrospective assessment |
 |---------|------|-----------|---------|
-| 美股并购泡沫破裂+央视3·15曝光 | 2008-2009年 | 江南春"断臂求生"，剥离60多家收购的非核心业务，重新聚焦电梯和影院；事后深刻反省"人生以服务为目的" | ✅ 纠错果断，反省真诚 |
-| 浑水做空（指控屏幕数量虚增50%） | 2011年 | 当日拿出1100万美元回购股票，逐条否认指控 | ⚠️ 态度果断，但指控中部分治理问题确实存在 |
-| SEC调查（好耶网MBO利益输送） | 2015年 | 以5560万美元和解，江南春个人退回969万美元+罚金969万美元 | ❌ 合规污点严重，虽达成和解但暴露了利益输送问题 |
-| 新潮传媒价格战 | 2018-2019年 | 引入阿里150亿战略投资；大幅扩张点位应战（电梯电视从30.8万增至72.4万台）；朋友圈回应"没有公司靠口水和碰瓷成功" | ⚠️ 扩张策略过激导致毛利率暴跌（68.95%→36.54%），但2020年后迅速优化调整 |
-| 新冠疫情冲击 | 2020年 | Q1首次出现扣非亏损；全员降薪（高管带头但降幅仅为员工一半）；与物业谈降租；给受影响广告主补偿 | ⚠️ 应对措施到位，但高管与员工降薪不对等引发批评 |
-| 2022年疫情反复 | 2022年 | 营收暴跌36.47%，净利降53.99%；三年裁员超6000人（54%）；宣布回购但未执行后终止 | ❌ "忽悠式回购"严重损害信用；裁员比例惊人但利润仍可观 |
-| 数禾科技减值 | 2025年Q4 | 一次性计提减值21.53亿元，以7.91亿元清仓退出 | ⚠️ 非核心投资失败，但及时止损；十年投资累计回收8.11亿元，实现约8倍回报 |
+| U.S.-listed M&A bubble burst + CCTV's "3·15" exposé | 2008-2009 | Jiang Nanchun performed "self-amputation to survive," divesting more than 60 non-core acquired businesses and refocusing on elevators and cinemas; afterward he reflected deeply that "the purpose of life is service" | ✅ Decisive course correction, sincere reflection |
+| Muddy Waters short-seller attack (alleging screen counts were inflated by 50%) | 2011 | Committed $11 million that same day to buy back stock, denying the allegations point by point | ⚠️ Decisive response, but some of the governance issues raised were in fact real |
+| SEC investigation (Allyes MBO-related benefit transfer) | 2015 | Settled for $55.6 million; Jiang Nanchun personally returned $9.69 million plus a $9.69 million penalty | ❌ A serious compliance stain — a settlement was reached, but it exposed a benefit-transfer problem |
+| Xinchao Media price war | 2018-2019 | Brought in a RMB 15 billion strategic investment from Alibaba; aggressively expanded points to fight back (elevator TV units grew from 308,000 to 724,000); responded on WeChat Moments that "no company has ever succeeded through trash talk and provocation" | ⚠️ The aggressive expansion strategy caused gross margin to collapse (from 68.95% to 36.54%), though it was quickly optimized after 2020 |
+| COVID-19 shock | 2020 | First-ever non-recurring loss in Q1; company-wide pay cuts (executives led the way, but their cut was only half that of employees); negotiated rent reductions with landlords; compensated affected advertisers | ⚠️ Response measures were in place, but the unequal pay cuts between executives and staff drew criticism |
+| Renewed pandemic disruption | 2022 | Revenue plunged 36.47%, net profit fell 53.99%; over 6,000 layoffs (54% of headcount) over three years; announced a buyback that was never executed and was later terminated | ❌ The "bait-and-switch buyback" seriously damaged credibility; the layoff ratio was striking even as profit remained sizable |
+| Shuhe Technology impairment | Q4 2025 | Took a one-time impairment charge of RMB 2.153 billion, exiting entirely for RMB 791 million | ⚠️ A failed non-core investment, but the loss was cut in time; over ten years the investment returned a cumulative RMB 811 million, roughly an 8x return |
 
-**关键发现：**
-- 江南春在战略层面的纠错能力很强（2008年断臂求生、2019年后优化点位结构）
-- 但在具体承诺上有失信记录（终止回购是最大污点之一）
-- 危机中倾向于先降基层成本，高管承担相对较少
-- SEC和解案是职业生涯最严重的合规问题
+**Key findings:**
+- Jiang Nanchun's course-correction ability at the strategic level is strong (the 2008 self-amputation, the post-2019 optimization of point structure)
+- But there is a track record of breaking specific promises (the terminated buyback is one of the biggest stains)
+- During crises there is a tendency to cut costs at the base of the organization first, with executives bearing relatively less
+- The SEC settlement is the most serious compliance issue of his career
 
-### 2.3 对利益相关方的态度
+### 2.3 Attitude Toward Stakeholders
 
-| 利益相关方 | 态度 | 证据 | 评价 |
+| Stakeholder | Attitude | Evidence | Assessment |
 |-----------|------|------|------|
-| 股东 | 分红慷慨但有失信 | 2024年分红率92.45%，累计分红326亿元；但2022年"忽悠式回购"；私有化回A股后外资密集减持150亿元 | ⚠️ 分红优秀，但回购失信+私有化套利让人不安 |
-| 员工 | 结果导向，强压+高激励 | 三年裁员54%（1.1万→5036人）；销售提成8-10%，优秀销售年入千万；降薪时高管降幅仅为员工一半 | ⚠️ "狼性"文化，赢者通吃 |
-| 客户/广告主 | 以客户为中心 | 年见1000个客户；将销售定位为"咨询顾问"；为受疫情影响广告主补偿 | ✅ |
-| 公众/社会 | 有争议 | 洗脑广告引发公众反感；噪音扰民投诉；低俗广告被罚50万元 | ⚠️ 商业模式本身有伦理争议 |
-| 监管 | 合规有大小两层问题 | SEC 5560万美元和解（利益输送）；国内低俗广告处罚；瑞幸关联被问询（最终无问题）| ❌ SEC案是严重警示 |
+| Shareholders | Generous dividends, but a history of broken trust | 2024 payout ratio of 92.45%, cumulative dividends of RMB 32.6 billion; but the 2022 "bait-and-switch buyback"; after returning to the A-share market via privatization, foreign investors have sold down a dense RMB 15 billion | ⚠️ Excellent dividends, but the buyback breach of trust plus privatization arbitrage is unsettling |
+| Employees | Results-oriented, high pressure combined with high incentives | 54% headcount reduction over three years (11,000 → 5,036); sales commissions of 8-10%, with top salespeople earning millions of RMB annually; during pay cuts, executives' reduction was only half that of employees | ⚠️ A "wolf culture," winner-take-all |
+| Clients/advertisers | Customer-centric | Meets 1,000 clients a year; positions salespeople as "consulting advisors"; compensated advertisers affected by the pandemic | ✅ |
+| Public/society | Controversial | "Brainwashing" ads have provoked public resentment; complaints about noise disturbance; fined RMB 500,000 for a vulgar ad | ⚠️ The business model itself carries ethical controversy |
+| Regulators | Compliance issues at both large and small scale | SEC settlement of $55.6 million (benefit transfer); domestic penalties for vulgar advertising; questioned over its Luckin Coffee connection (ultimately no issue found) | ❌ The SEC case is a serious warning sign |
 
 ---
 
-## 三、能力评估
+## 3. Capability Assessment
 
-### 3.1 战略眼光
+### 3.1 Strategic Vision
 
-| 时间 | 江南春的判断/预测 | 实际结果 | 准确度 |
+| Time | Jiang Nanchun's judgment/forecast | Actual outcome | Accuracy |
 |------|----------------|---------|:------:|
-| 2003年 | 发明电梯媒体商业模式——"没有人会主动看广告，但等电梯时会" | 创造了全球最大电梯媒体公司，覆盖数亿人 | ✅ 天才级洞察 |
-| 2018年 | "未来十年品牌将越来越聚焦，将有许多千亿级品牌诞生" | 新消费品牌（元气森林、瑞幸等）确实爆发，但千亿品牌并不多 | ⚠️ 方向对但过于乐观 |
-| 2018-2019年 | 激进扩张应对新潮竞争 | 毛利率暴跌21个百分点，扣非净利下降74.49%；被迫1年内缩减19.1万点位 | ❌ 战术失误 |
-| 2020-2021年 | "中国两个红利消失（人口和流量），品牌红利正在展开" | 品牌广告回流线下的趋势确实存在，分众日消费品收入占比升至58.76% | ✅ |
-| 2021年 | "未来创业方向应从精神层面突破" | 泡泡玛特等精神消费品确实爆发 | ✅ |
-| 2023年 | "存量博弈时代，品牌是核心竞争力" | 广告市场确实进入低增长、高波动态势 | ✅ |
-| 2024年 | "消费进一步分级：高端追颜价比、中产品质升级、大众追质价比" | 消费分化趋势持续验证中 | ✅ 在进行中 |
-| 2025年 | 83亿收购新潮传媒，终结价格战 | 收购仍在审核中，反垄断审查是关键不确定性 | 待观察 |
+| 2003 | Invented the elevator media business model — "no one watches ads on purpose, but they will while waiting for the elevator" | Created the world's largest elevator media company, reaching hundreds of millions of people | ✅ A genius-level insight |
+| 2018 | "Over the next decade, brands will become increasingly focused, and many RMB-100-billion-scale brands will emerge" | New consumer brands (Genki Forest, Luckin Coffee, etc.) did surge, but RMB-100-billion-scale brands remain few | ⚠️ Right direction, overly optimistic |
+| 2018-2019 | Aggressive expansion to counter Xinchao Media competition | Gross margin collapsed by 21 percentage points, non-recurring net profit fell 74.49%; forced to cut 191,000 points within a year | ❌ Tactical misstep |
+| 2020-2021 | "Two of China's demographic and traffic dividends have disappeared; a brand dividend is now unfolding" | The trend of brand advertising flowing back offline has indeed materialized; Focus Media's share of revenue from daily consumer goods rose to 58.76% | ✅ |
+| 2021 | "Future entrepreneurship should break through at the spiritual/emotional level" | Brands like Pop Mart, addressing spiritual/emotional consumption, did surge | ✅ |
+| 2023 | "In an era of stock-market competition, brand is the core competitive advantage" | The advertising market has indeed entered a phase of low growth and high volatility | ✅ |
+| 2024 | "Consumption is further stratifying: the high end pursues value-for-look, the middle class pursues quality upgrades, the mass market pursues value-for-money" | The consumption stratification trend continues to be validated | ✅ In progress |
+| 2025 | RMB 8.3 billion acquisition of Xinchao Media to end the price war | The acquisition is still under review; antitrust review remains the key uncertainty | Pending |
 
-**战略眼光评分：4/5** —— 江南春对行业大趋势的判断通常正确（品牌回归线下、消费分级、海外扩张），但在具体执行节奏上容易过于激进（2018年扩张、500城目标）。
+**Strategic vision score: 4/5** — Jiang Nanchun's judgment on major industry trends is usually correct (brand advertising returning offline, consumption stratification, overseas expansion), but he tends toward over-aggressiveness in the specific pacing of execution (the 2018 expansion, the 500-cities target).
 
-### 3.2 执行能力
+### 3.2 Execution Capability
 
-| 维度 | 评估 | 证据 |
+| Dimension | Assessment | Evidence |
 |------|------|------|
-| 战略到落地 | 大方向对，但具体承诺兑现率偏低 | 500城目标仍差距较大；数字化升级在推进但速度不快 |
-| 组织能力 | 高度依赖个人，组织建设薄弱 | 60-70人直接汇报，扁平但不等于高效；自认"不是优秀管理者" |
-| 危机处理 | 优秀 | 三次大危机均成功渡过，且每次都变得更强 |
-| 迭代速度 | 较快 | 2019年大幅扩张失败后快速收缩优化；2025年数禾科技及时止损 |
+| Strategy to execution | Broad direction is correct, but the delivery rate on specific promises is relatively low | The 500-cities target still has a significant gap; digital upgrades are progressing but not quickly |
+| Organizational capability | Highly dependent on the individual, weak organization-building | 60-70 people report directly to him; flat does not equal efficient; he himself admits he is "not an excellent manager" |
+| Crisis management | Excellent | Successfully navigated three major crises, emerging stronger each time |
+| Iteration speed | Relatively fast | Rapidly contracted and optimized after the failed aggressive expansion of 2019; cut losses promptly on Shuhe Technology in 2025 |
 
 ---
 
-## 四、资本配置能力
+## 4. Capital Allocation Capability
 
-### 4.1 分红记录
+### 4.1 Dividend Record
 
-| 年度 | 分红总额 | 当年净利润 | 分红率 | 评价 |
+| Year | Total dividend | Net profit that year | Payout ratio | Assessment |
 |------|---------|-----------|:------:|------|
-| 2020年 | 10.10亿 | 40.53亿 | ~25% | 偏低（受疫情影响保守） |
-| 2021年 | 46.65亿（年度16.61+中期30.04） | 60.60亿 | ~77% | 优秀 |
-| 2022年 | 38.99亿（年度18.77+中期20.22） | 27.90亿 | ~140% | 超额分红（动用留存） |
-| 2023年 | 40.44亿 | 48.27亿 | ~84% | 优秀，超80%承诺 |
-| 2024年 | 47.66亿（年度33.2+中期14.4） | 51.55亿 | ~92% | 优秀 |
-| 2025年 | 41.80亿（年度27.36+中期14.4） | 29.46亿 | ~142% | 超额分红（净利受减值影响） |
+| 2020 | RMB 1.010 billion | RMB 4.053 billion | ~25% | On the low side (conservative given the pandemic) |
+| 2021 | RMB 4.665 billion (annual RMB 1.661 billion + interim RMB 3.004 billion) | RMB 6.060 billion | ~77% | Excellent |
+| 2022 | RMB 3.899 billion (annual RMB 1.877 billion + interim RMB 2.022 billion) | RMB 2.790 billion | ~140% | Excess dividend (drawing on retained earnings) |
+| 2023 | RMB 4.044 billion | RMB 4.827 billion | ~84% | Excellent, exceeding the 80% commitment |
+| 2024 | RMB 4.766 billion (annual RMB 3.32 billion + interim RMB 1.44 billion) | RMB 5.155 billion | ~92% | Excellent |
+| 2025 | RMB 4.180 billion (annual RMB 2.736 billion + interim RMB 1.44 billion) | RMB 2.946 billion | ~142% | Excess dividend (net profit affected by impairment) |
 
-**累计分红：** 自上市以来累计分红16次，合计约326亿元。分红政策承诺不低于扣非净利80%，实际执行远超承诺。
+**Cumulative dividends:** Since listing, the company has paid dividends 16 times, totaling roughly RMB 32.6 billion. The dividend policy commits to no less than 80% of non-recurring net profit; actual execution has far exceeded that commitment.
 
-### 4.2 回购记录
+### 4.2 Buyback Record
 
-| 时间 | 计划 | 实际执行 | 评价 |
+| Time | Plan | Actual execution | Assessment |
 |------|------|---------|------|
-| 2022年10月 | 4-8亿元，不超7元/股 | 半年内零执行，2023年4月终止 | ❌ "忽悠式回购"，股价4.1元时不买 |
-| 2019年 | 员工持股计划 | 完成 | ✅ |
-| 2021年 | 员工持股计划 | 完成 | ✅ |
-| 2011年（美股） | 浑水做空后1100万美元回购 | 立即执行 | ✅ 危急时刻行动果断 |
+| October 2022 | RMB 400-800 million, no more than RMB 7/share | Zero execution over six months, terminated in April 2023 | ❌ A "bait-and-switch buyback" — didn't buy at RMB 4.1/share |
+| 2019 | Employee stock ownership plan | Completed | ✅ |
+| 2021 | Employee stock ownership plan | Completed | ✅ |
+| 2011 (US-listed shares) | $11 million buyback following the Muddy Waters short attack | Executed immediately | ✅ Decisive action in a critical moment |
 
-### 4.3 重大并购记录
+### 4.3 Major M&A Record
 
-| 时间 | 标的 | 金额 | 战略逻辑 | 结果 | 评分 |
+| Time | Target | Amount | Strategic rationale | Outcome | Score |
 |------|------|------|---------|------|:----:|
-| 2005-2007年 | 60多家公司 | 近10亿美元 | 为满足华尔街增长预期 | 大规模减损11亿美元，几乎全部剥离 | 1/5 |
-| 2006年 | 聚众传媒 | 约20亿元 | 消灭电梯广告最大竞争对手 | 完全成功，奠定垄断地位 | 5/5 |
-| 2016年 | 数禾科技（70%） | 1亿元 | 金融科技跨界投资 | 2017年转为联营，2025年减值21.53亿元退出；但十年累计回收8.11亿，约8倍回报 | 3/5 |
-| 2018年 | 阿里巴巴战略入股分众 | 150亿元（引入方） | 应对新潮竞争+数字化转型 | 获得资金和数据资源，但阿里后续逐步减持 | 4/5 |
-| 2025年 | 新潮传媒100% | 83亿元 | 终结价格战+补足下沉市场 | 待审核；估值从210亿降至83亿，对分众有利 | 待评 |
+| 2005-2007 | Over 60 companies | Nearly $1 billion | To meet Wall Street's growth expectations | Massive impairment of $1.1 billion; nearly all divested | 1/5 |
+| 2006 | Framedia | About RMB 2 billion | Eliminate the largest competitor in elevator advertising | Complete success, cemented a near-monopoly position | 5/5 |
+| 2016 | Shuhe Technology (70%) | RMB 100 million | Cross-industry investment in fintech | Converted to an equity-method associate in 2017; exited with a RMB 2.153 billion impairment in 2025; but cumulative recovery over ten years was RMB 811 million, roughly an 8x return | 3/5 |
+| 2018 | Alibaba's strategic stake in Focus Media | RMB 15 billion (from the investor's side) | Counter Xinchao Media competition + digital transformation | Gained capital and data resources, though Alibaba subsequently reduced its stake gradually | 4/5 |
+| 2025 | 100% of Xinchao Media | RMB 8.3 billion | End the price war + fill in the lower-tier market | Pending review; valuation fell from RMB 21 billion to RMB 8.3 billion, favorable to Focus Media | Pending |
 
-### 4.4 非核心投资
+### 4.4 Non-Core Investments
 
-| 时间 | 标的 | 投入 | 结果 | 评价 |
+| Time | Target | Amount invested | Outcome | Assessment |
 |------|------|------|------|------|
-| 多年 | 数禾科技（还呗） | 初始1亿元 | 十年回收8.11亿，但最终减值21.53亿元 | ⚠️ 过程曲折 |
-| 多年 | 趣头条等新消费/互联网 | 广告+投资组合 | 部分成功，部分失败 | ⚠️ |
+| Multi-year | Shuhe Technology (Huanbei) | Initial RMB 100 million | Recovered RMB 811 million over ten years, but ultimately took a RMB 2.153 billion impairment | ⚠️ A winding process |
+| Multi-year | Qutoutiao and other new-consumer/internet names | Advertising plus investment portfolio | Some successes, some failures | ⚠️ |
 
-### 4.5 资本配置评分
+### 4.5 Capital Allocation Score
 
-| 维度 | 评分(1-5) | 说明 |
+| Dimension | Score (1-5) | Notes |
 |------|:---------:|------|
-| 并购纪律 | 3 | 早期美股并购灾难性（1分），但收购聚众和新潮展现了精准判断力（5分），平均约3分 |
-| 回购时机 | 2 | 2022年"忽悠式回购"是严重减分项 |
-| 分红合理性 | 5 | 分红率持续超80%承诺，累计326亿元，A股最慷慨的公司之一 |
-| 新业务投资 | 3 | 数禾科技过程波折；海外扩张方向正确但仍在投入期 |
-| 现金管理 | 4 | 货币资产充裕（120亿+），但2025年拟80亿理财规模偏大 |
-| **综合评分** | **3.4** | 分红突出弥补了回购失信 |
+| M&A discipline | 3 | Early US-listed acquisitions were disastrous (1), but the Framedia and Xinchao Media acquisitions showed precise judgment (5); averages to about 3 |
+| Buyback timing | 2 | The 2022 "bait-and-switch buyback" is a serious deduction |
+| Dividend rationality | 5 | Payout ratio has consistently exceeded the 80% commitment, cumulative dividends of RMB 32.6 billion — one of the most generous companies in the A-share market |
+| New-business investment | 3 | Shuhe Technology was a winding process; overseas expansion is directionally correct but still in an investment phase |
+| Cash management | 4 | Ample cash resources (RMB 12 billion+), but the proposed RMB 8 billion wealth-management allocation in 2025 is on the large side |
+| **Overall score** | **3.4** | Standout dividends offset the buyback breach of trust |
 
 ---
 
-## 五、治理结构评估
+## 5. Governance Structure Assessment
 
-### 5.1 股权结构
+### 5.1 Shareholding Structure
 
-| 项目 | 详情 | 风险评估 |
+| Item | Detail | Risk assessment |
 |------|------|---------|
-| AB股/超级投票权 | 无 | 低风险 |
-| 创始人持股比例 | 23.72%（通过境外主体Media Management Hong Kong Limited） | 持股稳定，未见减持 |
-| 一致行动人 | Gio2 Hong Kong Holdings Limited（1.71%）+ Giovanna Investment Hong Kong Limited（1.04%），合计约26.5% | 控制力充足 |
-| VIE结构 | 无（已回归A股） | 低风险 |
-| 独立董事 | 按A股规定设置 | 中规中矩 |
-| 大股东变动 | 香港中央结算有限公司（港股通）从11.36%降至6.97%（2024-2025年持续减持） | ⚠️ 港资高位减持信号值得关注 |
+| Dual-class shares / super-voting rights | None | Low risk |
+| Founder shareholding | 23.72% (via the offshore entity Media Management Hong Kong Limited) | Stable holding, no sell-down observed |
+| Persons acting in concert | Gio2 Hong Kong Holdings Limited (1.71%) + Giovanna Investment Hong Kong Limited (1.04%), roughly 26.5% combined | Sufficient control |
+| VIE structure | None (already returned to the A-share market) | Low risk |
+| Independent directors | Set up per A-share regulatory requirements | Unremarkable |
+| Major shareholder changes | Hong Kong Securities Clearing Company (Stock Connect) holding declined from 11.36% to 6.97% (continuous selling in 2024-2025) | ⚠️ The high-level sell-down by foreign capital is a signal worth watching |
 
-### 5.2 薪酬合理性
+### 5.2 Compensation Reasonableness
 
-| 高管 | 年薪（2024年） | 占净利润比 | 与同行对比 | 合理性 |
+| Executive | Annual salary (2024) | Share of net profit | Comparison to peers | Reasonableness |
 |------|--------------|:-----------:|:---------:|:------:|
-| 江南春（董事长/CEO） | 480万元 | 0.009% | 偏低（对标同规模公司CEO） | ✅ 薪酬克制 |
-| 嵇海荣（副总裁/CMO） | 153.6万元 | - | 合理 | ✅ |
-| 高管合计 | 1503万元 | 0.03% | 偏低 | ✅ |
+| Jiang Nanchun (Chairman/CEO) | RMB 4.8 million | 0.009% | On the low side (benchmarked against CEOs at comparably sized companies) | ✅ Restrained compensation |
+| Ji Hairong (VP/CMO) | RMB 1.536 million | - | Reasonable | ✅ |
+| Total executive compensation | RMB 15.03 million | 0.03% | On the low side | ✅ |
 
-**注意：** 江南春的主要收入来自分红而非薪酬。2024年分红约7.88亿元，远超480万元年薪。这种"低薪酬+高分红"的模式本身是股东友好的，因为江南春的利益与全体股东完全一致。
+**Note:** Jiang Nanchun's primary income comes from dividends rather than salary. His 2024 dividend income was approximately RMB 788 million, far exceeding his RMB 4.8 million salary. This "low salary, high dividend" pattern is itself shareholder-friendly, because Jiang Nanchun's interests are fully aligned with those of all shareholders.
 
-### 5.3 关联交易
+### 5.3 Related-Party Transactions
 
-| 关联方 | 交易内容 | 金额 | 是否公允 | 风险评估 |
+| Related party | Transaction content | Amount | Fair? | Risk assessment |
 |--------|---------|------|:-------:|---------|
-| 江南春个人（海外增资） | 通过指定投资主体向海外子公司增资 | 2207万元 | ✅ | 低风险，为海外扩张配套 |
-| 新潮传媒收购 | 江南春作为实控人构成关联交易 | 83亿元 | 待评 | ⚠️ 需关注交易定价公允性和反垄断审查结果 |
-| SEC和解案（历史） | 好耶网MBO中江南春为最大受益人 | 退回969万美元 | ❌ | 历史合规污点 |
+| Jiang Nanchun personally (overseas capital injection) | Capital injection into overseas subsidiaries via a designated investment vehicle | RMB 22.07 million | ✅ | Low risk, in support of overseas expansion |
+| Xinchao Media acquisition | Constitutes a related-party transaction as Jiang Nanchun is the actual controller | RMB 8.3 billion | Pending | ⚠️ Attention needed on pricing fairness and the outcome of the antitrust review |
+| SEC settlement case (historical) | Jiang Nanchun was the largest beneficiary in the Allyes MBO | Returned $9.69 million | ❌ | Historical compliance stain |
 
 ---
 
-## 六、侧面验证
+## 6. Cross-Checks
 
-### 6.1 员工视角
+### 6.1 Employee Perspective
 
-| 维度 | 评分/趋势 | 关键反馈 |
+| Dimension | Rating/trend | Key feedback |
 |------|----------|---------|
-| 企业文化 | 结果导向/高压 | "强迫员工签任务书，达不到目标就开除没补偿"；但团队战斗力领先业界 |
-| 管理层评价 | 分化 | 跳槽时通常工资涨加级别升一级；但管理层自称"大部分人不是自我驱动的" |
-| 工作强度 | 极高 | 江南春本人日工作17小时，年飞行322次，1分钟吃完盒饭 |
-| 薪酬满意度 | 两极分化 | 优秀销售年入千万（提成8-10%），但底层员工三年裁减54% |
-| 发展前景 | 稳定 | 行业龙头地位稳固 |
+| Corporate culture | Results-oriented / high pressure | "Employees are forced to sign performance pledges; missing targets means termination without compensation"; but the team's combat effectiveness leads the industry |
+| Management evaluation | Divided | Job-hoppers typically get a raise and a rank promotion; but management itself says "most people are not self-driven" |
+| Work intensity | Extremely high | Jiang Nanchun himself works 17 hours a day, flies 322 times a year, and finishes a boxed lunch in one minute |
+| Compensation satisfaction | Polarized | Top salespeople earn millions of RMB a year (8-10% commission), while frontline headcount was cut by 54% over three years |
+| Career outlook | Stable | The company's position as the industry leader is solid |
 
-### 6.2 客户/市场视角
+### 6.2 Client/Market Perspective
 
-| 维度 | 评分/趋势 | 关键反馈 |
+| Dimension | Rating/trend | Key feedback |
 |------|----------|---------|
-| 广告效果 | 正面 | 波司登百度指数提升225%、空刻意面获天猫双平台第一 |
-| 品效闭环 | 传统弱项 | 传统CPD模式无法追踪转化；"碰一下"NFC功能试图突破 |
-| 公众反感 | 持续存在 | 洗脑广告（铂爵旅拍）引发"电梯恐惧症"；噪音扰民投诉 |
-| 广告主评价 | 正面 | 日消费品客户结构稳定，占比58.76%，弱周期属性增强 |
+| Advertising effectiveness | Positive | Bosideng's Baidu search index rose 225%; Kongke pasta ranked No.1 on both Tmall platforms |
+| Brand-to-effectiveness closed loop | A traditional weak point | The traditional CPD (cost-per-day) model cannot track conversion; the "Tap" NFC feature is an attempt to break through |
+| Public resentment | Persistent | "Brainwashing" ads (Bojue Travel Photography) have provoked "elevator phobia"; complaints about noise disturbance |
+| Advertiser feedback | Positive | The daily consumer goods client base is stable, accounting for 58.76% of revenue, strengthening the company's counter-cyclical profile |
 
-### 6.3 行业口碑
+### 6.3 Industry Reputation
 
-- 电梯媒体市占率约80%（收购新潮后），在一二线核心商务区近乎垄断
-- 同行评价：江南春被视为"中国品牌营销教父"，定位理论在中国的最大实践者
-- 投资圈评价：被视为A股高分红典范，但也被质疑增长天花板明显
+- Market share in elevator media is about 80% (after the Xinchao Media acquisition), near-monopolistic in core first- and second-tier business districts
+- Peer view: Jiang Nanchun is regarded as "the godfather of Chinese brand marketing" and the foremost practitioner of positioning theory in China
+- Investment-community view: seen as a model of high dividend payouts in the A-share market, but also questioned for a clear growth ceiling
 
 ---
 
-## 七、CEO离开后的情景分析
+## 7. Scenario Analysis: Life After the CEO
 
-| 问题 | 回答 |
+| Question | Answer |
 |------|------|
-| 如果江南春明天离开，公司能正常运转吗？ | **短期可以，长期有风险。** 分众的商业模式（电梯广告）本身具有惯性，但60-70人直接向江南春汇报的扁平结构意味着没有人能替代他的协调功能。年见1000客户的关系网络无法转移。 |
-| 管理团队的深度如何？ | **偏弱。** 江南春自己承认"我不是一个优秀的管理者"，团队"大部分人不是自我驱动的"。目前看，张继学（新潮创始人）的加入作为首席增长官可能是有益补充。 |
-| 竞争优势依赖CEO个人还是组织/系统？ | **两者兼有但偏向个人。** 电梯点位资源（组织资产）是结构性护城河，但客户关系维护、品牌营销赋能高度依赖江南春个人。 |
-| 历史上的交接是否顺利？ | 无参考案例——江南春从创立至今从未离开过。他53岁，曾表示"再干10年"（2016年说的，意味着干到2026年），但实际仍在一线。 |
+| If Jiang Nanchun left tomorrow, could the company operate normally? | **Short term, yes; long term, there is risk.** Focus Media's business model (elevator advertising) has its own inertia, but the flat structure — with 60-70 people reporting directly to Jiang Nanchun — means no one can replace his coordinating function. The relationship network built on meeting 1,000 clients a year cannot be transferred. |
+| How deep is the management team? | **Relatively shallow.** Jiang Nanchun himself admits "I am not an excellent manager," and the team is "mostly not self-driven." Zhang Jixue (founder of Xinchao Media) joining as Chief Growth Officer may be a helpful addition. |
+| Does the competitive advantage depend on the CEO personally, or on the organization/system? | **Both, but weighted toward the individual.** Elevator point resources (an organizational asset) form a structural moat, but client-relationship maintenance and brand-marketing enablement depend heavily on Jiang Nanchun personally. |
+| Have historical handovers gone smoothly? | No reference case exists — Jiang Nanchun has never left the company since founding it. He is 53 and once said (in 2016) he would "keep going for another 10 years" (implying through 2026), but he is still on the front line. |
 
 ---
 
-## 八、综合评分
+## 8. Overall Score
 
-### 评分表
+### Scoring Table
 
-| 维度 | 权重 | 评分(1-5) | 加权 |
+| Dimension | Weight | Score (1-5) | Weighted |
 |------|:----:|:---------:|:----:|
-| 诚信度 | 35% | 3.0 | 1.05 |
-| 战略与执行能力 | 25% | 4.0 | 1.00 |
-| 资本配置能力 | 25% | 3.4 | 0.85 |
-| 治理结构 | 15% | 3.5 | 0.53 |
-| **综合评分** | **100%** | | **3.43/5.0** |
+| Integrity | 35% | 3.0 | 1.05 |
+| Strategy and execution capability | 25% | 4.0 | 1.00 |
+| Capital allocation capability | 25% | 3.4 | 0.85 |
+| Governance structure | 15% | 3.5 | 0.53 |
+| **Overall score** | **100%** | | **3.43/5.0** |
 
-### 诚信度评分说明（3.0/5.0）
+### Integrity Score Explanation (3.0/5.0)
 
-扣分项：
-- SEC 5560万美元和解案（好耶网MBO利益输送）—— 最严重
-- 2022年"忽悠式回购"终止 —— 对投资者失信
-- 2018年大幅扩张失误后的500城目标明显过于激进
-- 降薪时高管降幅仅为员工一半
+Deductions:
+- The $55.6 million SEC settlement (Allyes MBO benefit transfer) — the most serious
+- Termination of the 2022 "bait-and-switch buyback" — a breach of trust with investors
+- The 500-cities target following the 2018 expansion misstep was clearly too aggressive
+- Executives' pay cuts were only half that of employees
 
-加分项：
-- 分红承诺持续超额兑现（80%承诺实际90%+）
-- 危机后的反省看起来真诚（"人生以服务为目的"）
-- 薪酬克制（年薪仅480万，收入主要靠分红与全体股东利益一致）
-- 持股比例23.72%稳定未减持
+Additions:
+- Dividend commitments have consistently been delivered above target (an 80% commitment, actual 90%+)
+- Reflection after crises appears sincere ("the purpose of life is service")
+- Restrained compensation (annual salary of only RMB 4.8 million, income mainly aligned with all shareholders via dividends)
+- Shareholding of 23.72% has been stable with no sell-down
 
-### 段永平"买人"标准
+### Duan Yongping's "Buying the Person" Criteria
 
-1. **这个人是否正直？** —— **不完全确定。** SEC和解案暴露了利益输送问题；"忽悠式回购"说一套做一套。但分红慷慨、持股稳定、薪酬克制也是真实的。属于"灰色地带"，不是黑也不是白。
+1. **Is this person honest?** — **Not entirely certain.** The SEC settlement exposed a benefit-transfer problem; the "bait-and-switch buyback" was saying one thing and doing another. But generous dividends, a stable shareholding, and restrained compensation are also real. This falls into a "gray zone" — neither black nor white.
 
-2. **这个人是否有能力？** —— **是。** 战略眼光出色（创造电梯媒体模式、准确判断行业趋势），三次大危机均成功渡过，执行力在宏观层面优秀。资本配置除回购外总体合格。
+2. **Is this person capable?** — **Yes.** Outstanding strategic vision (creating the elevator media model, accurately judging industry trends), successfully navigated three major crises, and execution at the macro level is excellent. Capital allocation is generally solid apart from the buyback issue.
 
-3. **你愿意把钱交给这个人管10年吗？** —— **有条件地愿意。** 前提是：(a) 分众的商业模式护城河足够深，即使管理层犯错也有缓冲；(b) 高分红政策让股东不依赖管理层的资本配置能力；(c) 关注收购新潮的反垄断审查结果和整合执行。
+3. **Would you be willing to hand this person your money to manage for 10 years?** — **Conditionally yes.** Conditional on: (a) Focus Media's business-model moat being deep enough to provide a buffer even when management errs; (b) the high dividend policy meaning shareholders don't have to depend on management's capital-allocation skill; (c) watching closely how the antitrust review of the Xinchao Media acquisition and its integration execution play out.
 
-**最终评级：★★★★（4分）**—— 前两个问题的回答倾向于"是"（诚信度虽有瑕疵但总体可接受），第三个问题是"有条件地是"。
-
----
-
-## 九、关键风险与关注点
-
-1. **人身风险：** 江南春53岁，日工作17小时，年飞行322次，健康风险是最大的单点故障
-2. **反垄断风险：** 收购新潮后电梯媒体市占率超80%，反垄断审查结果高度不确定
-3. **增长天花板：** 2025年营收127.59亿元仅增4%，主业增长空间有限
-4. **海外执行风险：** 韩国子公司业绩大幅下滑，海外扩张能否成功待验证
-5. **2025年净利大降：** 2025年净利29.46亿（同比-42.85%），虽主因数禾科技减值，但2025年Q4主营也出现亏损12.94亿元，需关注
+**Final rating: ★★★★ (4 stars)** — The answers to the first two questions lean toward "yes" (integrity has flaws but is generally acceptable), and the answer to the third is "conditionally yes."
 
 ---
 
-## 附录：数据来源汇总
+## 9. Key Risks and Watch Items
 
-### 年报与公告
-- [分众传媒2024年年度报告摘要](https://static.cninfo.com.cn/finalpage/2025-04-29/1223365071.PDF)
-- [分众传媒2025年半年度报告全文](http://static.cninfo.com.cn/finalpage/2025-08-30/1224625197.PDF)
-- [分众传媒投资者关系活动记录表2025-003](https://file.finance.qq.com/finance/hs/pdf/2025/09/01/1224630305.PDF)
-- [分众传媒2024年度业绩说明会](https://file.finance.qq.com/finance/hs/pdf/2025/05/06/1223476269.PDF)
+1. **Key-person risk:** Jiang Nanchun is 53, works 17 hours a day, and flies 322 times a year — his health is the single largest point of failure
+2. **Antitrust risk:** After the Xinchao Media acquisition, elevator media market share would exceed 80%, and the outcome of the antitrust review is highly uncertain
+3. **Growth ceiling:** 2025 revenue of RMB 12.759 billion grew only 4%, with limited room for growth in the core business
+4. **Overseas execution risk:** The South Korean subsidiary's performance has declined sharply; whether overseas expansion can succeed remains to be verified
+5. **Sharp decline in 2025 net profit:** 2025 net profit was RMB 2.946 billion (down 42.85% year over year); although mainly due to the Shuhe Technology impairment, the core business also posted a loss of RMB 1.294 billion in Q4 2025, which warrants attention
 
-### 新闻与分析
-- [分众传媒2024年财报：稳健增长彰显韧性 - 证券时报](https://www.stcn.com/article/detail/1726272.html)
-- [分众传媒2025年半年报：业绩平稳增长"碰一下"激活新红利 - 证券时报](https://www.stcn.com/article/detail/3314019.html)
-- [83亿，江南春买下新潮传媒 - 澎湃新闻](https://m.thepaper.cn/newsDetail_forward_30614134)
-- [83亿，全球最大户外广告并购案背后的故事 - 21经济网](https://www.21jingji.com/article/20250414/herald/cfe292a9d18bb62353647daba6c416e2.html)
-- [分众83亿并购新潮，宿敌变盟友 - 21经济网](https://www.21jingji.com/article/20250416/herald/d98b7d4c01b8828ebc13d6e54092ffbf.html)
-- [36氪独家专访：分众拟83亿收购新潮](https://news.qq.com/rain/a/20250410A025CO00)
-- [江南春再做加法83亿吞并新潮 - 新浪财经](https://finance.sina.com.cn/roll/2025-04-14/doc-inetatce9075860.shtml)
-- [分众传媒终止最高8亿元回购被指忽悠 - 腾讯新闻](https://news.qq.com/rain/a/20230505A024O200)
-- [江南春的分众传媒"跌落神坛" - 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14779893)
-- [分众传媒计提21.53亿减值 - 东方财富](https://caifuhao.eastmoney.com/news/20260124150657971168100)
-- [分众传媒年营收128亿：净利29亿 - 新浪财经](https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcqxn6863971.shtml)
-- [分众2024年营收123亿：净利52亿 - 鞭牛士](https://www.bianews.com/news/details?id=211418)
-- [江南春新技术变革 - 证券时报](https://www.stcn.com/article/detail/1143052.html)
-- [对话分众传媒江南春 - 21世纪经济报道](https://m.21jingji.com/article/20210626/2d9a3877b92cd441f1465776c256db9f.html)
-- [分众传媒助推中国品牌走向世界舞台 - 上海证券报](https://paper.cnstock.com/html/2025-01/10/content_2017044.htm)
-- [分众传媒2021年年报、2022年一季报简析 - 界面新闻](https://www.jiemian.com/article/7415872.html)
-- [分众传媒2023年度业绩会纪要 - 东方财富](https://caifuhao.eastmoney.com/news/20240526190651654323790)
-- [江南春的新目标：500城500万终端5亿新中产 - 36氪](https://36kr.com/p/5119535)
-- [分众传媒高管薪酬详情 - 新浪财经](https://finance.sina.com.cn/stock/aiassist/ggxc/2025-04-28/doc-ineutqht6504086.shtml)
-- [分众将派发现金近48亿 - 腾讯新闻](https://news.qq.com/rain/a/20240605A05G0S00)
+---
+
+## Appendix: Data Sources Summary
+
+### Annual Reports and Announcements
+- [Focus Media 2024 Annual Report Summary](https://static.cninfo.com.cn/finalpage/2025-04-29/1223365071.PDF)
+- [Focus Media 2025 Interim Report, Full Text](http://static.cninfo.com.cn/finalpage/2025-08-30/1224625197.PDF)
+- [Focus Media Investor Relations Activity Record 2025-003](https://file.finance.qq.com/finance/hs/pdf/2025/09/01/1224630305.PDF)
+- [Focus Media 2024 Annual Results Briefing](https://file.finance.qq.com/finance/hs/pdf/2025/05/06/1223476269.PDF)
+
+### News and Analysis
+- [Focus Media's 2024 Earnings Report: Steady Growth Shows Resilience - Securities Times](https://www.stcn.com/article/detail/1726272.html)
+- [Focus Media's 2025 Interim Report: Steady Growth, "Tap" Activates a New Dividend - Securities Times](https://www.stcn.com/article/detail/3314019.html)
+- [RMB 8.3 Billion: Jiang Nanchun Buys Xinchao Media - The Paper](https://m.thepaper.cn/newsDetail_forward_30614134)
+- [RMB 8.3 Billion: The Story Behind the World's Largest Outdoor Advertising M&A Deal - 21jingji.com](https://www.21jingji.com/article/20250414/herald/cfe292a9d18bb62353647daba6c416e2.html)
+- [Focus Media's RMB 8.3 Billion Acquisition of Xinchao Media: Old Rivals Become Allies - 21jingji.com](https://www.21jingji.com/article/20250416/herald/d98b7d4c01b8828ebc13d6e54092ffbf.html)
+- [36Kr Exclusive Interview: Focus Media's Planned RMB 8.3 Billion Acquisition of Xinchao Media](https://news.qq.com/rain/a/20250410A025CO00)
+- [Jiang Nanchun Adds Again: RMB 8.3 Billion Merger with Xinchao Media - Sina Finance](https://finance.sina.com.cn/roll/2025-04-14/doc-inetatce9075860.shtml)
+- [Focus Media Terminates Buyback of Up to RMB 800 Million, Accused of Bait-and-Switch - Tencent News](https://news.qq.com/rain/a/20230505A024O200)
+- [Jiang Nanchun's Focus Media "Falls From Grace" - The Paper](https://www.thepaper.cn/newsDetail_forward_14779893)
+- [Focus Media Takes RMB 2.153 Billion Impairment - East Money](https://caifuhao.eastmoney.com/news/20260124150657971168100)
+- [Focus Media's Annual Revenue of RMB 12.8 Billion: Net Profit of RMB 2.9 Billion - Sina Finance](https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcqxn6863971.shtml)
+- [Focus Media's 2024 Revenue of RMB 12.3 Billion: Net Profit of RMB 5.2 Billion - Bianews](https://www.bianews.com/news/details?id=211418)
+- [Jiang Nanchun's Technology Transformation - Securities Times](https://www.stcn.com/article/detail/1143052.html)
+- [A Conversation with Focus Media's Jiang Nanchun - 21st Century Business Herald](https://m.21jingji.com/article/20210626/2d9a3877b92cd441f1465776c256db9f.html)
+- [Focus Media Helps Push Chinese Brands onto the World Stage - Shanghai Securities News](https://paper.cnstock.com/html/2025-01/10/content_2017044.htm)
+- [Brief Analysis of Focus Media's 2021 Annual Report and Q1 2022 Report - Jiemian News](https://www.jiemian.com/article/7415872.html)
+- [Minutes of Focus Media's 2023 Annual Results Meeting - East Money](https://caifuhao.eastmoney.com/news/20240526190651654323790)
+- [Jiang Nanchun's New Target: 500 Cities, 5 Million Terminals, 500 Million New Middle-Class Consumers - 36Kr](https://36kr.com/p/5119535)
+- [Details of Focus Media's Executive Compensation - Sina Finance](https://finance.sina.com.cn/stock/aiassist/ggxc/2025-04-28/doc-ineutqht6504086.shtml)
+- [Focus Media to Distribute Nearly RMB 4.8 Billion in Cash - Tencent News](https://news.qq.com/rain/a/20240605A05G0S00)

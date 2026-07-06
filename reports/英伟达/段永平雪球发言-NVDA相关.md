@@ -1,597 +1,597 @@
-# 雪球发言整理：用户 1247347556
+# Xueqiu Post Compilation: User 1247347556
 
-> **信息来源**：雪球 https://xueqiu.com/u/1247347556
-> **整理时间**：2026-04-13
-> **收录条数**：60 条
-> **关键词筛选**：英伟达, NVDA, nvda, Nvidia, nvidia, NVIDIA, 黄仁勋
-> **采集方式**：Playwright 登录态 + user_timeline.json 全量遍历（仅本人原发言）
+> **Source**: Xueqiu, https://xueqiu.com/u/1247347556
+> **Compiled on**: 2026-04-13
+> **Posts included**: 60
+> **Keyword filter**: NVIDIA, NVDA, nvda, Nvidia, nvidia, NVIDIA, Jensen Huang
+> **Collection method**: Playwright authenticated session + full traversal of user_timeline.json (original posts by the account owner only)
 
 ---
 
 ## 1. 2023-03-22 22:20
 
-> 转发原文：@苹果(AAPL): 原帖已删除
+> Reposted from: @Apple(AAPL): Original post deleted
 
-对Ai，黄肯定比我了解的多。//@我是心心:@大道无形我有型 大道好，最近黄仁勋演讲说，现在是Ai的iphone时刻。您怎么看Ai？
+On AI, Jensen definitely understands it much better than I do. //@ImXinxin: @Duan Yongping, hi Duan — Jensen Huang said in a recent speech that this is AI's "iPhone moment." What do you think about AI?
 
-来源：https://xueqiu.com/1247347556/245203466
+Source: https://xueqiu.com/1247347556/245203466
 
 ---
 
 ## 2. 2023-06-03 13:49
 
-> 转发原文：@大道无形我有型: $苹果(AAPL)$ 这是新高了么？不记得以前收在180以上。
+> Reposted from: @Duan Yongping: $Apple(AAPL)$ Is this a new high? I don't remember it ever closing above 180 before.
 
-回复@陆冲河: 大道只关心自己能看懂的。只有自己看不懂的人才会到处问：你认为呢？//@陆冲河:回复@大道无形我有型:感觉微软英伟达将超越苹果，大道认为怎么样
+Reply to @Lu Chonghe: Duan only cares about what he himself can understand. Only someone who can't understand something goes around asking others, "What do you think?" //@Lu Chonghe: Reply to @Duan Yongping: I feel like Microsoft and NVIDIA are about to overtake Apple — what does Duan think?
 
-来源：https://xueqiu.com/1247347556/252194757
+Source: https://xueqiu.com/1247347556/252194757
 
 ---
 
 ## 3. 2024-03-08 23:01
 
-突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-来源：https://xueqiu.com/1247347556/281356825
+Source: https://xueqiu.com/1247347556/281356825
 
 ---
 
 ## 4. 2024-03-09 08:30
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@用户6402419824: 你就是属于那种乱解释的人。其实我没那么了解nvda，最近看了一眼觉得nvda涨的有道理。我只是娱乐一下，没任何观点。这跟上次我卖AMC和GAME的call的态度完全不一样。在AMC和GAME上我是敢卖长点的Call的，nvda只是卖个当天的而已，如果错了收盘前就投降了。//@用户6402419824:回复@大道无形我有型:我昨天说英伟达股价泡沫巨大，居然有人骂我是大聪明……看来大道也有同感呀//@大道无形我有型:似乎赚了三个VisionPro，比澳门好玩很多哈。
+Reply to @User6402419824: You're the type who reads too much into things. Honestly, I don't understand NVDA that well — I just took a glance recently and felt the rally made sense. I was just having some fun, no real view attached. It's completely different from my attitude when I sold calls on AMC and GAME — there I was willing to sell longer-dated calls, but on NVDA I only sold one expiring the same day; if I'd been wrong, I'd have surrendered before the close. //@User6402419824: Reply to @Duan Yongping: Yesterday I said NVIDIA's stock price has a huge bubble, and people actually called me delusional... looks like Duan feels the same way. //@Duan Yongping: Seems like I made about three VisionPros' worth — much more fun than Macau, ha.
 
-来源：https://xueqiu.com/1247347556/281375776
+Source: https://xueqiu.com/1247347556/281375776
 
 ---
 
 ## 5. 2024-03-09 08:49
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@腾讯茅台助财务自由: 说的就是nvda这些年涨的有道理，不是今天。//@腾讯茅台助财务自由:回复@大道无形我有型:涨的有道理？大道是不是打错字
+Reply to @TencentMoutaiFreedom: I'm talking about how NVDA's rally over these years has made sense — not just today's move. //@TencentMoutaiFreedom: Reply to @Duan Yongping: "Made sense"? Did Duan make a typo?
 
-来源：https://xueqiu.com/1247347556/281376804
+Source: https://xueqiu.com/1247347556/281376804
 
 ---
 
 ## 6. 2024-03-09 09:20
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@没味咖喱_eth: 去澳门赌场的思路很简单，就是大概率会输，所以玩几分钟就走，不管输赢。对nvda而言，我就赌了他今天不会涨过1000，没任何大道理，好玩而已。好玩和投资是两回事。//@没味咖喱_eth:回复@大道无形我有型:大道可否分享一下澳门以及今天nvda的操作思路？还是纯粹的凭感觉，小赌怡情？您分享的卖期权方法让我大开眼界，我以前一直视期权为赌博避而远之。
+Reply to @BlandCurry_eth: The logic behind the Macau casino is simple — the odds are you'll lose, so you play for a few minutes and leave regardless of whether you win or lose. As for NVDA, I was just betting it wouldn't close above 1000 today — no grand logic, just for fun. Fun and investing are two different things. //@BlandCurry_eth: Reply to @Duan Yongping: Duan, could you share your thinking behind the Macau bet and today's NVDA trade? Or is it purely a gut feeling — a little flutter for fun? Your explanation of selling options was eye-opening for me; I used to see options as gambling and steered well clear of them.
 
-来源：https://xueqiu.com/1247347556/281378634
+Source: https://xueqiu.com/1247347556/281378634
 
 ---
 
 ## 7. 2024-03-10 00:07
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@生活处处皆学问: 英伟达非常厉害，产品其实有很大的差异化，堪称芯片界的苹果！nvda涨成这个样子是道理的，继续涨也非常有可能。这也是不能空一个好公司的一个例子。//@生活处处皆学问:回复@大道无形我有型:英伟达在ai行业处于太上游 感觉很难做出差异
+Reply to @LifeIsFullOfLessons: NVIDIA is genuinely formidable — its products are highly differentiated; you could call it the Apple of chips! The fact that NVDA has rallied this much makes sense, and it's entirely possible it keeps rallying. This is another example of why you shouldn't short a good company. //@LifeIsFullOfLessons: Reply to @Duan Yongping: NVIDIA sits too far upstream in the AI industry — it feels hard for it to differentiate itself.
 
-来源：https://xueqiu.com/1247347556/281428248
+Source: https://xueqiu.com/1247347556/281428248
 
 ---
 
 ## 8. 2024-03-11 01:40
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@A大师-懒惰的投资人: 科技公司非常难看懂。//@A大师-懒惰的投资人:回复@大道无形我有型:最近一直再想：10年后的英伟达会是什么样子呢？大家有什么看法？
+Reply to @MasterA-LazyInvestor: Tech companies are extremely hard to understand. //@MasterA-LazyInvestor: Reply to @Duan Yongping: I've been thinking lately — what will NVIDIA look like in 10 years? What does everyone think?
 
-来源：https://xueqiu.com/1247347556/281486458
+Source: https://xueqiu.com/1247347556/281486458
 
 ---
 
 ## 9. 2024-03-12 01:48
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-很久以前确实买过1万股nvda，但因为看不懂就又卖掉了，持有的时间不是很长，印象中赚的钱也不多。要是留到现在我就发达了，哎…。
+A long time ago I did buy 10,000 shares of NVDA, but since I didn't understand the company I sold them again — I didn't hold them very long, and as I recall, I didn't make much money on them. If I'd kept them until now, I'd be rich, sigh...
 
-来源：https://xueqiu.com/1247347556/281638891
+Source: https://xueqiu.com/1247347556/281638891
 
 ---
 
 ## 10. 2024-03-13 09:58
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@大道无形我有型: 科技公司很难看懂的原因是他们的产品不是消费品，我没办法直接感受他们的产品。nvda是一个，微软也是一个…。我在打golf的过程当中错失了不少这类公司了，我在乎吗？我一个满仓主义者，其实我啥都没错过，对吧？//@大道无形我有型:回复@A大师-懒惰的投资人:我看不懂，也没时间看，就只能错过了。
+Reply to @Duan Yongping: The reason tech companies are hard to understand is that their products aren't consumer goods — I have no way to directly experience their products. NVDA is one, Microsoft is another... I've missed quite a few companies like this while out playing golf. Do I care? I'm a full-position believer — really, I haven't missed anything, have I? //@Duan Yongping: Reply to @MasterA-LazyInvestor: I don't understand it, and I don't have time to look into it, so I just have to miss it.
 
-来源：https://xueqiu.com/1247347556/281825889
+Source: https://xueqiu.com/1247347556/281825889
 
 ---
 
 ## 11. 2024-03-13 12:37
 
-> 转发原文：@大道无形我有型: 突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。过年期间回中国时和家人还去了一趟澳门找好吃的，在赌场了花了10分钟，赢了12000港币。前一次去澳门是1995年了，那是因为香港回中山的船下午两点半就没有了，只能经澳门。
+> Reposted from: @Duan Yongping: A sudden whim — let me experience what NVDA short-sellers feel like. Got up early and sold a small call expiring today. During the Lunar New Year trip back to China, my family and I also went to Macau to find good food; we spent 10 minutes at the casino and won HK$12,000. The last time I went to Macau was 1995, because back then the boat from Hong Kong to Zhongshan stopped running after 2:30pm, so the only way through was via Macau.
 
-回复@莫名其喵: 买苹果也不难啊，你试试？//@莫名其喵:回复@大道无形我有型:其实感受nv的产品不难，自己买一台DXG Station（大道不缺钱应该不需要用云服务吧）训练几个模型就行//@大道无形我有型:回复@大道无形我有型: 科技公司很难看懂的原因是他们的产品不是消费品，我没办法直接感受他们的产品。nvda是一个，微软也是一个…。我在打golf的过程当中错失了不少这类公司了，我在乎吗？我一个满仓主义者，其实我啥都没错过，对吧？
+Reply to @MoMingQiMiao: Buying Apple isn't hard either — why don't you try it? //@MoMingQiMiao: Reply to @Duan Yongping: Actually it's not hard to experience NV's product — just buy a DXG Station yourself (Duan surely isn't short on cash, so you probably wouldn't need cloud services) and train a few models. //@Duan Yongping: Reply to @Duan Yongping: The reason tech companies are hard to understand is that their products aren't consumer goods — I have no way to directly experience their products. NVDA is one, Microsoft is another... I've missed quite a few companies like this while out playing golf. Do I care? I'm a full-position believer — really, I haven't missed anything, have I?
 
-来源：https://xueqiu.com/1247347556/281858205
+Source: https://xueqiu.com/1247347556/281858205
 
 ---
 
 ## 12. 2024-04-02 23:23
 
-$英伟达(NVDA)$卖了100个礼拜五到期的860的put，表达一下关注（包括Ai）。不明觉厉，但确实看到厉害的地方了。
+$NVIDIA(NVDA)$ Sold 100 contracts of the Friday-expiring $860 put, just to show I'm paying some attention (including to AI). I don't fully understand it, but it sure looks impressive — I can see there's something powerful here.
 
-来源：https://xueqiu.com/1247347556/284632947
+Source: https://xueqiu.com/1247347556/284632947
 
 ---
 
 ## 13. 2024-04-20 02:22
 
-$英伟达(NVDA)$看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。
+$NVIDIA(NVDA)$ Truly understanding a company is genuinely hard. I didn't understand it before, and looking again now, I still don't. I can't figure out whether this company will be better or worse in 10 years than it is now.
 
-来源：https://xueqiu.com/1247347556/286894886
+Source: https://xueqiu.com/1247347556/286894886
 
 ---
 
 ## 14. 2024-04-20 13:43
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ Truly understanding a company is genuinely hard. I didn't understand it before, and looking again now, I still don't. I can't figure out whether this company will be better or worse in 10 years than it is now.
 
-回复@资产嘉玲: 不懂装懂了吧？！那个礼拜的put早就过期了。苹果我可以肯定10年后大概率还是这么厉害。其实在这里我想表达的是：我对nvda感兴趣。nvda确实厉害的，而且目前似乎看不到谁能对nvda有威胁。目前我没能明白的东西是：他们的这种垄断到底能持续多久？对nvda芯片的需求到底能持续多久？如果整不明白就很难下重手。下不了重手说啥都没啥意义。//@资产嘉玲:[该内容已被作者删除]
+Reply to @Zichan Jialing: Pretending to understand what you don't, are you?! That week's put expired long ago. Apple, I can say with confidence, will most likely still be this strong in 10 years. What I actually want to express here is: I'm interested in NVDA. NVDA really is formidable, and at the moment there doesn't seem to be anyone who can threaten it. What I still can't figure out is: how long can this kind of monopoly actually last? How long can demand for NVDA's chips actually keep up? If I can't figure that out, it's hard to bet big. And if you can't bet big, saying anything else doesn't mean much. //@Zichan Jialing: [This content has been deleted by the author]
 
-来源：https://xueqiu.com/1247347556/286929132
+Source: https://xueqiu.com/1247347556/286929132
 
 ---
 
 ## 15. 2024-04-20 13:55
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ Truly understanding a company is genuinely hard. I didn't understand it before, and looking again now, I still don't. I can't figure out whether this company will be better or worse in 10 years than it is now.
 
-回复@流火Flowing-fire: 下次拍一个发上来哈。//@流火Flowing-fire:回复@大道无形我有型:今天从深圳出发来广州长隆游玩路上，偶然拍到oppo厂房一角，车子太快，看起来很震撼的，遗憾没有拍到有oppo的logo的厂房图！//@大道无形我有型:回复@资产嘉玲: 不懂装懂了吧？！那个礼拜的put早就过期了。 苹果 我可以肯定10年后大概率还是这么厉害。其实在这里我想表达的是：我对 nvda 感兴趣。nvda确实厉害的，而且目前似乎看不到谁能对nvda有威胁。目前我没能明白的东西是：他们的这种垄断到底能持续多久？对nvda芯片的需求到底能持续多久...
+Reply to @Flowing-fire: Next time snap a photo and post it, ha. //@Flowing-fire: Reply to @Duan Yongping: Today, on the way from Shenzhen to Chimelong in Guangzhou, I happened to catch a corner of an OPPO factory building in a photo — the car was going too fast, but it looked really impressive; too bad I didn't get a shot with the OPPO logo on the building! //@Duan Yongping: Reply to @Zichan Jialing: Pretending to understand what you don't, are you?! That week's put expired long ago. Apple, I can say with confidence, will most likely still be this strong in 10 years. What I actually want to express here is: I'm interested in NVDA. NVDA really is formidable, and at the moment there doesn't seem to be anyone who can threaten it. What I still can't figure out is: how long can this kind of monopoly actually last? How long can demand for NVDA's chips actually keep up...
 
-来源：https://xueqiu.com/1247347556/286929772
+Source: https://xueqiu.com/1247347556/286929772
 
 ---
 
 ## 16. 2024-04-21 02:35
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ Truly understanding a company is genuinely hard. I didn't understand it before, and looking again now, I still don't. I can't figure out whether this company will be better or worse in 10 years than it is now.
 
-回复@没味咖喱_eth: 电动车的同质化太严重，激烈的价格战是无法避免的。如果说他是做ai的，那还真不如就投资nvda呢，反正都是赌他们的未来。关键是，我不想赌才有的今天。//@没味咖喱_eth:回复@大道无形我有型:听说大道曾经对特斯拉感兴趣过，现在可以看看不？应该比英伟达容易看懂。
+Reply to @BlandCurry_eth: EVs are too homogeneous — a fierce price war is unavoidable. If it's an AI company we're talking about, you might as well just invest in NVDA instead — either way you're betting on the future. The key thing is, it's precisely because I didn't want to gamble that I have what I have today. //@BlandCurry_eth: Reply to @Duan Yongping: I heard Duan was once interested in Tesla — can you take a look at it now? It should be easier to understand than NVIDIA.
 
-来源：https://xueqiu.com/1247347556/286964043
+Source: https://xueqiu.com/1247347556/286964043
 
 ---
 
 ## 17. 2024-08-07 22:02
 
-> 转发原文：@但斌: 1987年股灾是否正在重演？
+> Reposted from: @Dan Bin: Is the 1987 stock market crash happening again?
 
-回复@静心一品: 涨多了会跌是必然，但跌多了可未必会涨回来的。//@静心一品:回复@但斌:周期就是涨多了跌，跌多了涨。而价值投资却是忽略周期，以更长的角度和眼光看待，时间线拉长，熨平小的周期波动，去看到称重，去看到价值的增长。$苹果(AAPL)$ $英伟达(NVDA)$ 而短期，却是磨砺内心。十年后，回来看，且看这次，智慧的光芒。@大道无形我有型 @但斌
+Reply to @JingxinYipin: It's inevitable that something falls after rising too much, but it's not at all certain that something rises back after falling too much. //@JingxinYipin: Reply to @Dan Bin: Cycles are just: rise too much, then fall; fall too much, then rise. Value investing, on the other hand, looks past the cycle — it takes a longer view, stretches out the timeline, smooths over the small cyclical swings, and instead watches the weighing scale, watches the growth of value. $Apple(AAPL)$ $NVIDIA(NVDA)$ In the short term, though, it's a test that tempers the mind. Ten years from now, looking back, we'll see — this time too — the light of wisdom. @Duan Yongping @Dan Bin
 
-来源：https://xueqiu.com/1247347556/300281962
+Source: https://xueqiu.com/1247347556/300281962
 
 ---
 
 ## 18. 2024-09-22 01:42
 
-> 转发原文：@乾之元: 假设有一家公司第一年赚10000块钱，每年成长6%，中国GDP初始值为126万亿，中国GDP每年增长5%，算一算，这家公司的利润要多少年才能超过中国GDP？
+> Reposted from: @Qian Zhiyuan: Suppose a company earns 10,000 yuan in its first year and grows 6% a year, while China's GDP starts at 126 trillion yuan and grows 5% a year. Work it out: how many years would it take for this company's profit to exceed China's GDP?
 
-虽然说得不是很严谨，但潜台词这家公司就是中国公司啊，因为比较的是中国GDP。我们也可以换个简单点的说法，比如 nvda的营业额在什么增长速度下可以超过美国的GDP？
+Not the most rigorous way to put it, but the subtext is that this company is a Chinese company, since it's being compared against China's GDP. We could put it more simply another way too — for instance, at what growth rate would NVDA's revenue need to grow in order to exceed U.S. GDP?
 
-来源：https://xueqiu.com/1247347556/305231199
+Source: https://xueqiu.com/1247347556/305231199
 
 ---
 
 ## 19. 2025-02-24 23:32
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？
+What makes NVDA hard to understand isn't its short-term growth, but rather what its long-term moat actually is. NVDA will certainly still be around in 10 years, but will it still hold today's market position?
 
-来源：https://xueqiu.com/1247347556/324786104
+Source: https://xueqiu.com/1247347556/324786104
 
 ---
 
 ## 20. 2025-02-25 00:39
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@椒盐皮皮虾1688: 我没啥可解释的。我说的是我看不懂。未来算力的需求肯定是会继续增长的，算力的供应包括DS这种效率提高也大概率是会继续增长的。NVDA目前的毛利率巨高，因为各大厂都不敢不买算力。同时，各有钱的大厂肯定是不心甘一直这么高的价钱去买算力的。这么多有钱的企业搞个三五年难道还不能搞出点名堂来？总感觉NVDA的MOAT不是那么牢不可破，但这确实不是我能力圈内的东西。查看图片//@椒盐皮皮虾1688:[该内容现已无法查看]
+Reply to @SaltPepperShrimp1688: There's not much for me to explain. What I'm saying is that I don't understand it. Future demand for compute will certainly keep growing, and compute supply — including efficiency gains like DeepSeek's — will also most likely keep increasing. NVDA's gross margin is sky-high right now because none of the big players dare not buy compute. At the same time, none of these cash-rich big companies are willing to keep paying such high prices for compute forever. With so many wealthy companies working on it for three to five years, surely they can come up with something? I generally feel that NVDA's moat isn't quite as unbreakable as it seems, but this really isn't within my circle of competence. [View image] //@SaltPepperShrimp1688: [This content is no longer viewable]
 
-来源：https://xueqiu.com/1247347556/324790402
+Source: https://xueqiu.com/1247347556/324790402
 
 ---
 
 ## 21. 2025-02-25 09:35
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 图片评论 查看图片//@大道无形我有型:回复@龙猫芒格:NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？
+Reply to @Duan Yongping: [Image comment] [View image] //@Duan Yongping: Reply to @TotoroMunger: What makes NVDA hard to understand isn't its short-term growth, but rather what its long-term moat actually is. NVDA will certainly still be around in 10 years, but will it still hold today's market position?
 
-来源：https://xueqiu.com/1247347556/324814220
+Source: https://xueqiu.com/1247347556/324814220
 
 ---
 
 ## 22. 2025-02-25 09:39
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 图片评论 查看图片//@大道无形我有型:回复@龙猫芒格:NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？
+Reply to @Duan Yongping: [Image comment] [View image] //@Duan Yongping: Reply to @TotoroMunger: What makes NVDA hard to understand isn't its short-term growth, but rather what its long-term moat actually is. NVDA will certainly still be around in 10 years, but will it still hold today's market position?
 
-来源：https://xueqiu.com/1247347556/324815681
+Source: https://xueqiu.com/1247347556/324815681
 
 ---
 
 ## 23. 2025-02-26 00:00
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 我知道目前NVDA的护城河是CUDA，也知道CUDA的生态有点像苹果。我也早就看到黄说的目前别的芯片白给都比NVDA提供的方案贵，也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？特别说明一下，我在这里不是表示质疑NVDA，而是表示对NVDA有兴趣，想努力看看能不能看懂NVDA到底是不是可以成为我的投资标的。我其实跟很多业内人士聊过，甚至当面还听苏姐说过几句，但到目前为止依然一头雾水。看不懂10年真的很难下手。//@大道无形我有型:回复@龙猫芒格:NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？
+Reply to @Duan Yongping: I know that NVDA's moat right now is CUDA, and I also know that CUDA's ecosystem is a bit like Apple's. I've also long seen Jensen say that right now, other chips would be more expensive than NVDA's solution even if given away for free, and I've seen him say that compute will grow a millionfold in 10 years. But could there not be some alternative solution 10 years from now? Just to be clear, I'm not questioning NVDA here — I'm expressing interest in NVDA, and trying hard to see whether I can understand NVDA well enough for it to become one of my investments. I've actually talked with a lot of people in the industry, and even heard a few words in person from Sister Su (Lisa Su, AMD's CEO), but so far I'm still completely in the fog. If you can't understand something 10 years out, it's really hard to commit. //@Duan Yongping: Reply to @TotoroMunger: What makes NVDA hard to understand isn't its short-term growth, but rather what its long-term moat actually is. NVDA will certainly still be around in 10 years, but will it still hold today's market position?
 
-来源：https://xueqiu.com/1247347556/324961765
+Source: https://xueqiu.com/1247347556/324961765
 
 ---
 
 ## 24. 2025-02-26 09:54
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 跌到137倍pe？大概率还早着呢！//@大道无形我有型:回复@大道无形我有型:我知道目前NVDA的护城河是CUDA，也知道CUDA的生态有点像苹果。我也早就看到黄说的目前别的芯片白给都比NVDA提供的方案贵，也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？特别说明一下，我在这里不是表示质疑NVDA，而是表示对NVDA有兴趣，想努力看看能不能看懂NVDA到底是不是可以成为我的投资标的。我其实跟很多业内人士聊过，甚至当面还听苏姐说过几句，但到目前为止依然一头雾水。看不懂10年真的很难下手。
+Reply to @Duan Yongping: Fall to a 137x P/E? Most likely that's still a long way off! //@Duan Yongping: Reply to @Duan Yongping: I know that NVDA's moat right now is CUDA, and I also know that CUDA's ecosystem is a bit like Apple's. I've also long seen Jensen say that right now, other chips would be more expensive than NVDA's solution even if given away for free, and I've seen him say that compute will grow a millionfold in 10 years. But could there not be some alternative solution 10 years from now? Just to be clear, I'm not questioning NVDA here — I'm expressing interest in NVDA, and trying hard to see whether I can understand NVDA well enough for it to become one of my investments. I've actually talked with a lot of people in the industry, and even heard a few words in person from Sister Su, but so far I'm still completely in the fog. If you can't understand something 10 years out, it's really hard to commit.
 
-来源：https://xueqiu.com/1247347556/324994802
+Source: https://xueqiu.com/1247347556/324994802
 
 ---
 
 ## 25. 2025-02-26 09:56
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@白歆羽: 这个是关键！但我没看懂是不是真是那么回事。//@白歆羽:回复@龙猫芒格:deepseek不是冲击力算力问题，而是支持非cuda生态的其它厂商芯片。//@大道无形我有型: 回复@大道无形我有型: 我知道目前NVDA的护城河是CUDA，也知道CUDA的生态有点像苹果。我也早就看到黄说的目前别的芯片白给都比NVDA提供的方案贵，也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？特别说明一下，我在这里不是表示质疑NVDA，而是表示对NVDA有兴趣，想努力看看能不能看懂NVDA到底是不是可以成为我的投资标的。我其实跟很多业内人士聊过，甚至当面还听苏姐说过几句，但到目前为止依然一头雾水。看不懂10年真的很难下手。
+Reply to @Bai Xinyu: That's the key point! But I haven't understood whether that's really how it is. //@Bai Xinyu: Reply to @TotoroMunger: DeepSeek's impact isn't about compute demand — it's about supporting other vendors' chips outside the CUDA ecosystem. //@Duan Yongping: Reply to @Duan Yongping: I know that NVDA's moat right now is CUDA, and I also know that CUDA's ecosystem is a bit like Apple's. I've also long seen Jensen say that right now, other chips would be more expensive than NVDA's solution even if given away for free, and I've seen him say that compute will grow a millionfold in 10 years. But could there not be some alternative solution 10 years from now? Just to be clear, I'm not questioning NVDA here — I'm expressing interest in NVDA, and trying hard to see whether I can understand NVDA well enough for it to become one of my investments. I've actually talked with a lot of people in the industry, and even heard a few words in person from Sister Su, but so far I'm still completely in the fog. If you can't understand something 10 years out, it's really hard to commit.
 
-来源：https://xueqiu.com/1247347556/324995692
+Source: https://xueqiu.com/1247347556/324995692
 
 ---
 
 ## 26. 2025-02-27 10:37
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 尽管没完全看懂NVDA，但我还是准备开始卖点NVDA的put了。ai值得关注，NVDA其实是个很不错的公司。//@大道无形我有型:回复@龙猫芒格:NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？
+Reply to @Duan Yongping: Even though I haven't fully understood NVDA, I'm still going to start selling some NVDA puts. AI is worth paying attention to, and NVDA is actually a pretty good company. //@Duan Yongping: Reply to @TotoroMunger: What makes NVDA hard to understand isn't its short-term growth, but rather what its long-term moat actually is. NVDA will certainly still be around in 10 years, but will it still hold today's market position?
 
-来源：https://xueqiu.com/1247347556/325196615
+Source: https://xueqiu.com/1247347556/325196615
 
 ---
 
 ## 27. 2025-02-27 12:04
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@数有中心: 我关注很久了！//@数有中心:回复@龙猫芒格:英伟达火了两年，很好奇为什么大道在这个时点关注？特别DS出来后对算力的争议巨大，大道是看见了什么？//@大道无形我有型: 回复@大道无形我有型: 尽管没完全看懂NVDA，但我还是准备开始卖点NVDA的put了。ai值得关注，NVDA其实是个很不错的公司。
+Reply to @ShuYouZhongxin: I've been following it for a long time! //@ShuYouZhongxin: Reply to @TotoroMunger: NVIDIA has been hot for two years — I'm curious why Duan is paying attention at this particular moment? Especially after DeepSeek came out and stirred up huge controversy over compute demand — what has Duan seen? //@Duan Yongping: Reply to @Duan Yongping: Even though I haven't fully understood NVDA, I'm still going to start selling some NVDA puts. AI is worth paying attention to, and NVDA is actually a pretty good company.
 
-来源：https://xueqiu.com/1247347556/325225401
+Source: https://xueqiu.com/1247347556/325225401
 
 ---
 
 ## 28. 2025-02-28 08:37
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大灰爱投资: 这段话我看到过，也知道CUDA有点像苹果的生态圈，但就是没办法理解这个moat到底有多宽。大家说的都是眼前的事情，这也是NVDA芯片能够卖得这么贵的原因。另外，NVDA的自动驾驶的芯片似乎也很厉害，而且进步也很快。不管如何，我卖了点put，开始保持近距离关注，对别人没有任何指导意义。ai是非常值得关注的现象，最后未必一定要老听在NVDA上。//@大灰爱投资:回复@大道无形我有型:下面这段话是从《黄仁勋-英伟达之芯》这本书中读到的，希望对大道有帮助英伟达之所以成功，并非因为它的电路更出众，而是因为它的软件更优秀。现如今，性能的提升中仅有一小部分来源于经典策略——在芯片中塞入更多的晶体管，毕竟摩尔定律已不再适用。而其余的性能提升，则归功于比尔·戴利、伊恩·巴克以及其他英伟达的科学家们，他们通过精妙的数值计算加速了矩阵乘法。英伟达的工程师们为GPU赋予了新的指令，这些指令犹如解开魔方的诀窍。他们采用简单却高效的数据类型取代了处理器的原生语言，这好比是从书法转变为了速记。此外，他们还从矩阵中剔除了“无效”的突触，这本质上是在神经网络中清除无用信息，类似于电影《暖暖内含光》(Eternal Sunshine of the Spotless Mind)中的记忆抹除机器。2012—2022年，英伟达在单芯片AI推理性能上实现了惊人的千倍加速，这一成就远超摩尔定律以往的任何突破。其中，仅有2.5倍的加速来源于晶体管的增加，而高达400倍的加速则归功于英伟达的数学工具集。“说实话，AMD也能制造出与我们相媲美的芯片，”阿尔琼·普拉布坦言，“但他们就是无法让计算速度达到这么快。”在这个强大的引擎基础上，英伟达还为专业程序员打造了一系列特定领域的工具。例如，针对汽车研究的“Drive”、助力药物发现的“BioNeMo”、应用于医学成像的“Clara”、保障网络安全的“Morpheus”，以及在游戏《堡垒之夜》(Fortnite)中捕捉精彩击杀瞬间的“Highlights”。21世纪第二个10年，英伟达已推出了近300种此类工具包，覆盖了游戏、动画、行星科学、气候学、数学、物理学、金融、生物化学以及量子计算等多个领域的产品组合。这些软件包是免费供所有人使用的，无须支付任何许可费。黄仁勋就像一位慷慨的祖母分发食物一样，将这些软件包送到科学家们的手中。他把这些工具包称为自己的“宝藏”。当然，黄仁勋并非纯粹的利他主义者。他的长远策略是通过这些免费软件，将研究人员牢牢绑定在英伟达的硬件升级周期中。2024年初，加州理工学院数据中心的一位管理员向我透露，他们等待H100芯片交付的时间长达近18个月。他曾尝试鼓励学校的教授们转向其他供应商，但发现很少有人愿意这么做。“他们宁愿等待硬件，也不愿放弃CUDA。”他解释道。正是这些代码，使其他公司难以与英伟达抗衡。新兴公司或许能设计出新型芯片，但这还远远不够。英伟达的软件工程主管德怀特·迪克斯手下拥有一支万名程序员的庞大团队。“我们其实是一家软件公司，这才是人们不理解的地方。”他说道。
+Reply to @BigGreyLovesInvesting: I've seen this passage before, and I also know CUDA's ecosystem is a bit like Apple's, but I just can't get a handle on how wide this moat actually is. What everyone's talking about is all near-term stuff, and that's also why NVDA's chips can sell for such high prices. Also, NVDA's self-driving chips seem pretty impressive too, and they're improving fast. Regardless, I sold a few puts and I'm starting to keep it under close watch — this shouldn't be read as guidance for anyone else. AI is a phenomenon well worth paying attention to, though in the end it doesn't necessarily have to be all about NVDA. //@BigGreyLovesInvesting: Reply to @Duan Yongping: The passage below is something I read in the book *The NVIDIA Way* — I hope it's helpful for Duan. NVIDIA's success wasn't because its circuits were more brilliant — it was because its software was better. Today, only a small fraction of the performance gains come from the classic strategy of cramming more transistors into a chip, since Moore's Law no longer holds. The rest of the performance gains are owed to Bill Dally, Ian Buck, and other NVIDIA scientists, who accelerated matrix multiplication through ingenious numerical techniques. NVIDIA's engineers gave GPUs new instructions that work like tricks for solving a Rubik's Cube. They replaced the processor's native data types with simpler, more efficient ones — the equivalent of switching from formal calligraphy to shorthand. They also pruned "dead" synapses out of the matrices, essentially clearing useless information out of the neural network, much like the memory-erasing machine in the film *Eternal Sunshine of the Spotless Mind*. Between 2012 and 2022, NVIDIA achieved an astonishing thousandfold speedup in single-chip AI inference performance — a feat that far outstrips anything Moore's Law ever delivered. Of that, only a 2.5x speedup came from adding transistors, while as much as a 400x speedup is owed to NVIDIA's math toolkit. "Honestly, AMD can build chips that rival ours," Arjun Prabhu admits, "but they just can't get the computation to run this fast." On top of this powerful engine, NVIDIA has also built a suite of domain-specific tools for professional programmers — for example, "Drive" for automotive research, "BioNeMo" to aid drug discovery, "Clara" for medical imaging, "Morpheus" for cybersecurity, and "Highlights" for capturing standout kill moments in the game *Fortnite*. By the second decade of the 21st century, NVIDIA had already released nearly 300 such toolkits, spanning gaming, animation, planetary science, climatology, mathematics, physics, finance, biochemistry, quantum computing, and more. These software packages are free for anyone to use, with no license fee required. Jensen Huang hands these packages to scientists the way a generous grandmother hands out food. He calls these toolkits his own "treasure." Of course, Jensen Huang isn't a pure altruist. His long-term strategy is to use this free software to tightly bind researchers into NVIDIA's hardware upgrade cycle. In early 2024, an administrator at Caltech's data center told me they had waited nearly 18 months for their H100 chips to be delivered. He had tried to encourage the school's professors to switch to other suppliers, but found few willing to do so. "They'd rather wait for the hardware than give up CUDA," he explained. It's precisely this code that makes it so hard for other companies to compete with NVIDIA. A startup might be able to design a new kind of chip, but that alone is far from enough. Dwight Diercks, NVIDIA's head of software engineering, commands a team of ten thousand programmers. "We're actually a software company — that's the part people don't understand," he said.
 
-来源：https://xueqiu.com/1247347556/325366317
+Source: https://xueqiu.com/1247347556/325366317
 
 ---
 
 ## 29. 2025-03-02 02:21
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@A大师-懒惰的投资人: 我接受黄说的Deepseek的创新不会减少对算力的需求（其实就是算力需求会继续增长）的观点，也大致理解他认为NVDA在算力上的地位不会受到威胁的意思。查看图片//@A大师-懒惰的投资人:回复@babygirl:这是DS自己的回答(Due to technical issues, the search service is temporarily unavailable.)DeepSeek, like many AI and deep learning companies, likely relies on **Nvidias CUDA** for GPU acceleration, given its widespread adoption in the industry. Heres a breakdown of why:1. **GPU Dependency**: Training large AI models typically requires powerful GPUs. Nvidias GPUs (e.g., A100, H100) dominate this space, and CUDA is the primary platform for optimizing computations on these GPUs.2. **Frameworks and Libraries**: Popular deep learning frameworks (e.g., PyTorch, TensorFlow) are built on CUDA for GPU acceleration. Unless DeepSeek uses custom alternatives, they likely depend on these CUDA-optimized tools.3. **Cloud Infrastructure**: If DeepSeek uses cloud providers (AWS, Azure, GCP), their GPU instances are predominantly Nvidia-based, requiring CUDA for efficient computation.4. **Ecosystem Lock-In**: The deep learning ecosystem heavily favors CUDA due to compatibility with libraries (cuDNN, NCCL) and pre-trained models. Switching to alternatives like AMD ROCm would involve significant effort and potential performance trade-offs.**Exceptions**: If DeepSeek uses custom hardware (e.g., TPU-like accelerators) or prioritizes non-Nvidia solutions, they might reduce CUDA dependency. However, theres no public evidence of this.**In short**, while specific internal infrastructure details arent public, its highly probable that DeepSeek depends on CUDA for GPU-accelerated AI workloads, as do most companies in the field.
+Reply to @MasterA-LazyInvestor: I accept what Jensen says — that DeepSeek's innovation won't reduce demand for compute (in other words, compute demand will keep growing) — and I roughly understand what he means when he says NVDA's position in compute won't be threatened. [View image] //@MasterA-LazyInvestor: Reply to @babygirl: This is DeepSeek's own answer (Due to technical issues, the search service is temporarily unavailable.) DeepSeek, like many AI and deep learning companies, likely relies on **Nvidia's CUDA** for GPU acceleration, given its widespread adoption in the industry. Here's a breakdown of why: 1. **GPU Dependency**: Training large AI models typically requires powerful GPUs. Nvidia's GPUs (e.g., A100, H100) dominate this space, and CUDA is the primary platform for optimizing computations on these GPUs. 2. **Frameworks and Libraries**: Popular deep learning frameworks (e.g., PyTorch, TensorFlow) are built on CUDA for GPU acceleration. Unless DeepSeek uses custom alternatives, they likely depend on these CUDA-optimized tools. 3. **Cloud Infrastructure**: If DeepSeek uses cloud providers (AWS, Azure, GCP), their GPU instances are predominantly Nvidia-based, requiring CUDA for efficient computation. 4. **Ecosystem Lock-In**: The deep learning ecosystem heavily favors CUDA due to compatibility with libraries (cuDNN, NCCL) and pre-trained models. Switching to alternatives like AMD ROCm would involve significant effort and potential performance trade-offs. **Exceptions**: If DeepSeek uses custom hardware (e.g., TPU-like accelerators) or prioritizes non-Nvidia solutions, they might reduce CUDA dependency. However, there's no public evidence of this. **In short**, while specific internal infrastructure details aren't public, it's highly probable that DeepSeek depends on CUDA for GPU-accelerated AI workloads, as do most companies in the field.
 
-来源：https://xueqiu.com/1247347556/325595456
+Source: https://xueqiu.com/1247347556/325595456
 
 ---
 
 ## 30. 2025-03-02 03:44
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: deepseek的经验的确证明了模型预训练阶段较低的算力也可以达成比较好的训练结果。但需求这一块儿的影响比较复杂。一方面大集群的训练现在似乎也还没有到一个终点。比如Open AI和x AI,这些也都还在探索大集群的路径。另一方面Deepseek这个操作其实一下子加快了应用的普及。相当于对后训练以及对于推理这个部分的需求，它会很快的增加。所以整体上对于算力的影响可能是一个很复杂的过程。//@大道无形我有型:回复@A大师-懒惰的投资人:我接受黄说的Deepseek的创新不会减少对算力的需求（其实就是算力需求会继续增长）的观点，也大致理解他认为NVDA在算力上的地位不会受到威胁的意思。查看图片
+Reply to @Duan Yongping: DeepSeek's experience does prove that lower compute during the model pre-training phase can still achieve fairly good training results. But the demand side of this is more complicated. On one hand, training on massive clusters doesn't seem to have hit an endpoint yet — OpenAI and xAI, for instance, are still exploring the path of large-cluster training. On the other hand, this whole DeepSeek episode has actually sped up the spread of applications all at once, which means demand for post-training and for inference will increase quickly. So overall, the impact on compute demand is likely to be a fairly complicated process. //@Duan Yongping: Reply to @MasterA-LazyInvestor: I accept what Jensen says — that DeepSeek's innovation won't reduce demand for compute (in other words, compute demand will keep growing) — and I roughly understand what he means when he says NVDA's position in compute won't be threatened. [View image]
 
-来源：https://xueqiu.com/1247347556/325595896
+Source: https://xueqiu.com/1247347556/325595896
 
 ---
 
 ## 31. 2025-03-02 03:47
 
-> 转发原文：@龙猫芒格: 
+> Reposted from: @TotoroMunger:
 
-回复@大道无形我有型: 突然想到需要说明一下，苏姐是大家的叫法，其实她比我年轻很多。她能把AMD从那么深的坑里带出来是非常了不起的，最后能到哪里我没概念。//@大道无形我有型:回复@大道无形我有型:我知道目前NVDA的护城河是CUDA，也知道CUDA的生态有点像苹果。我也早就看到黄说的目前别的芯片白给都比NVDA提供的方案贵，也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？特别说明一下，我在这里不是表示质疑NVDA，而是表示对NVDA有兴趣，想努力看看能不能看懂NVDA到底是不是可以成为我的投资标的。我其实跟很多业内人士聊过，甚至当面还听苏姐说过几句，但到目前为止依然一头雾水。看不懂10年真的很难下手。
+Reply to @Duan Yongping: It just occurred to me that I should clarify — "Sister Su" is just what everyone calls her; she's actually much younger than I am. What she's done, pulling AMD out of such a deep hole, is genuinely remarkable — where it ends up, I have no idea. //@Duan Yongping: Reply to @Duan Yongping: I know that NVDA's moat right now is CUDA, and I also know that CUDA's ecosystem is a bit like Apple's. I've also long seen Jensen say that right now, other chips would be more expensive than NVDA's solution even if given away for free, and I've seen him say that compute will grow a millionfold in 10 years. But could there not be some alternative solution 10 years from now? Just to be clear, I'm not questioning NVDA here — I'm expressing interest in NVDA, and trying hard to see whether I can understand NVDA well enough for it to become one of my investments. I've actually talked with a lot of people in the industry, and even heard a few words in person from Sister Su, but so far I'm still completely in the fog. If you can't understand something 10 years out, it's really hard to commit.
 
-来源：https://xueqiu.com/1247347556/325595911
+Source: https://xueqiu.com/1247347556/325595911
 
 ---
 
 ## 32. 2025-03-03 23:43
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@公开的股价影子: 还没有直接买，但卖了一点put而已。今天会再卖一点。//@公开的股价影子:回复@帕迪沙阿:段已经在买英伟达了
+Reply to @PublicStockPriceShadow: Haven't bought outright yet, just sold a bit of puts. I'll sell a bit more today. //@PublicStockPriceShadow: Reply to @Padishah: Duan is already buying NVIDIA.
 
-来源：https://xueqiu.com/1247347556/325803007
+Source: https://xueqiu.com/1247347556/325803007
 
 ---
 
 ## 33. 2025-03-04 05:01
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@帕迪沙阿: 重在参或。查看图片//@帕迪沙阿:回复@但斌:这是什么奇怪的理论，产品消耗速度和财务周期有什么必然关系吗？煤炭天然气被消耗掉了，周期性不是很强吗？医疗和科研设备是长期资产，它们的股票却没什么周期性，英伟达的芯片被消耗的时间周期恐怕和苹果手机差不多吧，说明苹果也是周期？
+Reply to @Padishah: What matters is taking part. [View image] //@Padishah: Reply to @Dan Bin: What kind of strange theory is this? Is there really a necessary relationship between how fast a product gets consumed and its financial cycle? Coal and natural gas get consumed too — isn't their cyclicality quite strong? Medical and research equipment are long-lived assets, yet their stocks show hardly any cyclicality. NVIDIA's chips probably get consumed on roughly the same timeframe as an iPhone — does that mean Apple is cyclical too?
 
-来源：https://xueqiu.com/1247347556/325811739
+Source: https://xueqiu.com/1247347556/325811739
 
 ---
 
 ## 34. 2025-03-04 11:39
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@巴米吃米: 苹果价钱好我当然会选择苹果，毕竟我更理解。//@巴米吃米:回复@大道无形我有型:苹果价格有掉下来，估计大道还是会选择苹果，苹果的moat比英伟达宽吧
+Reply to @BamiEatsRice: If Apple's price is good, of course I'd choose Apple — after all, I understand it better. //@BamiEatsRice: Reply to @Duan Yongping: If Apple's price were to drop, I'd guess Duan would still choose Apple — Apple's moat is wider than NVIDIA's, isn't it?
 
-来源：https://xueqiu.com/1247347556/325865997
+Source: https://xueqiu.com/1247347556/325865997
 
 ---
 
 ## 35. 2025-03-05 09:09
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@价值投资是根本: 算力可以重复用的说法也许不是那么准确。如果算力真的像Jason 黄说的那样10年100万倍，你算算会是什么情况？//@价值投资是根本:回复@但斌:一方面算力可以重复用，另一方面计算性能还可以大幅增加，尤其谁也不知道量子计算到底有多大的威力。但是可以肯定的是，未来的算力需求量一定会非常之巨大，人形机器人，可穿戴产品，无人机，自动驾驶汽车等等。唯一不知道的就是算力的核心技术究竟在哪家公司。只是目前知道英伟达技术最牛。十年之后呢，没人知道。//@大道无形我有型:回复@巴米吃米: 苹果价钱好我当然会选择苹果，毕竟我更理解。
+Reply to @ValueInvestingIsFundamental: The claim that compute can be reused might not be entirely accurate. If compute really does grow a millionfold in 10 years the way Jensen Huang says, work it out — what would that look like? //@ValueInvestingIsFundamental: Reply to @Dan Bin: On one hand, compute can be reused; on the other hand, computing performance can still increase enormously — especially since nobody knows just how powerful quantum computing might turn out to be. But one thing is certain: future demand for compute will be enormous — humanoid robots, wearables, drones, self-driving cars, and so on. The only unknown is which company will actually hold the core technology for compute. All we know right now is that NVIDIA's technology is the best. Ten years from now? Nobody knows. //@Duan Yongping: Reply to @BamiEatsRice: If Apple's price is good, of course I'd choose Apple — after all, I understand it better.
 
-来源：https://xueqiu.com/1247347556/325992163
+Source: https://xueqiu.com/1247347556/325992163
 
 ---
 
 ## 36. 2025-03-05 09:20
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@敬意的存钱剑圣: 加关税其实就是变相给老百姓加税，别的都没啥影响。//@敬意的存钱剑圣:回复@但斌:美国加关税对拼多多这类出海企业利空多大？您怎么看特朗普的关税政策//@大道无形我有型:回复@巴米吃米: 苹果价钱好我当然会选择苹果，毕竟我更理解。//@巴米吃米:回复@大道无形我有型:苹果价格有掉下来，估计大道还是会选择苹果，苹果的moat比英伟达宽吧
+Reply to @ThriftySwordSaint: Raising tariffs is really just a disguised tax increase on ordinary people — nothing else about it matters much. //@ThriftySwordSaint: Reply to @Dan Bin: How much of a headwind is the U.S. tariff hike for companies like Pinduoduo that are expanding overseas? What's your view of Trump's tariff policy? //@Duan Yongping: Reply to @BamiEatsRice: If Apple's price is good, of course I'd choose Apple — after all, I understand it better. //@BamiEatsRice: Reply to @Duan Yongping: If Apple's price were to drop, I'd guess Duan would still choose Apple — Apple's moat is wider than NVIDIA's, isn't it?
 
-来源：https://xueqiu.com/1247347556/325994043
+Source: https://xueqiu.com/1247347556/325994043
 
 ---
 
 ## 37. 2025-03-05 09:28
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@鑫财盈: 你大概率不如我了解NVDA。//@鑫财盈:回复@但斌:苹果和英伟达芯片虽然同为耐用消费品，苹果给人带来了消费满足和快乐，英伟达给企业带来了“高额的成本”，虽然各大互联网巨头排队购买，心里也有一万个……（自己想）10年前排队购买到苹果的消费者那是多么的开心😁，英伟达呢？所以10年后英伟达虽然大概率还在，但是未必还有这么舒服的赚钱，20，30年后会不会被颠覆又有谁知道呢？黄老板也未必看的那么清楚…，巴菲特不投微软是因为看不懂…但是哪有绝对的技术垄断……，茅台，LV心智垄断看似能走的更远。//@大道无形我有型: 回复@巴米吃米: 苹果价钱好我当然会选择苹果，毕竟我更理解。
+Reply to @Xin Caiying: You most likely understand NVDA less well than I do. //@Xin Caiying: Reply to @Dan Bin: Even though Apple's and NVIDIA's chips are both durable goods, Apple brings people consumer satisfaction and happiness, while NVIDIA brings companies "sky-high costs" — even though all the big internet giants line up to buy, in their hearts they've probably got ten thousand complaints (use your imagination). Ten years ago, consumers who lined up to buy an Apple product were so happy, 😁 — what about NVIDIA's customers? So even though NVIDIA will most likely still be around in 10 years, it may not be making money this comfortably anymore. Twenty or thirty years from now, will it get disrupted? Who knows. Even Jensen himself may not see it that clearly... Buffett didn't invest in Microsoft because he didn't understand it... but where is there ever an absolute technology monopoly?... Moutai and LV, with their monopolies on the mind, seem able to go further. //@Duan Yongping: Reply to @BamiEatsRice: If Apple's price is good, of course I'd choose Apple — after all, I understand it better.
 
-来源：https://xueqiu.com/1247347556/325995561
+Source: https://xueqiu.com/1247347556/325995561
 
 ---
 
 ## 38. 2025-03-05 11:40
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted from: @Dan Bin: A thought from my colleague Huang Haiping: I've been thinking about a question — NVIDIA's cyclicality doesn't come from its "to-B" nature or its being a "non-platform," but rather from the fact that it's fundamentally a "capital good"/"durable good." If a company's product is a repeatedly-consumed "fast-consumption good," demand tends to be relatively stable — think food and beverages, online gaming, coal. But if a company's product is a "capital good"/"durable good," downstream demand tends to swing wildly because the product can be reused. So when we apply the Jevons paradox to compute, there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases genuinely do expand, and total demand for compute rises sharply as a result. But here's the difference: coal is a resource consumed once, while compute is a reusable resource. Even if total annual compute demand rises sharply, demand for the AI chips that produce that compute could actually decline! Put simply, because of its "reusable capital good" nature, NVIDIA's product revenue is the "second derivative" of AI demand, and its revenue growth rate is the "third derivative." So NVIDIA's cyclical volatility is bound to be very large, even while AI compute demand keeps growing overall. Note: personal opinion, for reference only! Investing carries risk — proceed with caution!
 
-回复@freedy: 谢谢！I knew that!//@freedy:回复@但斌:大道，用了oppo find N5,非常惊艳，超薄又续航，折痕也一流~！//@大道无形我有型:回复@鑫财盈: 你大概率不如我了解NVDA。
+Reply to @freedy: Thanks! I knew that! //@freedy: Reply to @Dan Bin: Duan, I've been using the OPPO Find N5 — really impressive, super thin with great battery life, and the crease is top-notch too! //@Duan Yongping: Reply to @Xin Caiying: You most likely understand NVDA less well than I do.
 
-来源：https://xueqiu.com/1247347556/326032998
+Source: https://xueqiu.com/1247347556/326032998
 
 ---
 
 ## 39. 2025-03-08 09:36
 
-> 转发原文：@该用户已删除: 原帖已被作者删除
+> Reposted from: @[deleted user]: The original post has been deleted by its author
 
-回复@呆呆美股挖掘: to C的生意容易理解，因为你能直接看到产品，to B有点难，除非你刚好是使用者。nvda的moat到底有多强我还不是非常确定，但至少知道他目前还是非常强的。TSMC和微软都是很厉害的to B的公司，我后知后觉了。//@呆呆美股挖掘:回复@闪闪发光的小星星:请教一下大道，您和巴菲特买 toC公司比较多，对于toB，尤其是to大B的nvda和tsm，在识别其商业模式和护城河上有什么差别么？@大道无形我有型 //@大道无形我有型: TSMC的商业模式和企业文化都很强。it’s not for fun.
+Reply to @USStockDigger: To-C businesses are easy to understand, because you can see the product directly; to-B is a bit harder, unless you happen to be a user of it yourself. I'm still not entirely sure just how strong NVDA's moat is, but I do know that right now it's still very strong. TSMC and Microsoft are both formidable to-B companies — I was slow to catch on to that. //@USStockDigger: Reply to @TwinklingLittleStar: I'd like to ask Duan — you and Buffett have bought mostly to-C companies. For to-B, especially companies serving big B customers like NVDA and TSM, is there a difference in how you identify their business model and moat? @Duan Yongping //@Duan Yongping: TSMC's business model and corporate culture are both very strong. It's not for fun.
 
-来源：https://xueqiu.com/1247347556/326503392
+Source: https://xueqiu.com/1247347556/326503392
 
 ---
 
 ## 40. 2025-03-11 09:12
 
-> 转发原文：@知觉的金融小善良: 大道，你上次在浙大访谈提到跟巴菲特说过买苹果的逻辑，你有没有和他说过茅台的逻辑呢？要是老巴真听了你的分析且买入茅台，那就真的算是在他投资生涯的最后阶段给a股价值投资者带来曙光了@大道无形我有型
+> Reposted from: @PerceptiveFinanceKindness: Duan, in your interview at Zhejiang University last time you mentioned telling Buffett the logic behind buying Apple — did you ever tell him the logic behind Moutai? If old Buffett really listened to your analysis and bought Moutai, that would truly count as bringing a ray of dawn to A-share value investors at the very end of his investing career. @Duan Yongping
 
-回复@四海游骑兵: 需要每天问吗？话说回来，如果美国再这么掉个几次，选择面就大了。上午打完球回来看到泡泡开始破还是蛮高兴滴。nvda我确实有兴趣的，掉得越多兴趣会越大。也许等子弹再飞会儿，也许明天就再下手？我打算明天早上算一卦再说。//@四海游骑兵:[该内容已被作者删除]
+Reply to @FourSeasRanger: Do I need to be asked this every day? That said, if the U.S. market keeps dropping like this a few more times, there'll be more to choose from. I came back from playing golf this morning and was quite pleased to see the bubble starting to pop. I really am interested in NVDA — the more it drops, the more interested I get. Maybe I'll let the dust settle a bit longer, or maybe I'll move again tomorrow? I think I'll cast a divination in the morning and decide. //@FourSeasRanger: [This content has been deleted by the author]
 
-来源：https://xueqiu.com/1247347556/326782727
+Source: https://xueqiu.com/1247347556/326782727
 
 ---
 
 ## 41. 2025-03-19 01:59
 
-$英伟达(NVDA)$92.5买入NVDA了，不过要延迟一年交货。
+$NVIDIA(NVDA)$ Bought NVDA at 92.5, though delivery is delayed by a year.
 
-来源：https://xueqiu.com/1247347556/327920881
+Source: https://xueqiu.com/1247347556/327920881
 
 ---
 
 ## 42. 2025-03-19 08:11
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$92.5买入NVDA了，不过要延迟一年交货。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ Bought NVDA at 92.5, though delivery is delayed by a year.
 
-回复@诚明阁: 你是算数有问题还是忘了戴眼镜了？自己不懂的东西最好不要去judge别人。//@诚明阁:回复@大道无形我有型:[已修改]@大道无形我有型 怎么感觉这样不太符合要长期持有一家公司的意思啊。只是一种套利？用每股92.5美元的价格，短期内最高获取大概3.2美元+24.3美元的收益？如果英伟达一年内没有涨到120美元，能长期以92.5的成本持有；如果英伟达短期内涨过了120美元，就能获得3.2美元+24.3美元的固定收益。这是在赌英伟达一年内不会涨到120美元？
+Reply to @ChengmingPavilion: Is your math off, or did you forget to put your glasses on? It's best not to judge things you don't understand yourself. //@ChengmingPavilion: Reply to @Duan Yongping: [edited] @Duan Yongping, somehow this doesn't feel like it fits the idea of holding a company for the long term — isn't this just a form of arbitrage? At a price of $92.5 per share, the maximum near-term gain would be roughly $3.2 plus $24.3? If NVIDIA doesn't rise to $120 within a year, you can hold long-term at a cost basis of 92.5; if NVIDIA rises above $120 in the near term, you'd lock in a fixed gain of $3.2 plus $24.3. Is this a bet that NVIDIA won't rise to $120 within a year?
 
-来源：https://xueqiu.com/1247347556/327931456
+Source: https://xueqiu.com/1247347556/327931456
 
 ---
 
 ## 43. 2025-03-19 13:14
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$92.5买入NVDA了，不过要延迟一年交货。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ Bought NVDA at 92.5, though delivery is delayed by a year.
 
-回复@价投践行者晓荣: 你不是不熟悉，你压根就没概念！//@价投践行者晓荣:回复@大道无形我有型:回复@诚明阁: 其实美股这些金融工具我也不是很熟悉，但大道的意图是很明确的，他认为目前这个价格比较贵不太可能涨，他认为涨过120的概率不大，他愿意用92.52买入英伟达股票，只不过要合约到期时候或者跌倒了他才能拿到这个价格的股票。这个合约大概是备兑认购策略。合约上看，他116.76买入了100000股英伟达正股，如果涨超过120，他们他用116买的正股给别人行权，他还赚个差价，如果没涨到，他赚权益金。如果跌倒了92，他用合约直接平仓，赚取差价，正股保留，相当于正股的成本我为92.52左右。对于价值投资者，如果你要做相关交易，就去研究相关工具的说明和介绍，但最应该懂得得东西，是你觉得多少这个公司多少钱买你觉得OK，比如这里，大道愿意用92买。如果A股也有人叫嚣看空茅台到1000元且真愿意操作，有类似工具，我现在也愿意用这类工具买入1000元的茅台。我得理解大致就是这么个意思。 //@大道无形我有型:你是算数有问题还是忘了戴眼镜了？自己不懂的东西最好不要去judge别人。
+Reply to @ValueInvestor_Xiaorong: It's not that you're unfamiliar with it — you have no concept of it at all! //@ValueInvestor_Xiaorong: Reply to @Duan Yongping: Reply to @ChengmingPavilion: Honestly, I'm not that familiar with these U.S. stock market financial instruments either, but Duan's intent is quite clear: he believes the current price is fairly expensive and unlikely to rise much further; he thinks the odds of it rising above 120 aren't high; he's willing to buy NVIDIA stock at 92.52, except he'll only get the stock at that price once the contract expires or the price falls. This contract looks roughly like a covered-call-style strategy. Looking at the contract, he bought 100,000 shares of NVIDIA common stock at 116.76; if the price rises above 120, the shares he bought at 116 get exercised away to the counterparty, and he still pockets the spread; if it doesn't rise that far, he keeps the premium. If it falls to 92, he closes the contract directly and captures the spread while keeping the underlying shares — which puts his effective cost basis on the shares at around 92.52. For value investors, if you want to trade instruments like this, go study the documentation and mechanics of the instrument — but the thing you most need to understand is simply: at what price do you think this company is worth buying? In this case, for instance, Duan is willing to buy at 92. If someone in the A-share market were shouting that they're bearish on Moutai down to 1,000 yuan and were genuinely willing to act on it, and a similar instrument existed, I too would be willing to use such an instrument to buy Moutai at 1,000 yuan. That's roughly how I understand it. //@Duan Yongping: Is your math off, or did you forget to put your glasses on? It's best not to judge things you don't understand yourself.
 
-来源：https://xueqiu.com/1247347556/327996842
+Source: https://xueqiu.com/1247347556/327996842
 
 ---
 
 ## 44. 2025-03-25 09:09
 
-> 转发原文：@岑阿芊: 
+> Reposted from: @Cen Aqian:
 
-你解释的太复杂了。其实很简单：92.5一股买入，如果到期日那天涨到120块就被卖掉了，不然就拿着。卖掉的结果是赚了27.5/股，29.7%/年。我没啥不满意的。这里最关键的是92.5这个价格是否够便宜，这个完全取决于投资者对这家公司生意的理解。我个人觉得NVDA这家公司其实很厉害，这个价钱我敢拿着，但29.7%的年回报率我也接受。我对投资的期待值大概12-15%我就可以满意了，29.7%的年回报我是完全可以接受的。
+You've made the explanation far too complicated. It's actually simple: buy in at 92.5 a share; if it rises to 120 by the expiration date, the shares get called away; otherwise you keep holding. If they get called away, the result is a gain of 27.5/share, or 29.7% a year. I have nothing to complain about here. The key thing here is whether 92.5 is cheap enough as a price, and that comes down entirely to the investor's understanding of this company's business. Personally, I think NVDA is actually a formidable company — I'd be comfortable holding it at this price, but I'm also happy to accept a 29.7% annual return. My own expectation for investment returns is around 12-15%, so a 29.7% annual return is entirely acceptable to me.
 
-来源：https://xueqiu.com/1247347556/328728914
+Source: https://xueqiu.com/1247347556/328728914
 
 ---
 
 ## 45. 2025-03-26 09:41
 
-> 转发原文：@坦白的涨停小风车屋: 请问这就看懂了是嘛@大道无形我有型
+> Reposted from: @LimitUpWindmillHouse: So does this mean you've figured it out now? @Duan Yongping
 
-不能说完全看懂了，但确实觉得NVDA的护城河有点厉害。看着这肯定是个不错的公司啊，买点大概率也是会赚钱的。what’s your problem? （这句话是玩笑，有人能看懂这个梗吗？）
+I can't say I've fully figured it out, but I really do think NVDA's moat is pretty impressive. Looking at it, this is definitely a solid company — buying some will most likely make money too. What's your problem? (That last line is a joke — can anyone catch the reference?)
 
-来源：https://xueqiu.com/1247347556/328902903
+Source: https://xueqiu.com/1247347556/328902903
 
 ---
 
 ## 46. 2025-03-26 10:40
 
-> 转发原文：@坦白的涨停小风车屋: 请问这就看懂了是嘛@大道无形我有型
+> Reposted from: @LimitUpWindmillHouse: So does this mean you've figured it out now? @Duan Yongping
 
-回复@大道无形我有型: 你厉害！//@大道无形我有型:回复@坦白的涨停小风车屋:不能说完全看懂了，但确实觉得NVDA的护城河有点厉害。看着这肯定是个不错的公司啊，买点大概率也是会赚钱的。what’s your problem? （这句话是玩笑，有人能看懂这个梗吗？）
+Reply to @Duan Yongping: You're the best! //@Duan Yongping: Reply to @LimitUpWindmillHouse: I can't say I've fully figured it out, but I really do think NVDA's moat is pretty impressive. Looking at it, this is definitely a solid company — buying some will most likely make money too. What's your problem? (That last line is a joke — can anyone catch the reference?)
 
-来源：https://xueqiu.com/1247347556/328920627
+Source: https://xueqiu.com/1247347556/328920627
 
 ---
 
 ## 47. 2025-04-02 09:30
 
-> 转发原文：@南国晨峰: Apples $1B Nvidia deal signals major AI strategy shiftHeres everything you need to know:$苹果(AAPL)$ $英伟达(NVDA)$→ Apple placing massive $1B order for Nvidias advanced servers→ Partnering with Dell and Super Micro for first generative AI infrastructure→ Purchase includes 250 Nvidia GB300 NVL72 systems→ Each server costs between $3.7-4M→ Dell and Super Micro serving as key server partners→ First major external AI infrastructure investment→ Response to slow progress in Apples own AI chip development→ Follows delays to planned AI-powered Siri upgrades→ Comes amid internal AI team restructuringThis billion-dollar investment signals Apples acknowledgment that it needs serious external computing power to compete after staying on the sidelines while competitors raced ahead with AI data center development.
+> Reposted from: @SouthlandMorningPeak: Apple's $1B Nvidia deal signals major AI strategy shift. Here's everything you need to know: $Apple(AAPL)$ $NVIDIA(NVDA)$ → Apple placing massive $1B order for Nvidia's advanced servers → Partnering with Dell and Super Micro for first generative AI infrastructure → Purchase includes 250 Nvidia GB300 NVL72 systems → Each server costs between $3.7-4M → Dell and Super Micro serving as key server partners → First major external AI infrastructure investment → Response to slow progress in Apple's own AI chip development → Follows delays to planned AI-powered Siri upgrades → Comes amid internal AI team restructuring. This billion-dollar investment signals Apple's acknowledgment that it needs serious external computing power to compete after staying on the sidelines while competitors raced ahead with AI data center development.
 
-think different 不意味着非要和别人不一样的。在NVDA上是可以一样的。
+"Think different" doesn't mean you have to be different from everyone else no matter what. On NVDA, it's fine to be the same as everyone else.
 
-来源：https://xueqiu.com/1247347556/329871239
+Source: https://xueqiu.com/1247347556/329871239
 
 ---
 
 ## 48. 2025-04-08 06:09
 
-$苹果(AAPL)$山也还是那座山，梁也还是那道梁！今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。
+$Apple(AAPL)$ The mountain is still the same mountain, the ridge is still the same ridge! Starting today I bought some (or sold puts on) Apple, NVDA, GOOG, TSM — and I'll sell some Tencent puts in a bit too.
 
-来源：https://xueqiu.com/1247347556/330644045
+Source: https://xueqiu.com/1247347556/330644045
 
 ---
 
 ## 49. 2025-07-18 10:39
 
-> 转发原文：@更健康更本分: 段哥，我今年31岁了，在过去的挺长一段时间里，我几乎把你的东西都读了一遍，包括问答录，采访雪球的发言。我看的挺认真。这些东西很吸引我，我感觉那已经变成了我的一部分。非常感谢您愿意分享。我能感觉到您的话里始终包含理性思考的东西。我直觉觉得，那就是对的。在读你的东西时候我时常在思考，如果你不是一个富人，你是一个普通的大学老师我听了你的发言我是什么感觉。我会依然觉得那是正确的，并且成为你的粉丝。我目前在等茅台在便宜一点点，(我知道择时可能不对)，准备把闲钱大概还可以买10手茅台都放进去，(我自己的钱，自负盈亏)，毕竟便宜一点可以多点茅台的股，但我很明白跟商业模式好的公司一直站在一起的感觉。总结其实是一句话叫，买点好公司，一直拿着。最近自己的生意进入迷茫期，没啥事在书里和大道对对话，心里能平静点。希望我有一天不像你那么有钱，但是有你脑袋里的智慧。谢谢您@大道无形我有型
+> Reposted from: @HealthierMoreGrounded: Duan, I'm 31 this year. Over quite a long stretch of time, I've read through almost everything of yours — including the Q&A collections and your Xueqiu interviews and remarks. I've read them carefully. This material has really drawn me in, and I feel it's become part of who I am. Thank you so much for being willing to share it. I can feel that there's always something rational running through your words. My gut tells me that's the right way to think. While reading your writing, I often find myself wondering: if you weren't wealthy, if you were just an ordinary university teacher, how would I feel hearing your remarks? I think I'd still believe they were correct, and I'd still become your fan. Right now I'm waiting for Moutai to get a little bit cheaper (I know the timing might be wrong), and I'm planning to put my spare cash — enough to buy roughly 10 lots of Moutai — into it (this is my own money, my own gains and losses to bear). After all, the cheaper it is, the more Moutai shares I can get, but I clearly understand the feeling of standing alongside a company with a good business model for the long haul. To sum it up in one line: buy some good companies, and hold on to them. My own business has recently entered a period of confusion, and with nothing else to do, I have conversations with Duan through his books, which helps calm my mind. I hope that one day I won't be as rich as you, but I'll have the wisdom that's in your head. Thank you. @Duan Yongping
 
-回复@一个茅台小股东: 你看错了？大道说的是大概率比存银行合算，不是便宜的意思。万一你买了五年前的nvda的话，你要多赚很多的，如果你买了还居然拿住了的话。//@一个茅台小股东:回复@更健康更本分:大道一直说：现在买茅台，10年后再看肯定是便宜的。我看大家真的不相信这个，不然也不会有人整天问来问去。
+Reply to @ASmallMoutaiShareholder: Did you read it wrong? What Duan said was that it's most likely a better deal than putting money in the bank — not that it's cheap. If you'd bought NVDA five years ago, you'd have made a lot more — that is, if you actually bought it and managed to hold on to it. //@ASmallMoutaiShareholder: Reply to @HealthierMoreGrounded: Duan has always said: buy Moutai now, and looking back 10 years from now, it will certainly have been cheap. I see that people really don't believe this, otherwise nobody would keep asking about it over and over.
 
-来源：https://xueqiu.com/1247347556/343071641
+Source: https://xueqiu.com/1247347556/343071641
 
 ---
 
 ## 50. 2025-09-18 14:22
 
-> 转发原文：@企业家思维做投资: 大道好，我感觉我现在在价值投资的门口，对投资和投机的理解还有一些疑惑，希望您能指点。最近我在美团出财报之前买入了一些，我的理由是美团在这次外卖大战中不会输，我2014年左右在淘点点和口碑干过，我认为美团多方面都更强。我的问题是，我这种认为阿里不能赢美团而买美团，是投资还是投机？@大道无形我有型
+> Reposted from: @EntrepreneurMindsetInvesting: Hi Duan, I feel like I'm currently standing at the doorway of value investing, and I still have some confusion about the distinction between investing and speculating — I hope you can offer some guidance. Recently I bought some Meituan shares just before its earnings release; my reasoning was that Meituan won't lose this round of the food-delivery war. I worked at Taodiandian and Koubei around 2014, and I think Meituan is stronger in many respects. My question is: does buying Meituan because I believe Alibaba can't beat it count as investing or speculating? @Duan Yongping
 
-回复@良性增长: 问的都是投机，投资的人自己就默默地投了。//@良性增长:回复@大道无形我有型:大道老师 现在投资英伟达是投资还是投机
+Reply to @HealthyGrowth: Anyone who asks is speculating — people who are actually investing just quietly go do it. //@HealthyGrowth: Reply to @Duan Yongping: Teacher Duan, is investing in NVIDIA right now investing or speculating?
 
-来源：https://xueqiu.com/1247347556/353288478
+Source: https://xueqiu.com/1247347556/353288478
 
 ---
 
 ## 51. 2025-10-06 01:48
 
-> 转发原文：@RW24: @大道无形我有型 段总，关于您坚持投资好的商业模式和有护城河有定价权的公司，在这波 AI 浪潮下，现在的英伟达是不是还是一个好的投资标的呢，我个人观点觉得它商业模式是卖硬件本身，但所拥有的CUDA 生态，可以涨价但没有涨价的选择，以及持续加深和上下游企业合作投资来加深绑定和建立生态的操作，是不是满足您所说的值得长期投资的公司的条件呢，尽管现在可能已经并不是好的价格了
+> Reposted from: @RW24: @Duan Yongping Mr. Duan, regarding your commitment to investing in companies with good business models, moats, and pricing power — under this wave of AI, is today's NVIDIA still a good investment target? My own view is that its business model is selling hardware itself, but the CUDA ecosystem it owns lets it raise prices while choosing not to, and it keeps deepening its ties and building its ecosystem through ongoing investment and cooperation with upstream and downstream companies. Does that satisfy the conditions you've described for a company worth investing in long-term? Even though the price right now may no longer be a good one.
 
-我确实多少投了点nvda……
+I have indeed put some money into NVDA...
 
-来源：https://xueqiu.com/1247347556/355504275
+Source: https://xueqiu.com/1247347556/355504275
 
 ---
 
 ## 52. 2025-10-18 13:51
 
-> 转发原文：@野鸽耳: @大道无形我有型 大道，您怎么看目前热议的人工智能泡沫？您觉得目前到底是不是已经有很高的泡沫存在了？
+> Reposted from: @WildDoveEar: @Duan Yongping Duan, what's your view of the AI bubble that everyone's been debating? Do you think there's actually a big bubble in place right now?
 
-你的泡沫的定义是什么？nvda是泡沫还是ChatGPT是泡沫？现在跟ai粘上一点关系的东西都乱涨一气，这些公司很可能90%最后都会完蛋的。但是，那些没完蛋的很可能就是下一个Google，amazon……。ai在改变世界是不争的事实，对吧？！that’s a fact!
+What's your definition of a bubble? Is NVDA the bubble, or is ChatGPT the bubble? Right now anything that has even the slightest connection to AI is rallying wildly, and 90% of these companies will very likely end up going bust in the end. But the ones that don't go bust could well turn out to be the next Google, the next Amazon... AI changing the world is an indisputable fact, right?! That's a fact!
 
-来源：https://xueqiu.com/1247347556/357234137
+Source: https://xueqiu.com/1247347556/357234137
 
 ---
 
 ## 53. 2025-11-22 11:46
 
-> 转发原文：@goneaway: @大道无形我有型 大道您好，雪球的第一条评论献给您^_^ 刚看完您在雪球的直播采访。您说不怎么喜欢马斯克的品行，给钱也不想和他做朋友，可以具体说说为什么吗？还有您说买了特斯拉之后他们的服务您有好多没那么满意的东西，也可以展开说说吗？
+> Reposted from: @goneaway: @Duan Yongping Hi Duan, my very first comment on Xueqiu goes to you ^_^ I just finished watching your live-streamed Xueqiu interview. You said you don't much like Elon Musk's character, and that you wouldn't want to be his friend even for money — could you say more about why? Also, you said that after buying Tesla, there were quite a few things about their service you weren't so satisfied with — could you elaborate on that too?
 
-回复@饕餮和汉堡: 你说啥？！我不觉得nvda是泡沫，我会一直卖put的。我很开心那些大空头成了我的客户，我会很乐意收他们的保费的。我确实说过我要在Brk里面躲一会儿牛市，现在似乎可以出来了哈。//@饕餮和汉堡:回复@goneaway:段总减了4成因伟达，和苹果部分买老爸股➕5成，就是减仓了，老巴股算现金呀
+Reply to @TaotieAndHamburger: What are you talking about?! I don't think NVDA is a bubble — I'll keep selling puts. I'm quite happy that all those big short-sellers have become my customers; I'm perfectly happy collecting their premiums. I did say I wanted to hide out in Berkshire for a while during the bull market, and it seems like I can come back out now, ha. //@TaotieAndHamburger: Reply to @goneaway: Mr. Duan trimmed NVIDIA by 40%, and moved part of his Apple position plus another 50% into old Buffett's stock — meaning he cut his position overall, since old Buffett's stock counts as cash.
 
-来源：https://xueqiu.com/1247347556/362793225
+Source: https://xueqiu.com/1247347556/362793225
 
 ---
 
 ## 54. 2025-12-05 00:34
 
-> 转发原文：@花20172017: @大道无形我有型 段总，最近读您过去对苹果和腾讯的分析，强调护城河与未来现金流的可预测性。对于英伟达，市场现在把它视为AI时代‘卖铲子的垄断者’，但您曾提过‘火到烫手的地方要小心’。如果从10年后的现金流折现视角看，您会如何评估它的护城河深度？比如：1. 其硬件迭代速度和生态依赖（如CUDA）是否可能像当年的英特尔或思科一样，面临技术颠覆或客户自研风险？2. 在估值已反映极大乐观预期的状态下，您会用什么‘简单标准’判断它是否属于‘能懂’的生意？还是说这类高变化行业本质上不符合‘持有等于拥有公司’的前提？
+> Reposted from: @Flower20172017: @Duan Yongping Mr. Duan, I've recently been reading your past analyses of Apple and Tencent, which emphasize the moat and the predictability of future cash flows. As for NVIDIA, the market now views it as the AI era's "monopoly pick-and-shovel seller," but you've also said before that "you need to be careful in places that are red-hot." Looking at it from the standpoint of a 10-year-out discounted cash flow view, how would you assess the depth of its moat? For instance: 1. Could its pace of hardware iteration and ecosystem dependence (such as CUDA) end up like Intel's or Cisco's back in the day, facing the risk of technological disruption or customers building their own in-house chips? 2. With the valuation already reflecting extremely optimistic expectations, what "simple standard" would you use to judge whether it's a business you can "understand"? Or is it that this kind of fast-changing industry is fundamentally incompatible with the premise that "holding the stock equals owning the company"?
 
-NVDA供不应求的情况应该还会持续一段时间，看上去几年内似乎还没有真的替代品。但在所有巨头的冲击下，会不会被人突破可不好说。当然，TPU这种隐性替代已经开始了，只是威胁不大而已。ai能带来的变化真的可能非常大，现在也许只是刚刚开始而已。
+The situation where demand for NVDA outstrips supply should continue for a while longer — over the next few years there doesn't yet seem to be a real substitute. But under pressure from all the big players, whether someone manages to break through is hard to say. Of course, hidden substitutes like TPUs have already started to appear, they just aren't much of a threat yet. The changes AI can bring really could be enormous — right now might just be the very beginning.
 
-来源：https://xueqiu.com/1247347556/364590976
+Source: https://xueqiu.com/1247347556/364590976
 
 ---
 
 ## 55. 2026-01-22 14:50
 
-> 转发原文：@解决I: 请问大道，现在量化交易很厉害，就像幻方那样。我是做价值投资的，研究基本面厉害，身边有会写代码的朋友资源，但我自己没有编程基础。请问大道是否建议我这种人从价值投资转成做python量化交易？为什么？@大道无形我有型
+> Reposted from: @ResolveI: Duan, quantitative trading is really powerful these days, like High-Flyer. I do value investing and I'm strong at fundamental research; I have friends around me who can code, but I don't have a programming background myself. Would you recommend that someone like me switch from value investing to doing Python-based quant trading? Why or why not? @Duan Yongping
 
-你如果做“价值投资”很赚钱的话，你为什么想转？如果你连做“价值投资”都不赚钱的话，你能干的过人家幻方？你知道人家ai的水平吗？你知道人家早年屯了多少nvda的芯片吗？ 假装懂投资是真的很危险的。
+If you're making good money doing "value investing," why would you want to switch? And if you're not even making money doing "value investing," do you really think you could out-compete an outfit like High-Flyer? Do you know how good their AI capabilities are? Do you know how many NVDA chips they stockpiled back in the early years? Pretending to understand investing is genuinely dangerous.
 
-来源：https://xueqiu.com/1247347556/372438550
+Source: https://xueqiu.com/1247347556/372438550
 
 ---
 
 ## 56. 2026-03-21 10:32
 
-$英伟达(NVDA)$ @张师傅的退休实验室好吧，给你看看我的英伟达保险公司都在做啥。年化20%我就很开心了。
+$NVIDIA(NVDA)$ @MasterZhangsRetirementLab Alright, let me show you what my NVIDIA insurance company has been up to. A 20% annualized return makes me happy enough.
 
-来源：https://xueqiu.com/1247347556/380471881
+Source: https://xueqiu.com/1247347556/380471881
 
 ---
 
 ## 57. 2026-03-23 09:26
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$ @张师傅的退休实验室好吧，给你看看我的英伟达保险公司都在做啥。年化20%我就很开心了。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ @MasterZhangsRetirementLab Alright, let me show you what my NVIDIA insurance company has been up to. A 20% annualized return makes me happy enough.
 
-回复@我在西游fnm: Gemini的解释和我的想法其实有很大差异。我其实完全没有对短期的预期，我只是关注这家公司长期是不是有这个价值。比如我觉得nvda长期看150块不贵的话，我就先卖个170的put（先收20块再说，前提是一定有Cash放在t-bill上），到期不卖给我我就再卖个put，到期如果put给我的话，我也可能卖个call（这个叫covered call），其实就是卖了英伟达的保险。如果我不了解这家公司的话，我是不可以卖Option的。我把这个叫长线短做，这是个很好玩的游戏，而且回报率还过得去。不过，好公司股价过低的时候不要卖call，股价过高的时候也不要卖put，不然回报率可能会低下来。我其实没有所谓的Option strategy, 我只是有nvda的option strategy 或者是苹果的option Strategy . 苹果涨到我觉得不便宜的时候就开始卖点call了，被call走后如果价格回落我还是有可能再卖点put的。反正我能跑赢S&P就好，至少我能跑赢政府债券哈。//@我在西游fnm:回复@大道无形我有型:问了下gemini。这种操作在期权交易中被称为卖出宽跨式套利（Short Strangle）。从截图显示的 1,000 张合约规模（对应 10 万股英伟达股票）以及接近 280 万美元的获利来看，这位投资者的预期非常明确，主要集中在以下三个维度：1. 价格预期：精准的“区间震荡”判断这是最核心的预期。投资者卖出了 190 的 Call 和 170 的 Put，这意味着他预测在 2026 年 3 月 20 日到期时：* 股价上限：NVDA 不会涨破 $190。* 股价下限：NVDA 不会跌破 $170。* 预期结果：只要股价落在这个 $170 - $190 的“安全区间”内，两边的期权都会作废，他就能稳赚不赔地收走开仓时获得的全部权利金。2. 波动率预期：预期“风平浪静”期权卖方本质上是在做空波动率（Short Vega）。* 预期：投资者预期 NVDA 经历了一段时间的剧烈波动后，市场情绪会趋于平稳，或者认为市场对 NVDA 的恐慌/兴奋程度被高估了。* 获利逻辑：即便股价没有变，只要市场预期的波动变小，期权的价格（隐含波动率）就会下降，卖方就能通过回购或等待到期来赚取差价。3. 时间预期：赚取“时间流逝”的钱（Theta）期权具有时间价值，每过一天，只要股价没达到行权价，期权的价值就会缩水。* 预期：投资者在利用时间的消逝。对于他这种规模的资金，只要 NVDA 维持在区间内，时间就是他最坚定的盟友。* 现状：截图日期显示是 3 月 20 日（周五），正是到期日。此时期权价值几乎为零，说明他成功熬过了所有交易日，完成了对时间价值的最终收割。总结：这位投资者的心理肖像这种操作通常反映了以下心态：* 极度自信的“庄家策略”：他不想通过预测股价暴涨来赚钱，而是想通过“坐庄”卖保险来赚钱。他认为 NVDA 虽然是热门股，但在 2026 年 3 月这个节点，股价已经阶段性见顶且下方有强支撑。* 追求稳定收益：虽然看上去利润巨大（270多万美元），但相对于其背后可能动用的数千万甚至上亿美元的保证金来说，这是一笔追求“高概率确定性”的交易，而非博取几倍涨幅。* 风险承受力极强：敢在 NVDA 这种高波动股票上卖出 1,000 张空头合约，意味着他要么持有巨量的 NVDA 现货（做 Covered Call 组合），要么拥有雄厚的现金储备来应对任何突发的跳空行情。> 延伸解读：从截图中可以看到，标普 500 和纳斯达克在当天都是下跌的（约 -1.5% 到 -2%），但由于 NVDA 的股价最终收在了他设定的“甜点区间”内，他反而成了暴跌行情中的大赢家。>您是否想深入了解如果股价跌破 $170 或涨破 $190，这种策略会面临怎样的爆仓风险？
+Reply to @JourneyToTheWest_fnm: Gemini's explanation is actually quite different from what I have in mind. I really have no expectations at all about the short term — I only care about whether the company has this kind of value over the long run. For instance, if I think NVDA isn't expensive at $150 over the long term, I'll first sell a $170 put (collect the $20 upfront, on the condition that there's always cash sitting in T-bills). If it doesn't get put to me at expiration, I sell another put; if it does get put to me at expiration, I might then sell a call (this is called a covered call) — really, this is just selling insurance on NVIDIA. If I didn't understand this company, I wouldn't be allowed to sell options on it. I call this "long-term investing, short-term trading" — it's a very fun game, and the returns are decent enough too. That said, don't sell calls when a good company's stock price is too low, and don't sell puts when the price is too high, or the returns can end up lower. I don't really have anything you could call an "option strategy" in general — I only have an option strategy for NVDA, or an option strategy for Apple. Once Apple rises to a level I no longer consider cheap, I start selling some calls; if the shares get called away and the price then pulls back, I might sell some puts again. As long as I beat the S&P, I'm satisfied — at the very least I can beat government bonds, ha. //@JourneyToTheWest_fnm: Reply to @Duan Yongping: I asked Gemini about this. This kind of trade is known in options trading as a short strangle. Judging from the screenshot, which shows a position of 1,000 contracts (equivalent to 100,000 shares of NVIDIA) and a profit of close to $2.8 million, this investor's expectations are very clear and center on three dimensions: 1. Price expectation: a precise call on "range-bound trading." This is the core expectation. The investor sold the 190 call and the 170 put, meaning he's predicting that by the March 20, 2026 expiration: * Upper bound: NVDA will not rise above $190. * Lower bound: NVDA will not fall below $170. * Expected outcome: as long as the price lands within this $170-$190 "safe range," both option legs expire worthless, letting him walk away with the entire premium collected at the opening of the position, risk-free. 2. Volatility expectation: betting on "calm seas." An option seller is, in essence, shorting volatility (short vega). * Expectation: the investor expects that after a period of sharp swings, market sentiment around NVDA will settle down, or believes that the market's level of panic/excitement about NVDA has been overstated. * Profit logic: even if the price doesn't move at all, as long as the market's expected volatility falls, the price of the options (implied volatility) will fall too, letting the seller profit from the spread by buying back the position or simply waiting for expiration. 3. Time expectation: earning money from "time decay" (theta). Options carry time value, and with each day that passes, as long as the price hasn't hit the strike, the option's value erodes. * Expectation: the investor is capitalizing on the passage of time. For capital of this scale, as long as NVDA stays within the range, time is his most reliable ally. * Current status: the screenshot's date shows March 20 (a Friday), exactly the expiration date. At this point the options' value is close to zero, meaning he successfully rode out every trading day and completed the final harvest of time value. Summary — a psychological portrait of this investor: this kind of operation usually reflects the following mindset: * An extremely confident "house strategy": he's not trying to make money by predicting a huge rally, he's trying to make money by "running the house," selling insurance. He believes that although NVDA is a hot stock, at this particular point in March 2026, the price has staged a temporary top with strong support underneath. * Pursuing steady returns: although the profit looks enormous (over $2.7 million), relative to the tens of millions or even hundreds of millions of dollars in margin that might sit behind it, this is a trade chasing "high-probability certainty," not chasing a multi-fold gain. * Extremely high risk tolerance: daring to sell 1,000 short contracts on a stock as volatile as NVDA means he either holds an enormous amount of NVDA stock outright (running it as a covered-call combo) or has deep cash reserves to handle any sudden gap move. > Further reading: the screenshot shows that both the S&P 500 and the Nasdaq were down that day (roughly -1.5% to -2%), but because NVDA's price ended up closing within his set "sweet spot," he actually came out as the big winner amid the sell-off. > Would you like to dig deeper into what kind of blow-up risk this strategy would face if the price fell below $170 or rose above $190?
 
-来源：https://xueqiu.com/1247347556/380588002
+Source: https://xueqiu.com/1247347556/380588002
 
 ---
 
 ## 58. 2026-03-23 09:32
 
-> 转发原文：@大道无形我有型: $英伟达(NVDA)$ @张师傅的退休实验室好吧，给你看看我的英伟达保险公司都在做啥。年化20%我就很开心了。
+> Reposted from: @Duan Yongping: $NVIDIA(NVDA)$ @MasterZhangsRetirementLab Alright, let me show you what my NVIDIA insurance company has been up to. A 20% annualized return makes me happy enough.
 
-回复@张师傅的退休实验室: 我没有直接卖过一股nvda，也没直接卖过苹果。这些都是我的保险公司的筹码哈。找个好公司不容易，可以一直卖Option可以增加很多乐趣的·。另外，我几乎在任何情况下都不会买Option，包括roll，除非有税务考量。很多人以为我是在trade option，我其实只是卖Option而已。能这么简单地开个保险公司还是蛮有意思的。//@张师傅的退休实验室:回复@大道无形我有型:承蒙大道关注，感谢分享。我对“英伟达保险公司”的理解：核心在于这个是“英伟达”保险公司，并且关键不是期权技巧，是承保人对这家公司的了解以及值多少钱比市场更确定。170以下愿意接，190以上愿意放，两端收保费，本质上用自己对好公司的确定性（理性想长远），向市场的不确定性（贪婪、恐惧）收保险费。 巧的是我近期也在$190附近减了一部分仓，和您sell call的strike一样。不同的是我直接卖了正股，没收到那笔权利金。同样的价格判断，您的方式更好，这是我该学习的。 考虑到资金规模以及好公司的确定性，年化20%是稳稳的，睡得着觉，不耽误打球的幸福。：） 利益相关：自2018年持有$英伟达(NVDA)$ ，近期$190小幅减持。
+Reply to @MasterZhangsRetirementLab: I've never directly sold a single share of NVDA short, nor Apple either — these are all just chips for my insurance company, ha. It's not easy to find a good company, and being able to keep selling options on it adds a lot of fun. Also, I basically never buy options under any circumstances, including rolling, unless there's a tax consideration. A lot of people think I'm trading options — really, I'm only ever selling them. Being able to run an insurance company this simply is actually pretty interesting. //@MasterZhangsRetirementLab: Reply to @Duan Yongping: Thank you for the attention, Duan, and for sharing this. Here's how I understand the "NVIDIA insurance company": the core is that this is specifically an "NVIDIA" insurance company, and the key isn't options technique — it's that the underwriter's understanding of the company, and of what it's worth, is more certain than the market's. Willing to take it on below 170, willing to let it go above 190, collecting premium at both ends — essentially using your own certainty about a good company (a rational, long-term view) to collect insurance premiums from the market's uncertainty (its greed and fear). Coincidentally, I also trimmed part of my position around $190 recently, at the same strike as your call sale. The difference is I sold the underlying shares directly and didn't collect that premium. Given the same read on price, your approach is the better one — that's something I should learn. Considering the scale of capital involved and the certainty of a good company, a 20% annualized return is nice and steady — you can sleep well at night, and it doesn't get in the way of the happiness of playing golf. :) Disclosure: I've held $NVIDIA(NVDA)$ since 2018, and recently trimmed slightly at $190.
 
-来源：https://xueqiu.com/1247347556/380589970
+Source: https://xueqiu.com/1247347556/380589970
 
 ---
 
 ## 59. 2026-03-25 11:12
 
-> 转发原文：@慢一步出奇迹: @大道无形我有型 大道，您好，关注您很久看您很少谈微软，去年最风光的被称为 Ai  受益者微软今年成了最落魄的。今年微软和去年的谷歌类似，有很多利空的叙事，但是财报业绩却依然很好，您怎么看待这类情况，您觉得微软能像谷歌一样走出低估吗？问了 Gemini 和 gpt，现在 利空主要是 Ai 侵蚀 saas 未来订阅席位和微软 openai 关系松动却还是没有自己的大模型。
+> Reposted from: @OneStepSlowMiracle: @Duan Yongping Hi Duan, I've followed you for a long time and noticed you rarely talk about Microsoft. Last year it was hailed as the most glamorous AI beneficiary, and this year it's become the most down-and-out. This year Microsoft is a bit like Google was last year — there's a lot of bearish narrative around it, yet its earnings results remain very strong. How do you view this kind of situation? Do you think Microsoft can climb out of being undervalued the way Google did? I asked Gemini and GPT, and right now the main bearish points are: AI eroding SaaS's future subscription seats, and Microsoft's relationship with OpenAI loosening while Microsoft still doesn't have its own foundation model.
 
-回复@大道无形我有型: 黄仁勋这两个月是站出来“护盘”软件股、直接反对“AI 会杀死微软这类软件生意”的那一派观点的。[reuters +4]他原话的核心观点•	他在公开访谈里说，认为“软件行业会被 AI 取代”是“极其不合逻辑的想法”，时间会证明市场判断错了。[finance.yahoo +2]•	他的比喻是：无论是人还是机器人，都会优先用现成的工具，而不是从零重造工具；AI 助手/智能体是“工具的使用者”，不是“工具制造商的终结者”。[cnbc +3]对微软这类软件公司的含义•	他点名的例子里包括浏览器、电子表格（典型就是 Microsoft Excel）、以及各类企业软件（ServiceNow、SAP 等），意思是：AI agent 会在这些软件“里面工作”，而不是“把它们替代掉”。[ifeng +2]•	他强调，企业软件公司会把 agentic AI 集成进现有产品，用 AI 来写代码、自动化流程、提升用户操作效率，所以更像是“软件+AI”的升级版，而不是被 AI 抢饭碗。[linkedin +2]•	有媒体直接按照他的话点名给了微软，说在他眼里，像微软这种做操作系统、Office、企业云和开发工具的软件巨头，是 AI 生态中的受益方之一，而不是“被抛弃的一边”。[finance.yahoo]对当前“抛售软件股”的评论•	在英伟达公布强劲业绩、软件股因为“AI 会替代软件”的叙事普跌后，他在 CNBC 上直接说：“市场搞错了（got it wrong）”。[thestreet +2]•	他认为真正会发生的是：•	企业会大量使用 AI 助手来开发软件本身（例如 Copilot 写代码）；•	同时会出现“成百上千的数字员工”，意味着软件许可证数量和使用强度是增加，而不是消失。[europeanbusinessreview +2]//@大道无形我有型:回复@慢一步出奇迹:我不太懂微软，感觉ai对他们的软件生意会有蛮大冲击的。
+Reply to @Duan Yongping: Over the past couple of months, Jensen Huang has stepped forward to "defend" software stocks, directly pushing back against the camp arguing that "AI will kill software businesses like Microsoft's." [reuters +4] The core points of what he actually said: • In public interviews he's said that the idea that "the software industry will be replaced by AI" is "an extremely illogical idea," and time will prove the market wrong. [finance.yahoo +2] • His analogy: whether it's humans or robots, they'll always prefer to use ready-made tools rather than rebuild tools from scratch; AI assistants/agents are "users of tools," not "the end of the toolmakers." [cnbc +3] What this means for software companies like Microsoft: • The examples he's named by name include browsers, spreadsheets (the classic case being Microsoft Excel), and all kinds of enterprise software (ServiceNow, SAP, etc.) — meaning AI agents will "work inside" this software, not "replace it." [ifeng +2] • He emphasizes that enterprise software companies will integrate agentic AI into their existing products, using AI to write code, automate workflows, and boost user productivity — making this more like a "software + AI" upgraded version, rather than AI taking away their business. [linkedin +2] • Some media outlets have directly named Microsoft based on his remarks, saying that in his view, software giants like Microsoft that make operating systems, Office, enterprise cloud, and developer tools are among the beneficiaries of the AI ecosystem, not among "those being left behind." [finance.yahoo] His comments on the current "software stock sell-off": • After NVIDIA reported strong results and software stocks broadly sold off on the narrative that "AI will replace software," he said directly on CNBC: "the market got it wrong." [thestreet +2] • What he thinks will actually happen: • Companies will make heavy use of AI assistants to develop software itself (for example, Copilot writing code); • At the same time, we'll see "hundreds and thousands of digital employees" emerge, meaning the number and intensity of software license usage will increase, not disappear. [europeanbusinessreview +2] //@Duan Yongping: Reply to @OneStepSlowMiracle: I don't understand Microsoft that well — I have a feeling AI could deal quite a big blow to their software business.
 
-来源：https://xueqiu.com/1247347556/381026671
+Source: https://xueqiu.com/1247347556/381026671
 
 ---
 
 ## 60. 2026-03-25 11:16
 
-> 转发原文：@慢一步出奇迹: @大道无形我有型 大道，您好，关注您很久看您很少谈微软，去年最风光的被称为 Ai  受益者微软今年成了最落魄的。今年微软和去年的谷歌类似，有很多利空的叙事，但是财报业绩却依然很好，您怎么看待这类情况，您觉得微软能像谷歌一样走出低估吗？问了 Gemini 和 gpt，现在 利空主要是 Ai 侵蚀 saas 未来订阅席位和微软 openai 关系松动却还是没有自己的大模型。
+> Reposted from: @OneStepSlowMiracle: @Duan Yongping Hi Duan, I've followed you for a long time and noticed you rarely talk about Microsoft. Last year it was hailed as the most glamorous AI beneficiary, and this year it's become the most down-and-out. This year Microsoft is a bit like Google was last year — there's a lot of bearish narrative around it, yet its earnings results remain very strong. How do you view this kind of situation? Do you think Microsoft can climb out of being undervalued the way Google did? I asked Gemini and GPT, and right now the main bearish points are: AI eroding SaaS's future subscription seats, and Microsoft's relationship with OpenAI loosening while Microsoft still doesn't have its own foundation model.
 
-回复@大道无形我有型: 老黄显然比我懂ai，你要不信他，你也不需要到处问那些还没他懂的人们吧？//@大道无形我有型:回复@大道无形我有型:黄仁勋这两个月是站出来“护盘”软件股、直接反对“AI 会杀死微软这类软件生意”的那一派观点的。[reuters +4]他原话的核心观点•	他在公开访谈里说，认为“软件行业会被 AI 取代”是“极其不合逻辑的想法”，时间会证明市场判断错了。[finance.yahoo +2]•	他的比喻是：无论是人还是机器人，都会优先用现成的工具，而不是从零重造工具；AI 助手/智能体是“工具的使用者”，不是“工具制造商的终结者”。[cnbc +3]对微软这类软件公司的含义•	他点名的例子里包括浏览器、电子表格（典型就是 Microsoft Excel）、以及各类企业软件（ServiceNow、SAP 等），意思是：AI agent 会在这些软件“里面工作”，而不是“把它们替代掉”。[ifeng +2]•	他强调，企业软件公司会把 agentic AI 集成进现有产品，用 AI 来写代码、自动化流程、提升用户操作效率，所以更像是“软件+AI”的升级版，而不是被 AI 抢饭碗。[linkedin +2]•	有媒体直接按照他的话点名给了微软，说在他眼里，像微软这种做操作系统、Office、企业云和开发工具的软件巨头，是 AI 生态中的受益方之一，而不是“被抛弃的一边”。[finance.yahoo]对当前“抛售软件股”的评论•	在英伟达公布强劲业绩、软件股因为“AI 会替代软件”的叙事普跌后，他在 CNBC 上直接说：“市场搞错了（got it wrong）”。[thestreet +2]•	他认为真正会发生的是：•	企业会大量使用 AI 助手来开发软件本身（例如 Copilot 写代码）；•	同时会出现“成百上千的数字员工”，意味着软件许可证数量和使用强度是增加，而不是消失。[europeanbusinessreview +2]
+Reply to @Duan Yongping: Old Huang clearly understands AI better than I do — if you're not going to believe him, why would you need to go around asking people who understand it even less than he does? //@Duan Yongping: Reply to @Duan Yongping: Over the past couple of months, Jensen Huang has stepped forward to "defend" software stocks, directly pushing back against the camp arguing that "AI will kill software businesses like Microsoft's." [reuters +4] The core points of what he actually said: • In public interviews he's said that the idea that "the software industry will be replaced by AI" is "an extremely illogical idea," and time will prove the market wrong. [finance.yahoo +2] • His analogy: whether it's humans or robots, they'll always prefer to use ready-made tools rather than rebuild tools from scratch; AI assistants/agents are "users of tools," not "the end of the toolmakers." [cnbc +3] What this means for software companies like Microsoft: • The examples he's named by name include browsers, spreadsheets (the classic case being Microsoft Excel), and all kinds of enterprise software (ServiceNow, SAP, etc.) — meaning AI agents will "work inside" this software, not "replace it." [ifeng +2] • He emphasizes that enterprise software companies will integrate agentic AI into their existing products, using AI to write code, automate workflows, and boost user productivity — making this more like a "software + AI" upgraded version, rather than AI taking away their business. [linkedin +2] • Some media outlets have directly named Microsoft based on his remarks, saying that in his view, software giants like Microsoft that make operating systems, Office, enterprise cloud, and developer tools are among the beneficiaries of the AI ecosystem, not among "those being left behind." [finance.yahoo] His comments on the current "software stock sell-off": • After NVIDIA reported strong results and software stocks broadly sold off on the narrative that "AI will replace software," he said directly on CNBC: "the market got it wrong." [thestreet +2] • What he thinks will actually happen: • Companies will make heavy use of AI assistants to develop software itself (for example, Copilot writing code); • At the same time, we'll see "hundreds and thousands of digital employees" emerge, meaning the number and intensity of software license usage will increase, not disappear. [europeanbusinessreview +2]
 
-来源：https://xueqiu.com/1247347556/381027773
+Source: https://xueqiu.com/1247347556/381027773
 
 ---

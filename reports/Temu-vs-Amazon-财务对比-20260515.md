@@ -1,226 +1,226 @@
-# Temu vs Amazon 最新财务数据全面对比
+# Temu vs Amazon: Comprehensive Financial Data Comparison
 
-> 数据截止：2026年5月15日 | 财务数据基于Amazon 2025全年+2026Q1、PDD 2025全年
+> Data as of: May 15, 2026 | Financial data based on Amazon FY2025 + 2026Q1, PDD FY2025
 
 ---
 
-## 一、Amazon 最新财务数据
+## I. Amazon's Latest Financial Data
 
-### 1. 总营收与各业务板块收入
+### 1. Total Revenue and Revenue by Business Segment
 
-#### 2025全年（FY2025）
+#### Full Year 2025 (FY2025)
 
-| 业务板块 | 收入（亿美元） | 同比增速 | 占比 |
+| Business Segment | Revenue (US$ billion) | YoY Growth | Share |
 |----------|---------------|---------|------|
-| **在线商店（1P自营）** | 2,693 | ~9% | 37.6% |
-| **第三方卖家服务（3P佣金）** | 1,750 | ~11% | 24.4% |
-| **AWS云服务** | 1,287 | ~20% | 18.0% |
-| **广告服务** | 686 | ~22% | 9.6% |
-| **订阅服务（Prime等）** | 496 | ~11% | 6.9% |
-| **实体门店** | 约220 | ~5% | 3.1% |
-| **其他** | 约38 | - | 0.5% |
-| **合计** | **7,170** | **~12%** | **100%** |
+| **Online stores (1P direct sales)** | 269.3 | ~9% | 37.6% |
+| **Third-party seller services (3P commissions)** | 175.0 | ~11% | 24.4% |
+| **AWS cloud services** | 128.7 | ~20% | 18.0% |
+| **Advertising services** | 68.6 | ~22% | 9.6% |
+| **Subscription services (Prime, etc.)** | 49.6 | ~11% | 6.9% |
+| **Physical stores** | approx. 22.0 | ~5% | 3.1% |
+| **Other** | approx. 3.8 | - | 0.5% |
+| **Total** | **717.0** | **~12%** | **100%** |
 
-#### 2026Q1
+#### 2026 Q1
 
-| 指标 | 数据 |
+| Metric | Value |
 |------|------|
-| 总营收 | 1,815亿美元（同比+17%） |
-| AWS收入 | 375.9亿美元（同比+28%，15个季度最快） |
-| 广告收入 | 172.4亿美元（同比+24%） |
-| 北美电商收入 | 1,041亿美元（同比+12%） |
-| 国际电商收入 | 398亿美元（同比+11%汇率不变） |
-| EPS | 2.78美元（远超预期1.63美元） |
+| Total revenue | $181.5 billion (up 17% YoY) |
+| AWS revenue | $37.59 billion (up 28% YoY, fastest in 15 quarters) |
+| Advertising revenue | $17.24 billion (up 24% YoY) |
+| North America e-commerce revenue | $104.1 billion (up 12% YoY) |
+| International e-commerce revenue | $39.8 billion (up 11% YoY, currency-neutral) |
+| EPS | $2.78 (far above the $1.63 consensus estimate) |
 
-### 2. 各板块营业利润和利润率
+### 2. Segment Operating Profit and Margins
 
-#### 2025全年经营分部
+#### Full Year 2025 Operating Segments
 
-| 经营分部 | 营业利润（亿美元） | 营业利润率 | 同比变化 |
+| Segment | Operating Profit (US$ billion) | Operating Margin | YoY Change |
 |----------|-------------------|-----------|---------|
-| **北美** | 296 | 6.9% | +18.4% |
-| **国际** | 47 | 2.9% | +23.7% |
-| **AWS** | 456 | 35.4% | +14.6% |
-| **合计** | **799** | **11.1%** | **+17%** |
+| **North America** | 29.6 | 6.9% | +18.4% |
+| **International** | 4.7 | 2.9% | +23.7% |
+| **AWS** | 45.6 | 35.4% | +14.6% |
+| **Total** | **79.9** | **11.1%** | **+17%** |
 
-#### 2026Q1经营分部
+#### 2026 Q1 Operating Segments
 
-| 经营分部 | 营业利润（亿美元） | 营业利润率 |
+| Segment | Operating Profit (US$ billion) | Operating Margin |
 |----------|-------------------|-----------|
-| **北美** | 83 | 7.9% |
-| **国际** | 14 | 3.6% |
-| **AWS** | 141.6 | 37.7% |
-| **合计** | **239** | **13.1%（创纪录）** |
+| **North America** | 8.3 | 7.9% |
+| **International** | 1.4 | 3.6% |
+| **AWS** | 14.16 | 37.7% |
+| **Total** | **23.9** | **13.1% (record)** |
 
-### 3. 电商国际业务
+### 3. International E-commerce Business
 
-| 指标 | 2025全年 | 2026Q1 |
+| Metric | Full Year 2025 | 2026 Q1 |
 |------|---------|--------|
-| 收入 | 1,619亿美元 | 398亿美元 |
-| 营业利润 | 47亿美元 | 14亿美元 |
-| 营业利润率 | 2.9% | 3.6% |
-| 同比增速 | +13%（+10%汇率不变） | +11%（汇率不变） |
+| Revenue | $161.9 billion | $39.8 billion |
+| Operating profit | $4.7 billion | $1.4 billion |
+| Operating margin | 2.9% | 3.6% |
+| YoY growth | +13% (+10% currency-neutral) | +11% (currency-neutral) |
 
-### 4. 广告业务
+### 4. Advertising Business
 
-| 指标 | 2025全年 | 2026Q1 |
+| Metric | Full Year 2025 | 2026 Q1 |
 |------|---------|--------|
-| 广告收入 | 686亿美元 | 172.4亿美元 |
-| 同比增速 | +22% | +24% |
-| 年化run rate | - | 约690亿美元 |
+| Advertising revenue | $68.6 billion | $17.24 billion |
+| YoY growth | +22% | +24% |
+| Annualized run rate | - | approx. $69.0 billion |
 
-广告业务已成为Amazon第三大收入来源，仅次于1P和3P。按增速推算，2026全年广告收入将突破800亿美元。
+Advertising has become Amazon's third-largest revenue source, behind only 1P and 3P. Extrapolating from the growth rate, full-year 2026 advertising revenue is projected to surpass $80.0 billion.
 
-### 5. 估值指标
+### 5. Valuation Metrics
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 总市值 | 约2.89万亿美元 |
-| PE（TTM） | ~32x |
-| PS（TTM） | ~3.9x |
-| 股价 | ~267美元/股 |
+| Total market cap | approx. $2.89 trillion |
+| PE (TTM) | ~32x |
+| PS (TTM) | ~3.9x |
+| Share price | ~$267/share |
 
-### 6. 自由现金流
+### 6. Free Cash Flow
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| TTM自由现金流（截至2026Q1） | 12亿美元（同比暴跌95%） |
-| TTM经营现金流 | 约1,130亿美元（同比+53%） |
-| 2026Q1资本开支 | 442亿美元（同比+77%） |
-| 2026年全年资本开支指引 | ~2,000亿美元 |
+| TTM free cash flow (as of 2026 Q1) | $1.2 billion (down 95% YoY) |
+| TTM operating cash flow | approx. $113.0 billion (up 53% YoY) |
+| 2026 Q1 capital expenditures | $44.2 billion (up 77% YoY) |
+| FY2026 full-year capex guidance | ~$200.0 billion |
 
-自由现金流暴跌的核心原因：Amazon正投入约2,000亿美元用于AI基础设施（定制芯片、数据中心、机器人、Leo卫星），经营现金流极为强劲但被巨额资本开支吞噬。
+The core reason for the free cash flow collapse: Amazon is investing approximately $200.0 billion in AI infrastructure (custom chips, data centers, robotics, LEO satellites). Operating cash flow remains extremely strong but is being consumed by massive capital expenditures.
 
-### 7. Amazon Haul 进展
+### 7. Amazon Haul Progress
 
-| 指标 | 数据 |
+| Metric | Data |
 |------|------|
-| 运营时间 | 约12个月（2024年11月推出） |
-| 覆盖市场 | 25个国家/地区（美、英、德、法、意、西、日、澳等） |
-| 商品数量 | 超过100万件商品低于10美元，大量低于3美元 |
-| 品类扩展 | 选品增长近400% |
-| 用户访问 | 自2025年6月以来访问量翻3倍 |
-| 当前状态 | 已正式脱离Beta阶段 |
-| 品牌布局 | 在墨西哥、沙特、阿联酋以"Amazon Bazaar"品牌运营 |
+| Operating history | approx. 12 months (launched November 2024) |
+| Markets covered | 25 countries/regions (US, UK, Germany, France, Italy, Spain, Japan, Australia, etc.) |
+| Number of products | over 1 million products priced under $10, with a large share under $3 |
+| Category expansion | selection has grown nearly 400% |
+| User traffic | traffic has tripled since June 2025 |
+| Current status | officially out of beta |
+| Brand strategy | operates under the "Amazon Bazaar" brand in Mexico, Saudi Arabia, and the UAE |
 
 ---
 
-## 二、Temu/拼多多 最新财务数据
+## II. Temu/PDD's Latest Financial Data
 
-### 1. 拼多多集团（PDD Holdings）总体
+### 1. PDD Holdings Group Overview
 
-#### 2025全年
+#### Full Year 2025
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 集团总营收 | 4,318亿元（约618亿美元，同比+10%） |
-| 在线营销服务收入 | 2,178亿元（同比+10%） |
-| 交易服务收入 | 2,141亿元（同比+9%） |
-| Non-GAAP经营利润 | 1,026亿元（同比-13%） |
-| Non-GAAP净利润 | 1,073亿元（约154亿美元，同比-12%） |
-| GAAP净利润 | 999亿元（约144亿美元，同比-12%） |
+| Group total revenue | 431.8 billion yuan (approx. $61.8 billion, up 10% YoY) |
+| Online marketing services revenue | 217.8 billion yuan (up 10% YoY) |
+| Transaction services revenue | 214.1 billion yuan (up 9% YoY) |
+| Non-GAAP operating profit | 102.6 billion yuan (down 13% YoY) |
+| Non-GAAP net profit | 107.3 billion yuan (approx. $15.4 billion, down 12% YoY) |
+| GAAP net profit | 99.9 billion yuan (approx. $14.4 billion, down 12% YoY) |
 
-> 利润下滑原因：Temu海外扩张持续投入 + 主站"百亿补贴"对商家让利。
+> Reason for the profit decline: continued investment in Temu's overseas expansion, plus the main platform's "10 Billion Yuan Subsidy" program cutting into merchant margins.
 
-#### 2025Q4
+#### 2025 Q4
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 营收 | 1,239亿元（同比+12%） |
-| 净利润 | 245亿元（同比-11%） |
+| Revenue | 123.9 billion yuan (up 12% YoY) |
+| Net profit | 24.5 billion yuan (down 11% YoY) |
 
-### 2. Temu 单独估算
+### 2. Temu Standalone Estimates
 
-| 指标 | 估算值 | 说明 |
+| Metric | Estimated Value | Notes |
 |------|--------|------|
-| **2025年GMV** | 750~800亿美元 | 原目标900亿下调至800亿，实际可能750亿 |
-| **2025年收入** | 约925亿美元（temu.com） | 含全托管+半托管模式收入 |
-| **MAU（全球）** | 约2.92亿 | 美国1.34亿（同比-28%），欧洲1.42亿（同比+74%） |
-| **运营亏损率** | 约-8%（2025年） | 从2024年的-27%大幅收窄至-13%再到-8% |
-| **年度亏损** | 约6~10亿美元（2025年） | 2024年约35亿美元亏损，大幅缩窄 |
-| **盈利预期** | 2025年接近盈亏平衡，2026年有望盈利 | 分析师预计2026年营业利润约7.75亿美元 |
+| **2025 GMV** | $75.0-80.0 billion | Original target of $90.0 billion cut to $80.0 billion; actual figure may be $75.0 billion |
+| **2025 revenue** | approx. $92.5 billion (temu.com) | Includes revenue from both the fully-managed and semi-managed models |
+| **MAU (global)** | approx. 292 million | US: 134 million (down 28% YoY); Europe: 142 million (up 74% YoY) |
+| **Operating loss margin** | approx. -8% (2025) | Narrowed sharply from -27% in 2024, to -13%, then to -8% |
+| **Annual loss** | approx. $0.6-1.0 billion (2025) | Down sharply from an approx. $3.5 billion loss in 2024 |
+| **Profitability outlook** | Near breakeven in 2025, expected to turn profitable in 2026 | Analysts project approx. $0.775 billion in operating profit for 2026 |
 
-> 注：Temu收入数据来自第三方估算（ecdb.com），拼多多官方不单独披露Temu财务数据。
+> Note: Temu revenue figures are third-party estimates (ecdb.com); PDD does not disclose Temu's financials separately.
 
-### 3. 拼多多集团估值
+### 3. PDD Group Valuation
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 总市值 | 约1,381亿美元 |
-| PE（TTM） | ~10x |
+| Total market cap | approx. $138.1 billion |
+| PE (TTM) | ~10x |
 | Forward PE | ~8.2x |
-| PS（TTM） | ~2.2x（按618亿美元收入） |
-| 股价 | ~98.8美元/股 |
+| PS (TTM) | ~2.2x (based on $61.8 billion in revenue) |
+| Share price | ~$98.8/share |
 
-### 4. 战略动向："新拼姆"计划
+### 4. Strategic Move: The "Xinpinmu" ("New Pinduoduo") Plan
 
-- 管理层宣布"力争三年再造一个拼多多"
-- 在上海成立"新拼姆"专项公司
-- 一期现金注资150亿元，三年计划总投入1,000亿元
-- 整合"拼多多+Temu"供应链资源，搭建自营品牌模式
+- Management announced it is "striving to build another Pinduoduo within three years"
+- Established a dedicated new company called "Xinpinmu" in Shanghai
+- Phase-one cash injection of 15.0 billion yuan; total planned investment over three years of 100.0 billion yuan
+- Integrating "Pinduoduo + Temu" supply chain resources to build a self-operated brand model
 
 ---
 
-## 三、核心对比表
+## III. Core Comparison Tables
 
-### A. 收入与利润对比
+### A. Revenue and Profit Comparison
 
-| 维度 | Amazon（2025全年） | PDD/Temu（2025全年） | Temu是Amazon的几分之几 |
+| Dimension | Amazon (FY2025) | PDD/Temu (FY2025) | Temu as a Fraction of Amazon |
 |------|-------------------|---------------------|----------------------|
-| **总营收** | 7,170亿美元 | 618亿美元（集团） | **1/11.6** |
-| **电商相关收入** | ~4,443亿美元（1P+3P） | 618亿美元（集团含国内） | **1/7.2** |
-| **海外电商收入** | 1,619亿美元（国际分部） | ~300亿美元（Temu估算） | **约1/5.4** |
-| **营业利润** | 799亿美元 | 约147亿美元（集团GAAP） | **1/5.4** |
-| **净利润** | ~590亿美元 | 144亿美元（集团） | **1/4.1** |
-| **广告收入** | 686亿美元 | 312亿美元（在线营销） | **1/2.2** |
+| **Total revenue** | $717.0 billion | $61.8 billion (group) | **1/11.6** |
+| **E-commerce-related revenue** | ~$444.3 billion (1P+3P) | $61.8 billion (group, incl. domestic) | **1/7.2** |
+| **Overseas e-commerce revenue** | $161.9 billion (International segment) | ~$30.0 billion (Temu estimate) | **approx. 1/5.4** |
+| **Operating profit** | $79.9 billion | approx. $14.7 billion (group, GAAP) | **1/5.4** |
+| **Net profit** | ~$59.0 billion | $14.4 billion (group) | **1/4.1** |
+| **Advertising revenue** | $68.6 billion | $31.2 billion (online marketing) | **1/2.2** |
 
-### B. 估值对比
+### B. Valuation Comparison
 
-| 维度 | Amazon | PDD Holdings | 倍数差距 |
+| Dimension | Amazon | PDD Holdings | Multiple Gap |
 |------|--------|-------------|---------|
-| **市值** | 2.89万亿美元 | 1,381亿美元 | **Amazon是PDD的20.9倍** |
-| **PE（TTM）** | ~32x | ~10x | Amazon贵3.2倍 |
-| **PS（TTM）** | ~3.9x | ~2.2x | Amazon贵1.8倍 |
+| **Market cap** | $2.89 trillion | $138.1 billion | **Amazon is 20.9x PDD** |
+| **PE (TTM)** | ~32x | ~10x | Amazon trades 3.2x richer |
+| **PS (TTM)** | ~3.9x | ~2.2x | Amazon trades 1.8x richer |
 
-### C. Temu vs Amazon电商的直接对比
+### C. Direct Comparison: Temu vs. Amazon E-commerce
 
-| 维度 | Amazon电商（全球） | Temu（全球） | 对比 |
+| Dimension | Amazon E-commerce (Global) | Temu (Global) | Comparison |
 |------|-------------------|-------------|------|
-| **GMV** | 约9,000亿美元（估算） | 750~800亿美元 | **Temu约为Amazon的1/12** |
-| **MAU** | 约31亿（月访问） | 2.92亿 | **约1/10** |
-| **覆盖市场** | 20+个国家 | 80+个国家 | Temu覆盖更广 |
-| **平均客单价** | ~50美元 | ~15美元 | Temu低很多 |
-| **盈利状态** | 高度盈利 | 接近盈亏平衡 | 差距大 |
-| **品类深度** | 全品类+生鲜+数字 | 以低价日用品为主 | Amazon远超 |
+| **GMV** | approx. $900.0 billion (estimate) | $75.0-80.0 billion | **Temu is approx. 1/12 of Amazon** |
+| **MAU** | approx. 3.1 billion (monthly visits) | 292 million | **approx. 1/10** |
+| **Markets covered** | 20+ countries | 80+ countries | Temu has broader coverage |
+| **Average order value** | ~$50 | ~$15 | Temu is much lower |
+| **Profitability** | Highly profitable | Near breakeven | Wide gap |
+| **Category depth** | Full-category + fresh grocery + digital | Mainly low-price everyday goods | Amazon far ahead |
 
 ---
 
-## 四、核心结论：Temu现在是Amazon的几分之几？
+## IV. Core Conclusion: What Fraction of Amazon Is Temu Today?
 
-### 按不同维度衡量：
+### Measured Across Different Dimensions:
 
-| 维度 | Temu/PDD 是 Amazon 的 |
+| Dimension | Temu/PDD as a Fraction of Amazon |
 |------|----------------------|
-| 总营收 | **约1/12** |
-| 市值 | **约1/21** |
-| 净利润 | **约1/4** |
-| 电商GMV | **约1/12** |
-| 用户规模 | **约1/10** |
-| PE估值 | PDD便宜3倍（10x vs 32x） |
+| Total revenue | **approx. 1/12** |
+| Market cap | **approx. 1/21** |
+| Net profit | **approx. 1/4** |
+| E-commerce GMV | **approx. 1/12** |
+| User base | **approx. 1/10** |
+| PE valuation | PDD trades at 1/3 the multiple (10x vs. 32x) |
 
-### 总结
+### Summary
 
-1. **体量差距巨大**：按收入和GMV计，Temu/PDD大约只有Amazon的1/12，市值更是只有1/21。差距极为悬殊。
+1. **The scale gap is enormous**: By revenue and GMV, Temu/PDD is only about 1/12 the size of Amazon, and its market cap is only 1/21. The gap is extreme.
 
-2. **估值差距同样巨大但方向相反**：PDD的PE仅10倍，Amazon 32倍。市场给予Amazon更高估值主要因为AWS和广告两个高利润增长引擎，而市场对Temu的可持续性和关税风险持谨慎态度。
+2. **The valuation gap is equally large, but runs in the opposite direction**: PDD's PE is only 10x versus Amazon's 32x. The market awards Amazon a higher valuation mainly because of its two high-margin growth engines, AWS and advertising, while the market remains cautious about Temu's sustainability and tariff risk.
 
-3. **利润差距相对较小**：PDD集团净利润约144亿美元，是Amazon的1/4。这主要因为拼多多国内主站极度赚钱（利润率超过40%），但Temu海外仍在亏损。
+3. **The profit gap is relatively narrow**: PDD group's net profit of approximately $14.4 billion is about 1/4 of Amazon's. This is mainly because Pinduoduo's domestic main platform is extremely profitable (margins above 40%), while Temu's overseas operations remain unprofitable.
 
-4. **Temu的独特优势**：覆盖80+市场、极低价格带（大量商品低于5美元）、供应链直连中国工厂。但面临美国关税政策（de minimis取消）的重大不确定性。
+4. **Temu's distinctive advantages**: coverage of 80+ markets, an extremely low price band (many items under $5), and a supply chain directly connected to Chinese factories. However, it faces major uncertainty from US tariff policy (the elimination of the de minimis exemption).
 
-5. **Amazon Haul的反击**：Amazon已用12个月时间将Haul扩展到25个市场、选品增长400%、访问量翻3倍，正面对标Temu的低价市场。
+5. **Amazon Haul's counterattack**: In 12 months, Amazon has expanded Haul to 25 markets, grown its product selection by 400%, and tripled traffic — going head-to-head with Temu in the low-price segment.
 
-6. **关键差异**：Amazon是一个多引擎企业（云+广告+电商+订阅），AWS和广告贡献了绝大部分利润。PDD本质上是一家电商公司，且正从"利润收割期"主动转向"重投期"。
+6. **Key difference**: Amazon is a multi-engine business (cloud + advertising + e-commerce + subscriptions), with AWS and advertising contributing the vast majority of profit. PDD is fundamentally an e-commerce company, and is deliberately shifting from a "profit-harvesting" phase into a "heavy-investment" phase.
 
 ---
 
@@ -237,9 +237,9 @@ Sources:
 - [Amazon Haul (About Amazon)](https://www.aboutamazon.com/news/retail/amazon-haul-ultra-low-prices-under-10)
 - [PDD Holdings Statistics (StockAnalysis)](https://stockanalysis.com/stocks/pdd/statistics/)
 - [PDD PE Ratio (GuruFocus)](https://www.gurufocus.com/term/pettm/PDD)
-- [拼多多2025年财报前瞻 (华盛通)](https://www.hstong.com/news/detail/26032016592185686)
-- [拼多多Q4营收 (华尔街见闻)](https://wallstreetcn.com/articles/3768364)
-- [拼多多2025Q4拐点已至 (新浪财经)](https://finance.sina.com.cn/wm/2026-03-25/doc-inhshaim9303411.shtml)
+- [PDD 2025 Earnings Preview (Hstong)](https://www.hstong.com/news/detail/26032016592185686)
+- [PDD Q4 Revenue (Wallstreetcn)](https://wallstreetcn.com/articles/3768364)
+- [PDD 2025 Q4: The Turning Point Has Arrived (Sina Finance)](https://finance.sina.com.cn/wm/2026-03-25/doc-inhshaim9303411.shtml)
 - [Temu Statistics (Marketing LTB)](https://marketingltb.com/blog/statistics/temu-statistics/)
 - [Temu Revenue & Usage (Backlinko)](https://backlinko.com/temu-stats)
 - [Temu Revenue (Business of Apps)](https://www.businessofapps.com/data/temu-statistics/)

@@ -1,335 +1,335 @@
-# Temu vs Amazon：10年营收利润预测（2026-2036）
+# Temu vs Amazon: 10-Year Revenue and Profit Forecast (2026-2036)
 
-> 分析日期：2026年5月15日
-> 数据来源：Amazon/PDD财报、Goldman Sachs、Statista、eMarketer、Precedence Research、券商研报
-
----
-
-## 核心结论
-
-> **10年后（2036年），Amazon的营收将是PDD整体的5-8倍，净利润是3-5倍。差距不会缩小，反而会扩大。但这不意味着Amazon是更好的投资——因为PDD当前估值只有Amazon的1/3。**
+> Analysis date: May 15, 2026
+> Data sources: Amazon/PDD financial reports, Goldman Sachs, Statista, eMarketer, Precedence Research, sell-side research reports
 
 ---
 
-## 一、当前基准对比（2025年财年）
+## Core Conclusion
 
-| 指标 | Amazon | PDD Holdings | 倍数差 |
+> **Ten years from now (2036), Amazon's revenue will be 5-8x that of PDD as a whole, and its net profit will be 3-5x. The gap will not narrow — it will widen. But this does not mean Amazon is the better investment, because PDD's current valuation is only one-third of Amazon's.**
+
+---
+
+## I. Current Baseline Comparison (Fiscal Year 2025)
+
+| Metric | Amazon | PDD Holdings | Multiple Gap |
 |------|--------|-------------|--------|
-| 总营收 | 7,169亿美元 | 560亿美元（RMB 4,318亿） | **12.8x** |
-| 净利润 | 776亿美元 | ~136亿美元（RMB 993亿） | **5.7x** |
-| 净利润率 | 10.8% | ~24.3%（国内高利润率拉高） | PDD更高 |
-| 市值 | 2.93万亿美元 | 1,380亿美元 | **21.2x** |
-| PE（TTM） | ~33x | ~10x | Amazon 3.3倍贵 |
-| 电商GMV | ~7,500亿美元（含1P+3P） | ~950亿美元（Temu） + 国内3万亿+ | 电商维度差距较小 |
+| Total revenue | $716.9 billion | $56 billion (RMB 431.8 billion) | **12.8x** |
+| Net profit | $77.6 billion | ~$13.6 billion (RMB 99.3 billion) | **5.7x** |
+| Net margin | 10.8% | ~24.3% (boosted by high domestic margins) | PDD higher |
+| Market cap | $2.93 trillion | $138 billion | **21.2x** |
+| PE (TTM) | ~33x | ~10x | Amazon 3.3x more expensive |
+| E-commerce GMV | ~$750 billion (including 1P+3P) | ~$95 billion (Temu) + domestic 3 trillion+ | Gap smaller on the e-commerce dimension |
 
-**注：** PDD不单独披露Temu营收。PDD整体营收560亿美元中，Temu估计贡献200-250亿美元（佣金+服务费口径）。
+**Note:** PDD does not separately disclose Temu's revenue. Of PDD's total revenue of $56 billion, Temu is estimated to contribute $20-25 billion (on a commission + service-fee basis).
 
 ---
 
-## 二、Amazon 2036年预测
+## II. Amazon 2036 Forecast
 
-### 2.1 分业务预测
+### 2.1 Forecast by Business Segment
 
-#### AWS（云计算+AI）
+#### AWS (Cloud Computing + AI)
 
-| 指标 | 2025年 | 2036年预测 | 复合增长率 |
+| Metric | 2025 | 2036 Forecast | CAGR |
 |------|--------|-----------|-----------|
-| 营收 | 1,290亿美元 | 4,500-6,000亿美元 | 12-15% |
-| 营业利润 | 456亿美元 | 1,350-2,100亿美元 | 10-15% |
-| 营业利润率 | 35.3% | 30-35% | 规模效应vs竞争 |
+| Revenue | $129 billion | $450-600 billion | 12-15% |
+| Operating profit | $45.6 billion | $135-210 billion | 10-15% |
+| Operating margin | 35.3% | 30-35% | Scale effects vs. competition |
 
-**关键假设：**
-- Goldman Sachs预测全球云市场2030年达2万亿美元，2035年约6万亿美元（复合增长率20.6%）
-- AWS当前全球云市场份额约31%。假设2036年维持25-28%（竞争侵蚀）
-- 2万亿 x 28% = 5,600亿（2030年路径合理性检验：AWS CEO称潜力可达6,000亿）
-- AI将是最大增长驱动——生成式AI预计占云支出的10-15%（2,000-3,000亿美元）
-- **但反面论据**：竞争加剧（Azure份额追赶）、资本开支回报递减（2025年已宣布2,000亿美元基建计划）、客户从IaaS向自建迁移
+**Key assumptions:**
+- Goldman Sachs projects the global cloud market will reach $2 trillion by 2030 and roughly $6 trillion by 2035 (a 20.6% CAGR)
+- AWS currently holds about 31% of the global cloud market. Assume it holds 25-28% in 2036 (competitive erosion)
+- $2 trillion x 28% = $560 billion (2030 pathway sanity check: AWS's CEO has said the potential could reach $600 billion)
+- AI will be the biggest growth driver — generative AI is expected to account for 10-15% of cloud spending ($200-300 billion)
+- **Counterargument:** intensifying competition (Azure closing the share gap), diminishing returns on capex (a $200 billion infrastructure plan already announced in 2025), and customers migrating from IaaS to self-built infrastructure
 
-#### 电商（北美+国际）
+#### E-commerce (North America + International)
 
-| 指标 | 2025年 | 2036年预测 | 复合增长率 |
+| Metric | 2025 | 2036 Forecast | CAGR |
 |------|--------|-----------|-----------|
-| 北美营收 | 4,589亿美元 | 8,000-10,000亿美元 | 5-7% |
-| 国际营收 | 1,619亿美元 | 3,500-5,000亿美元 | 7-11% |
-| 电商总营收 | 6,208亿美元 | 11,500-15,000亿美元 | 6-8% |
-| 电商营业利润 | 343亿美元（北美296+国际47） | 800-1,200亿美元 | 8-12% |
+| North America revenue | $458.9 billion | $800 billion-$1 trillion | 5-7% |
+| International revenue | $161.9 billion | $350-500 billion | 7-11% |
+| Total e-commerce revenue | $620.8 billion | $1.15-1.5 trillion | 6-8% |
+| E-commerce operating profit | $34.3 billion (North America $29.6B + International $4.7B) | $80-120 billion | 8-12% |
 
-**关键假设：**
-- 美国电商渗透率从21.8%（2026年）提升至30-35%（2036年）
-- Amazon美国市场份额从40.5%缓慢增至42-45%（接近天花板）
-- 国际市场是更大增长空间——特别是印度、东南亚、拉美
-- 3P卖家占比继续提升（当前约60%），带动佣金+服务费收入增长
-- **但反面论据**：Walmart/Temu/TikTok Shop竞争加剧、反垄断监管风险、1P毛利率承压
+**Key assumptions:**
+- US e-commerce penetration rises from 21.8% (2026) to 30-35% (2036)
+- Amazon's US market share slowly rises from 40.5% to 42-45% (approaching a ceiling)
+- International markets offer the bigger growth runway — especially India, Southeast Asia, and Latin America
+- Third-party sellers continue to gain share (currently ~60%), driving growth in commissions and service-fee revenue
+- **Counterargument:** intensifying competition from Walmart/Temu/TikTok Shop, antitrust regulatory risk, and pressure on 1P gross margins
 
-#### 广告业务
+#### Advertising
 
-| 指标 | 2025年 | 2036年预测 | 复合增长率 |
+| Metric | 2025 | 2036 Forecast | CAGR |
 |------|--------|-----------|-----------|
-| 广告营收 | 685亿美元 | 2,000-2,800亿美元 | 10-14% |
-| 广告营业利润率 | 估计50-60% | 55-65% | 规模效应显著 |
-| 广告营业利润 | ~370亿美元 | 1,100-1,800亿美元 | 10-15% |
+| Ad revenue | $68.5 billion | $200-280 billion | 10-14% |
+| Ad operating margin | Estimated 50-60% | 55-65% | Significant scale effects |
+| Ad operating profit | ~$37 billion | $110-180 billion | 10-15% |
 
-**关键假设：**
-- 2025年同比增长21.8%，增速逐步回落至10-14%
-- 零售媒体（Retail Media）是全球广告增长最快赛道，Amazon是绝对龙头
-- Prime Video广告刚起步（2024年1月开始插广告），未来10年有巨大变现空间
-- 广告是Amazon利润率最高的业务（边际成本接近零）
-- **但反面论据**：广告加载率有上限（影响购物体验）、监管对数据使用的限制
+**Key assumptions:**
+- Grew 21.8% year over year in 2025, with growth gradually slowing to 10-14%
+- Retail media is the fastest-growing segment of global advertising, and Amazon is the dominant leader
+- Prime Video advertising is just getting started (ads began running in January 2024), leaving huge monetization potential over the next decade
+- Advertising is Amazon's highest-margin business (marginal cost near zero)
+- **Counterargument:** the ad load rate has a ceiling (it affects the shopping experience), and regulation may restrict data usage
 
-#### 其他业务（Prime会员、设备等）
+#### Other Businesses (Prime Membership, Devices, etc.)
 
-| 指标 | 2025年 | 2036年预测 |
+| Metric | 2025 | 2036 Forecast |
 |------|--------|-----------|
-| 其他营收 | ~200亿美元 | ~400亿美元 |
+| Other revenue | ~$20 billion | ~$40 billion |
 
-### 2.2 Amazon 2036年汇总预测
+### 2.2 Amazon 2036 Summary Forecast
 
-| 情景 | 总营收 | 净利润 | 净利润率 |
+| Scenario | Total Revenue | Net Profit | Net Margin |
 |------|--------|--------|---------|
-| **乐观** | 2.3万亿美元 | 2,800亿美元 | 12.2% |
-| **中性** | 1.8万亿美元 | 1,800亿美元 | 10.0% |
-| **悲观** | 1.4万亿美元 | 1,100亿美元 | 7.9% |
+| **Optimistic** | $2.3 trillion | $280 billion | 12.2% |
+| **Neutral** | $1.8 trillion | $180 billion | 10.0% |
+| **Pessimistic** | $1.4 trillion | $110 billion | 7.9% |
 
-**中性情景分解：**
-- AWS：5,000亿营收，1,600亿利润
-- 电商（北美+国际）：12,000亿营收，900亿利润
-- 广告：2,400亿营收，1,300亿利润（含在电商分部报告中）
-- 扣除总部费用/投资损失等 -> 净利润1,800亿美元
+**Neutral scenario breakdown:**
+- AWS: $500 billion revenue, $160 billion profit
+- E-commerce (North America + International): $1.2 trillion revenue, $90 billion profit
+- Advertising: $240 billion revenue, $130 billion profit (included within the e-commerce segment reporting)
+- After deducting corporate overhead/investment losses etc. -> net profit of $180 billion
 
-**注意：** 广告利润在Amazon财报中不单独列示，包含在北美和国际分部内。上述为估算分拆。
+**Note:** Advertising profit is not separately disclosed in Amazon's financial reports; it is included within the North America and International segments. The breakdown above is an estimated split.
 
 ---
 
-## 三、Temu / PDD Holdings 2036年预测
+## III. Temu / PDD Holdings 2036 Forecast
 
-### 3.1 拼多多国内（主站）
+### 3.1 Pinduoduo Domestic (Main Platform)
 
-| 指标 | 2025年 | 2036年预测 | 复合增长率 |
+| Metric | 2025 | 2036 Forecast | CAGR |
 |------|--------|-----------|-----------|
-| 营收 | ~310亿美元（~RMB 2,250亿） | ~450亿美元 | 3-4% |
-| 营业利润 | ~200亿美元（~RMB 1,450亿） | ~250亿美元 | 2-3% |
+| Revenue | ~$31 billion (~RMB 225 billion) | ~$45 billion | 3-4% |
+| Operating profit | ~$20 billion (~RMB 145 billion) | ~$25 billion | 2-3% |
 
-**关键假设：**
-- 中国电商已高度渗透（~50%），增速放缓至个位数
-- 拼多多主站面临淘宝/抖音/京东竞争，份额趋于稳定
-- "新拼多多"自营品牌投入会压缩短期利润，但中期贡献增量
-- **核心判断：国内是现金牛，不是增长引擎**
+**Key assumptions:**
+- China's e-commerce penetration is already high (~50%), and growth is slowing to single digits
+- Pinduoduo's main platform faces competition from Taobao/Douyin/JD.com, with market share stabilizing
+- Investment in the "New Pinduoduo" private-label brand will compress short-term profit but contribute incremental gains over the medium term
+- **Core judgment: the domestic business is a cash cow, not a growth engine**
 
-### 3.2 Temu（海外）
+### 3.2 Temu (Overseas)
 
-引用之前的研究结论（Temu-Shein 5年预测），并延伸至2036年：
+Citing conclusions from prior research (the Temu-Shein 5-year forecast) and extending them to 2036:
 
-| 指标 | 2025年 | 2031年（中性） | 2036年预测 |
+| Metric | 2025 | 2031 (Neutral) | 2036 Forecast |
 |------|--------|--------------|-----------|
-| GMV | ~950亿美元 | 1,900亿美元 | 3,000-4,000亿美元 |
-| 平台营收 | ~200-250亿美元 | 340亿美元 | 600-800亿美元 |
-| Take rate | ~17% | ~18% | ~20%（广告货币化成熟） |
-| 营业利润 | ~0 | 28-34亿美元 | 80-120亿美元 |
-| 营业利润率 | ~0% | ~8-10% | 12-15% |
+| GMV | ~$95 billion | $190 billion | $300-400 billion |
+| Platform revenue | ~$20-25 billion | $34 billion | $60-80 billion |
+| Take rate | ~17% | ~18% | ~20% (advertising monetization matures) |
+| Operating profit | ~$0 | $2.8-3.4 billion | $8-12 billion |
+| Operating margin | ~0% | ~8-10% | 12-15% |
 
-**2031→2036年延伸假设：**
-- 2031-2036年GMV增速放缓至8-12%（市场成熟）
-- take rate从18%升至20%（广告占3-4%，佣金15%，其他2%）
-- 营业利润率从10%升至12-15%（参照拼多多国内25%，但海外运营成本始终更高）
-- 半托管+本地仓模式全球跑通，物流成本占比下降
+**2031→2036 extension assumptions:**
+- GMV growth slows to 8-12% during 2031-2036 (market maturing)
+- Take rate rises from 18% to 20% (advertising 3-4%, commissions 15%, other 2%)
+- Operating margin rises from 10% to 12-15% (benchmarked against Pinduoduo domestic's 25%, but overseas operating costs remain structurally higher)
+- The semi-managed + local-warehouse model scales globally worldwide, and logistics costs decline as a share of revenue
 
-**"新拼多多"自营品牌如果成功：**
-- 类似Amazon的"Amazon Basics"模式——平台数据驱动自有品牌
-- 潜在贡献：额外100-200亿美元营收，毛利率30-40%（远高于纯平台模式）
-- 但风险：与平台卖家利益冲突，可能伤害生态
-- **概率评估：50%概率有意义贡献（>50亿美元利润）**
+**If the "New Pinduoduo" private-label brand succeeds:**
+- Similar to Amazon's "Amazon Basics" model — platform data driving a private-label brand
+- Potential contribution: an additional $10-20 billion in revenue, with gross margin of 30-40% (far above the pure-platform model)
+- But the risk: conflicts of interest with platform sellers, which could damage the ecosystem
+- **Probability assessment: 50% probability of a meaningful contribution (>$5 billion in profit)**
 
-### 3.3 PDD Holdings 2036年汇总预测
+### 3.3 PDD Holdings 2036 Summary Forecast
 
-| 情景 | 总营收 | 净利润 | 净利润率 |
+| Scenario | Total Revenue | Net Profit | Net Margin |
 |------|--------|--------|---------|
-| **乐观** | 1,600亿美元 | 300亿美元 | 18.8% |
-| **中性** | 1,100亿美元 | 190亿美元 | 17.3% |
-| **悲观** | 700亿美元 | 80亿美元 | 11.4% |
+| **Optimistic** | $160 billion | $30 billion | 18.8% |
+| **Neutral** | $110 billion | $19 billion | 17.3% |
+| **Pessimistic** | $70 billion | $8 billion | 11.4% |
 
-**中性情景分解：**
-- 国内拼多多：450亿营收，180亿利润
-- Temu海外：650亿营收，100亿利润
-- 总部费用/投资等扣减 -> 净利润190亿美元
+**Neutral scenario breakdown:**
+- Domestic Pinduoduo: $45 billion revenue, $18 billion profit
+- Temu overseas: $65 billion revenue, $10 billion profit
+- After deducting corporate overhead/investment etc. -> net profit of $19 billion
 
-**之前研究的概率加权年利润124亿美元** 是基于更保守的假设（主要是Temu 5年窗口）。延长到10年后，如果Temu跨过盈亏平衡并进入利润释放期，中性情景下PDD整体净利润可达190亿美元。
+**The probability-weighted annual profit of $12.4 billion from prior research** was based on more conservative assumptions (mainly a 5-year window for Temu). Extending to 10 years, if Temu crosses breakeven and enters a profit-release phase, PDD's overall net profit could reach $19 billion under the neutral scenario.
 
 ---
 
-## 四、2036年直接对比
+## IV. Direct 2036 Comparison
 
-### 4.1 绝对规模对比
+### 4.1 Absolute Scale Comparison
 
-| 维度 | Amazon（中性） | PDD（中性） | 倍数差 | vs 2025年倍数差 |
+| Dimension | Amazon (Neutral) | PDD (Neutral) | Multiple Gap | vs 2025 Multiple Gap |
 |------|--------------|-----------|--------|---------------|
-| 总营收 | 1.8万亿美元 | 1,100亿美元 | **16.4x** | 12.8x → 16.4x **扩大** |
-| 净利润 | 1,800亿美元 | 190亿美元 | **9.5x** | 5.7x → 9.5x **扩大** |
-| 电商GMV | ~2.5万亿美元 | ~4,000亿美元（Temu）+ 国内 | 电商维度~3x | 缩小（Temu增速更快） |
+| Total revenue | $1.8 trillion | $110 billion | **16.4x** | 12.8x → 16.4x **widening** |
+| Net profit | $180 billion | $19 billion | **9.5x** | 5.7x → 9.5x **widening** |
+| E-commerce GMV | ~$2.5 trillion | ~$400 billion (Temu) + domestic | ~3x on the e-commerce dimension | Narrowing (Temu growing faster) |
 
-**结论：营收和利润差距将扩大，不是缩小。**
+**Conclusion: the revenue and profit gap will widen, not narrow.**
 
-原因很简单：Amazon有三个超级增长引擎——AWS、广告、国际电商。PDD只有一个高增长引擎（Temu），而国内主站已接近天花板。
+The reason is simple: Amazon has three super growth engines — AWS, advertising, and international e-commerce. PDD has only one high-growth engine (Temu), while its domestic flagship platform is already near its ceiling.
 
-### 4.2 增速对比
+### 4.2 Growth Rate Comparison
 
-| 指标 | Amazon 10年复合增速 | PDD 10年复合增速 |
+| Metric | Amazon 10-Year CAGR | PDD 10-Year CAGR |
 |------|-------------------|-----------------|
-| 营收 | 8-10% | 6-8% |
-| 净利润 | 8-10% | 3-5% |
+| Revenue | 8-10% | 6-8% |
+| Net profit | 8-10% | 3-5% |
 
-**PDD利润增速更慢的原因：**
-- 2025年净利润基数已经很高（RMB 993亿），国内利润增长几乎停滞
-- Temu从亏损到盈利的过程已经消耗了增速（2025-2028年）
-- 国内"百亿补贴"商家扶持计划持续压缩利润
+**Reasons PDD's profit growth is slower:**
+- PDD's 2025 net profit base is already high (RMB 99.3 billion), and domestic profit growth has nearly stalled
+- Temu's transition from loss to profit has already consumed growth (2025-2028)
+- The domestic "10 Billion Subsidy" merchant-support program continues to compress profit
 
-### 4.3 Temu能否在任何维度追平Amazon？
+### 4.3 Can Temu Match Amazon on Any Dimension?
 
-| 维度 | 能否追平 | 说明 |
+| Dimension | Can It Match? | Explanation |
 |------|---------|------|
-| 总营收 | **不可能** | Amazon 1.8万亿 vs PDD 1,100亿，差距太大 |
-| 净利润 | **不可能** | AWS一个业务的利润就超过PDD整体 |
-| 电商GMV | **部分领域可能** | Temu在跨境电商领域份额已达24%，可能在某些品类追平 |
-| 用户数 | **已经追平** | Temu月活4.16亿 vs Amazon Prime会员2亿+，但Temu用户价值低很多 |
-| 特定市场份额 | **可能** | 在低价百货品类，Temu可能在欧洲某些市场超过Amazon |
+| Total revenue | **Impossible** | Amazon's $1.8 trillion vs. PDD's $110 billion — the gap is too large |
+| Net profit | **Impossible** | AWS alone generates more profit than PDD's entire business |
+| E-commerce GMV | **Possible in some areas** | Temu's share of cross-border e-commerce has already reached 24%, and it may catch up in certain categories |
+| User count | **Already matched** | Temu's MAU of 416 million vs. Amazon Prime membership of 200 million+, but Temu's per-user value is much lower |
+| Share in specific markets | **Possible** | In the low-price general-merchandise category, Temu may surpass Amazon in certain European markets |
 
 ---
 
-## 五、关键变量分析
+## V. Key Variable Analysis
 
-### 5.1 关税政策
+### 5.1 Tariff Policy
 
-| 影响维度 | 对Temu的影响 | 对Amazon的影响 |
+| Impact Dimension | Impact on Temu | Impact on Amazon |
 |---------|------------|---------------|
-| 美国de minimis取消 | **重大负面** | 轻微正面（竞争对手被削弱） |
-| 中美综合关税30-50% | **重大负面**（直邮模式成本飙升） | 轻微负面（部分商品来自中国） |
-| 欧盟跨境电商新规 | **中度负面**（2026年可能取消€150免税） | 中性（本地化程度高） |
+| Elimination of US de minimis exemption | **Major negative** | Slight positive (competitors weakened) |
+| Combined US-China tariffs of 30-50% | **Major negative** (direct-mail model costs spike) | Slight negative (some goods sourced from China) |
+| New EU cross-border e-commerce rules | **Moderately negative** (the €150 duty-free threshold may be eliminated in 2026) | Neutral (highly localized already) |
 
-**当前现实：**
-- de minimis豁免已取消，但关税从120%降至54%（低价包裹税率）
-- 中美达成临时贸易协议，整体关税从145%降至30%
-- Temu正快速转向本地仓模式（美国仓覆盖15-25%订单），部分缓解关税冲击
+**Current reality:**
+- The de minimis exemption has already been eliminated, but tariffs have fallen from 120% to 54% (the low-value-parcel tariff rate)
+- The US and China reached a temporary trade agreement, and overall tariffs fell from 145% to 30%
+- Temu is rapidly shifting to a local-warehouse model (US warehouses now cover 15-25% of orders), which is partially cushioning the tariff impact
 
-**核心判断：** 关税是Temu的存亡级变量，但对Amazon只是微小扰动。这种不对称性是两者最大的差异之一。
+**Core judgment:** Tariffs are an existential variable for Temu, but only a minor disturbance for Amazon. This asymmetry is one of the biggest differences between the two companies.
 
-### 5.2 AI对两者的不同影响
+### 5.2 AI's Divergent Impact on the Two Companies
 
-| 维度 | Amazon | Temu/PDD |
+| Dimension | Amazon | Temu/PDD |
 |------|--------|----------|
-| **直接受益** | AWS是AI基础设施提供者，AI投入=AWS营收 | 间接受益——用AI优化推荐/供应链/翻译 |
-| **收入贡献** | AI预计2030年贡献云支出10-15%（$200-300亿给AWS） | AI节省成本但不直接产生收入 |
-| **竞争优势** | Bedrock/自研芯片（Trainium）/Anthropic投资 | 算法推荐效率高，但非差异化护城河 |
-| **风险** | 资本开支回报不确定（$2,000亿投入计划） | AI可能让竞争对手（Shopify+AI）更容易复制Temu模式 |
+| **Direct beneficiary** | AWS is an AI infrastructure provider — AI spending equals AWS revenue | Benefits indirectly — using AI to optimize recommendations/supply chain/translation |
+| **Revenue contribution** | AI is expected to contribute 10-15% of cloud spending by 2030 ($20-30 billion to AWS) | AI saves costs but does not directly generate revenue |
+| **Competitive advantage** | Bedrock / in-house chips (Trainium) / investment in Anthropic | Highly efficient recommendation algorithms, but not a differentiated moat |
+| **Risk** | Uncertain return on capital expenditure ($200 billion investment plan) | AI may make it easier for competitors (Shopify + AI) to replicate Temu's model |
 
-**核心判断：** AI是Amazon的增长引擎（通过AWS直接变现），是Temu的效率工具（间接降本）。Amazon从AI中获益的确定性远高于Temu。
+**Core judgment:** AI is a growth engine for Amazon (monetized directly through AWS), while for Temu it is an efficiency tool (indirect cost reduction). Amazon's certainty of benefiting from AI is far higher than Temu's.
 
-### 5.3 全球电商市场增长空间
+### 5.3 Global E-commerce Market Growth Potential
 
-| 指标 | 2025年 | 2036年预测 |
+| Metric | 2025 | 2036 Forecast |
 |------|--------|-----------|
-| 全球电商GMV | ~6万亿美元 | 15-25万亿美元 |
-| 电商渗透率 | ~20% | 30-40% |
-| 最大增量市场 | 中国、美国 | 印度、东南亚、拉美、非洲 |
+| Global e-commerce GMV | ~$6 trillion | $15-25 trillion |
+| E-commerce penetration | ~20% | 30-40% |
+| Largest incremental markets | China, US | India, Southeast Asia, Latin America, Africa |
 
-**对两者的含义：**
-- 全球电商蛋糕在10年内可能翻3-4倍，但增长主要来自新兴市场
-- Amazon在新兴市场布局较早（印度投入巨大），但盈利能力弱
-- Temu在新兴市场扩张快（已进入70+国家），但单位经济模型更差
+**Implications for both companies:**
+- The global e-commerce pie could triple to quadruple within 10 years, but the growth will come mainly from emerging markets
+- Amazon entered emerging markets relatively early (with massive investment in India), but profitability there remains weak
+- Temu is expanding rapidly in emerging markets (already in 70+ countries), but its unit economics are worse
 
 ---
 
-## 六、投资回报率对比
+## VI. Investment Return Comparison
 
-### 6.1 10年回报率测算
+### 6.1 10-Year Return Estimate
 
-| 指标 | Amazon | PDD Holdings |
+| Metric | Amazon | PDD Holdings |
 |------|--------|-------------|
-| 当前市值 | 2.93万亿美元 | 1,380亿美元 |
-| 当前PE（TTM） | ~33x | ~10x |
-| 2036年净利润（中性） | 1,800亿美元 | 190亿美元 |
-| 2036年合理PE | 20-25x | 12-15x |
-| 2036年市值 | 3.6-4.5万亿美元 | 2,280-2,850亿美元 |
-| 10年倍数 | 1.2-1.5x | **1.7-2.1x** |
-| **年化回报** | **2-4%** | **5-7%** |
+| Current market cap | $2.93 trillion | $138 billion |
+| Current PE (TTM) | ~33x | ~10x |
+| 2036 net profit (neutral) | $180 billion | $19 billion |
+| 2036 reasonable PE | 20-25x | 12-15x |
+| 2036 market cap | $3.6-4.5 trillion | $228-285 billion |
+| 10-year multiple | 1.2-1.5x | **1.7-2.1x** |
+| **Annualized return** | **2-4%** | **5-7%** |
 
-### 6.2 情景分析
+### 6.2 Scenario Analysis
 
 #### Amazon
 
-| 情景 | 概率 | 2036年利润 | 退出PE | 市值 | 年化回报 |
+| Scenario | Probability | 2036 Profit | Exit PE | Market Cap | Annualized Return |
 |------|------|-----------|--------|------|---------|
-| 乐观 | 25% | 2,800亿 | 28x | 7.8万亿 | 10.3% |
-| 中性 | 50% | 1,800亿 | 22x | 4.0万亿 | 3.1% |
-| 悲观 | 25% | 1,100亿 | 18x | 2.0万亿 | -3.7% |
-| **概率加权** | | | | **4.1万亿** | **3.6%** |
+| Optimistic | 25% | $280 billion | 28x | $7.8 trillion | 10.3% |
+| Neutral | 50% | $180 billion | 22x | $4.0 trillion | 3.1% |
+| Pessimistic | 25% | $110 billion | 18x | $2.0 trillion | -3.7% |
+| **Probability-weighted** | | | | **$4.1 trillion** | **3.6%** |
 
 #### PDD Holdings
 
-| 情景 | 概率 | 2036年利润 | 退出PE | 市值 | 年化回报 |
+| Scenario | Probability | 2036 Profit | Exit PE | Market Cap | Annualized Return |
 |------|------|-----------|--------|------|---------|
-| 乐观 | 20% | 300亿 | 15x | 4,500亿 | 12.6% |
-| 中性 | 50% | 190亿 | 12x | 2,280亿 | 5.1% |
-| 悲观 | 30% | 80亿 | 8x | 640亿 | -7.4% |
-| **概率加权** | | | | **2,092亿** | **4.3%** |
+| Optimistic | 20% | $30 billion | 15x | $450 billion | 12.6% |
+| Neutral | 50% | $19 billion | 12x | $228 billion | 5.1% |
+| Pessimistic | 30% | $8 billion | 8x | $64 billion | -7.4% |
+| **Probability-weighted** | | | | **$209.2 billion** | **4.3%** |
 
-### 6.3 估值差距是否合理？
+### 6.3 Is the Valuation Gap Justified?
 
-**PDD PE 10x vs Amazon PE 33x 的差距反映了：**
+**The gap between PDD's 10x PE and Amazon's 33x PE reflects:**
 
-1. **业务质量差异（合理）**：Amazon有AWS+广告两个高利润率、高确定性引擎；PDD的利润高度依赖中国国内一个市场
-2. **增长确定性差异（合理）**：Amazon 10年内利润增长2.3倍的确定性远高于PDD
-3. **地缘政治风险折价（合理但可能过度）**：PDD作为中概股，承受VIE结构风险+中美脱钩风险+关税风险的三重折价
-4. **现金回馈差异（合理）**：Amazon已开始回购，PDD持有$604亿现金但不分不回购
+1. **Business-quality differences (justified):** Amazon has two high-margin, high-certainty engines in AWS and advertising; PDD's profit is highly dependent on a single market — domestic China
+2. **Growth-certainty differences (justified):** the certainty behind Amazon's 2.3x profit growth over 10 years is far higher than PDD's
+3. **Geopolitical risk discount (justified, but possibly excessive):** as a US-listed China-based stock, PDD bears a triple discount from VIE structure risk, US-China decoupling risk, and tariff risk
+4. **Cash-return differences (justified):** Amazon has already begun buybacks, while PDD holds $60.4 billion in cash but neither pays dividends nor buys back shares
 
-**我的判断：**
-- PDD 10x PE确实便宜，但"便宜有便宜的道理"——这个估值隐含了市场对Temu地缘政治风险和国内增速下降的定价
-- Amazon 33x PE不算贵——AWS+广告的利润增长支撑了溢价，且确定性远高于PDD
-- 如果PDD开始大规模回购/分红，PE可能从10x修复到15x，这本身就是50%的额外回报
-- **当前估值下，PDD的期望回报率略高于Amazon（4.3% vs 3.6%），但方差大得多**
+**My assessment:**
+- PDD's 10x PE is indeed cheap, but "cheap for a reason" — this valuation prices in the market's view of Temu's geopolitical risk and the slowdown in domestic growth
+- Amazon's 33x PE is not expensive — profit growth from AWS and advertising supports the premium, and its certainty is far higher than PDD's
+- If PDD begins large-scale buybacks/dividends, its PE could re-rate from 10x to 15x, which alone would be a 50% additional return
+- **At current valuations, PDD's expected return is slightly higher than Amazon's (4.3% vs. 3.6%), but with far greater variance**
 
 ---
 
-## 七、最终判断
+## VII. Final Judgment
 
-### 7.1 谁是更好的生意？
+### 7.1 Which Is the Better Business?
 
-**毫无疑问是Amazon。** AWS+广告+Prime构成了互联网时代最强大的商业飞轮。Temu本质上是一个跨境贸易平台，护城河远不如Amazon。
+**Without question, Amazon.** AWS + advertising + Prime form the most powerful business flywheel of the internet era. Temu is essentially a cross-border trading platform, with a moat far narrower than Amazon's.
 
-### 7.2 谁是更好的投资？
+### 7.2 Which Is the Better Investment?
 
-**取决于你的风险偏好：**
+**It depends on your risk appetite:**
 
-| 类型 | 选择 | 理由 |
+| Type | Choice | Rationale |
 |------|------|------|
-| **追求确定性** | Amazon | 10年内大概率不亏钱，但回报率可能只有3-5%（当前估值不便宜） |
-| **追求性价比** | PDD | PE 10x是"极度恐惧时贪婪"的典型场景，但需要承受Temu政策风险 |
-| **最优策略** | 两者都不买 | Amazon太贵买不出好回报，PDD太不确定赌不起——这个价位更好的选择可能是腾讯（PE 22x，确定性远高于PDD，增速高于Amazon） |
+| **Seeking certainty** | Amazon | Highly unlikely to lose money over 10 years, but the return may be only 3-5% (the current valuation isn't cheap) |
+| **Seeking value** | PDD | A PE of 10x is a textbook case of "being greedy when others are extremely fearful," but requires tolerating Temu's policy risk |
+| **Optimal strategy** | Buy neither | Amazon is too expensive to generate a good return, and PDD is too uncertain to bet on — at this price point, a better choice may be Tencent (PE 22x, far more certain than PDD, and growing faster than Amazon) |
 
-### 7.3 关键监控指标
+### 7.3 Key Monitoring Indicators
 
-| 变量 | 利好PDD | 利好Amazon |
+| Variable | Favors PDD | Favors Amazon |
 |------|---------|-----------|
-| 中美关税 | 降至15%以下 | 维持30%+ |
-| de minimis | 恢复或门槛提高 | 永久取消 |
-| AWS增速 | 降至10%以下（AI不及预期） | 维持20%+ |
-| PDD现金回馈 | 宣布大规模回购 | 继续不分配 |
-| Temu本地化 | 本地仓覆盖50%+订单 | 本地化失败 |
-| 全球贸易环境 | 全球化重新开放 | 保护主义加剧 |
+| US-China tariffs | Falling below 15% | Staying at 30%+ |
+| De minimis | Restored or threshold raised | Permanently eliminated |
+| AWS growth rate | Falls below 10% (AI underperforms expectations) | Stays at 20%+ |
+| PDD cash return | Announces large-scale buybacks | Continues withholding distributions |
+| Temu localization | Local warehouses cover 50%+ of orders | Localization fails |
+| Global trade environment | Globalization reopens | Protectionism intensifies |
 
 ---
 
-## 八、回应之前研究的校准
+## VIII. Calibration Against Prior Research
 
-与之前报告（七公司10年利润对决）的结论对比：
+Comparison with the conclusions of the prior report (Seven Companies' 10-Year Profit Showdown):
 
-| 指标 | 之前预测 | 本次预测 | 差异说明 |
+| Metric | Prior Forecast | This Forecast | Explanation of Difference |
 |------|---------|---------|---------|
-| PDD 2036年加权利润 | ~1,700亿人民币 | ~1,370亿人民币（190亿美元） | 基本一致（之前用人民币，本次用美元） |
-| PDD 10年年化回报 | 9.5% | 4.3-5.1%（概率加权） | 本次更保守，因为深入分析了Temu的政策风险 |
-| PDD确定性 | 中偏低 | 维持中偏低 | 一致 |
+| PDD 2036 weighted profit | ~RMB 170 billion | ~RMB 137 billion ($19 billion) | Broadly consistent (the prior report used RMB, this one uses USD) |
+| PDD 10-year annualized return | 9.5% | 4.3-5.1% (probability-weighted) | This one is more conservative, due to a deeper analysis of Temu's policy risk |
+| PDD certainty | Medium-low | Remains medium-low | Consistent |
 
-**主要差异原因：** 之前报告的9.5%年化回报假设了$604亿现金最终回馈股东（相当于当前市值的44%）。如果PDD确实开始大规模回购，实际回报会显著提高。现金回馈是PDD投资回报的最大变量。
+**Main reason for the difference:** The prior report's 9.5% annualized return assumed that the $60.4 billion in cash would ultimately be returned to shareholders (equivalent to 44% of the current market cap). If PDD does begin large-scale buybacks, the actual return would improve significantly. Cash return is the single largest variable in PDD's investment return.
 
 ---
 
-*数据来源：Amazon 2025年报（IR）、PDD Holdings 2025年报、Goldman Sachs云市场预测、eMarketer美国电商份额数据、Precedence Research全球电商预测、Statista、MacroTrends、Yahoo Finance、StockAnalysis.com*
-*所有预测基于公开信息推算，不构成投资建议*
+*Data sources: Amazon 2025 Annual Report (IR), PDD Holdings 2025 Annual Report, Goldman Sachs cloud market forecast, eMarketer US e-commerce share data, Precedence Research global e-commerce forecast, Statista, MacroTrends, Yahoo Finance, StockAnalysis.com*
+*All forecasts are derived from public information and do not constitute investment advice*

@@ -1,375 +1,375 @@
-# 金风科技（002202.SZ / 02208.HK）投资研究报告
+# Goldwind Science & Technology (002202.SZ / 02208.HK) Investment Research Report
 
-**日期**：2026年6月23日
-**股票代码**：A股 002202.SZ / H股 02208.HK
-**当前股价**：A股 21.75元（6/23收盘）/ H股 ~17.40港元
-**市值**：约919亿元
-**总股本**：42.25亿股
-
----
-
-## 信息丰富度评级：A级（信息充裕）
-
-金风科技2007年A股上市、2010年H股上市，上市近20年，券商覆盖密集，年报数据完整。全球风电行业龙头，中英文覆盖均充分。
-
-**AI研究局限性声明**：
-- A级公司的主要风险是**共识过强**——本报告重点做反面检验
-- 风机制造是典型的"苦生意"（毛利率8.95%），市场对盈利拐点的乐观预期需要审慎评估
-- 337亿应收账款的坏账风险难以精确量化
-
-**偏见自查**：
-- [x] "碳中和/新能源"叙事依然强大，但风电行业已从"成长股"变为"制造业股"
-- [x] 2025年净利润+49%看似亮眼，但绝对利润率仅3.8%——这是"量大利薄"的苦生意
-- [x] 海外高毛利率是核心看点，但欧盟FSR调查可能阻碍这一增长引擎
+**Date**: June 23, 2026
+**Ticker**: A-shares 002202.SZ / H-shares 02208.HK
+**Current share price**: A-shares RMB 21.75 (6/23 close) / H-shares ~HKD 17.40
+**Market cap**: approx. RMB 91.9 billion
+**Total shares outstanding**: 4.225 billion shares
 
 ---
 
-## 第一步：核心数据总览
+## Information Richness Rating: Grade A (Abundant Information)
 
-### 收入结构（2025年报）
+Goldwind listed its A-shares in 2007 and its H-shares in 2010, giving it nearly 20 years as a public company, dense sell-side coverage, and complete annual-report data. It is the global leader in wind power, with ample coverage in both Chinese and English.
 
-| 板块 | 收入（亿元） | 占比 | 同比 | 毛利率 |
+**AI research limitations disclosure**:
+- The main risk for a Grade-A company is excessive consensus — this report focuses on stress-testing the counter-case
+- Wind turbine manufacturing is a classic "tough business" (gross margin 8.95%); the market's optimistic expectations about a profit inflection point warrant careful scrutiny
+- The bad-debt risk on RMB 33.7 billion of accounts receivable is difficult to quantify precisely
+
+**Bias self-check**:
+- [x] The "carbon neutrality / new energy" narrative remains powerful, but the wind power industry has shifted from a "growth stock" story to a "manufacturing stock" story
+- [x] 2025 net profit growth of +49% looks impressive, but the absolute net margin is only 3.8% — this is a "high volume, thin margin" tough business
+- [x] The high overseas gross margin is the core highlight, but the EU's Foreign Subsidies Regulation (FSR) investigation could hamper this growth engine
+
+---
+
+## Step 1: Core Data Overview
+
+### Revenue Structure (FY2025 Annual Report)
+
+| Segment | Revenue (RMB bn) | Share | YoY | Gross Margin |
 |------|------------|------|------|--------|
-| **风机制造** | 572.05 | 78.3% | +47.0% | **8.95%**（+3.9pct） |
-| **风电场开发** | 86.94 | 11.9% | -19.9% | **43.16%**（+3.2pct） |
-| **风电服务** | 57.16 | 7.8% | — | **20.36%** |
-| 水务运营 | 10.78 | 1.5% | +6.5% | — |
-| **合计** | 730.23 | 100% | +28.8% | **14.18%**（+2.8pct） |
+| **Turbine manufacturing** | 57.205 | 78.3% | +47.0% | **8.95%** (+3.9 ppt) |
+| **Wind farm development** | 8.694 | 11.9% | -19.9% | **43.16%** (+3.2 ppt) |
+| **Wind power services** | 5.716 | 7.8% | — | **20.36%** |
+| Water services operations | 1.078 | 1.5% | +6.5% | — |
+| **Total** | 73.023 | 100% | +28.8% | **14.18%** (+2.8 ppt) |
 
-*核心洞察：风机制造贡献78%收入但毛利率仅8.95%（苦差事）；风电场开发仅12%收入但毛利率43%（利润奶牛）。金风的利润结构远比收入结构好看——高利润的风电场和服务业务是"隐藏的宝藏"。*
+*Core insight: turbine manufacturing contributes 78% of revenue but only an 8.95% gross margin (a grind); wind farm development contributes just 12% of revenue but a 43% gross margin (a cash cow). Goldwind's profit structure looks far better than its revenue structure — the high-margin wind farm and services businesses are a "hidden treasure."*
 
-### 海外业务——利润金矿
+### Overseas Business — A Profit Goldmine
 
-| 指标 | 2025年 | 同比 |
+| Metric | 2025 | YoY |
 |------|--------|------|
-| 海外收入 | 180.82亿元 | **+50.6%** |
-| 占总收入 | 21.2% | — |
-| 海外毛利率 | **24.29%** | +10.45ppt |
-| 海外在手订单 | 9.27GW | +31.8% |
-| 覆盖国家 | 49个 | 六大洲 |
+| Overseas revenue | RMB 18.082 billion | **+50.6%** |
+| Share of total revenue | 21.2% | — |
+| Overseas gross margin | **24.29%** | +10.45 ppt |
+| Overseas order backlog | 9.27 GW | +31.8% |
+| Countries covered | 49 | six continents |
 
-*海外毛利率24.29%远超国内陆上风机的5.1%——海外业务是金风盈利修复的核心变量。*
+*At 24.29%, the overseas gross margin far exceeds the 5.1% margin on domestic onshore turbines — the overseas business is the core variable in Goldwind's profit recovery.*
 
-### 近5年财务指标
+### Five-Year Financial Metrics
 
-| 指标 | 2021年 | 2022年 | 2023年 | 2024年 | 2025年 |
+| Metric | 2021 | 2022 | 2023 | 2024 | 2025 |
 |------|--------|--------|--------|--------|--------|
-| 营业收入（亿元） | 505.7 | 464.4 | 504.6 | 567.0 | **730.2** |
-| 归母净利润（亿元） | 34.6 | 23.8 | 13.3 | 18.6 | **27.7** |
-| 净利润增速 | +17% | -31% | -44% | +40% | **+49%** |
-| 毛利率 | — | — | ~12% | ~11.4% | **14.2%** |
-| 净利率 | 6.8% | 5.1% | 2.6% | 3.3% | **3.8%** |
-| 外销容量（GW） | — | — | — | 16.05 | **26.63** |
+| Revenue (RMB bn) | 50.57 | 46.44 | 50.46 | 56.70 | **73.02** |
+| Net profit attributable to parent (RMB bn) | 3.46 | 2.38 | 1.33 | 1.86 | **2.77** |
+| Net profit growth | +17% | -31% | -44% | +40% | **+49%** |
+| Gross margin | — | — | ~12% | ~11.4% | **14.2%** |
+| Net margin | 6.8% | 5.1% | 2.6% | 3.3% | **3.8%** |
+| Export volume (GW) | — | — | — | 16.05 | **26.63** |
 
-*2022-2023年净利润连降两年（-31%、-44%），触底后2024-2025年连续恢复。驱动力：风机出货量+66%、价格止跌回升、海外高毛利订单交付。*
+*Net profit fell for two consecutive years in 2022-2023 (-31%, -44%), then bottomed out and recovered continuously in 2024-2025. Drivers: turbine shipment volume +66%, prices stabilizing and rebounding, and delivery of high-margin overseas orders.*
 
-### 2026Q1最新数据
+### Latest Q1 2026 Data
 
-| 指标 | Q1 2026 | 同比 |
+| Metric | Q1 2026 | YoY |
 |------|---------|------|
-| 营业收入 | 154.85亿 | **+63.5%** |
-| 归母净利润 | 9.07亿 | **+59.7%** |
-| 风机销售 | 6,041MW | **+133.5%** |
+| Revenue | RMB 15.485 billion | **+63.5%** |
+| Net profit attributable to parent | RMB 0.907 billion | **+59.7%** |
+| Turbine sales | 6,041 MW | **+133.5%** |
 
-### 估值指标（工具验算）
+### Valuation Metrics (Tool-Verified)
 
-| 指标 | 数值 | 说明 |
+| Metric | Value | Note |
 |------|------|------|
-| 市值 | 919亿元 | ✅ 验算通过 |
-| PE（2025 EPS 0.64） | **34.0x** | ✅ |
-| PE（2026E EPS ~1.16） | **~18.7x** | 分析师预测 |
+| Market cap | RMB 91.9 billion | ✅ verified |
+| PE (2025 EPS 0.64) | **34.0x** | ✅ |
+| PE (2026E EPS ~1.16) | **~18.7x** | analyst forecast |
 | PB | **2.37x** | ✅ |
 | ROE | **7.0%** | ✅ |
 | P/FCF | **25.9x** | ✅ |
-| 股息率 | **0.92%** | ✅ |
+| Dividend yield | **0.92%** | ✅ |
 | PS | ~1.26x | — |
 
-### 关键数据交叉验证记录
+### Key Data Cross-Validation Log
 
-| 验证项 | 结果 | 来源 |
+| Item Verified | Result | Source |
 |--------|------|------|
-| 市值验算（21.75×42.25亿股） | ✅ 919亿元，偏差0.01% | 工具验算 |
-| 2025年营业收入 | ✅ 730.23亿元，三来源一致 | 年报、东方财富、新浪财经 |
-| 2025年归母净利润 | ✅ 27.74亿元，三来源一致 | 年报、界面新闻、东方财富 |
-| PE/PB/ROE | ✅ 全部工具验算通过 | financial_rigor.py |
+| Market cap check (21.75 × 4.225 billion shares) | ✅ RMB 91.9 billion, 0.01% deviation | Tool verification |
+| 2025 revenue | ✅ RMB 73.023 billion, consistent across three sources | Annual report, Eastmoney, Sina Finance |
+| 2025 net profit attributable to parent | ✅ RMB 2.774 billion, consistent across three sources | Annual report, Jiemian News, Eastmoney |
+| PE/PB/ROE | ✅ all verified with tool | financial_rigor.py |
 
 ---
 
-## 第二步：生意本质分析 — 段永平"对的生意"
+## Step 2: Nature of the Business — Duan Yongping's "The Right Business"
 
-### 一句话定义
+### One-Sentence Definition
 
-**金风科技本质上是一家"卖风车的制造业公司"，靠卖风机走量赚微薄利润，靠自持风电场和海外高价订单赚真正的钱。**
+**Goldwind is essentially a "manufacturing company that sells windmills" — it earns thin margins by selling turbines at volume, and earns its real money from its self-owned wind farms and high-value overseas orders.**
 
-### 商业模式的两张面孔
+### The Business Model's Two Faces
 
-**面孔一：风机制造——"量大利薄的苦生意"**
-- 2025年卖出26.63GW风机，收入572亿，但毛利率仅8.95%
-- 2023-2024年价格战最惨烈时，风机含塔筒均价从3,000+元/kW跌至1,400元/kW（-53%）
-- 行业有10家整机企业激烈竞争，价格战虽触底但产能过剩未根本解决
+**Face One: Turbine Manufacturing — a "high-volume, thin-margin" tough business**
+- In 2025 the company sold 26.63 GW of turbines for RMB 57.2 billion in revenue, but at a gross margin of only 8.95%
+- At the fiercest point of the 2023-2024 price war, the average turbine price (including tower) fell from over RMB 3,000/kW to RMB 1,400/kW (-53%)
+- Ten turbine makers compete fiercely in the industry; the price war has bottomed out, but overcapacity has not been fundamentally resolved
 
-**面孔二：风电场+海外+服务——"隐藏的利润引擎"**
-- 10GW自持风电场：毛利率43%，发电利用小时超全国均值311小时
-- 海外业务：毛利率24.29%，远超国内5.1%
-- 风电服务：毛利率20.36%，后市场稳定收入
+**Face Two: Wind Farms + Overseas + Services — the "hidden profit engine"**
+- 10 GW of self-owned wind farms: 43% gross margin, with utilization hours exceeding the national average by 311 hours
+- Overseas business: 24.29% gross margin, far above the domestic 5.1%
+- Wind power services: 20.36% gross margin, stable aftermarket revenue
 
-**本质矛盾**：金风的收入主体（风机78%）是一门苦生意，但利润主体很大程度上来自风电场和海外——这两个板块合计收入占比不到35%却贡献了更高比例的利润。
+**Core contradiction**: Goldwind's main revenue source (turbines, 78%) is a tough business, but the bulk of its profit comes largely from wind farms and overseas operations — these two segments together account for less than 35% of revenue yet contribute a disproportionately higher share of profit.
 
-### 毛利率对比
+### Gross Margin Comparison
 
-| 公司 | 综合毛利率 | 风机毛利率 | 说明 |
+| Company | Blended Gross Margin | Turbine Gross Margin | Note |
 |------|-----------|-----------|------|
-| **金风科技** | 14.18% | 8.95% | 风电场业务拉高整体 |
-| 明阳智能 | ~15% | ~10% | 半直驱路线 |
-| 远景能源 | 未上市 | — | — |
-| 三一重能 | ~12% | ~8% | 纯风机制造，无风电场 |
-| Vestas | ~15% | ~10% | 全球老牌 |
+| **Goldwind** | 14.18% | 8.95% | Wind farm business lifts the blended figure |
+| Mingyang Smart Energy | ~15% | ~10% | Semi-direct-drive route |
+| Envision Energy | Unlisted | — | — |
+| Sany Renewable Energy | ~12% | ~8% | Pure turbine manufacturer, no wind farms |
+| Vestas | ~15% | ~10% | Established global player |
 
-风电整机制造在全球范围内都是低毛利行业——这不是金风的问题，而是行业的宿命。
+Wind turbine manufacturing is a low-margin industry worldwide — this is not a Goldwind-specific problem but the industry's fate.
 
-> **段永平式追问**：这门生意好在哪？
+> **Duan Yongping-style question: What's good about this business?**
 >
-> **坦率地说，风机制造本身不是一门好生意**——产品同质化严重、客户（电力央企）议价权强、价格战惨烈、毛利率不到10%。但金风有两个"好"的地方使它区别于纯制造商：(1) 10GW自持风电场是一个"印钞机"——43%毛利率、稳定的发电收入、不受风机价格战影响；(2) 海外业务毛利率24%，是国内的5倍——这说明中国风机在海外有真正的竞争力和定价权。如果只看风机制造，这是一门苦生意；但加上风电场和海外，金风的盈利结构比表面数字好得多。
+> **Frankly, turbine manufacturing itself is not a good business** — products are heavily commoditized, customers (state-owned power utilities) hold strong bargaining power, price wars have been brutal, and gross margins are below 10%. But Goldwind has two "good" features that set it apart from a pure manufacturer: (1) its 10 GW of self-owned wind farms is a "money printer" — 43% gross margin, stable power-generation revenue, and insulated from turbine price wars; (2) its overseas gross margin of 24% is five times the domestic figure — showing that Chinese turbines have genuine competitiveness and pricing power abroad. Looking only at turbine manufacturing, this is a tough business; but adding in the wind farms and overseas operations, Goldwind's profit structure is far better than the headline numbers suggest.
 
 ---
 
-## 第三步：护城河评估 — 巴菲特"经济护城河"
+## Step 3: Moat Assessment — Buffett's "Economic Moat"
 
-| 护城河类型 | 强度 | 验证 |
+| Moat Type | Strength | Assessment |
 |-----------|------|------|
-| **品牌/定价权** | ★★☆☆☆ | 国内风机采购以招标为主，品牌溢价有限。但海外市场24%毛利率暗示金风在海外有一定品牌溢价——"中国品质+中国价格"的组合在发展中国家有吸引力 |
-| **转换成本** | ★★★☆☆ | 中等。风电场20-25年运营期内需要原厂运维支持，更换整机供应商意味着重新适配电网、培训运维团队。但新建项目可以自由选择供应商 |
-| **网络效应** | ★☆☆☆☆ | 不存在 |
-| **规模效应** | ★★★★☆ | 全球出货26.6GW第一名的规模带来供应链议价权和制造成本摊薄。但竞争对手（远景21.8GW、运达19.8GW）规模差距在缩小 |
-| **自持风电场** | ★★★★★ | **这是金风最独特、最持久的护城河**。10GW自持风电场=电力基础设施资产，一旦建成就是20-25年的稳定现金流。竞争对手不可能一夜之间复制这些资产 |
+| **Brand / pricing power** | ★★☆☆☆ | Domestic turbine procurement is dominated by competitive bidding, leaving limited room for brand premium. But the 24% overseas gross margin hints at some brand premium abroad — the combination of "Chinese quality + Chinese price" is attractive in developing countries |
+| **Switching costs** | ★★★☆☆ | Moderate. Wind farms need OEM operations and maintenance support over their 20-25-year operating life; switching turbine suppliers means re-adapting to the grid and retraining O&M teams. But new projects can freely choose suppliers |
+| **Network effects** | ★☆☆☆☆ | Nonexistent |
+| **Scale effects** | ★★★★☆ | Being the world's No. 1 in shipments at 26.6 GW brings supply-chain bargaining power and manufacturing cost dilution. But the scale gap with competitors (Envision 21.8 GW, Windey 19.8 GW) is narrowing |
+| **Self-owned wind farms** | ★★★★★ | **This is Goldwind's most distinctive and durable moat.** 10 GW of self-owned wind farms equal power infrastructure assets that, once built, generate 20-25 years of stable cash flow. Competitors cannot replicate these assets overnight |
 
-### 护城河趋势
+### Moat Trend
 
-**过去5年：整体变窄**——风机制造壁垒在降低，10家整机企业混战导致价格崩塌。但风电场和海外业务在变强。
+**Past 5 years: narrowing overall** — turbine manufacturing barriers have been falling, and the free-for-all among 10 turbine makers has driven prices down. But the wind farm and overseas businesses have been strengthening.
 
-**未来5年：分化加剧**
-- 变窄：国内风机制造将继续是红海，价格战可能反复
-- 变宽：海上风电大型化（20MW+）抬高技术门槛、海外业务壁垒加深、风电场资产持续积累
+**Next 5 years: growing divergence**
+- Narrowing: domestic turbine manufacturing will remain a red ocean, and price wars could recur
+- Widening: the trend toward larger offshore turbines (20MW+) raises the technology bar, overseas business barriers are deepening, and wind farm assets keep accumulating
 
-> **巴菲特式追问**：10年后这条护城河还在吗？
+> **Buffett-style question: Will this moat still be there in 10 years?**
 >
-> **风电场的护城河10年后还在**——10GW电力资产不会消失。但风机制造的护城河可能更窄——如果中国风电产能持续过剩，金风可能沦为"赚辛苦钱"的制造业公司。关键在于海外市场能否成为第二增长曲线——如果海外占比从21%提升到40%+，金风会变成一家完全不同的（更好的）公司。
+> **The wind farm moat will still be there in 10 years** — 10 GW of power assets won't disappear. But the turbine manufacturing moat could narrow further — if China's wind capacity remains oversupplied, Goldwind could end up as a manufacturer earning only hard-won pennies. The key question is whether the overseas market can become a second growth curve — if the overseas share rises from 21% to 40%+, Goldwind would become a completely different (and better) company.
 
 ---
 
-## 第四步：逆向思考与风险 — 芒格"反过来想"
+## Step 4: Inversion and Risk — Munger's "Invert, Always Invert"
 
-### 失败路径清单
+### Failure-Path Checklist
 
-| 失败路径 | 概率 | 影响 | 说明 |
+| Failure Path | Probability | Impact | Note |
 |----------|------|------|------|
-| **价格战重启** | 中高 | 高 | 行业仍有10家整机企业，一旦需求放缓价格战将重启。8.95%风机毛利率已无太多下降空间 |
-| **应收账款坏账** | 中高 | 高 | 337亿应收中47亿超3年。国补退坡后回收难度增加，大额坏账将直接冲击利润 |
-| **欧盟FSR调查阻碍出海** | 中 | 高 | 2026年2月欧盟启动调查，可能限制欧洲市场拓展。海外是利润修复核心 |
-| **弃风限电加剧** | 中低 | 中 | 内蒙/新疆等区域弃风率上升将影响风电场运营收益 |
-| **原材料涨价（稀土）** | 中低 | 中 | 直驱永磁路线依赖稀土，但中速永磁新产品已降低稀土用量 |
-| **资产负债率持续高位** | 中 | 中 | 72-74%的杠杆率在利率上升环境下增加财务风险 |
+| **Renewed price war** | Medium-high | High | The industry still has 10 turbine makers; a price war would resume the moment demand slows. The 8.95% turbine gross margin leaves little room to fall further |
+| **Bad debt on receivables** | Medium-high | High | Of RMB 33.7 billion in receivables, RMB 4.7 billion is over 3 years old. Collection difficulty is rising as national subsidies phase out; a large bad-debt write-off would hit profit directly |
+| **EU FSR investigation hampering overseas expansion** | Medium | High | The EU launched an investigation in February 2026 that could restrict expansion in the European market. Overseas is the core of the profit recovery |
+| **Worsening wind curtailment** | Medium-low | Medium | Rising curtailment rates in regions like Inner Mongolia and Xinjiang would affect wind farm operating income |
+| **Raw material price increases (rare earths)** | Medium-low | Medium | The direct-drive permanent-magnet route depends on rare earths, but the new medium-speed permanent-magnet products have reduced rare-earth usage |
+| **Persistently high debt-to-asset ratio** | Medium | Medium | A leverage ratio of 72-74% increases financial risk in a rising-rate environment |
 
-### 历史类比
+### Historical Analogies
 
-**正面类比：2010年代中期的隆基绿能**
-- 相似点：新能源设备制造、技术路线选择（隆基的单晶硅≈金风的直驱永磁）、出海拓展
-- 隆基在单晶硅路线胜出后享受了5年高增长
-- 但教训是：光伏行业最终也走向了惨烈的价格战和产能过剩
+**Positive analogy: LONGi Green Energy in the mid-2010s**
+- Similarities: new-energy equipment manufacturing, a technology-path choice (LONGi's monocrystalline silicon ≈ Goldwind's direct-drive permanent magnet), and overseas expansion
+- LONGi enjoyed 5 years of high growth after its monocrystalline route won out
+- But the lesson is: the solar industry eventually descended into brutal price wars and overcapacity too
 
-**负面类比：2020-2023年的金风自己**
-- 2021年净利润34.6亿→2023年仅13.3亿（-62%）——风电行业的周期性比想象中更残酷
+**Negative analogy: Goldwind itself, 2020-2023**
+- Net profit fell from RMB 3.46 billion in 2021 to just RMB 1.33 billion in 2023 (-62%) — the wind power industry's cyclicality is harsher than it appears
 
-> **芒格式追问**：我最可能在哪里犯错？
+> **Munger-style question: Where am I most likely to be wrong?**
 >
-> 最可能的错误是**把"盈利恢复"当成"盈利趋势"**。2025年利润+49%看起来很美，但2023年利润跌了44%。风电是周期性行业——你不知道当前的恢复是新一轮增长的起点还是周期性反弹的中段。另外，8.95%的风机毛利率意味着利润对收入变化极度敏感——收入跌10%，利润可能跌40%+。聪明人不买的理由：**这是一门毛利率不到10%的制造业，ROE只有7%，资产负债率73%——不值得给25x+的PE。**
+> **The most likely mistake is mistaking a "profit recovery" for a "profit trend."** 2025's +49% profit growth looks beautiful, but profit fell 44% in 2023. Wind power is a cyclical industry — you don't know whether the current recovery is the start of a new growth cycle or the midpoint of a cyclical rebound. Also, an 8.95% turbine gross margin means profit is extremely sensitive to revenue swings — a 10% revenue decline could mean a 40%+ profit decline. Reasons a smart investor might pass: **this is a manufacturing business with a sub-10% gross margin, 7% ROE, and a 73% debt-to-asset ratio — not worth paying 25x+ PE for.**
 
 ---
 
-## 第五步：管理层评估 — 段永平"对的人"
+## Step 5: Management Assessment — Duan Yongping's "The Right People"
 
-### 创始人武钢
+### Founder Wu Gang
 
-1966年生，1989年参与新疆达坂城风电场建设（中国最早的风电场之一），1998年创办金风科技。中国风电行业"教父级"人物，推动中国风电产业从零到全球第一。
+Born in 1966, Wu Gang participated in the construction of the Xinjiang Dabancheng wind farm in 1989 (one of China's earliest wind farms) and founded Goldwind in 1998. He is a "godfather" figure of China's wind power industry, having driven it from zero to the world's No. 1.
 
-| 时间 | 决策 | 评分 |
+| Timing | Decision | Rating |
 |------|------|------|
-| **2008** | 收购德国Vensys，获直驱永磁技术 | ★★★★★ |
-| **2009/10** | A+H双重上市 | ★★★★☆ |
-| **2015-20** | 大力发展风电场运营，构建一体化模式 | ★★★★☆ |
-| **2024-25** | 推出中速永磁系列，灵活化技术路线 | ★★★★☆ |
-| **2025** | 斩获陆上+海上+出口"三冠王" | ★★★★★ |
+| **2008** | Acquired Germany's Vensys, gaining direct-drive permanent-magnet technology | ★★★★★ |
+| **2009/10** | Dual A+H listing | ★★★★☆ |
+| **2015-20** | Aggressively developed wind farm operations, building an integrated model | ★★★★☆ |
+| **2024-25** | Launched medium-speed permanent-magnet series, diversifying the technology roadmap | ★★★★☆ |
+| **2025** | Swept the "triple crown" in onshore, offshore, and export shipments | ★★★★★ |
 
-### 股东利益一致性
+### Alignment of Shareholder Interests
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| 武钢持股 | 仅1.48%——偏低 |
-| 控制结构 | 无实际控制人，股权分散 |
-| 分红 | 每10股派2元（股息率0.92%）——中规中矩 |
-| 回购 | 2026年4月授权5亿回购（上限13.28元/股） |
+| Wu Gang's shareholding | Only 1.48% — on the low side |
+| Control structure | No controlling shareholder; ownership is dispersed |
+| Dividend | RMB 2 per 10 shares (0.92% dividend yield) — unremarkable |
+| Buyback | Authorized a RMB 500 million buyback in April 2026 (cap of RMB 13.28/share) |
 
-**减分项**：武钢仅持1.48%，利益一致性不如创始人持股20%+的公司。无实际控制人意味着公司可能缺乏强势的战略定力。
+**Demerit**: Wu Gang holds only 1.48%, weaker interest alignment than companies where the founder holds 20%+. The absence of a controlling shareholder means the company may lack strong, consistent strategic direction.
 
-> **段永平式追问**：如果CEO退休，这家公司还能保持竞争力吗？
+> **Duan Yongping-style question: If the CEO retired, could this company keep its competitiveness?**
 >
-> **短期可以**——金风的竞争力来自技术积累（5,915项专利）、规模优势（全球第一）和风电场资产（10GW），这些不会因人事变动而消失。曹志刚作为总裁已稳定运营多年。但长期来看，武钢的行业影响力和战略判断力（如2008年收购Vensys）是不可替代的。
+> **In the short term, yes** — Goldwind's competitiveness comes from its technology accumulation (5,915 patents), scale advantage (global No. 1), and wind farm assets (10 GW), none of which would vanish due to a personnel change. Cao Zhigang has run day-to-day operations stably as president for years. But over the long term, Wu Gang's industry influence and strategic judgment (such as the 2008 Vensys acquisition) are irreplaceable.
 
 ---
 
-## 第六步：行业与文明趋势 — 李录"文明演进框架"
+## Step 6: Industry and Civilizational Trends — Li Lu's "Framework of Civilizational Evolution"
 
-### 风电确实处于文明级能源转型中
+### Wind Power Truly Sits Within a Civilizational Energy Transition
 
-全球从化石能源向可再生能源的转型是21世纪最大的文明级趋势之一。风电是与光伏并列的两大可再生能源主力。
+The global shift from fossil fuels to renewable energy is one of the 21st century's greatest civilizational trends. Wind power, alongside solar, is one of the two leading forms of renewable energy.
 
-### TAM分析
+### TAM Analysis
 
-| 市场 | 2025年 | 2030年预测 | CAGR |
+| Market | 2025 | 2030 Forecast | CAGR |
 |------|--------|-----------|------|
-| 全球风电新增装机 | ~140GW | ~194GW | ~8-10% |
-| 全球海上风电新增 | ~15GW | ~55GW | ~30% |
-| 中国风电新增 | ~120GW | ~150GW（估） | — |
+| Global new wind installations | ~140 GW | ~194 GW | ~8-10% |
+| Global new offshore wind | ~15 GW | ~55 GW | ~30% |
+| China new wind installations | ~120 GW | ~150 GW (est.) | — |
 
-### 三大增长引擎
+### Three Growth Engines
 
-1. **海上风电爆发**：2024→2030年全球海上新增从8→55GW（7倍），金风20MW海上机组全球领先
-2. **风电出海**：中国风机海外出口+41.7%，金风海外订单9.27GW（+31.8%），海外毛利率24%
-3. **以旧换新**：早期2-3MW机组进入更换周期
+1. **Offshore wind boom**: global new offshore capacity rises from 8 GW to 55 GW between 2024 and 2030 (7x), and Goldwind's 20 MW offshore turbines lead the world
+2. **Wind power going global**: Chinese turbine exports up +41.7%, Goldwind's overseas order backlog at 9.27 GW (+31.8%), overseas gross margin at 24%
+3. **Repowering**: early-generation 2-3 MW turbines are entering their replacement cycle
 
-### 但需警惕"光伏化"风险
+### But Beware the "Solarization" Risk
 
-风电行业正在经历光伏行业2-3年前走过的路——技术成熟→产能扩张→价格战→行业洗牌。如果这个逻辑成立，当前的"盈利恢复"可能只是周期性的而非结构性的。
+The wind power industry is following the same path the solar industry walked 2-3 years ago — technology maturation → capacity expansion → price war → industry shakeout. If this logic holds, the current "profit recovery" may be merely cyclical rather than structural.
 
-> **李录式追问**：20年后这家公司是"标准石油"还是"3Com"？
+> **Li Lu-style question: In 20 years, will this company be "Standard Oil" or "3Com"?**
 >
-> **更像"这个时代的西门子歌美飒（Siemens Gamesa）"**——一家全球重要但利润率平庸的风电设备制造商。风电不会消失，金风也不会消失。但风机制造业不太可能产生"标准石油"级别的垄断利润——因为风机是标准化设备，10家厂商都能做，谁也垄断不了。金风的长期价值更多来自10GW风电场资产和海外布局，而非风机制造本身。
+> **More like the "Siemens Gamesa of this era"** — a globally important but mediocre-margin wind equipment manufacturer. Wind power won't disappear, and neither will Goldwind. But turbine manufacturing is unlikely to produce "Standard Oil"-level monopoly profits — because turbines are standardized equipment that any of 10 makers can build, and none can monopolize. Goldwind's long-term value comes more from its 10 GW of wind farm assets and overseas footprint than from turbine manufacturing itself.
 
 ---
 
-## 第七步：估值与安全边际
+## Step 7: Valuation and Margin of Safety
 
-### 当前估值（工具验算）
+### Current Valuation (Tool-Verified)
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 股价 | 21.75元 |
-| 市值 | 919亿元 ✅ |
-| PE（2025 EPS 0.64） | **34.0x** ✅ |
-| PE（2026E EPS ~1.16） | **~18.7x** |
+| Share price | RMB 21.75 |
+| Market cap | RMB 91.9 billion ✅ |
+| PE (2025 EPS 0.64) | **34.0x** ✅ |
+| PE (2026E EPS ~1.16) | **~18.7x** |
 | PB | **2.37x** ✅ |
 | ROE | **7.0%** ✅ |
 | P/FCF | **25.9x** ✅ |
-| 股息率 | **0.92%** ✅ |
+| Dividend yield | **0.92%** ✅ |
 
-### 三情景估值（工具精确计算）
+### Three-Scenario Valuation (Precise Tool Calculation)
 
-基于2025年EPS 0.64元，3年预测期：
+Based on 2025 EPS of RMB 0.64, over a 3-year forecast horizon:
 
-| 情景 | EPS年增速 | 3年后EPS | 目标PE | 目标价 | 涨跌幅 |
+| Scenario | Annual EPS Growth | EPS in 3 Years | Target PE | Target Price | Upside/Downside |
 |------|----------|---------|--------|--------|--------|
-| **乐观** | 40% | 1.76元 | 25x | **43.9元** | **+102%** |
-| **中性** | 20% | 1.11元 | 18x | **19.9元** | **-8.5%** |
-| **悲观** | 0% | 0.64元 | 10x | **6.4元** | **-71%** |
+| **Optimistic** | 40% | RMB 1.76 | 25x | **RMB 43.9** | **+102%** |
+| **Neutral** | 20% | RMB 1.11 | 18x | **RMB 19.9** | **-8.5%** |
+| **Pessimistic** | 0% | RMB 0.64 | 10x | **RMB 6.4** | **-71%** |
 
-*乐观假设：海外+海上风电爆发，风机价格持续回升至2,500+元/kW，毛利率恢复至18%+。中性假设：温和增长，行业竞争维持现状。悲观假设：价格战重启，应收坏账大规模爆发。*
+*Optimistic assumption: overseas and offshore wind boom, turbine prices continue rising to over RMB 2,500/kW, gross margin recovers to 18%+. Neutral assumption: moderate growth, industry competition holds steady. Pessimistic assumption: price war resumes, receivables bad debt erupts on a large scale.*
 
-### 同行估值对比
+### Peer Valuation Comparison
 
-| 公司 | PE(TTM) | PB | 主营 |
+| Company | PE (TTM) | PB | Core Business |
 |------|---------|-----|------|
-| **金风科技** | **34x** | **2.37x** | 风机+风电场+服务 |
-| 明阳智能 | ~25x | ~2.5x | 风机（半直驱） |
-| 三一重能 | ~30x | ~2.0x | 风机 |
-| 运达股份 | ~20x | ~1.5x | 风机 |
-| Vestas | ~60x | ~5x | 风机（全球） |
+| **Goldwind** | **34x** | **2.37x** | Turbines + wind farms + services |
+| Mingyang Smart Energy | ~25x | ~2.5x | Turbines (semi-direct-drive) |
+| Sany Renewable Energy | ~30x | ~2.0x | Turbines |
+| Windey | ~20x | ~1.5x | Turbines |
+| Vestas | ~60x | ~5x | Turbines (global) |
 
-金风PE 34x处于国内同行中位偏上水平，低于Vestas。但考虑到ROE仅7%，34x PE对一家制造业公司来说偏贵。
+Goldwind's 34x PE sits above the median among domestic peers, though below Vestas. But given an ROE of only 7%, a 34x PE is on the expensive side for a manufacturing company.
 
-### 分析师预期
+### Analyst Expectations
 
-| 指标 | 数据 |
+| Metric | Data |
 |------|------|
-| 评级 | 买入 |
-| 目标均价 | 26.13元（+20%上行） |
-| 2026E EPS | ~1.16元 |
-| 2027E EPS | ~1.47元 |
-| 瑞银H股目标价 | 26.90港元（"买入"） |
+| Rating | Buy |
+| Average target price | RMB 26.13 (+20% upside) |
+| 2026E EPS | RMB ~1.16 |
+| 2027E EPS | RMB ~1.47 |
+| UBS H-share target price | HKD 26.90 ("Buy") |
 
-> **段永平式追问**：如果股市明天关闭5年，你愿意以这个价格持有吗？
+> **Duan Yongping-style question: If the stock market closed tomorrow for 5 years, would you be willing to hold at this price?**
 >
-> **犹豫**。好的方面：金风是全球风电龙头、10GW风电场资产提供稳定现金流、海外业务高毛利正在释放。但犹豫的原因：(1) 34x PE对一家ROE 7%、净利率3.8%的制造业公司来说不便宜；(2) 风机毛利率8.95%意味着利润对收入波动极度敏感；(3) 337亿应收账款是悬在头上的达摩克利斯之剑。如果价格跌到14-16元（PE ~22-25x，2025年EPS），安全边际更充分。
+> **Hesitant.** On the plus side: Goldwind is the global wind power leader, its 10 GW of wind farm assets deliver stable cash flow, and its high-margin overseas business is coming through. But the reasons for hesitation: (1) a 34x PE is not cheap for a manufacturing company with 7% ROE and a 3.8% net margin; (2) an 8.95% turbine gross margin means profit is extremely sensitive to revenue swings; (3) RMB 33.7 billion in accounts receivable is a Sword of Damocles hanging overhead. If the price fell to RMB 14-16 (PE ~22-25x on 2025 EPS), the margin of safety would be more adequate.
 
 ---
 
-## 第八步：综合决策备忘录
+## Step 8: Investment Decision Memo
 
-### 汇总评估
+### Summary Assessment
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| **生意质量**（段永平） | 风机制造是苦生意（毛利9%），但风电场（43%毛利）和海外（24%毛利）是隐藏的利润引擎 | ★★★☆☆ |
-| **护城河**（巴菲特） | 10GW自持风电场是真正的护城河。风机制造的护城河在变窄（价格战），海外运营壁垒在变宽 | ★★★☆☆ |
-| **管理层**（段永平+巴菲特） | 武钢是行业教父，技术决策（直驱→中速永磁）基本正确。但持股仅1.48%，利益一致性不够强 | ★★★☆☆ |
-| **最大风险**（芒格） | 价格战重启+337亿应收坏账+欧盟调查阻碍出海。三重风险叠加可能使盈利恢复半途夭折 | ★★★★☆ |
-| **文明趋势**（李录） | 风电是碳中和的核心路径，方向确定无疑。但风机制造不太可能产生垄断利润 | ★★★★☆ |
-| **估值**（巴菲特+段永平） | 34x PE对制造业偏贵，forward PE 18.7x更合理但需业绩兑现。当前价格**没有明显低估也没有严重高估** | ★★★☆☆ |
+| **Business Quality** (Duan Yongping) | Turbine manufacturing is a tough business (9% gross margin), but wind farms (43% margin) and overseas (24% margin) are hidden profit engines | ★★★☆☆ |
+| **Moat** (Buffett) | 10 GW of self-owned wind farms is the real moat. The turbine manufacturing moat is narrowing (price wars), while overseas operating barriers are widening | ★★★☆☆ |
+| **Management** (Duan Yongping + Buffett) | Wu Gang is an industry godfather whose technology decisions (direct-drive → medium-speed permanent magnet) have largely been correct. But his 1.48% shareholding means interest alignment isn't strong enough | ★★★☆☆ |
+| **Biggest Risk** (Munger) | Renewed price war + RMB 33.7 billion of receivables bad-debt risk + EU investigation hampering overseas expansion. These three risks combined could derail the profit recovery midway | ★★★★☆ |
+| **Civilizational Trend** (Li Lu) | Wind power is a core path to carbon neutrality — the direction is beyond doubt. But turbine manufacturing is unlikely to generate monopoly profits | ★★★★☆ |
+| **Valuation** (Buffett + Duan Yongping) | 34x PE is expensive for a manufacturer; the forward PE of 18.7x is more reasonable but depends on earnings delivery. The current price is neither clearly undervalued nor severely overvalued | ★★★☆☆ |
 
-### 最终决策
+### Final Decision
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **观望为主，等待更好买点**。当前21.75元/PE 34x缺乏足够安全边际。建议在15-17元区间（PE 23-27x基于2025年EPS，或PE 13-15x基于2026E EPS）分批建仓。如果Q2-Q3业绩持续超预期（尤其海外毛利率维持24%+），可提高买入价格区间 |
-| **持仓者** | **持有但不加仓**。盈利拐点已确认，在手订单50.49GW充裕，海外放量是核心看点。但应收账款337亿和价格战反复风险限制了上行空间。设15元止损线 |
-| **卖出信号** | 风机含塔筒均价重新跌破1,500元/kW；单季度应收坏账计提超5亿元；欧盟正式限制金风在欧洲投标；海外毛利率跌破15% |
-| **加仓信号** | 股价跌至15-17元区间且基本面未恶化；海外收入占比突破30%；风机毛利率恢复至15%+；宣布大幅提高分红比例 |
+| **No Position** | **Mostly wait for a better entry point.** At the current RMB 21.75 / 34x PE, the margin of safety is insufficient. Consider building a position in tranches in the RMB 15-17 range (PE 23-27x on 2025 EPS, or PE 13-15x on 2026E EPS). If Q2-Q3 results continue to beat expectations (especially if overseas gross margin holds at 24%+), the buy-price range could be raised |
+| **Existing Holders** | **Hold but do not add.** The profit inflection is confirmed, the order backlog of 50.49 GW is ample, and overseas volume growth is the core highlight. But RMB 33.7 billion in receivables and the risk of a recurring price war cap the upside. Set a stop-loss at RMB 15 |
+| **Sell Signals** | Average turbine price (including tower) falls back below RMB 1,500/kW; quarterly bad-debt provisions on receivables exceed RMB 500 million; the EU formally restricts Goldwind from bidding in Europe; overseas gross margin falls below 15% |
+| **Add-to-Position Signals** | Share price falls to the RMB 15-17 range with fundamentals unimpaired; overseas revenue share breaks above 30%; turbine gross margin recovers to 15%+; a substantial increase in the dividend payout ratio is announced |
 
-### 合理价格区间（A股）
+### Reasonable Price Range (A-shares)
 
-| 情景 | 3年目标价 | 假设 |
+| Scenario | 3-Year Target Price | Assumption |
 |------|----------|------|
-| 乐观 | **35-44元** | 海外+海上爆发，毛利率恢复，PE 25x |
-| 中性 | **18-22元** | 温和增长，PE 18x |
-| 悲观 | **6-10元** | 价格战重启+应收坏账爆发，PE 10x |
+| Optimistic | **RMB 35-44** | Overseas + offshore boom, gross margin recovery, PE 25x |
+| Neutral | **RMB 18-22** | Moderate growth, PE 18x |
+| Pessimistic | **RMB 6-10** | Renewed price war + receivables bad-debt eruption, PE 10x |
 
-### 四位大师模拟点评
+### Simulated Commentary from the Four Masters
 
-> **巴菲特**："风机制造让我想起了航空业——重要、不可或缺，但利润率令人沮丧。8.95%的毛利率意味着你在为全人类的清洁能源事业做贡献，但你的股东得不到什么回报。好在金风有10GW风电场——这才是真正值得拥有的资产。如果有人把风电场业务单独拿出来上市，我会更感兴趣。"
+> **Buffett**: "Turbine manufacturing reminds me of the airline business — important, indispensable, but the margins are dispiriting. An 8.95% gross margin means you're contributing to humanity's clean-energy cause, but your shareholders get little in return. Fortunately Goldwind has 10 GW of wind farms — that's the asset actually worth owning. If someone spun off the wind farm business and listed it separately, I'd be more interested."
 
-> **芒格**："反过来想——风电行业有10家整机企业，产品差异化有限，客户是议价权极强的电力央企。在这种竞争格局下，指望长期获得15%+的毛利率是不现实的。金风的真正价值在海外——但欧盟正在调查它。如果海外高毛利的故事被打断，这家公司的估值支撑就少了一半。"
+> **Munger**: "Invert — the wind power industry has 10 turbine makers, product differentiation is limited, and the customers are state-owned power utilities with immense bargaining power. In that competitive landscape, expecting a durable 15%+ gross margin is unrealistic. Goldwind's real value is overseas — but the EU is investigating it. If the high-margin overseas story gets interrupted, half of this company's valuation support disappears."
 
-> **段永平**："我理解武钢做的事情——从新疆达坂城到全球第一，这是了不起的创业故事。但投资和创业不同——我需要看到的是ROE和利润率的持续改善。7%的ROE配34倍PE，对一家制造业公司来说太贵了。等它证明毛利率能稳定在15%以上，我再来看。"
+> **Duan Yongping**: "I understand what Wu Gang has done — from Dabancheng in Xinjiang to global No. 1 is a remarkable entrepreneurial story. But investing is different from founding a company — what I need to see is a sustained improvement in ROE and margins. A 7% ROE paired with a 34x PE is too expensive for a manufacturing company. I'll come back once it proves it can hold gross margins above 15%."
 
-> **李录**："从文明演进的角度，风电是确定性最高的能源方向之一。但投资风电设备商就像投资19世纪的铁路设备商——你投的是工具，不是平台。真正的赢家可能是风电场运营商（相当于铁路运营商），而不是风机制造商（相当于机车制造商）。金风恰好两者都有——这是它最大的结构性优势。"
-
----
-
-## AI分析置信度 vs 投资确定性
-
-### 基于充分数据的高置信度结论
-
-1. **金风是全球风电整机出货量第一**——29.3GW，连续4年全球第一、15年中国第一。多方数据交叉验证
-2. **盈利拐点已确认**——2025年利润+49%，2026Q1利润+60%，在手订单50.49GW。财务数据可靠
-3. **海外是利润金矿**——毛利率24.29%远超国内5.1%，收入+50.6%。数据来自年报
-4. **风机制造是苦生意**——毛利率8.95%在全球同行中普遍（Vestas ~10%），这是行业特征而非公司问题
-
-### 基于有限信息的中等置信度推理
-
-5. **风机价格回升的持续性**——2025年+7%回升是事实，但行业仍有10家企业，价格战随时可能反复
-6. **海外业务的增长天花板**——49国覆盖，但欧盟FSR调查可能限制最高价值市场（欧洲）
-7. **337亿应收账款的实际风险**——47亿超3年是确认数据，但最终坏账比例高度不确定
-
-### 数据不足的低置信度判断
-
-8. **国内风机价格战是否已永久结束**——2025年的行业自律协议能否持续，政策环境变化难预测
-9. **海上风电大型化的竞争格局**——20MW+领域的竞争态势尚未稳定，明阳等对手也在追赶
-10. **风电场资产的隐含价值**——10GW风电场若按DCF独立估值可能值数百亿，但市场定价中是否已充分反映不确定
-
-**总结**：金风科技是一家**"方向正确、地位领先、但生意辛苦"**的制造业公司。投资它本质上是赌两件事：(1) 风机价格和毛利率能持续回升；(2) 海外高毛利业务能继续放量。当前34x PE/7% ROE的组合缺乏安全边际——不是坏公司，但价格偏贵。耐心等待15-17元的更好买点。
+> **Li Lu**: "From the standpoint of civilizational evolution, wind power is one of the most certain energy directions. But investing in a wind equipment maker is like investing in a 19th-century railway equipment maker — you're investing in the tool, not the platform. The real winners are more likely to be wind farm operators (the equivalent of railway operators), not turbine manufacturers (the equivalent of locomotive manufacturers). Goldwind happens to have both — that's its biggest structural advantage."
 
 ---
 
-*报告生成日期：2026年6月23日*
-*数据来源：公司2025年报、2026Q1季报、新浪财经、界面新闻、东方财富、证券时报、StockAnalysis、GWEC、OFweek*
-*关键数据均通过 financial_rigor.py 工具交叉验证*
-*本报告仅供研究参考，不构成投资建议*
+## AI Analysis Confidence vs. Investment Certainty
+
+### High-Confidence Conclusions Based on Sufficient Data
+
+1. **Goldwind is the world's No. 1 in wind turbine shipments** — 29.3 GW, ranked No. 1 globally for 4 consecutive years and No. 1 in China for 15 years. Cross-validated across multiple sources
+2. **The profit inflection is confirmed** — 2025 profit +49%, Q1 2026 profit +60%, order backlog of 50.49 GW. Financial data is reliable
+3. **Overseas is a profit goldmine** — gross margin of 24.29% far exceeds the domestic 5.1%, with revenue up +50.6%. Data from the annual report
+4. **Turbine manufacturing is a tough business** — the 8.95% gross margin is common among global peers (Vestas ~10%); this is an industry characteristic, not a company-specific issue
+
+### Medium-Confidence Inferences Based on Limited Information
+
+5. **Durability of the turbine price rebound** — the +7% rebound in 2025 is a fact, but with 10 makers still in the industry, a price war could resume at any time
+6. **The growth ceiling of the overseas business** — coverage of 49 countries, but the EU FSR investigation could restrict the highest-value market (Europe)
+7. **The actual risk in RMB 33.7 billion of receivables** — the RMB 4.7 billion over 3 years old is confirmed data, but the eventual bad-debt ratio is highly uncertain
+
+### Low-Confidence Judgments Based on Insufficient Data
+
+8. **Whether the domestic turbine price war has ended for good** — whether the 2025 industry self-discipline agreement can hold is hard to predict given a changing policy environment
+9. **The competitive landscape of offshore turbine scale-up** — the competitive dynamics in the 20MW+ segment have not stabilized, and rivals like Mingyang are catching up
+10. **The implied value of wind farm assets** — 10 GW of wind farms, valued independently on a DCF basis, could be worth tens of billions of RMB, but whether the market price already reflects this fully is uncertain
+
+**Summary**: Goldwind is a manufacturing company that is "directionally right, leading in position, but running a hard business." Investing in it is essentially a bet on two things: (1) turbine prices and gross margins can keep recovering; (2) the high-margin overseas business can keep scaling up. The current combination of 34x PE and 7% ROE lacks a margin of safety — not a bad company, but priced richly. Wait patiently for a better entry point around RMB 15-17.
+
+---
+
+*Report generated on: June 23, 2026*
+*Data sources: Company FY2025 annual report, Q1 2026 quarterly report, Sina Finance, Jiemian News, Eastmoney, Securities Times, StockAnalysis, GWEC, OFweek*
+*Key data cross-validated via the financial_rigor.py tool*
+*This report is for research reference only and does not constitute investment advice*

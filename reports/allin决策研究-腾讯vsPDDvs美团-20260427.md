@@ -1,290 +1,290 @@
-# Allin 决策研究：腾讯、PDD、美团 三选一 allin 哪个？
+# Allin Decision Research: Tencent, PDD, Meituan — Which One to All In On?
 
-**出品**：ai-berkshire 投研团队（团队批判性分析框架）
-**研究日期**：2026-04-27
-**研究方法**：拉取 GitHub 历史研究 + 2 个并行批判性 Agent（数据驱动 + 大师哲学）
-**研究范式**：**先批判命题本身，再回答命题**
-
----
-
-## 0. 两段话核心结论
-
-### Q: 如果一定要 allin 一只股票，腾讯/PDD/美团选哪个？
-
-**回答 1（哲学层）**：四大师（巴菲特、芒格、段永平、李录）**没有一个人 allin 任何一只股票**——李录最集中，单股最高也只有 22.31%；段永平历史上苹果最高也不到 55%。**allin 单一标的违反了价值投资的第一性原理（谦卑+安全边际+不亏钱）**。如果你对自己的判断比段永平/李录还自信，问题不在股票上，问题在心态上。
-
-**回答 2（数据层，被迫选）**：风险调整后回报排序 **腾讯（2.57）> 美团（1.02）> PDD（0.66）**。如果思想实验非要选，**答案是腾讯**——四大师哲学维度全票一致、风险调整后回报最优、3 年内 >50% 永久亏损概率最低（~7%）。**但思想实验的答案 ≠ 行动建议**。
+**Produced by**: ai-berkshire Investment Research Team (Team Critical Analysis Framework)
+**Research date**: 2026-04-27
+**Research method**: Pulled GitHub historical research + 2 parallel critical agents (data-driven + master philosophy)
+**Research paradigm**: **Critique the thesis itself first, then answer it**
 
 ---
 
-## 1. 历史研究检索（拉 GitHub）
+## 0. Core Conclusion in Two Paragraphs
 
-| 历史报告 | 日期 | 与本研究的关系 |
+### Q: If you had to all in on one stock — Tencent, PDD, or Meituan — which would you pick?
+
+**Answer 1 (Philosophy layer)**: None of the four masters (Buffett, Munger, Duan Yongping, Li Lu) has ever gone all in on a single stock — Li Lu is the most concentrated, and even his largest single position peaked at only 22.31%; historically, Duan Yongping's Apple position never exceeded 55% at its highest. **Going all in on a single name violates the first principles of value investing (humility + margin of safety + don't lose money)**. If you're more confident in your own judgment than Duan Yongping or Li Lu are in theirs, the problem isn't the stock — it's your mindset.
+
+**Answer 2 (Data layer, forced choice)**: Ranked by risk-adjusted return, **Tencent (2.57) > Meituan (1.02) > PDD (0.66)**. If the thought experiment forces a pick, **the answer is Tencent** — unanimous across all four masters' philosophical dimensions, the best risk-adjusted return, and the lowest 3-year probability of a >50% permanent loss (~7%). **But the answer to a thought experiment ≠ actionable advice**.
+
+---
+
+## 1. Historical Research Retrieval (Pulled from GitHub)
+
+| Historical Report | Date | Relationship to This Research |
 |---|---|---|
-| [换仓决策研究-腾讯换PDD-茅台换美团](./换仓决策研究-腾讯换PDD-茅台换美团-20260423.md) | 2026-04-23 | 上一轮研究"换仓"问题，腾讯→PDD 理性度 2.0/5、茅台→美团 1.25/5 |
-| [腾讯投资研究报告_20260427](腾讯/) | 2026-04-27 | 今日单股研究：腾讯当前价 HKD 493.4，SOTP 内在价值 HKD 543.67，3年加权目标价 HKD 779（+58%） |
-| [portfolio-latest](./portfolio-latest.md) | 2026-04-09 | 组合层面分析：85% 中国单一国家风险已被识别 |
+| [Rotation Decision Research – Tencent to PDD, Moutai to Meituan](./换仓决策研究-腾讯换PDD-茅台换美团-20260423.md) | 2026-04-23 | Previous round examined the "rotation" question: Tencent→PDD rationality score 2.0/5, Moutai→Meituan 1.25/5 |
+| [Tencent Investment Research Report_20260427](腾讯/) | 2026-04-27 | Today's single-stock research: Tencent's current price HKD 493.4, SOTP intrinsic value HKD 543.67, 3-year weighted target price HKD 779 (+58%) |
+| [Portfolio Latest](./portfolio-latest.md) | 2026-04-09 | Portfolio-level analysis: the 85% single-country (China) concentration risk has already been identified |
 
-**历史研究的核心遗产**：
-- 段永平/李录都**同时持有**腾讯+PDD（不二选一）
-- 美团**无任何大师重仓**
-- 段永平的实际操作给了答案：他从中国神华（边缘）→ 茅台（核心），**没有从核心 → 边缘**
+**Key takeaways from the historical research**:
+- Duan Yongping and Li Lu both **hold Tencent and PDD simultaneously** (it isn't an either/or choice)
+- Meituan has **no significant holding by any of the masters**
+- Duan Yongping's actual trading history already gives the answer: he moved from China Shenhua (peripheral) → Moutai (core) — **never from core → peripheral**
 
-**新问题与旧问题的本质区别**：
-- 旧问题（换仓）：从一个标的换到另一个 → 答案是"不换"
-- **新问题（allin）：从分散押注变为单一押注 → 答案是"不 allin"**
-- 这是更极端的版本——所以不是简单沿用旧结论，需要**新的批判性维度**
+**The essential difference between the new question and the old one**:
+- Old question (rotation): switching from one holding to another → the answer was "don't switch"
+- **New question (all in): going from a diversified bet to a single concentrated bet → the answer is "don't go all in"**
+- This is a more extreme version — so it isn't simply a matter of carrying over the old conclusion; it calls for **new critical dimensions**
 
 ---
 
-## 2. 三方最新数据矩阵（2026-04-27）
+## 2. Latest Three-Way Data Matrix (2026-04-27)
 
-| 指标 | 腾讯 0700.HK | PDD (NASDAQ) | 美团 3690.HK |
+| Metric | Tencent 0700.HK | PDD (NASDAQ) | Meituan 3690.HK |
 |---|---|---|---|
-| **当前股价** | HKD 493 | USD 100 | HKD 86.5 |
-| **市值（USD）** | 573B | 140B | 67B |
-| **2025 营收（RMB 亿）** | 7,518（+14%）| 4,318（+10%）| 3,649（+8%）|
-| **2025 净利（RMB 亿）** | 2,596（+17%, Non-IFRS）| 994（**-12%**）| **-234（转亏）** |
-| **2025 FCF（RMB 亿）** | 1,826（+18%）| ~1,019 | 负 |
-| **净利率** | 34.5% | 23.0% | -6.4% |
+| **Current share price** | HKD 493 | USD 100 | HKD 86.5 |
+| **Market cap (USD)** | 573B | 140B | 67B |
+| **2025 revenue (RMB billion)** | 751.8 (+14%) | 431.8 (+10%) | 364.9 (+8%) |
+| **2025 net income (RMB billion)** | 259.6 (+17%, Non-IFRS) | 99.4 (**-12%**) | **-23.4 (swung to a loss)** |
+| **2025 FCF (RMB billion)** | 182.6 (+18%) | ~101.9 | Negative |
+| **Net margin** | 34.5% | 23.0% | -6.4% |
 | **PE (TTM)** | 16.0x | 10.2x | N/A |
-| **PE (剔除净现金)** | ~14.5x | **5.9x** | N/A |
-| **净现金/市值** | ~7% | **42%** | ~19% |
-| **股东回报率** | **~3.0%** | ~0% | ~0.5% |
-| **2025 回购** | HKD ~850 亿 | $0 | HKD ~200 亿 |
-| **2025 分红** | HKD 479 亿（+18%）| $0 | $0 |
-| **段永平持仓** | 卖 PUT（间接看多）| ✅ 7.7%（核心仓位）| ❌ |
-| **李录持仓** | ✅（亚洲基金长期）| ✅ 14.64%（13F第四大）| ❌ |
-| **巴菲特/芒格** | ❌ | ❌ | ❌ |
+| **PE (ex-net-cash)** | ~14.5x | **5.9x** | N/A |
+| **Net cash / market cap** | ~7% | **42%** | ~19% |
+| **Shareholder yield** | **~3.0%** | ~0% | ~0.5% |
+| **2025 buybacks** | HKD ~85 billion | $0 | HKD ~20 billion |
+| **2025 dividends** | HKD 47.9 billion (+18%) | $0 | $0 |
+| **Duan Yongping's position** | Sold puts (indirectly bullish) | ✅ 7.7% (core position) | ❌ |
+| **Li Lu's position** | ✅ (long-term holding via Asia fund) | ✅ 14.64% (4th-largest in 13F) | ❌ |
+| **Buffett/Munger** | ❌ | ❌ | ❌ |
 
-> **观察**：三家在大师持仓分布上呈现**惊人的二选一互斥**——
-> - 段永平选 PDD 不选腾讯（但卖 PUT 显示愿在 HKD 460-480 接货）
-> - 李录两家都选但都不选美团
-> - **美团没有任何大师重仓**——这本身就是市场效率的最强信号
-
----
-
-## 3. Allin 假设的尾部风险解剖
-
-### 3.1 Allin 腾讯的尾部风险
-
-| 风险 | 量级 | 概率 |
-|---|---|---|
-| AI Agent 颠覆超级 App | 微信时长流失、广告下滑 | 中（30%）|
-| 监管再起 | 游戏版号/平台经济 | 低（15%）|
-| AI Capex 拖累 FCF | 2026 capex 翻倍 | 中 |
-| 港股流动性/地缘风险 | -30% beta 风险 | 中（20%）|
-
-**3 年内 >50% 永久亏损概率：~5-8%**
-
-支撑：FCF 1826 亿 RMB / 市值 P/FCF 22.7x；3% 股东回报；下行很难突破"PE 12x × 利润不变"约 HKD 380。
-
-### 3.2 Allin PDD 的尾部风险
-
-| 风险 | 量级 | 概率 |
-|---|---|---|
-| Temu 关税重击 | 美国 145% + 欧盟取消 €150 de minimis | **高（60%）** |
-| 国内增速坍塌 | Q1 2026 净利已 -11% | **高（已发生）** |
-| 黄峥/陈磊治理黑箱 | 不开会、不沟通 | **100%（已发生）** |
-| 零回报政策延续 | 净现金 42% 但不返还 = 死钱 | **100%** |
-| TikTok 式禁令 | 美国封禁 Temu | 低（10%）|
-
-**3 年内 >50% 永久亏损概率：~15-20%**
-
-**致命缺陷**：净现金 42% 是真实的"安全垫"，**前提是公司返还现金给股东**。黄峥四年不动，这个前提就是空的——"便宜"等价于"永远便宜"。
-
-### 3.3 Allin 美团的尾部风险
-
-| 风险 | 量级 | 概率 |
-|---|---|---|
-| 阿里持续烧 800-900 亿/年 | 蒋凡 KPI 是市占率不是利润 | **高（70%）** |
-| Q1-Q3 2026 OP 转正赌注 | 公司表态 Q3 转正但市场不信 | 中（40%）|
-| 骑手社保改革 | 一次性成本 + 持续利润率冲击 | 中（50%）|
-| Keeta 海外烧钱期 | 巴西/沙特/阿联酋持续投入 | **100%** |
-| 京东/抖音三家围攻 | 不是双寡头，是三国杀 | 高（70%）|
-
-**3 年内 >50% 永久亏损概率：~25-35%**
-
-**关键观察**：美团 2025 从 +358 亿盈利转为 -234 亿亏损（593 亿摆动！）。当前股价从 2021 年高点 HKD 460 跌到 HKD 86 已经 -81%——但**这恰恰说明它具备"再跌 50%"的能力**。
+> **Observation**: the masters' holdings across the three companies show a **striking either/or exclusivity** —
+> - Duan Yongping chose PDD over Tencent (though selling puts shows he'd be willing to take delivery at HKD 460-480)
+> - Li Lu chose both but neither includes Meituan
+> - **Meituan has no significant holding from any master** — which is itself the strongest signal of market efficiency
 
 ---
 
-## 4. 3 年期概率加权情景估值
+## 3. Dissecting the Tail Risk of Each All-In Scenario
 
-| 标的 | 悲观（30%）| 中性（45-50%）| 乐观（25-30%）| 概率加权目标价 | 加权回报 | 下行幅度 |
+### 3.1 Tail Risk of Going All In on Tencent
+
+| Risk | Magnitude | Probability |
+|---|---|---|
+| AI agents disrupt the super-app | Loss of WeChat time-spent, ad revenue decline | Medium (30%) |
+| Regulation flares up again | Game licensing / platform-economy rules | Low (15%) |
+| AI capex drags on FCF | 2026 capex doubles | Medium |
+| Hong Kong equity liquidity / geopolitical risk | -30% beta risk | Medium (20%) |
+
+**Probability of a >50% permanent loss within 3 years: ~5-8%**
+
+Support: FCF of RMB 182.6 billion / market cap → P/FCF of 22.7x; 3% shareholder yield; downside is unlikely to break through the "PE 12x × flat profit" floor of about HKD 380.
+
+### 3.2 Tail Risk of Going All In on PDD
+
+| Risk | Magnitude | Probability |
+|---|---|---|
+| Temu hit hard by tariffs | US 145% tariff + EU scrapping the €150 de minimis exemption | **High (60%)** |
+| Domestic growth collapse | Q1 2026 net income already -11% | **High (already happened)** |
+| Colin Huang / Lei Chen governance black box | No earnings calls, no communication | **100% (already happened)** |
+| Zero-return policy persists | 42% net cash but none returned = dead money | **100%** |
+| TikTok-style ban | US bans Temu | Low (10%) |
+
+**Probability of a >50% permanent loss within 3 years: ~15-20%**
+
+**Fatal flaw**: the 42% net cash is a genuine "safety cushion" **only if the company returns that cash to shareholders**. With Huang having sat on it for four years without moving, that precondition is hollow — "cheap" becomes equivalent to "cheap forever."
+
+### 3.3 Tail Risk of Going All In on Meituan
+
+| Risk | Magnitude | Probability |
+|---|---|---|
+| Alibaba keeps burning RMB 80-90 billion/year | Jiang Fan's KPI is market share, not profit | **High (70%)** |
+| Bet on Q1-Q3 2026 operating profit turning positive | Company says Q3 will turn positive, but the market doesn't believe it | Medium (40%) |
+| Rider social-insurance reform | One-time cost + ongoing margin hit | Medium (50%) |
+| Keeta's overseas cash-burn phase | Ongoing investment in Brazil / Saudi Arabia / UAE | **100%** |
+| Besieged on three sides by JD.com/Douyin | Not a duopoly — a three-way battle | High (70%) |
+
+**Probability of a >50% permanent loss within 3 years: ~25-35%**
+
+**Key observation**: Meituan swung in 2025 from +RMB 35.8 billion in profit to a loss of RMB 23.4 billion (a swing of RMB 59.3 billion!). The current share price is already down -81% from its 2021 peak of HKD 460 to HKD 86 — but **that is precisely what shows it still has room to "fall another 50%."**
+
+---
+
+## 4. 3-Year Probability-Weighted Scenario Valuation
+
+| Name | Bear case (30%) | Base case (45-50%) | Bull case (25-30%) | Probability-weighted target price | Weighted return | Downside magnitude |
 |---|---|---|---|---|---|---|
-| **腾讯** | HKD 380（-23%）| HKD 760（+54%）| HKD 1100（+123%）| HKD 786 | **+59%** | **-23%** |
-| **PDD** | USD 50（-50%）| USD 140（+40%）| USD 220（+120%）| USD 133 | +33% | -50% |
-| **美团** | HKD 50（-42%）| HKD 130（+50%）| HKD 200（+131%）| HKD 124 | +43% | -42% |
+| **Tencent** | HKD 380 (-23%) | HKD 760 (+54%) | HKD 1100 (+123%) | HKD 786 | **+59%** | **-23%** |
+| **PDD** | USD 50 (-50%) | USD 140 (+40%) | USD 220 (+120%) | USD 133 | +33% | -50% |
+| **Meituan** | HKD 50 (-42%) | HKD 130 (+50%) | HKD 200 (+131%) | HKD 124 | +43% | -42% |
 
-### 风险调整后回报（用 加权回报 / |下行幅度| 衡量）
+### Risk-Adjusted Return (measured as weighted return / |downside magnitude|)
 
-| 排名 | 标的 | 风险调整比 | 含义 |
+| Rank | Name | Risk-adjusted ratio | Meaning |
 |---|---|---|---|
-| 🥇 | **腾讯** | **2.57** | 每承担 1 单位下行风险，获得 2.57 单位上行回报 |
-| 🥈 | 美团 | 1.02 | 上行下行接近 1:1，弹性大但代价是不确定性 |
-| 🥉 | PDD | **0.66** | 下行幅度 > 加权回报，**风险调整后是负预期** |
+| 🥇 | **Tencent** | **2.57** | For every 1 unit of downside risk taken, you get 2.57 units of upside return |
+| 🥈 | Meituan | 1.02 | Upside and downside are close to 1:1 — high optionality, but the price is uncertainty |
+| 🥉 | PDD | **0.66** | Downside exceeds the weighted return — **risk-adjusted expectancy is negative** |
 
 ---
 
-## 5. 大师哲学维度的契合度评分
+## 5. Fit Scores Along the Masters' Philosophical Dimensions
 
-| 维度 | 腾讯 | PDD | 美团 |
+| Dimension | Tencent | PDD | Meituan |
 |---|---|---|---|
-| 巴菲特"长期 + 股东回报 + 品牌" | ★★★★★ | ★★ | ★★ |
-| 芒格"少操心 + 品质 + Sit on your ass" | ★★★★★ | ★★★ | ★★ |
-| 段永平"不懂不做 + 商业模式" | ★★★★★ | ★★★★ | ★★★ |
-| 李录"不亏钱 + 护城河" | ★★★★★ | ★★★ | ★★ |
-| **加权总分（满分 20）** | **20/20** | 12/20 | 9/20 |
+| Buffett's "long-term + shareholder returns + brand" | ★★★★★ | ★★ | ★★ |
+| Munger's "low-fuss + quality + Sit on your ass" | ★★★★★ | ★★★ | ★★ |
+| Duan Yongping's "don't touch what you don't understand + business model" | ★★★★★ | ★★★★ | ★★★ |
+| Li Lu's "don't lose money + moat" | ★★★★★ | ★★★ | ★★ |
+| **Weighted total score (out of 20)** | **20/20** | 12/20 | 9/20 |
 
-> **重要**：评分是**相对值**，不代表绝对推荐。即使腾讯 20/20，**allin 腾讯依然是错的**（见 §6）。
+> **Important**: these scores are **relative values**, not an absolute recommendation. Even at 20/20, **going all in on Tencent is still wrong** (see §6).
 
-### 思想实验：四大师"被迫选一只 allin"
+### Thought Experiment: Each Master "Forced to Pick One to All In On"
 
-| 大师 | 选择 | 核心理由 |
+| Master | Choice | Core Reasoning |
 |---|---|---|
-| 巴菲特 | **腾讯** | "我看不懂 Temu，看不懂无人机，但我看得懂 14 亿人每天用微信" |
-| 芒格 | **腾讯** | "Sit on your ass" — 睡 10 年觉它还在 |
-| 段永平 | **腾讯**（实际持仓他都买，但卖 PUT 是底仓型操作）| 商业模式 > 价格 |
-| 李录 | **腾讯**（推断，类比他重仓的 GOOGL）| 数字基础设施 = 不可替代 |
+| Buffett | **Tencent** | "I don't understand Temu, I don't understand drones, but I understand 1.4 billion people using WeChat every day" |
+| Munger | **Tencent** | "Sit on your ass" — sleep for 10 years and it's still there |
+| Duan Yongping | **Tencent** (in practice he buys both, but selling puts is a base-position-building move) | Business model > price |
+| Li Lu | **Tencent** (inferred, by analogy to his heavy GOOGL position) | Digital infrastructure = irreplaceable |
 
-**四大师一致选腾讯**。但同时——**没有一个大师真的会 allin**。
-
----
-
-## 6. 对历史研究的批判性反思
-
-### 6.1 "美团是博反转的期权"——4 天后还成立吗？
-
-**部分修正**。4-23 报告把美团定位为"非对称期权（下行有限、上行巨大）"，但拉到 4-27 看：
-
-- **下行其实没那么有限**：净亏 234 亿是事实，2026 Q1 还在持续，Q4 OP 亏损 -16 亿尚未见底。HKD 50 的下行情景概率有 **30%**，不是历史报告暗示的"下行有底"。
-- **期权属性的核心是"时间不站在你这边"**：阿里只要继续烧，美团就持续流血。期权有到期日，allin 美团等于赌"3 年内阿里认输"——这是**赌一个企业行为**，不是赌商业基本面。
-
-### 6.2 "腾讯主业 PE 11-13x"是否过于乐观？
-
-**SOTP 拆分方法争议**。把投资组合（约 8000 亿 RMB 按账面）和主业拆开，假设**投资组合按账面价值变现**——但 2025 年港股+A 股调整后，这部分账面值本身就含水分。如果投资组合打 8 折，主业 PE 11-13x 实际可能是 13-15x。
-
-> **诚实修正**：今天报告的"PE 16x"可能是更稳健的数字；HKD 543.67 的 SOTP 内在价值上限可能要打 9 折至 **HKD 490** —— 即**当前价格已基本反映内在价值，没有显著折让**。
-
-### 6.3 PDD 零回报——黄峥有任何回购/分红信号？
-
-**完全没有**。
-- PDD 的 Buyback Yield 为 **-0.22%**（增发为正，回购为负）
-- TTM 分红 **$0.00**
-- 净现金从 2024 的 $50B+ 涨到 2025 的 **$59B（4223 亿 RMB）**——继续囤现金，**没有返还任何**给股东
-- Q1 2026 净利 -11% 的环境下，黄峥也没有任何"返利股东"的迹象
-
-**PDD 的结构性死结**：它越赚钱，账上现金越多，股东永远拿不到。除非黄峥本人做出政策转变，否则**净现金折价永远存在**。
+**All four masters converge on Tencent**. But at the same time — **not one of them would actually go all in**.
 
 ---
 
-## 7. Allin 命题本身的批判
+## 6. Critical Reflection on the Historical Research
 
-### 7.1 概率论维度
+### 6.1 "Meituan Is an Option on a Turnaround" — Does It Still Hold Up 4 Days Later?
 
-3 年内"> 50% 永久亏损"概率：
-- 腾讯 ~7% × 美团 ~30% × PDD ~17.5%
+**Partially revised**. The 4-23 report framed Meituan as an "asymmetric option (limited downside, large upside)," but looking at it as of 4-27:
 
-即使最稳的腾讯，allin 100% 押注也有 **7% 的概率 3 年腰斩永不回来**。任意三选一的"集中赌"，预期回报都比"三家平均分配"差，因为**允许部分仓位被消灭**。
+- **The downside isn't actually that limited**: the RMB 23.4 billion net loss is a fact, it continued into Q1 2026, and the Q4 operating loss of -RMB 1.6 billion hasn't yet bottomed out. The HKD 50 downside scenario carries a **30%** probability — not the "downside is bounded" picture the earlier report implied.
+- **The core problem with the option framing is that time is not on your side**: as long as Alibaba keeps burning cash, Meituan keeps bleeding. Options have expiration dates — going all in on Meituan amounts to betting that "Alibaba will concede within 3 years." That is **a bet on a corporate behavior**, not a bet on business fundamentals.
 
-平均分配下：33%×0.59 + 33%×0.33 + 33%×0.43 = **加权 +45%**，且单一公司爆雷只伤 33% 本金。
+### 6.2 Is "Tencent's Core Business Trading at PE 11-13x" Too Optimistic?
 
-### 7.2 段永平的具体反例
+**The SOTP breakdown methodology is contestable**. Splitting out the investment portfolio (roughly RMB 800 billion at book value) from the core business assumes **the portfolio can be monetized at book value** — but after the 2025 correction in Hong Kong and A-shares, that book value itself likely contains some froth. If the portfolio is marked down 20%, the core business's actual PE of 11-13x could really be 13-15x.
 
-段永平 2026-04 在雪球："**每天卖 1000 个腾讯 PUT 会继续**"——
-- 这意味着他愿以更低价（HKD 460-480）买入腾讯
-- 但他**没有 allin 腾讯**，因为他还要持有 PDD、Apple、Berkshire、英伟达、谷歌等 14 只股票
-- **最尊敬腾讯的人都没有 allin 腾讯，那你为什么要？**
+> **Honest correction**: today's report's "PE 16x" figure may be the more robust number; the SOTP intrinsic-value ceiling of HKD 543.67 may need a 10% haircut down to **HKD 490** — meaning **the current price already largely reflects intrinsic value, with no significant discount**.
 
-### 7.3 李录的具体反例
+### 6.3 PDD's Zero Shareholder Returns — Any Sign of Buybacks or Dividends from Huang?
 
-李录 Himalaya 2025Q4 13F：
-- 第一大：GOOGL **22.31%**（最爱也只有 1/5 仓位）
-- 第四大：PDD **14.64%**
-- 前 5 只占 87.2%，**总持仓 9 只**
+**None whatsoever.**
+- PDD's buyback yield is **-0.22%** (under this convention, a positive figure means net share issuance, a negative figure means net buybacks)
+- TTM dividend: **$0.00**
+- Net cash rose from $50B+ in 2024 to **$59B (RMB 422.3 billion) in 2025** — continuing to hoard cash, **with none returned** to shareholders
+- Even with Q1 2026 net income down -11%, Huang has shown no sign of "returning profits to shareholders"
 
-李录最集中——但单只最高也只有 **22.31%**。allin 等于把李录的"22% 上限"暴力提到"100%"，**这不是激进的价值投资，这是反价值投资**。
-
-### 7.4 行为金融学维度
-
-- "all in" 的语言来自**德州扑克**，不是巴菲特
-- 真正的高确定性会带来**仓位增加**（如从 20% → 35%），不是 100%
-- **追求"一把翻身" = 承认自己已经"翻不了身"**——这是绝望者的姿势
-
-**最危险的提问**：你在问"该 allin 哪只"，背后可能是"我想一把赚回来"。
-**正确的提问**："我应该把单股仓位从 X% 提到 Y% 吗？"
+**PDD's structural deadlock**: the more money it makes, the more cash piles up on the balance sheet, and shareholders never see a cent of it. Unless Huang himself changes policy, **the net-cash discount will persist indefinitely**.
 
 ---
 
-## 8. 终极结论（双重答案）
+## 7. Critiquing the All-In Thesis Itself
 
-### 答案 A：被迫选的纯数据排序
+### 7.1 The Probability Dimension
 
-| 排名 | 标的 | 综合评估 |
+Probability of a ">50% permanent loss" within 3 years:
+- Tencent ~7% × Meituan ~30% × PDD ~17.5%
+
+Even the steadiest of the three, Tencent, still carries a **7% probability of being cut in half within 3 years and never recovering** if you bet 100% on it. Any "concentrated bet" on one of the three has a worse expected return than an "equal split across all three," because it **allows the entire position to be wiped out**.
+
+Under an equal split: 33%×0.59 + 33%×0.33 + 33%×0.43 = a **weighted +45%**, and a blowup at any single company only damages 33% of the principal.
+
+### 7.2 A Concrete Counterexample: Duan Yongping
+
+Duan Yongping, on Xueqiu in 2026-04: "**I'll keep selling 1,000 Tencent puts a day**" —
+- This means he's willing to buy Tencent at a lower price (HKD 460-480)
+- But he **has not gone all in on Tencent**, because he's still holding 14 other stocks, including PDD, Apple, Berkshire, Nvidia, and Google
+- **Even the person who respects Tencent most hasn't gone all in on it — so why should you?**
+
+### 7.3 A Concrete Counterexample: Li Lu
+
+Li Lu's Himalaya Capital 2025Q4 13F filing:
+- Largest position: GOOGL at **22.31%** (even his favorite is only about 1/5 of the portfolio)
+- 4th-largest: PDD at **14.64%**
+- Top 5 holdings account for 87.2%, out of **9 total holdings**
+
+Li Lu is the most concentrated of all — yet his single largest position is only **22.31%**. Going all in means forcing Li Lu's "22% ceiling" up to "100%" — **that isn't aggressive value investing, it's anti-value-investing**.
+
+### 7.4 The Behavioral Finance Dimension
+
+- The phrase "all in" comes from **Texas Hold'em**, not from Buffett
+- Genuine high conviction leads to **increasing your position** (e.g., from 20% → 35%), not to 100%
+- **Chasing "one bet to turn it all around" = admitting you already believe you can't turn it around** — that is the posture of the desperate
+
+**The most dangerous question**: if you're asking "which one should I all in on," what's likely underneath it is "I want to win it all back in one shot."
+**The right question**: "Should I raise my single-stock position from X% to Y%?"
+
+---
+
+## 8. Ultimate Conclusion (Dual Answer)
+
+### Answer A: Pure Data Ranking (Forced Choice)
+
+| Rank | Name | Overall Assessment |
 |---|---|---|
-| 🥇 | **腾讯** | 大师哲学 20/20、风险调整比 2.57、>50% 亏损概率 ~7%、3% 股东回报兜底 |
-| 🥈 | 美团 | 弹性最大但确定性最差、>50% 亏损概率 ~30%、赌阿里 3 年内认输 |
-| 🥉 | PDD | 估值最便宜的"价值陷阱"、>50% 亏损概率 ~17.5%、净现金股东永远拿不到 |
+| 🥇 | **Tencent** | Master-philosophy score 20/20, risk-adjusted ratio 2.57, >50% loss probability ~7%, backstopped by a 3% shareholder yield |
+| 🥈 | Meituan | Highest optionality but lowest certainty, >50% loss probability ~30%, a bet that Alibaba concedes within 3 years |
+| 🥉 | PDD | The cheapest-valued "value trap," >50% loss probability ~17.5%, shareholders will never see the net cash |
 
-### 答案 B：你不应该 allin（哲学层）
+### Answer B: You Shouldn't Go All In (Philosophy Layer)
 
-> **数据说 allin 腾讯最理性。哲学说 allin 本身就不理性。**
+> **The data says going all in on Tencent is the most rational choice. Philosophy says going all in, period, is irrational.**
 
-**两者结合的可执行答案**：把"想 allin 腾讯的冲动"转化为**单股仓位 30-40%**——这是激进价值投资的边界（参考李录的 22% 上限稍微放宽）。剩下 60-70% 分散给其他高确定性标的（包括 PDD/美团或非中国资产）。
+**The actionable answer that reconciles both**: convert the "urge to all-in on Tencent" into a **single-stock position of 30-40%** — the outer boundary of aggressive value investing (a modest stretch beyond Li Lu's 22% ceiling). Diversify the remaining 60-70% across other high-conviction names (including PDD/Meituan, or non-China assets).
 
-### 段永平金句收尾
+### Closing with a Duan Yongping Quote
 
-> **"投资中最重要的不是一次赚多少，而是不要犯大错。allin 就是大错的定义。"**
-> —— @大道无形我有型
+> **"The most important thing in investing isn't how much you make on any one bet — it's not making big mistakes. Going all in is the definition of a big mistake."**
+> — @Dadaowuxingwoyouxing (Duan Yongping's online handle)
 
-> **"30% 和 100% 的区别，不是激进度的区别，是'投资 vs 赌博'的区别。"**
-
----
-
-## 9. 五问决策框架（自测）
-
-如果你仍想 allin，自问 5 个问题——**5 个全是"是"才考虑**（注意是 5/5 不是 3/5）：
-
-1. 你比段永平、李录、巴菲特、芒格更有把握吗？
-2. 这家公司未来 10 年能在你睡觉时不出问题吗？
-3. 你能承受 -50% 永久亏损（单股集中度 100% 时这是真实的尾部风险）吗？
-4. 你的判断是基于商业基本面，不是基于"想一把翻身"的情绪吗？
-5. 你能在错了之后承认错误，而不是用"长期投资"的话术骗自己吗？
-
-**少于 5 个"是" → 不应 allin**。
+> **"The difference between 30% and 100% isn't a difference in aggressiveness — it's the difference between 'investing' and 'gambling.'"**
 
 ---
 
-## 10. AI 研究局限性声明
+## 9. Five-Question Decision Framework (Self-Test)
 
-| 局限项 | 说明 |
+If you still want to go all in, ask yourself these 5 questions — **only consider it if all 5 answers are "yes"** (note: that's 5/5, not 3/5):
+
+1. Are you more confident than Duan Yongping, Li Lu, Buffett, and Munger?
+2. Can this company go 10 years without a problem while you're asleep?
+3. Can you stomach a -50% permanent loss (a real tail risk when single-stock concentration is 100%)?
+4. Is your judgment grounded in business fundamentals, rather than the emotion of "wanting to turn things around in one shot"?
+5. If you're wrong, can you admit it — rather than deceiving yourself with "long-term investing" rhetoric?
+
+**Fewer than 5 "yes" answers → you should not go all in.**
+
+---
+
+## 10. Statement of AI Research Limitations
+
+| Limitation | Explanation |
 |---|---|
-| 概率估算主观 | "3 年 >50% 亏损概率"是定性估计，非精算 |
-| 大师持仓延后 | 13F 数据有 45 天延迟，最新动作可能未反映 |
-| 美团转正时点 | "Q3 2026 OP 转正"是公司表态，不是事实 |
-| Temu 关税演化 | 美国关税政策不可预测，60% 概率是中位数估计 |
-| 黄峥治理风险 | "永远不返还现金"是观察推论，不是必然 |
+| Probability estimates are subjective | The "3-year >50% loss probability" figures are qualitative estimates, not actuarial calculations |
+| Master holdings are lagged | 13F data has a 45-day reporting lag, so the latest moves may not be reflected |
+| Meituan's turnaround timing | "Operating profit turns positive in Q3 2026" is company guidance, not a fact |
+| Temu tariff evolution | US tariff policy is unpredictable; the 60% probability is a median-case estimate |
+| Huang's governance risk | "Never returning cash" is an observed inference, not a certainty |
 
-**确定性来自商业模式本身，不来自报告字数**。本报告**不构成投资建议**。
-
----
-
-## 11. 相关研究（GitHub 链接）
-
-- [换仓决策研究-腾讯换PDD-茅台换美团-20260423](./换仓决策研究-腾讯换PDD-茅台换美团-20260423.md)
-- [组合审视与优化-portfolio-latest](./portfolio-latest.md)
-- [选股计划-20260412](./选股计划-20260412.md)
-- [刘军宁《少即是多——集中投资的智慧》](./刘军宁-少即是多-集中投资的智慧.md)
+**Certainty comes from the business model itself, not from the length of a report.** This report **does not constitute investment advice**.
 
 ---
 
-## 12. 免责声明
+## 11. Related Research (GitHub Links)
 
-本报告基于公开数据和价值投资框架的批判性分析。所有具体数字为估算。**不构成投资建议**。allin 决策需结合个人风险承受能力、税务、时间视角综合判断。
-
-**核心提醒**：本报告的标题虽是"三选一 allin"，但**报告本身的最强结论是"不要 allin"**。如果你只记住一句话——记住这一句。
+- [Rotation Decision Research – Tencent to PDD, Moutai to Meituan – 20260423](./换仓决策研究-腾讯换PDD-茅台换美团-20260423.md)
+- [Portfolio Review and Optimization – Portfolio Latest](./portfolio-latest.md)
+- [Stock Selection Plan – 20260412](./选股计划-20260412.md)
+- [Liu Junning, "Less Is More — The Wisdom of Concentrated Investing"](./刘军宁-少即是多-集中投资的智慧.md)
 
 ---
 
-**ai-berkshire 投研团队 / 2026-04-27**
+## 12. Disclaimer
+
+This report is a critical analysis based on public data and the value-investing framework. All specific figures are estimates. **It does not constitute investment advice.** Any all-in decision must weigh personal risk tolerance, tax considerations, and time horizon together.
+
+**Key reminder**: although this report's title is "which one to all in on," **the strongest conclusion of the report itself is "don't go all in."** If you remember only one sentence from this report, remember that one.
+
+---
+
+**ai-berkshire Investment Research Team / 2026-04-27**

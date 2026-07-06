@@ -1,184 +1,184 @@
-# GLM大模型的真实水位
+# The Real Level of GLM's Large Models
 
-> 《看懂智谱AI》系列 · 第 02 篇 · 技术与产品
-> 阅读时间约 10 分钟
+> *Understanding Zhipu AI* series · Part 02 · Technology and products
+> Reading time: ~10 minutes
 
 ---
 
-## GLM-5.1：真的对齐了全球顶尖？
+## GLM-5.1: has it truly caught up with the global frontier?
 
-评测排行榜上"全球最佳"是可以刷出来的，还是真实的技术水位？这是看懂智谱的关键问题。
+Is topping the benchmark leaderboards something you can game, or a genuine reflection of technical strength? That is the key question for understanding Zhipu.
 
-2026年4月8日，智谱发布GLM-5.1，距前代GLM-5仅两个月。官方宣称"与Claude Opus 4.6全面对齐"，这话含金量到底多高？
+On April 8, 2026, Zhipu released GLM-5.1, just two months after its predecessor GLM-5. The official claim is that it is "fully on par with Claude Opus 4.6" — how much is that claim really worth?
 
-### 硬指标摆出来
+### Laying out the hard numbers
 
-| 评测基准 | GLM-5.1成绩 | 对比对象 | 判断 |
+| Benchmark | GLM-5.1 result | Comparison | Assessment |
 |---------|------------|---------|------|
-| SWE-bench Pro | **全球最佳** | 超越Claude Opus 4.6 | 代码工程能力确实顶尖 |
-| SWE-bench Verified | **77.8** | 开源模型最高分 | 工程实操能力强 |
-| Terminal Bench 2.0 | **56.2** | 开源模型最高分 | 终端操作能力领先 |
-| Artificial Analysis v4.0 | **50分** | 开放权重模型首次达此分数 | 综合能力新标杆 |
+| SWE-bench Pro | **World's best** | Surpasses Claude Opus 4.6 | Genuinely top-tier engineering capability |
+| SWE-bench Verified | **77.8** | Highest score among open-source models | Strong practical engineering ability |
+| Terminal-Bench 2.0 | **56.2** | Highest score among open-source models | Leading terminal-operation capability |
+| Artificial Analysis v4.0 Index | **50 points** | First time an open-weight model has reached this score | A new benchmark for overall capability |
 
-（来源：智谱技术报告、Artificial Analysis、SWE-bench官方排行榜）
+(Source: Zhipu technical report, Artificial Analysis, official SWE-bench leaderboard)
 
-这组数据说明一件事：**在代码和工程能力这个维度，GLM-5.1确实站在了全球前列**。
+This data points to one thing: **on the coding and engineering dimension, GLM-5.1 genuinely stands among the global elite**.
 
-**但要清醒看到两个限制**：
+**But two caveats need to be kept clearly in view**:
 
-第一，评测基准不等于真实使用体验。SWE-bench测的是"给一个GitHub issue，能不能自动生成正确的代码补丁"——这是AI编程的核心场景，但不代表通用智能。在创意写作、复杂推理、多轮对话等维度，GLM-5.1与Claude、GPT-5的差距尚未有权威第三方评测。
+First, benchmark performance is not the same as real-world usage experience. SWE-bench tests "given a GitHub issue, can the model automatically generate a correct code patch" — a core AI-coding scenario, but not a proxy for general intelligence. On dimensions like creative writing, complex reasoning, and multi-turn conversation, there is no authoritative third-party evaluation yet of the gap between GLM-5.1 and Claude or GPT-5.
 
-第二，模型代际优势窗口极短。GLM-5.1发布于4月8日，但Anthropic、OpenAI、Google的新模型也在密集迭代。在大模型领域，**技术领先的半衰期大约是3-6个月**。
+Second, the window of generational advantage in models is extremely short. GLM-5.1 launched on April 8, but Anthropic, OpenAI, and Google are all iterating rapidly on new models too. In the large-model field, **the half-life of a technical lead is roughly 3-6 months**.
 
-### 技术架构拆解
+### Breaking down the technical architecture
 
-GLM-5的几个关键技术选择：
+Several key technical choices behind GLM-5:
 
-| 技术维度 | GLM-5/5.1方案 | 含义 |
+| Technical dimension | GLM-5/5.1 approach | Meaning |
 |---------|-------------|------|
-| 参数规模 | **744B**（上代355B） | 参数翻倍 |
-| 架构 | 稀疏MoE（混合专家） | 每次推理只激活约**400亿参数** |
-| 预训练数据 | **28.5T**（上代23T） | 数据量+24% |
-| 上下文窗口 | **200K tokens** | 长文本处理能力强 |
-| 强化学习 | 自研"Slime"异步RL框架 | 支撑更复杂的RL训练 |
-| 注意力机制 | 集成DeepSeek Sparse Attention | 降低部署成本 |
-| 国产芯片适配 | 华为昇腾、摩尔线程、寒武纪 | **自主可控叙事** |
+| Parameter count | **744 billion** (up from 355 billion in the prior generation) | Parameter count has doubled |
+| Architecture | Sparse MoE (mixture of experts) | Only about **40 billion parameters** are activated per inference |
+| Pretraining data | **28.5 trillion tokens** (up from 23 trillion) | Data volume up 24% |
+| Context window | **200K tokens** | Strong long-context processing capability |
+| Reinforcement learning | Proprietary "Slime" asynchronous RL framework | Supports more complex RL training |
+| Attention mechanism | Incorporates DeepSeek Sparse Attention | Reduces deployment cost |
+| Domestic-chip support | Huawei Ascend, Moore Threads, Cambricon | A "self-sufficient and controllable" narrative |
 
-（来源：GLM-5技术报告、智谱官方文档）
+(Source: GLM-5 technical report, Zhipu official documentation)
 
-几个值得注意的点：
+A few points worth noting:
 
-**MoE架构**是一个聪明的选择。744B（约7440亿）参数但每次推理只激活约400亿，意味着推理成本远低于同参数规模的Dense模型。这与DeepSeek的技术路线一致——用架构创新换性价比。
+The **MoE architecture** is a smart choice. A 744-billion-parameter model that activates only about 40 billion per inference means inference cost is far lower than a dense model of the same parameter scale. This is consistent with DeepSeek's technical approach — trading architectural innovation for cost-efficiency.
 
-**集成DeepSeek的稀疏注意力**——这说明智谱在技术上足够务实，不排斥采纳竞争对手的优秀方案。
+**Incorporating DeepSeek's sparse attention** shows that Zhipu is pragmatic enough on the technical front not to shy away from adopting a competitor's superior approach.
 
-**国产芯片适配**——在中美科技博弈的大背景下，能跑在华为昇腾上是一个政策加分项，但也意味着在硬件性能上可能受限于国产芯片与英伟达的差距。
+**Domestic-chip support** is a policy plus given the backdrop of US-China tech rivalry, since running on Huawei Ascend is a point in Zhipu's favor — but it also means hardware performance may be constrained by the gap between domestic chips and Nvidia's.
 
-**反方观点**：744B参数的MoE模型训练成本极高，智谱一年研发烧**31.8亿元**，这个投入在全球AI公司中只是中等偏下。Anthropic 2025年融资**80亿美元**，OpenAI更是百亿级别。长期看，算力军备竞赛中智谱的弹药是否充足是个大问号。
+**Counterpoint**: training a 744-billion-parameter MoE model is extremely expensive, and Zhipu's annual R&D spend of **RMB 3.18 billion** is only middling-to-low among global AI companies. Anthropic raised **$8 billion** in 2025, and OpenAI's figures run into the tens of billions. Over the long run, it's a big open question whether Zhipu has enough ammunition for the compute arms race.
 
 ---
 
-## 产品矩阵：一个亮点、一个短板、两个潜力股
+## The product lineup: one bright spot, one weak point, two potential winners
 
-### 智谱清言：C端的失守
+### Zhipu Qingyan: ceding the consumer market
 
-| 指标 | 智谱清言 | 豆包（字节） | DeepSeek | 通义千问（阿里） |
+| Metric | Zhipu Qingyan | Doubao (ByteDance) | DeepSeek | Tongyi Qianwen (Alibaba) |
 |------|---------|------------|----------|---------------|
-| MAU（2025年中） | **~838万** | **2.27亿** | 快速增长中 | 快速增长中 |
-| 注册用户 | 2,500万 | — | — | — |
-| 流量入口 | 无 | 抖音生态 | 口碑传播 | 淘宝/钉钉生态 |
+| MAU (mid-2025) | **~8.38 million** | **227 million** | Growing rapidly | Growing rapidly |
+| Registered users | 25 million | — | — | — |
+| Traffic entry point | None | Douyin ecosystem | Word of mouth | Taobao/DingTalk ecosystem |
 
-（来源：Sensor Tower、量子位、各公司公开数据）
+(Source: Sensor Tower, Quantum Bit (QbitAI), each company's public data)
 
-数据残酷得不需要分析：**智谱清言在C端已经被大厂甩开一个量级**。
+The data is brutal enough that it needs no further analysis: **Zhipu Qingyan has already fallen a full order of magnitude behind the tech giants on the consumer side**.
 
-核心原因不是模型不好——而是**没有流量入口**。
+The core reason isn't that the model is bad — it's that Zhipu **has no traffic entry point**.
 
-- 字节有抖音（日活7亿+），豆包可以嵌入短视频、搜索、电商全场景
-- 阿里有淘宝、钉钉，通义千问可以直接服务数亿用户
-- 百度有搜索引擎，文心一言天然获取搜索流量
-- 智谱有什么？**没有**。它是一家纯粹的AI技术公司，没有任何消费级流量池
+- ByteDance has Douyin (700 million+ daily active users), so Doubao can be embedded across short video, search, e-commerce, and every other scenario
+- Alibaba has Taobao and DingTalk, so Tongyi Qianwen can directly serve hundreds of millions of users
+- Baidu has its search engine, so Ernie Bot naturally captures search traffic
+- What does Zhipu have? **Nothing**. It is a pure AI technology company with no consumer-facing traffic pool of its own
 
-DeepSeek同样没有流量入口，但它靠"极致性价比+开源社区口碑"实现了病毒式传播。智谱在这一点上也没有做到——它的传播主要依赖技术圈和B端客户，缺乏大众话题性。
+DeepSeek likewise has no traffic entry point, but it achieved viral spread through "extreme cost-efficiency plus open-source community word of mouth." Zhipu hasn't managed that either — its spread relies mainly on the technical community and enterprise clients, lacking mass-market buzz.
 
-**反方观点**：C端可能本来就不是智谱该打的仗。Anthropic也不做C端产品（Claude更多面向开发者和企业），但Anthropic估值超过600亿美元。智谱的正确路径可能是放弃C端、全力ToB+API。
+**Counterpoint**: the consumer market may simply not be the battle Zhipu should be fighting. Anthropic also doesn't build consumer products (Claude is aimed more at developers and enterprises), yet Anthropic is valued at over $60 billion. Zhipu's correct path may be to abandon consumer and go all-in on on-premise enterprise plus API.
 
-### MaaS/API平台：真正的增长引擎
+### MaaS/API platform: the real growth engine
 
-这是智谱最亮眼的业务线：
+This is Zhipu's brightest business line:
 
-| 指标 | 数据 | 来源 |
+| Metric | Data | Source |
 |------|------|------|
-| 平台注册用户 | **400万+** | 智谱2025年财报 |
-| 付费用户 | **22万** | 招股书 |
-| 企业客户 | **1.2万** | 招股书 |
-| 覆盖国家 | **218个** | 智谱财报 |
-| MaaS ARR | **~17亿元（约2.5亿美元）** | 证券时报 |
-| ARR同比增长 | **60倍** | 证券时报 |
-| 2026年Q1 API调用量增长 | **400%** | 智谱业绩会 |
-| 2026年Q1 API定价提升 | **83%** | 智谱业绩会 |
+| Registered platform users | **4 million+** | Zhipu 2025 annual report |
+| Paying users | **220,000** | Prospectus |
+| Enterprise clients | **12,000** | Prospectus |
+| Countries covered | **218** | Zhipu annual report |
+| MaaS ARR | **~RMB 1.7 billion (about $250 million)** | Securities Times |
+| ARR year-over-year growth | **60x** | Securities Times |
+| Q1 2026 API call-volume growth | **400%** | Zhipu earnings call |
+| Q1 2026 API pricing increase | **83%** | Zhipu earnings call |
 
-（来源：智谱财报、招股书、证券时报报道）
+(Source: Zhipu annual report, prospectus, Securities Times reporting)
 
-**量价齐升**是一个非常好的信号——说明需求不是靠降价"买"来的，而是真实的市场拉动。
+**Rising volume alongside rising price** is a very good signal — it indicates demand isn't being "bought" through discounting, but reflects genuine market pull.
 
-CEO张鹏在业绩会上明确将2026年战略总结为一个词："**Token量**"。这和Anthropic的思路高度一致——先用API把开发者生态做大，再靠规模效应实现盈利。
+CEO Zhang Peng summed up the 2026 strategy in his earnings call with a single phrase: "**token volume**." This mirrors Anthropic's thinking closely — grow the developer ecosystem through the API first, then achieve profitability through economies of scale.
 
-**反方观点**：17亿ARR听起来唬人，但实际确认收入只有1.9亿（云端部分）。ARR是年化数字，包含了大量还未到账的合同金额。而且API市场正在经历惨烈价格战——DeepSeek的API定价比智谱低一个量级。如果DeepSeek继续降价，智谱83%的提价能否持续，要打个大问号。
+**Counterpoint**: an ARR of RMB 1.7 billion sounds impressive, but actual recognized revenue was only RMB 190 million (the cloud portion). ARR is an annualized figure that includes a large amount of contract value not yet booked. And the API market is in the midst of a brutal price war — DeepSeek's API pricing is an order of magnitude lower than Zhipu's. Whether Zhipu's 83% price increase can hold if DeepSeek keeps cutting prices is a big open question.
 
-### AutoGLM：AI Agent的先手棋
+### AutoGLM: an opening move in AI agents
 
-AutoGLM是智谱在AI Agent领域的布局，定位"能操作手机的AI"：
+AutoGLM is Zhipu's push into AI agents, positioned as "an AI that can operate your phone":
 
-- **全球首个**具备"Phone Use"能力的AI Agent框架
-- 能自主操作微信、淘宝、抖音、美团等**50+高频应用**
-- 可完成外卖点单、机票预订等**数十步复杂操作**
-- 2025年12月上线
+- The **world's first** AI agent framework with "phone use" capability
+- Can autonomously operate **50+ high-frequency apps**, including WeChat, Taobao, Douyin, and Meituan
+- Can complete complex, multi-step tasks such as ordering food delivery or booking flights, in **dozens of steps**
+- Launched in December 2025
 
-（来源：智谱官网、电子工程专辑）
+(Source: Zhipu's official website, Electronic Engineering Album/EEPW)
 
-AI Agent被视为大模型最有商业前景的落地方向之一。如果AutoGLM能成为手机端的"通用AI助手"，其商业价值将远超API调用。
+AI agents are seen as one of the most commercially promising directions for large models to land in. If AutoGLM can become a "universal AI assistant" on mobile, its commercial value could far exceed that of API calls.
 
-**但现实挑战**：蚂蚁灵光、字节豆包、苹果Apple Intelligence都在做类似的事情。智谱在手机端没有硬件入口，只能靠与三星、荣耀等厂商的合作预装，渠道受制于人。
+**But the real-world challenges are significant**: Ant Group's Lingguang, ByteDance's Doubao, and Apple's Apple Intelligence are all pursuing similar goals. Zhipu has no hardware entry point on mobile and must rely on partnerships with manufacturers like Samsung and Honor for pre-installation — leaving its distribution channel in others' hands.
 
-### CogVideoX：AI视频生成
+### CogVideoX: AI video generation
 
-- ICLR 2025收录论文（学术认可）
-- 3D因果VAE架构
-- 可生成10秒、768x1360分辨率视频
-- 与Sora、Kling（快手）、Vidu（生数科技）竞争
+- A paper accepted at ICLR 2025 (academic recognition)
+- A 3D causal VAE architecture
+- Can generate 10-second videos at 768x1360 resolution
+- Competes with Sora, Kling (Kuaishou), and Vidu (Shengshu Technology)
 
-（来源：ICLR 2025、智谱技术报告）
+(Source: ICLR 2025, Zhipu technical report)
 
-视频生成是一个还没有跑出明确商业模式的赛道。CogVideoX学术水平不错，但距离大规模商业化还有距离。
+Video generation is a track that hasn't yet produced a clear business model. CogVideoX has solid academic standing, but it still has a way to go before large-scale commercialization.
 
 ---
 
-## 开源策略：聪明但有代价
+## Open-source strategy: smart, but not without cost
 
-智谱采用**MIT协议全开源**——这是最宽松的开源许可证，意味着任何人都可以免费使用、修改、商业化智谱的模型。
+Zhipu has adopted **fully open source under the MIT license** — the most permissive open-source license, meaning anyone can freely use, modify, and commercialize Zhipu's models.
 
-| 开源策略对比 | 智谱 | DeepSeek | Meta（Llama） | 通义千问 |
+| Open-source strategy comparison | Zhipu | DeepSeek | Meta (Llama) | Alibaba's Qwen |
 |------------|------|----------|-------------|---------|
-| 许可证 | MIT（完全开放） | MIT | Llama License（有限制） | Apache 2.0 |
-| 开源范围 | 全模型+代码 | 全模型+代码 | 模型权重 | 全模型+代码 |
-| 商业化限制 | 无 | 无 | 月活7亿以上需授权 | 无 |
+| License | MIT (fully open) | MIT | Llama License (restricted) | Apache 2.0 |
+| Open-source scope | Full model + code | Full model + code | Model weights | Full model + code |
+| Commercial restrictions | None | None | Authorization required above 700 million monthly active users | None |
 
-（来源：各模型官方GitHub仓库）
+(Source: each model's official GitHub repository)
 
-开源策略的好处显而易见：快速建立开发者生态、提升品牌影响力、吸引企业客户试用后转付费。
+The benefits of an open-source strategy are obvious: it quickly builds a developer ecosystem, boosts brand influence, and draws enterprise clients in through free trials before conversion to paying customers.
 
-**但代价也很明确**：你把最核心的技术免费给了所有人——包括你的竞争对手。DeepSeek和通义千问同样全开源，三方之间的技术差异正在被快速拉平。
+**But the cost is equally clear**: you're giving your most core technology away for free to everyone — including your competitors. DeepSeek and Qwen are likewise fully open source, and the technical gap among the three is being rapidly narrowed.
 
-开源竞争的终局，不是"谁的模型最好"——而是**谁能围绕开源模型建立起最强的商业生态**（API平台、企业服务、应用集成）。这一点上，智谱目前排在DeepSeek和通义千问之后。
+The endgame of open-source competition isn't "whose model is best" — it's **who can build the strongest commercial ecosystem around the open-source model** (API platform, enterprise services, application integration). On this front, Zhipu currently trails both DeepSeek and Qwen.
 
 ---
 
-## 本篇小结：技术第一梯队，产品参差不齐
+## Summary of this piece: top-tier technology, an uneven product lineup
 
-| 维度 | 评价 | 风险点 |
+| Dimension | Assessment | Risk factor |
 |------|------|--------|
-| 模型技术 | GLM-5.1确实第一梯队 | 代际优势窗口短（3-6个月） |
-| C端产品 | 已被大厂甩开27倍 | 无流量入口，短期无解 |
-| API/MaaS | 增长极快，量价齐升 | ARR与确认收入差距大，价格战威胁 |
-| AI Agent | 先发优势，但渠道受制于人 | 巨头都在做 |
-| 视频生成 | 学术领先，商业化待验证 | 赛道本身不成熟 |
-| 开源生态 | MIT全开源，开发者友好 | 竞对同样开源，差异化减弱 |
+| Model technology | GLM-5.1 is genuinely top-tier | The window of generational advantage is short (3-6 months) |
+| Consumer product | Already left 27x behind by big tech | No traffic entry point, no short-term fix |
+| API/MaaS | Extremely fast growth, rising volume and price | Large gap between ARR and recognized revenue; price-war threat |
+| AI agents | First-mover advantage, but distribution is in others' hands | Every giant is pursuing this too |
+| Video generation | Academically leading, commercialization unproven | The track itself is immature |
+| Open-source ecosystem | Fully open under MIT, developer-friendly | Rivals are equally open source, eroding differentiation |
 
-一句话：**智谱的技术确实能打，但"技术强"到"赚到钱"之间，还有很长的路**。
-
----
-
-## 下期预告
-
-下一篇，我们把视角拉到整个中国大模型赛道——
-
-- 智谱的真正对手是谁？DeepSeek、百度文心、MiniMax、月之暗面，各自什么打法？
-- "大模型五强"格局稳定吗？谁可能掉队？
-- 大厂（字节、阿里、腾讯）vs 创业公司——这场仗怎么打？
-- 智谱在竞争中的生态位到底是什么？
+In one line: **Zhipu's technology genuinely delivers, but there is still a long road between "strong technology" and "making money."**
 
 ---
 
-*本文是《看懂智谱AI》系列第 02 篇。后续 2 篇将陆续推出。*
-*本系列基于公开信息撰写，不构成任何投资建议。AI行业变化极快，文中数据截至2026年5月，请以最新公告为准。*
+## Coming up next
+
+In the next piece, we widen the lens to the entire Chinese large-model race —
+
+- Who is Zhipu's real rival? What are the respective strategies of DeepSeek, Baidu's Ernie, MiniMax, and Moonshot AI?
+- Is the "big five" lineup among startups stable? Who might fall behind?
+- Big tech (ByteDance, Alibaba, Tencent) versus startups — how does this fight play out?
+- What exactly is Zhipu's competitive niche?
+
+---
+
+*This is Part 02 of the "Understanding Zhipu AI" series. Two more installments will follow.*
+*This series is written based on public information and does not constitute investment advice. The AI industry moves extremely fast — figures in this article are current as of May 2026; please refer to the latest disclosures.*

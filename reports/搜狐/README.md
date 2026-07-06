@@ -1,126 +1,126 @@
-# 搜狐(NASDAQ: SOHU) 投研团队研究
+# Sohu (NASDAQ: SOHU) Investment Team Research
 
-> **研究日期**：2026-04-26
-> **研究方法**：四角色并行分析（段永平/巴菲特/芒格/李录视角）
-> **数据置信度**：A级（上市25年信息充裕）
-
----
-
-## 一句话核心结论
-
-> **搜狐是A级烟蒂股 + C级公司**：市值$410M < 净现金$1,164M（折价2.84倍 / 4毛买1块），EV为负$385M（市场倒贴你接走业务）。但4位分析师中3位（段永平/芒格/李录）说"不买"——典型价值陷阱。仅适合3-5%卫星仓位的私有化套利。
+> **Research date**: 2026-04-26
+> **Research method**: Four-perspective parallel analysis (Duan Yongping / Buffett / Munger / Li Lu lenses)
+> **Data confidence**: Grade A (25 years of public disclosure provides ample information)
 
 ---
 
-## 文件结构
+## One-Sentence Core Conclusion
 
-| 文件 | 内容 |
+> **Sohu is a Grade-A cigar butt + a Grade-C company**: market cap of $410M < net cash of $1,164M (a 2.84x discount / buying a dollar for forty cents), with EV of negative $385M (the market is effectively paying you to take the business off its hands). But 3 of the 4 analysts (Duan Yongping / Munger / Li Lu) say "don't buy" — a textbook value trap. Suitable only as a 3-5% satellite position for a going-private arbitrage play.
+
+---
+
+## File Structure
+
+| File | Content |
 |------|------|
-| [README.md](./README.md) | 研究框架概览+核心结论 |
-| [最终报告.md](./最终报告.md) | 综合判断+一页纸决策表+四大师分歧 |
-| [01-商业模式分析-段永平视角.md](./01-商业模式分析-段永平视角.md) | 业务矩阵真相+护城河5维度+张朝阳IP评估 |
-| [02-财务估值分析-巴菲特视角.md](./02-财务估值分析-巴菲特视角.md) | 净现金折价+三情景估值+烟蒂股Checklist |
-| [03-行业竞争分析-芒格视角.md](./03-行业竞争分析-芒格视角.md) | 反过来想：3主业结构性死亡+海外对标 |
-| [04-风险管理层评估-李录视角.md](./04-风险管理层评估-李录视角.md) | 张朝阳深度评估+私有化可能性 |
+| [README.md](./README.md) | Research framework overview + core conclusion |
+| [Final Report.md](./最终报告.md) | Composite judgment + one-page decision table + the four masters' disagreements |
+| [01-Business Model Analysis - Duan Yongping's Lens.md](./01-商业模式分析-段永平视角.md) | The truth about the business mix + five-dimension moat assessment + Charles Zhang IP assessment |
+| [02-Financial and Valuation Analysis - Buffett's Lens.md](./02-财务估值分析-巴菲特视角.md) | Net cash discount + three-scenario valuation + cigar-butt checklist |
+| [03-Industry Competition Analysis - Munger's Lens.md](./03-行业竞争分析-芒格视角.md) | Inverting the problem: structural death of 3 core businesses + overseas benchmarking |
+| [04-Risk and Management Assessment - Li Lu's Lens.md](./04-风险管理层评估-李录视角.md) | In-depth assessment of Charles Zhang + likelihood of going private |
 
 ---
 
-## 核心数据速览（2026-04-17）
+## Key Data at a Glance (2026-04-17)
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 当前股价 | $15.72 |
-| 当前市值 | $410M |
-| 净现金（含投资）| **$1,164M** |
-| 净现金/市值 | **2.84倍** |
-| 企业价值(EV) | **-$385M（负）** |
-| 每股净现金 | $44.65 |
-| 股价/每股净现金 | **35.2%（4毛买1块）** |
-| P/B | **0.32×（3折破净）** |
-| 2025总营收 | $584M (-2.4%) |
-| 2025 Non-GAAP亏损 | -$51M（剔除一次性）|
-| 2025股东返还 | **$352M（=市值86%）** |
-| 张朝阳持股 | 35.8%（含Photon Group）|
+| Current share price | $15.72 |
+| Current market cap | $410M |
+| Net cash (including investments) | **$1,164M** |
+| Net cash / market cap | **2.84x** |
+| Enterprise value (EV) | **-$385M (negative)** |
+| Net cash per share | $44.65 |
+| Share price / net cash per share | **35.2% (buying a dollar for forty cents)** |
+| P/B | **0.32x (trading at 32% of book value)** |
+| 2025 total revenue | $584M (-2.4%) |
+| 2025 Non-GAAP loss | -$51M (excluding one-time items) |
+| 2025 shareholder returns | **$352M (= 86% of market cap)** |
+| Charles Zhang's stake | 35.8% (including Photon Group) |
 
 ---
 
-## 业务结构（2025）
+## Business Structure (2025)
 
-| 业务 | 收入 | 占比 | 状态 |
+| Business | Revenue | Share | Status |
 |------|------|------|------|
-| 在线游戏（畅游）| $506M | **86.6%** | 现金牛，TLBB单一IP贡献60% |
-| 营销服务（媒体）| $60M | 10.3% | 持续衰退（-18%）|
-| 其他 | $18M | 3.1% | 边缘 |
+| Online games (Changyou) | $506M | **86.6%** | Cash cow, single IP (TLBB) contributing 60% |
+| Marketing services (media) | $60M | 10.3% | Persistent decline (-18%) |
+| Other | $18M | 3.1% | Marginal |
 
 ---
 
-## 四维评分总表
+## Four-Dimension Scoring Summary
 
-| 维度 | 框架 | 评分 | 核心判断 |
+| Dimension | Framework | Score | Core judgment |
 |------|------|------|----------|
-| 商业模式 | 段永平视角 | ⭐⭐ (2/5) | 烂生意+情怀公司 |
-| 财务估值 | 巴菲特/格雷厄姆 | ⭐⭐⭐⭐ (4/5) | A级烟蒂股 |
-| 行业竞争 | 芒格视角 | ⭐ (1/5) | 3主业结构性死亡 |
-| 风险管理层 | 李录视角 | C级（偏C-）| 价值陷阱 |
+| Business model | Duan Yongping's lens | ⭐⭐ (2/5) | A bad business + a passion project |
+| Financials and valuation | Buffett / Graham | ⭐⭐⭐⭐ (4/5) | Grade-A cigar butt |
+| Industry competition | Munger's lens | ⭐ (1/5) | Structural death across 3 core businesses |
+| Risk and management | Li Lu's lens | Grade C (leaning C-) | Value trap |
 
-**综合（长期复利）**：⭐⭐ (2/5)
-**综合（事件驱动套利）**：⭐⭐⭐⭐ (4/5)
+**Composite (long-term compounding)**: ⭐⭐ (2/5)
+**Composite (event-driven arbitrage)**: ⭐⭐⭐⭐ (4/5)
 
 ---
 
-## 三情景估值
+## Three-Scenario Valuation
 
-| 情景 | 概率 | 目标价 | 上行/下行 |
+| Scenario | Probability | Target price | Upside/Downside |
 |------|------|--------|----------|
-| 熊（价值陷阱）| 30% | $8 | -49% |
-| 中性（持续返还）| 55% | $25 | +59% |
-| 牛（私有化）| 15% | $30-32 | +91-104% |
-| **加权期望值** | | **$20.80** | **+32%** |
+| Bear (value trap) | 30% | $8 | -49% |
+| Neutral (continued capital returns) | 55% | $25 | +59% |
+| Bull (going private) | 15% | $30-32 | +91-104% |
+| **Weighted expected value** | | **$20.80** | **+32%** |
 
 ---
 
-## 投资建议
+## Investment Recommendation
 
-| 投资者类型 | 建议 | 价格区间 | 仓位 |
+| Investor type | Recommendation | Price range | Position size |
 |---|---|---|---|
-| 激进型（事件驱动）| 小仓位买入 | $14-17 | ≤5% |
-| 稳健型 | 观望 | 等$12以下 | ≤3% |
-| 保守型 | 回避 | — | 0% |
+| Aggressive (event-driven) | Small buy position | $14-17 | ≤5% |
+| Conservative-moderate | Wait and watch | Below $12 | ≤3% |
+| Conservative | Avoid | — | 0% |
 
 ---
 
-## 四大师立场分歧
+## Where the Four Masters Disagree
 
-| 大师 | 立场 | 理由 |
+| Master | Position | Rationale |
 |---|---|---|
-| 巴菲特 | Pass（晚年）/ 1950s会买 | 烟蒂股逻辑成立，但已脱离 |
-| 段永平 | **Pass** | 不达"好生意+好公司+好价格" |
-| 芒格 | **Pass** | 避免结构性死亡赛道 |
-| 李录 | **100%不买** | 典型价值陷阱 |
-| 格雷厄姆 | **会买** | 教科书级烟蒂 |
+| Buffett | Pass (in his later years) / would have bought in the 1950s | The cigar-butt logic holds, but he's moved past this style |
+| Duan Yongping | **Pass** | Doesn't meet the bar of "good business + good company + good price" |
+| Munger | **Pass** | Avoid structurally dying sectors |
+| Li Lu | **100% would not buy** | A textbook value trap |
+| Graham | **Would buy** | A textbook-grade cigar butt |
 
-**关键洞察**：4位现代大师3:1反对，仅格雷厄姆框架支持。投资判断的核心是**你信哪个框架**。
+**Key insight**: 3 of 4 modern masters oppose it, with only the Graham framework in support. The crux of the investment decision comes down to **which framework you believe in**.
 
 ---
 
-## 关键催化剂
+## Key Catalysts
 
-| 加仓信号 🟢 | 退出信号 🔴 |
+| Bullish signals 🟢 | Exit signals 🔴 |
 |---|---|
-| 张朝阳宣布私有化方案 | 私有化溢价<30% |
-| 启动新一轮$200M+回购 | 现金被业务亏损快速消耗 |
-| TLBB收入持续超预期 | TLBB收入断崖式下滑 |
-| 中美关系缓和 | 中概股退市风险升级 |
-| 承诺持续分红政策 | 张朝阳健康/退休消息 |
+| Charles Zhang announces a going-private proposal | Going-private premium below 30% |
+| A new $200M+ buyback program is launched | Cash rapidly consumed by business losses |
+| TLBB revenue continues to beat expectations | TLBB revenue falls off a cliff |
+| U.S.-China relations ease | Delisting risk for Chinese ADRs escalates |
+| A commitment to a sustained dividend policy | News of Charles Zhang's health issues or retirement |
 
 ---
 
-## 最终判断
+## Final Judgment
 
-**搜狐是一具坐拥黄金的裹尸布——等的是入殓师，不是医生。**
+**Sohu is a shroud draped over gold — what it needs is an undertaker, not a doctor.**
 
-- 适合 3-5% 卫星仓位的**私有化套利**
-- 不适合作为**长期复利持仓**
-- 核心赌注：张朝阳 3-5 年内启动私有化（参考畅游 60-100% 溢价路径）
-- 下行保护：跌破 $22 反而是加仓机会
-- 预期回报：18-36 个月内 1.5-2 倍
+- Suitable for a 3-5% satellite position for **going-private arbitrage**
+- Not suitable as a **long-term compounding holding**
+- Core bet: Charles Zhang initiates a going-private transaction within 3-5 years (referencing Changyou's 60-100% premium precedent)
+- Downside protection: a drop below $22 would actually be a buying opportunity
+- Expected return: 1.5-2x within 18-36 months

@@ -1,396 +1,396 @@
-# 德业股份（605117.SH）投资研究报告
+# Deye Technology (605117.SH) Investment Research Report
 
-> **研究日期**：2026年6月23日
-> **股价**：CNY 101.85 | **市值**：CNY 1,297亿
-> **52周区间**：CNY 36.44 - 126.90
-
----
-
-## AI研究偏见自觉
-
-**信息丰富度评级：A级（信息充裕）**
-
-德业股份自2021年A股上市，券商覆盖广泛（银河/华创/东吴/开源等均有深度研报），年报/中报/季报披露规范，港股招股书（2026年1月递交）提供了额外的详细信息。新能源行业关注度高，媒体报道密集。
-
-**A级公司的AI研究陷阱**：德业是当前A股"逆变器+储能"赛道的热门标的，市场共识高度看多（2026Q1预增68%、券商一致预期2026年净利53.8亿）。AI输出容易趋同于这一乐观共识。**本报告重点做反面检验**：欧盟逆变器禁令的实质影响、新兴市场应收账款风险、以及40倍PE是否已充分定价增长预期。
-
-**偏见自查**：
-- 德业"新兴市场户储龙头"的叙事极具吸引力，需警惕叙事偏差覆盖了真实的地缘政治风险
-- 2026Q1数据亮眼（+68%）可能造成锚定效应，遮蔽2025全年增速仅9%的事实
-- 行业产能严重过剩（1TW vs 538GW需求），价格战压力在多数看多研报中被低估
+> **Research date**: June 23, 2026
+> **Share price**: CNY 101.85 | **Market cap**: CNY 129.7 billion
+> **52-week range**: CNY 36.44 - 126.90
 
 ---
 
-## 关键数据交叉验证记录
+## AI research bias self-check
 
-| 验证项 | 来源1 | 来源2 | 偏差 | 结果 |
+**Information-richness rating: A (information-rich)**
+
+Deye Technology has been listed on the A-share market since 2021, with broad brokerage coverage (in-depth research reports from Galaxy Securities, CSC, Soochow, Kaiyuan, etc.), regular annual/interim/quarterly disclosures, and its Hong Kong IPO prospectus (filed January 2026) provides additional detail. The new-energy sector draws heavy attention, and media coverage is dense.
+
+**The AI research trap for "A-grade" companies**: Deye is currently a hot name in the A-share "inverter + energy storage" track, with the market consensus strongly bullish (2026 Q1 pre-announced profit growth of 68%, brokerage consensus for 2026 net profit of CNY 5.38 billion). AI output tends to converge toward this optimistic consensus. **This report specifically stress-tests the counter-case**: the real-world impact of the EU inverter ban, receivables risk in emerging markets, and whether the 40x P/E already fully prices in growth expectations.
+
+**Bias self-check**:
+- Deye's "emerging-market residential storage leader" narrative is highly compelling, and one must guard against narrative bias papering over real geopolitical risk
+- The eye-catching 2026 Q1 numbers (+68%) may create an anchoring effect that obscures the fact that full-year 2025 growth was only 9%
+- Industry capacity is severely oversupplied (1TW of capacity vs. 538GW of demand), and the pricing-war pressure this implies is underweighted in most bullish reports
+
+---
+
+## Key data cross-validation log
+
+| Item verified | Source 1 | Source 2 | Deviation | Result |
 |--------|-------|-------|------|------|
-| 市值（CNY 1,297亿） | 股价101.85×股本12.73亿=1,296.6亿 | Investing.com | 0.05% | 通过 |
-| FY2025收入（122.24亿） | 公司年报 | 东方财富 | 0.00% | 通过 |
-| FY2025归母净利润（31.71亿） | 公司年报 | 东方财富 | 0.00% | 通过 |
-| 总股本（12.73亿） | 公司公告（10转4后） | Investing.com 12.7亿 | <0.3% | 通过 |
+| Market cap (CNY 129.7 billion) | Share price 101.85 x share count 1.273 billion = CNY 129.66 billion | Investing.com | 0.05% | Pass |
+| FY2025 revenue (CNY 12.224 billion) | Company annual report | Eastmoney | 0.00% | Pass |
+| FY2025 net profit attributable to parent (CNY 3.171 billion) | Company annual report | Eastmoney | 0.00% | Pass |
+| Total share count (1.273 billion) | Company announcement (post 10-for-4 bonus issue) | Investing.com: 1.27 billion | <0.3% | Pass |
 
-> PE=40.90x、PB=12.56x、ROE=30.70%、FCF Yield=2.16% 均通过 `financial_rigor.py` 精确验算。
+> P/E = 40.90x, P/B = 12.56x, ROE = 30.70%, FCF Yield = 2.16% were all precisely verified with `financial_rigor.py`.
 
-**重要说明**：德业自上市以来每年进行资本公积金转增（10转4或10转8），总股本从IPO时约2.07亿股扩大到12.73亿股。不同平台的估值指标因股本口径差异较大，本报告统一采用最新转增后股本12.73亿股。
+**Important note**: Deye has carried out a capital-reserve-to-share-capital conversion every year since listing (10-for-4 or 10-for-8), expanding total share count from roughly 207 million shares at IPO to 1.273 billion shares today. Valuation metrics differ significantly across platforms depending on which share-count basis is used; this report consistently uses the latest post-conversion share count of 1.273 billion shares.
 
 ---
 
-## 一、生意本质分析
+## I. Nature of the Business
 
-### 一句话定义
+### One-sentence definition
 
-**德业股份是一家以极致成本控制为核心竞争力的新能源设备公司，通过"逆变器+储能电池包"一站式方案，深耕全球新兴市场的分布式光伏和户用储能需求。**
+**Deye Technology is a new-energy equipment company whose core competitive strength is relentless cost control, delivering an "inverter + storage battery pack" one-stop solution to serve distributed solar and residential storage demand across emerging markets worldwide.**
 
-### 收入结构拆解（FY2025）
+### Revenue breakdown (FY2025)
 
-| 业务线 | 收入（亿元） | 占比 | 同比增速 | 毛利率 |
+| Business line | Revenue (CNY billion) | Share | YoY growth | Gross margin |
 |--------|-------------|------|---------|--------|
-| 储能逆变器 | 52.17 | 42.7% | +18.9% | **51.10%** |
-| 储能电池包 | 38.32 | 31.4% | +56.3% | 31.81% |
-| 光伏逆变器 | 10.54 | 8.6% | -7.2% | 32.11% |
-| 热交换器 | 9.38 | 7.7% | -52.0% | 7.71% |
-| 除湿机 | 8.05 | 6.6% | -16.9% | 29.72% |
-| **合计** | **122.24** | **100%** | **+9.1%** | **~38%** |
+| Storage inverters | 5.217 | 42.7% | +18.9% | **51.10%** |
+| Storage battery packs | 3.832 | 31.4% | +56.3% | 31.81% |
+| Solar inverters | 1.054 | 8.6% | -7.2% | 32.11% |
+| Heat exchangers | 0.938 | 7.7% | -52.0% | 7.71% |
+| Dehumidifiers | 0.805 | 6.6% | -16.9% | 29.72% |
+| **Total** | **12.224** | **100%** | **+9.1%** | **~38%** |
 
-**新能源业务合计**：101.81亿（占比83.3%，+27.0%），新能源毛利率41.63%。传统家电业务持续萎缩。
+**New-energy business total**: CNY 10.181 billion (83.3% of revenue, +27.0%), with a new-energy gross margin of 41.63%. The legacy home-appliance business continues to shrink.
 
-### 5年盈利能力趋势
+### Five-year profitability trend
 
-| 指标 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |------|--------|--------|--------|--------|--------|
-| 总收入（亿） | 41.68 | 59.56 | 74.80 | 112.06 | 122.24 |
-| 收入增速 | +37.9% | +42.9% | +25.6% | +49.8% | +9.1% |
-| 归母净利润（亿） | 5.79 | 15.17 | 17.91 | 29.60 | 31.71 |
-| 净利润增速 | +50.8% | +162.3% | +18.0% | +65.3% | +7.1% |
-| 毛利率 | 22.95% | 38.03% | 40.41% | 38.76% | ~38% |
-| 净利率 | ~13.9% | ~25.5% | ~23.9% | 26.42% | ~25.9% |
+| Total revenue (CNY billion) | 4.168 | 5.956 | 7.480 | 11.206 | 12.224 |
+| Revenue growth | +37.9% | +42.9% | +25.6% | +49.8% | +9.1% |
+| Net profit attributable to parent (CNY billion) | 0.579 | 1.517 | 1.791 | 2.960 | 3.171 |
+| Net profit growth | +50.8% | +162.3% | +18.0% | +65.3% | +7.1% |
+| Gross margin | 22.95% | 38.03% | 40.41% | 38.76% | ~38% |
+| Net margin | ~13.9% | ~25.5% | ~23.9% | 26.42% | ~25.9% |
 | ROE | ~15.2% | ~24.3% | ~20% | 31.31% | 30.7% |
-| 经营现金流（亿） | ~7.97 | ~22.0 | ~20.8 | 33.67 | 39.86 |
+| Operating cash flow (CNY billion) | ~0.797 | ~2.20 | ~2.08 | 3.367 | 3.986 |
 
-**关键转折**：2021年收入结构以低毛利热交换器为主（占56%），毛利率仅23%。2022年逆变器爆发后，毛利率跃升至38%+并稳定保持。收入增长从2021-2024年的高速（+38%~+50%）在2025年骤降至9%，但2026Q1重新加速至+74%。
+**Key inflection point**: In 2021, revenue was still dominated by low-margin heat exchangers (56% of the mix), and gross margin was only 23%. After the inverter business took off in 2022, gross margin jumped to 38%+ and has held there since. Revenue growth, which ran hot at +38% to +50% from 2021 through 2024, fell sharply to 9% in 2025 but re-accelerated to +74% in 2026 Q1.
 
-### 商业模式画布
+### Business model canvas
 
-- **类型**：硬件制造+出口，一次性销售为主（非订阅）
-- **收入模式**：逆变器和电池包为硬件设备销售，安装后无持续服务收入（区别于Enphase的Enlighten平台）
-- **海外收入占比**：FY2025约80%（外销97.47亿，内销24.39亿），新能源业务海外占比92%
-- **销售模式**：82%贴牌OEM/ODM + 18%自有品牌，轻资产出海
+- **Type**: Hardware manufacturing and export, predominantly one-time sales (not a subscription)
+- **Revenue model**: Inverters and battery packs are sold as hardware; there is no recurring service revenue after installation (unlike Enphase's Enlighten platform)
+- **Share of overseas revenue**: ~80% in FY2025 (export sales CNY 9.747 billion, domestic sales CNY 2.439 billion); the new-energy business is 92% overseas
+- **Sales model**: 82% OEM/ODM (white-label) + 18% own-brand, an asset-light approach to going global
 
-### 毛利率解读
+### Reading the gross margin
 
-| 对比 | 德业 | Enphase | 阳光电源 | 锦浪科技 |
+| Comparison | Deye | Enphase | Sungrow | Ginlong (Solis) |
 |------|------|---------|---------|---------|
-| 综合毛利率 | ~38% | ~47% | ~28% | ~32% |
-| 逆变器毛利率 | 51.1%（储能逆变器） | ~47% | ~28% | ~32% |
-| 费用率 | ~10% | ~35% | ~15% | ~18% |
-| 净利率 | ~26% | ~12% | ~13% | ~14% |
+| Blended gross margin | ~38% | ~47% | ~28% | ~32% |
+| Inverter gross margin | 51.1% (storage inverters) | ~47% | ~28% | ~32% |
+| Expense ratio | ~10% | ~35% | ~15% | ~18% |
+| Net margin | ~26% | ~12% | ~13% | ~14% |
 
-德业毛利率低于Enphase但净利率反而更高，核心在于**极低的费用率**（~10% vs Enphase~35%）。这是经销商模式+中国制造成本优势的直接体现。储能逆变器51.1%的毛利率在中国逆变器企业中属最高水平。
+Deye's gross margin trails Enphase's, yet its net margin is actually higher — the key is an **extremely low expense ratio** (~10% vs. Enphase's ~35%). This is the direct product of its distributor-driven model plus China's manufacturing cost advantage. At 51.1%, storage-inverter gross margin is the highest among Chinese inverter makers.
 
-### 追问：这门生意好在哪？
+### Digging deeper: what makes this a good business?
 
-**如果只能用一句话描述**：德业用中国制造的成本优势，卖的却是海外新兴市场高毛利的"电力刚需"产品——缺电国家的居民为了有电用、不停电，愿意为逆变器+储能付出溢价。
+**If it had to be summed up in one sentence**: Deye leverages China's manufacturing cost advantage to sell what is, for overseas emerging markets, a high-margin "essential power" product — residents in power-starved countries pay a premium for inverters plus storage simply to have electricity and avoid outages.
 
-生意的好处：
-1. **需求刚性**——南非日均停电18小时、巴基斯坦/缅甸电力严重不足，储能逆变器是"有电vs没电"的选择，不是"省钱vs不省钱"
-2. **毛利率极高**——储能逆变器51.1%，远超传统制造业
-3. **现金流优秀**——FY2025经营现金流39.86亿，接近净利润的126%
+What's good about the business:
+1. **Rigid demand** — with South Africa averaging 18 hours of daily blackouts and Pakistan/Myanmar facing severe power shortfalls, a storage inverter is the choice between "having power" and "having none," not "saving money" versus "not saving money"
+2. **Very high gross margins** — 51.1% on storage inverters, far above typical manufacturing
+3. **Excellent cash flow** — FY2025 operating cash flow of CNY 3.986 billion, nearly 126% of net profit
 
-生意的隐患：
-1. **硬件一次性销售**——安装后无持续收入，增长完全依赖新出货
-2. **贴牌占比82%**——品牌资产薄弱，渠道商拥有议价权
-3. **2025年增速骤降至9%**——高增长能否持续是核心问题
+Hidden risks in the business:
+1. **One-time hardware sales** — no recurring revenue after installation, so growth depends entirely on new shipments
+2. **82% white-label share** — weak brand equity, with distributors holding the pricing leverage
+3. **2025 growth collapsed to 9%** — whether high growth is sustainable is the core question
 
 ---
 
-## 二、护城河评估
+## II. Moat Assessment
 
-### 五类护城河逐项验证
+### Five moat categories, verified one by one
 
-| 护城河类型 | 强度 | 验证分析 |
+| Moat type | Strength | Verification / analysis |
 |-----------|------|---------|
-| **品牌/定价权** | 弱-中 | 82%贴牌意味着终端品牌不属于德业。巴西自有品牌渠道正在建设，但在欧美成熟市场品牌力远逊于Enphase/华为。新兴市场客户对"Deye"品牌有一定认知（南非市占>50%），但更多认的是价格而非品牌 |
-| **转换成本** | 中等偏强 | 逆变器+电池包配套形成产品锁定（不同厂商逆变器与电池包通常不兼容）；100kW以上离网系统采用私有协议锁定客户；但户用小系统的转换成本不高 |
-| **网络效应** | 弱 | 硬件产品无网络效应。Enphase的Enlighten平台有弱网络效应（数据积累→优化发电→吸引更多用户），德业缺乏这一维度 |
-| **规模效应/成本优势** | **极强** | 最核心护城河。结构件自制率90%、IGBT国产化降本30%、模具自制率70%+、经销模式费用率仅~10%。微逆单瓦售价仅Enphase的1/3~1/4。储能逆变器毛利率51.1%在中国同行中最高 |
-| **认证壁垒** | 强 | 覆盖全球主要市场认证（UL/CE/AS4777/NRS/INMETRO等），认证周期6-18个月、成本数十万至数百万。新进入者需1-2年追赶 |
+| **Brand / pricing power** | Weak-to-moderate | An 82% white-label share means the end-customer brand doesn't belong to Deye. Its own-brand channel in Brazil is under construction, but brand strength in mature Western markets remains well behind Enphase/Huawei. Customers in emerging markets recognize the "Deye" brand to some degree (>50% market share in South Africa), but they are buying mostly on price, not brand |
+| **Switching costs** | Moderate-to-strong | Inverter + battery pack bundling creates product lock-in (inverters and battery packs from different manufacturers are typically incompatible); off-grid systems above 100kW use proprietary protocols to lock in customers; but switching costs for small residential systems are low |
+| **Network effects** | Weak | Hardware products carry no network effect. Enphase's Enlighten platform has a weak network effect (data accumulation → generation optimization → more users attracted), a dimension Deye lacks |
+| **Scale / cost advantage** | **Very strong** | The core moat. Deye self-manufactures 90% of structural components, has cut costs 30% through IGBT localization, self-manufactures 70%+ of its molds, and runs an expense ratio of only ~10% under its distributor model. Its per-watt microinverter price is just one-third to one-quarter of Enphase's. At 51.1%, storage-inverter gross margin is the highest among Chinese peers |
+| **Certification barriers** | Strong | Deye holds certifications across all major global markets (UL/CE/AS4777/NRS/INMETRO, etc.); certification cycles run 6-18 months and cost hundreds of thousands to millions of dollars. New entrants need 1-2 years to catch up |
 
-### 护城河趋势判断
+### Moat trend assessment
 
-**过去5年：显著变宽**
-- 从家电OEM转型为新兴市场户储龙头
-- 海外经销商从无到291家（行业最多）
-- 产品线从单一逆变器扩展至"逆变器+电池包+热泵"
-- 南非、缅甸、菲律宾等市场建立先发优势
+**Past 5 years: widened significantly**
+- Transformed from a home-appliance OEM into an emerging-market residential storage leader
+- Overseas distributor count grew from zero to 291 (the most in the industry)
+- Product line expanded from a single inverter to "inverter + battery pack + heat pump"
+- Established first-mover advantage in markets such as South Africa, Myanmar, and the Philippines
 
-**未来5年：面临收窄风险**
-- **欧盟逆变器禁令（2027年全面生效）**可能系统性压缩德业在欧洲的市场空间（德国占24%收入）
-- 华为、辉瑞/三生等巨头若进入微逆+户储市场，将直接冲击德业的成本优势护城河
-- 全球逆变器产能过剩（1TW vs 538GW需求），价格战将侵蚀利润率
-- 竞品追赶：锦浪、固德威、Growatt同样在加速出海新兴市场
+**Next 5 years: at risk of narrowing**
+- The **EU inverter ban (taking full effect in 2027)** could systematically compress Deye's market space in Europe (Germany accounts for 24% of revenue)
+- If giants such as Huawei or Sofar Solar/Growatt enter the microinverter-plus-residential-storage market, they will directly attack Deye's cost-advantage moat
+- Global inverter overcapacity (1TW of capacity vs. 538GW of demand) will erode margins via price wars
+- Competitors are catching up: Ginlong (Solis), GoodWe, and Growatt are similarly accelerating their push into emerging markets overseas
 
-### 追问：10年后这条护城河还在吗？
+### Digging deeper: will this moat still exist in 10 years?
 
-**最可能摧毁护城河的因素**：
-1. **欧盟"华为5G禁令"式的逆变器封锁**——如果2027年禁令严格执行，德业将被迫退出欧洲（占收入~24%），且示范效应可能扩散至澳洲等西方市场
-2. **华为全面进入户用储能**——华为FusionSolar已在欧洲户储市场Top3，若其以类似手机的"性价比+品牌"策略进入新兴市场，德业的成本优势将被大幅削弱
-3. **Enphase大幅降价**——Enphase 2024年营收暴跌42%后可能采取激进降价策略，若微逆价差从3-4倍缩窄至1.5-2倍，德业的性价比叙事将弱化
+**The factors most likely to destroy the moat**:
+1. **A "Huawei 5G ban"-style inverter blockade from the EU** — if the 2027 ban is strictly enforced, Deye could be forced out of Europe (~24% of revenue), and the precedent could spread to other Western markets like Australia
+2. **Huawei making a full push into residential storage** — Huawei FusionSolar is already a top-3 player in Europe's residential storage market; if it applies a smartphone-style "value-for-money plus brand" strategy to emerging markets, Deye's cost advantage would be substantially eroded
+3. **A major Enphase price cut** — after Enphase's revenue collapsed 42% in 2024, it may adopt an aggressive pricing strategy; if the microinverter price gap narrows from 3-4x to 1.5-2x, Deye's value-for-money narrative would weaken
 
-**10年后的关键判断**：护城河的持久性取决于德业能否从"成本领先"升级为"成本领先+品牌+软件生态"。如果始终停留在硬件OEM模式，护城河会随着竞品追赶逐渐收窄。
+**The key judgment for 10 years out**: the durability of the moat hinges on whether Deye can upgrade from "cost leadership" to "cost leadership plus brand plus a software ecosystem." If it remains stuck in the hardware-OEM model, the moat will gradually narrow as competitors catch up.
 
 ---
 
-## 三、逆向思考与风险清单
+## III. Contrarian Thinking and Risk Checklist
 
-### 失败路径全景
+### Panorama of failure paths
 
-| 失败路径 | 概率 | 影响程度 | 具体情景 |
+| Failure path | Probability | Impact | Specific scenario |
 |----------|------|---------|---------|
-| **欧盟逆变器网络安全禁令全面落地** | 60-70% | 极高 | 2027年4月起新合同全面纳入限制。德国占收入24%（~17.7亿），是最高利润区。禁令扩展至储能系统（BESS）进一步加大打击面 |
-| 美国145%关税+东南亚反规避封堵 | 已发生 | 中等 | 德业美国直接敞口仅~3%，通过Sol-Ark贴牌。但被锁在全球最大利润市场之外是长期机会损失 |
-| 全球逆变器价格战 | 70-80% | 高 | 产能1TW vs需求538GW，严重过剩。价格年降10-15%已在发生。德业储能逆变器51%毛利率有下行空间 |
-| 巴西政策持续收紧 | 40-50% | 中等 | Fio B逐年递增至2027年75%，组件进口税25%。2025年巴西分布式新增首次下滑12% |
-| 应收账款恶化/坏账 | 20-30% | 中高 | 2024年末应收账款17亿（+203%），增速远超营收。新兴市场客户信用风险高（巴基斯坦、乌克兰等） |
-| 华为大举进入户储新兴市场 | 30-40% | 高 | 华为2024年全球逆变器出货176GW，储能逆变器市占22.7%。若以"华为"品牌+渠道下沉新兴市场，德业价格优势将被削弱 |
-| 继电器事件类质量问题再次发生 | 10-15% | 中等 | 2023年德国拆机发现缺少继电器已损伤品牌。若在更大市场发生类似事件，可能导致认证撤销 |
+| **EU inverter cybersecurity ban fully takes effect** | 60-70% | Very high | Starting April 2027, all new contracts fall under the restrictions. Germany accounts for 24% of revenue (~CNY 1.77 billion) and is the highest-margin region. If the ban is extended to battery energy storage systems (BESS), the damage widens further |
+| US 145% tariff plus Southeast Asia anti-circumvention crackdown | Already happened | Moderate | Deye's direct US exposure is only ~3%, routed through white-label partner Sol-Ark. But being locked out of the world's largest profit-pool market is a long-term opportunity cost |
+| Global inverter price war | 70-80% | High | Capacity of 1TW vs. demand of 538GW is a severe glut. Prices are already falling 10-15% a year. Deye's 51% storage-inverter gross margin has room to fall further |
+| Continued tightening of Brazilian policy | 40-50% | Moderate | The Fio B charge rises incrementally to 75% by 2027, and the import tariff on components is 25%. Brazil's distributed solar additions fell for the first time in 2025, down 12% |
+| Receivables deterioration / bad debt | 20-30% | Moderate-to-high | Accounts receivable stood at CNY 1.7 billion at end-2024 (+203%), growing far faster than revenue. Credit risk among emerging-market customers (Pakistan, Ukraine, etc.) is high |
+| Huawei makes a major push into emerging-market residential storage | 30-40% | High | Huawei shipped 176GW of inverters globally in 2024 and holds 22.7% share of storage inverters. If it pushes the "Huawei" brand and its distribution network deeper into emerging markets, Deye's price advantage would be eroded |
+| A repeat of a relay-component-style quality incident | 10-15% | Moderate | In 2023, a teardown in Germany found a missing relay component, which already damaged the brand. A similar incident in a larger market could trigger certification revocation |
 
-### 历史类比
+### Historical analogies
 
-| 类比公司 | 相似点 | 结局 | 启示 |
+| Comparable company | Similarity | Outcome | Takeaway |
 |----------|--------|------|------|
-| **阳光电源（2016-2020）** | 从UPS/电力电子切入逆变器 | 市值~3,000亿，全球逆变器Top2 | 证明中国逆变器企业可成为全球龙头。但阳光"先国内后海外"更稳健 |
-| **锦浪科技（2022-2024）** | 欧洲占比高→去库存重创→股价暴跌70%→归母-11% | 2025年开始恢复 | **高海外依赖在去库存周期中极其脆弱**。德业分散在110+国家，比锦浪好 |
-| **固德威（2024）** | 海外占比从80%骤降至30%→亏损 | 正在恢复 | 高海外占比是双刃剑 |
-| **Enphase（2022-2024）** | 微逆龙头→市值从$40B跌至$10B | 估值回归合理 | 即使行业龙头也难逃周期波动 |
-| **格力投资银隆** | 家电企业跨界新能源 | 失败，技术路线选错 | 德业转型成功的关键是"变频→电控→逆变器"的自然延伸，而非跨界 |
+| **Sungrow (2016-2020)** | Moved into inverters from UPS / power electronics | Market cap ~CNY 300 billion, global top-2 inverter maker | Proves a Chinese inverter company can become a global leader. But Sungrow's "domestic first, then overseas" path was steadier |
+| **Ginlong / Solis (2022-2024)** | High Europe exposure → destocking hit hard → stock fell 70% → net margin -11% | Recovery began in 2025 | **High overseas dependence is extremely fragile during a destocking cycle.** Deye is spread across 110+ countries, which is better diversified than Solis |
+| **GoodWe (2024)** | Overseas share plunged from 80% to 30% → losses | Currently recovering | High overseas exposure is a double-edged sword |
+| **Enphase (2022-2024)** | Microinverter leader → market cap fell from $40B to $10B | Valuation has normalized | Even an industry leader cannot escape cyclical swings |
+| **Gree's investment in Yinlong** | A home-appliance company diversifying into new energy | Failed, wrong technology path chosen | The key to Deye's successful transformation is that "variable-frequency control → power electronics → inverters" was a natural extension of its existing capability, not a cross-industry leap |
 
-### 追问：我最可能在哪里犯错？
+### Digging deeper: where am I most likely to be wrong?
 
-1. **低估欧盟禁令的实际影响**。这不是"可能发生"的风险——欧盟已立法。2027年全面生效后，德业在欧洲的收入（占总收入~24%）将面临系统性压缩。这是逆变器版的"华为5G禁令"
-2. **被2026Q1的高增长锚定**。2026Q1归母+68%极其亮眼，但2025全年仅+9%。需要判断：Q1是趋势的开始还是一次性波动？
-3. **将"成本优势"等同于"不可替代"**。中国逆变器企业都有成本优势——锦浪、固德威、Growatt的成本结构与德业相差不远。德业的真正差异化是渠道网络，而渠道可以被后来者复制
+1. **Underestimating the real impact of the EU ban.** This is not a "might happen" risk — the EU has already legislated it. Once it takes full effect in 2027, Deye's European revenue (~24% of the total) will face systemic compression. This is the inverter-industry equivalent of the "Huawei 5G ban"
+2. **Getting anchored to 2026 Q1's strong growth.** Net profit attributable to parent was up an eye-catching 68% in 2026 Q1, but full-year 2025 growth was only +9%. The question that needs answering: is Q1 the start of a trend or a one-off blip?
+3. **Equating "cost advantage" with "irreplaceable."** All Chinese inverter makers have a cost advantage — Solis, GoodWe, and Growatt have cost structures not far from Deye's. Deye's real point of differentiation is its distribution network, and a distribution network can be replicated by later entrants
 
-**聪明人为什么会做空**：
-- PE 41倍对一个硬件制造商而言偏高（2025年净利增速仅7%）
-- 欧盟禁令是已确定的中期利空，market尚未充分定价
-- 应收账款增速是营收增速的4倍（+203% vs +50%），信用风险在积累
+**Why a smart investor might short this stock**:
+- A 41x P/E is rich for a hardware manufacturer whose net profit grew only 7% in 2025
+- The EU ban is an already-confirmed medium-term headwind that the market has not yet fully priced in
+- Receivables are growing four times faster than revenue (+203% vs. +50%), and credit risk is building
 
 ---
 
-## 四、管理层评估
+## IV. Management Assessment
 
-### 创始人张和君
+### Founder Zhang Hejun
 
-| 维度 | 详情 |
+| Dimension | Detail |
 |------|------|
-| 年龄 | 73岁 |
-| 学历 | 高中 |
-| 持股 | 一致行动人合计60.30%（绝对控制） |
-| 座右铭 | "每天都要有进步" |
-| 财富排名 | 胡润百富榜350亿（2024年，第128位） |
-| 经历 | 1971年模具工→2000年创立德业→2016年并购日新科技→2021年IPO→2025年新能源收入102亿 |
+| Age | 73 |
+| Education | High school |
+| Shareholding | 60.30% combined among the concert-party group (absolute control) |
+| Motto | "Make progress every day" |
+| Wealth ranking | CNY 35 billion on the Hurun Rich List (2024, ranked 128th) |
+| Career | Mold worker starting in 1971 → founded Deye in 2000 → acquired Rixin Technology in 2016 → IPO in 2021 → new-energy revenue reached CNY 10.2 billion in 2025 |
 
-### 核心团队
+### Core team
 
-| 姓名 | 职务 | 关键信息 |
-|------|------|---------|
-| 张栋斌 | 执行董事 | 长子，47岁，**加拿大籍** |
-| 张栋业 | 副董事长兼总经理 | 次子，44岁，**加拿大籍** |
-| 季德海 | 副总经理 | 33岁，2016年随日新科技并购加入，逆变器业务技术关键人物 |
-| 谈最 | 董事/副总裁/CFO | 49岁，2000年加入，财务老臣 |
+| Name | Title | Key information |
+|------|------|------|
+| Zhang Dongbin | Executive director | Elder son, 47, **Canadian citizen** |
+| Zhang Dongye | Vice chairman and general manager | Younger son, 44, **Canadian citizen** |
+| Ji Dehai | Deputy general manager | 33, joined in 2016 through the Rixin Technology acquisition; the key technical figure behind the inverter business |
+| Tan Zui | Director / vice president / CFO | 49, joined in 2000; the company's longtime finance veteran |
 
-### 关键决策复盘
+### Review of key decisions
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Result | Grade |
 |------|------|------|------|
-| 2016年 | 并购宁波日新科技进入逆变器 | 踩准新能源爆发前夜，以较低成本获取核心技术 | A+ |
-| 2018-2019年 | 优先开拓南非/巴西新兴市场 | 南非储能市占>50%，巴西逆变器市占~22% | A+ |
-| 2017年 | 提前布局储能逆变器 | 2022年南非停电危机时完美爆发 | A+ |
-| 2022年 | 定增35.5亿全部投向逆变器扩产 | 产能及时匹配高速增长 | A |
-| 2024年 | 马来西亚建厂1.5亿美元 | 规避贸易壁垒，但产能投产需时间 | B+（待验证） |
-| 2025年 | 投资21.27亿建16GWh工商储产线 | 押注工商储第二增长曲线，投入较大 | B+（待验证） |
+| 2016 | Acquired Ningbo Rixin Technology to enter the inverter business | Timed the new-energy boom perfectly, acquiring core technology at low cost | A+ |
+| 2018-2019 | Prioritized expansion into South Africa and Brazil | >50% storage market share in South Africa, ~22% inverter share in Brazil | A+ |
+| 2017 | Positioned early in storage inverters | Paid off perfectly during South Africa's 2022 power crisis | A+ |
+| 2022 | Raised CNY 3.55 billion via placement, entirely for inverter capacity expansion | Capacity kept pace with rapid growth | A |
+| 2024 | Built a $150 million plant in Malaysia | Sidesteps trade barriers, but capacity ramp-up will take time | B+ (still to be validated) |
+| 2025 | Invested CNY 2.127 billion in a 16GWh commercial-and-industrial storage production line | Bets on C&I storage as a second growth curve; a large capital commitment | B+ (still to be validated) |
 
-### 需关注的治理问题
+### Governance issues worth monitoring
 
-| 问题 | 严重程度 | 详情 |
+| Issue | Severity | Detail |
 |------|---------|------|
-| **家族高度集控** | 高 | 7名董事3人为张家人；73岁创始人一人控股60%+；继任安排不清晰 |
-| **"明增暗减"** | 中 | 张和君个人仅增持12万股（0.02%），而控制的员工持股平台持续减持套现~5亿元 |
-| **核心家族外籍** | 中 | 两子均为加拿大籍，在地缘政治复杂背景下存在不确定性 |
-| **IPO后巨额分红** | 中 | 上市3.5年累计分红49亿，按60%持股计算家族获29亿+。分红率极高（2024年82.89%），但也说明对股东慷慨 |
-| **专利诉讼未披露** | 中 | 2025年8月美国CyboEnergy专利诉讼截至9月未向投资者披露 |
+| **Heavy family concentration of control** | High | 3 of 7 directors are Zhang family members; the 73-year-old founder alone controls 60%+; succession plans are unclear |
+| **"Buying in public, selling in private"** | Moderate | Zhang Hejun personally added only 120,000 shares (0.02%), while the employee stock ownership platform he controls has continuously reduced its position, cashing out roughly CNY 500 million |
+| **Core family members hold foreign citizenship** | Moderate | Both sons hold Canadian citizenship, which carries uncertainty against a complex geopolitical backdrop |
+| **Large post-IPO dividend payouts** | Moderate | Cumulative dividends of CNY 4.9 billion over 3.5 years since listing; at a 60% ownership stake, the family has received CNY 2.9 billion+. The payout ratio is extremely high (82.89% in 2024), though this also indicates generosity toward shareholders |
+| **Undisclosed patent litigation** | Moderate | A US lawsuit filed by CyboEnergy in August 2025 had not been disclosed to investors as of September |
 
-### 追问：如果CEO退休，这家公司还能保持竞争力吗？
+### Digging deeper: if the CEO retired, would the company keep its competitive edge?
 
-**短期风险可控**：两子已在核心管理岗位多年，日常运营可延续。季德海（33岁）是逆变器技术的关键人物。
+**Short-term risk is manageable**: both sons have held core management posts for years, so day-to-day operations can continue smoothly. Ji Dehai (33) is the key technical figure behind the inverter business.
 
-**长期隐忧**：张和君的战略嗅觉（2016年并购日新、2018年南非先发）难以复制。从高中学历到350亿身家，他的商业直觉是德业最大的无形资产。两子的加拿大国籍+本科学历（海洋大学经济学/乔治布朗工商管理）能否延续这种判断力存疑。类比：很多宁波民企的二代接班后丧失了创一代的狼性和嗅觉。
+**Long-term concern**: Zhang Hejun's strategic instincts (the 2016 Rixin acquisition, the 2018 South Africa first-mover bet) are hard to replicate. Going from a high-school education to a CNY 35 billion fortune, his business intuition is Deye's greatest intangible asset. Whether his two sons — Canadian citizens with undergraduate degrees (economics from Dalhousie University / business administration from George Brown College) — can sustain that same judgment remains an open question. Analogy: many second-generation heirs at Ningbo's private enterprises have lost the hunger and instinct of the founding generation after taking over.
 
 ---
 
-## 五、行业与文明趋势
+## V. Industry and Civilizational Trends
 
-### 范式转移判断
+### Paradigm-shift assessment
 
-全球能源系统正处于**从集中式化石能源向分布式可再生能源转变**的文明级范式转移。分布式光伏+储能是这一转变的核心载体。
+The global energy system is undergoing a civilization-scale paradigm shift **from centralized fossil-fuel power to distributed renewable energy**. Distributed solar plus storage is the core vehicle of this shift.
 
-| 类比 | 对应 |
+| Analogy | Corresponds to |
 |------|------|
-| 集中式电网 → 分布式光储 | 大型机 → 个人电脑 |
-| 逆变器 | 光伏系统的"大脑" |
-| 德业 | 新兴市场分布式能源的"联想" |
+| Centralized grid → distributed solar-plus-storage | Mainframes → personal computers |
+| Inverter | The "brain" of a solar system |
+| Deye | The "Lenovo" of distributed energy in emerging markets |
 
-### TAM增长曲线
+### TAM growth curve
 
-| 市场 | 2024年规模 | 2030年预测 | CAGR | 德业参与度 |
+| Market | 2024 size | 2030 forecast | CAGR | Deye's involvement |
 |------|-----------|-----------|------|-----------|
-| 全球光伏逆变器 | 127-150亿美元 | 237-419亿美元 | 8-18% | 高 |
-| **全球微型逆变器** | **30-47亿美元** | **85-173亿美元** | **18-25%** | 高（增长最快子赛道） |
-| 全球户用储能 | 109亿美元（2025） | 193亿美元 | 12% | 极高 |
-| 巴西逆变器 | 5.7亿美元 | 7-10亿美元 | 6-9% | 极高（市占~22%） |
-| 全球除湿机 | 34-48亿美元 | 51-71亿美元 | 5-9% | 中（传统业务） |
+| Global solar inverters | $12.7-15.0 billion | $23.7-41.9 billion | 8-18% | High |
+| **Global microinverters** | **$3.0-4.7 billion** | **$8.5-17.3 billion** | **18-25%** | High (the fastest-growing sub-segment) |
+| Global residential storage | $10.9 billion (2025) | $19.3 billion | 12% | Very high |
+| Brazil inverters | $0.57 billion | $0.7-1.0 billion | 6-9% | Very high (~22% market share) |
+| Global dehumidifiers | $3.4-4.8 billion | $5.1-7.1 billion | 5-9% | Moderate (legacy business) |
 
-### 产业链位置
+### Position in the value chain
 
-德业处于**中游制造**环节：上游采购IGBT/电容/电芯 → 中游设计制造逆变器和电池包 → 下游通过经销商触达终端用户。
+Deye sits in the **midstream manufacturing** segment: it sources IGBTs, capacitors, and battery cells upstream → designs and manufactures inverters and battery packs midstream → reaches end customers downstream through distributors.
 
-**核心能力**：垂直整合（结构件自制率90%）+ 轻资产渠道（经销商模式）。缺乏上游芯片自研能力（vs Enphase的ASIC）和下游软件生态（vs Enphase的Enlighten）。
+**Core capability**: vertical integration (90% self-manufacture rate for structural components) plus an asset-light distribution model. It lacks upstream in-house chip design capability (unlike Enphase's ASICs) and a downstream software ecosystem (unlike Enphase's Enlighten).
 
-### 追问：20年后这家公司是"时代的标准石油"还是"昙花一现的3Com"？
+### Digging deeper: in 20 years, will this company be "the Standard Oil of its era" or "a flash-in-the-pan 3Com"?
 
-**更可能是"新兴市场的施耐德电气"**——一家在发展中国家电力基础设施领域占有重要地位的设备制造商。不会成为"标准石油"（逆变器行业太分散、技术门槛不够高），但如果能从82%贴牌升级为50%+自有品牌、同时向工商储延伸，完全可能成为年营收500+亿、市值3000-5000亿的全球化企业。
+**More likely to become "the Schneider Electric of emerging markets"** — an equipment manufacturer holding a significant position in developing-world power infrastructure. It's unlikely to become "Standard Oil" (the inverter industry is too fragmented and the technology barrier is not high enough), but if it can upgrade from 82% white-label to 50%+ own-brand while also extending into commercial-and-industrial storage, it could plausibly become a globalized enterprise with annual revenue above CNY 50 billion and a market cap of CNY 300-500 billion.
 
-"3Com"式衰败的概率不高但存在——如果欧盟禁令扩散至更多西方国家、华为大举下沉新兴市场、且德业未能成功建立自有品牌和软件生态，则可能退化为纯粹的OEM制造商，利润率持续压缩。
+A "3Com"-style decline is a low-probability but real possibility — if the EU ban spreads to more Western countries, Huawei pushes aggressively into emerging markets, and Deye fails to build its own brand and software ecosystem, it could degrade into a pure OEM manufacturer with continuously compressed margins.
 
 ---
 
-## 六、估值与安全边际
+## VI. Valuation and Margin of Safety
 
-### 当前市场定价
+### Current market pricing
 
-| 估值指标 | 当前值 | 同行对比 |
+| Valuation metric | Current value | Peer comparison |
 |----------|--------|---------|
-| PE（TTM，转增后） | **40.90x** | 锦浪~25x，固德威~30x，阳光电源~18x |
-| PB | **12.56x** | 同行8-15x |
-| PS（TTM） | **10.6x** | 同行3-8x |
-| ROE | **30.70%** | 同行15-25% |
+| P/E (TTM, post bonus-share adjustment) | **40.90x** | Solis ~25x, GoodWe ~30x, Sungrow ~18x |
+| P/B | **12.56x** | Peers 8-15x |
+| P/S (TTM) | **10.6x** | Peers 3-8x |
+| ROE | **30.70%** | Peers 15-25% |
 | FCF Yield | **2.16%** | — |
-| 股息率 | **~2-4%** | 分红慷慨 |
-| 2026E PE | **~14.5x** | 基于券商一致预期归母53.8亿 |
+| Dividend yield | **~2-4%** | Generous payout |
+| 2026E P/E | **~14.5x** | Based on brokerage consensus net profit of CNY 5.38 billion |
 
-> 所有指标通过 `financial_rigor.py` 精确验算。
+> All metrics precisely verified with `financial_rigor.py`.
 
-### PE历史区间
+### Historical P/E range
 
-| 年份 | 平均PE | 最高PE | 最低PE |
+| Year | Average P/E | Highest P/E | Lowest P/E |
 |------|--------|--------|--------|
 | 2022 | 120.33 | 177.39 | 52.54 |
 | 2023 | 51.45 | 137.84 | **11.10** |
 | 2024 | 23.49 | 36.77 | **12.91** |
 | 2025 | 21.17 | 27.29 | 14.00 |
-| 2026（至今） | 36.82 | 50.30 | 24.65 |
+| 2026 (year to date) | 36.82 | 50.30 | 24.65 |
 
-历史最低PE 11-13倍出现在2023年底-2024年初（欧洲去库存+板块杀估值）。当前PE 41倍处于历史偏高区间。
+The historical low of 11-13x P/E occurred in late 2023 through early 2024 (European destocking plus a sector-wide valuation collapse). The current P/E of 41x sits in a historically elevated range.
 
-### 反向DCF
+### Reverse DCF
 
-当前市值1,297亿，按10%贴现率和3%永续增长率推算：
-- 隐含2030年净利润约**80-100亿**
-- 隐含未来5年净利润CAGR约**25-30%**
-- 这要求：全球化持续成功 + 工商储放量 + 毛利率维持
+At the current market cap of CNY 129.7 billion, using a 10% discount rate and a 3% terminal growth rate:
+- Implies 2030 net profit of roughly **CNY 8.0-10.0 billion**
+- Implies a 5-year forward net-profit CAGR of roughly **25-30%**
+- This requires: continued success of overseas expansion + commercial-and-industrial storage ramp-up + sustained gross margin
 
-**是否合理？** 如果2026年净利确实达到53.8亿（+70%），则后续4年仅需~15%增速即可达到80亿。但如果2026年增速低于预期（如欧盟禁令提前影响），则当前估值偏高。
+**Is this reasonable?** If 2026 net profit does indeed reach CNY 5.38 billion (+70%), then only ~15% growth per year is needed over the following 4 years to reach CNY 8.0 billion. But if 2026 growth falls short of expectations (e.g., if the EU ban starts to bite earlier than expected), current valuation is too rich.
 
-### 三情景估值
+### Three-scenario valuation
 
-> 基于2026年预估EPS=4.23 CNY（券商预期归母53.8亿/12.73亿股），投射3年至2029年。所有计算经工具精确验算。
+> Based on a 2026 estimated EPS of CNY 4.23 (brokerage consensus net profit of CNY 5.38 billion / 1.273 billion shares), projected forward 3 years to 2029. All calculations precisely verified with the tool.
 
-| 情景 | 年增速 | 目标PE | 2029年EPS | 目标股价 | 较现价涨跌 |
+| Scenario | Annual growth | Target P/E | 2029 EPS | Target price | Upside/downside vs. current |
 |------|--------|--------|-----------|---------|-----------|
-| **乐观**（全球化+工商储双引擎） | 35% | 30x | CNY 10.41 | **CNY 312** | +207% |
-| **中性**（国内稳健+海外温和增长） | 20% | 22x | CNY 7.31 | **CNY 161** | +58% |
-| **悲观**（欧盟禁令+价格战+增速放缓） | 5% | 14x | CNY 4.90 | **CNY 69** | -33% |
+| **Bull case** (dual engines: global expansion + C&I storage) | 35% | 30x | CNY 10.41 | **CNY 312** | +207% |
+| **Base case** (steady domestic business + moderate overseas growth) | 20% | 22x | CNY 7.31 | **CNY 161** | +58% |
+| **Bear case** (EU ban + price war + slowing growth) | 5% | 14x | CNY 4.90 | **CNY 69** | -33% |
 
-### 关键价格区间
+### Key price bands
 
-| 价位（CNY） | 含义 | 对应2026E PE |
+| Price (CNY) | Meaning | Corresponding 2026E P/E |
 |-------------|------|-------------|
-| 130-160 | 中性情景目标价 | 24-30x |
-| 100-110 | **当前价位** | 19-21x |
-| 70-80 | 安全边际较充足 | 13-15x |
-| 50-60 | 极端悲观（类似2023年底） | 9-11x |
+| 130-160 | Base-case target price | 24-30x |
+| 100-110 | **Current price level** | 19-21x |
+| 70-80 | A reasonably ample margin of safety | 13-15x |
+| 50-60 | Extreme bear case (similar to late 2023) | 9-11x |
 
-### 追问：如果股市明天关闭5年，你愿意以这个价格持有吗？
+### Digging deeper: if the stock market shut down tomorrow for 5 years, would you be willing to hold at this price?
 
-**有条件地愿意。**
+**Conditionally, yes.**
 
-以101.85元买入，5年后（2031年）如果德业成功：
-- 年营收300-500亿、净利70-100亿，市值3000-5000亿（当前1,297亿的2.3-3.9倍），回报可观
-- ROE持续>25%，高分红率意味着持有期间有真金白银回报
+Buying at CNY 101.85, if Deye succeeds over the next 5 years (by 2031):
+- Annual revenue of CNY 30-50 billion, net profit of CNY 7-10 billion, market cap of CNY 300-500 billion (2.3-3.9x today's CNY 129.7 billion) would deliver a solid return
+- Sustained ROE above 25% combined with a high payout ratio means real cash returns during the holding period
 
-但前提条件是：
-1. 欧盟禁令未扩散至更多西方国家
-2. 新兴市场渠道网络不被华为/Growatt大幅蚕食
-3. 工商储第二增长曲线成功起量
+But this depends on:
+1. The EU ban not spreading to more Western countries
+2. Its emerging-market distribution network not being substantially eroded by Huawei or Growatt
+3. Commercial-and-industrial storage successfully becoming a second growth curve
 
-如果上述任一条件不满足，当前价格的安全边际不够——**建议等待回调至CNY 70-80区间（2026E PE ~13-15x）再建仓**。
+If any of the above conditions fails, the current price does not offer an adequate margin of safety — **it would be better to wait for a pullback to the CNY 70-80 range (2026E P/E of ~13-15x) before building a position.**
 
 ---
 
-## 七、综合决策备忘录
+## VII. Composite Decision Memo
 
-### 维度汇总
+### Summary across dimensions
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| 生意质量 | 优秀——新兴市场户储刚需+51%逆变器毛利率+极低费用率，ROE>30% | 85% |
-| 护城河 | 中等偏强——成本优势+渠道先发极强，但品牌弱、技术落后Enphase一代、贴牌占比高 | 70% |
-| 管理层 | 良好——战略决策记录优异，但家族集控、创始人73岁、继任安排不清晰 | 70% |
-| 最大风险 | 欧盟逆变器禁令（已立法，2027年全面生效）是最大的确定性中期利空 | 80%（风险确定性高） |
-| 文明趋势 | 强烈顺风——分布式光储是能源转型的核心载体，德业在新兴市场占据有利位置 | 90% |
-| 估值 | 偏高——PE 41x在A股逆变器板块中偏贵，2026E PE ~14.5x若业绩兑现则合理 | 60%（高度依赖业绩兑现） |
+| Business quality | Excellent — rigid demand for residential storage in emerging markets, 51% inverter gross margin, an extremely low expense ratio, and ROE above 30% | 85% |
+| Moat | Moderate-to-strong — very strong cost advantage and first-mover distribution, but weak brand, a generation behind Enphase in technology, and a high white-label share | 70% |
+| Management | Good — an outstanding record of strategic decisions, but heavy family control, a 73-year-old founder, and unclear succession plans | 70% |
+| Biggest risk | The EU inverter ban (already legislated, taking full effect in 2027) is the largest certain medium-term headwind | 80% (high confidence in the risk itself) |
+| Civilizational trend | A strong tailwind — distributed solar-plus-storage is the core vehicle of the energy transition, and Deye holds an advantageous position in emerging markets | 90% |
+| Valuation | Rich — a 41x P/E is expensive within the A-share inverter sector; a ~14.5x 2026E P/E would be reasonable if earnings come through as forecast | 60% (heavily dependent on earnings delivery) |
 
-### 最终决策
+### Final decision
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **等待回调至CNY 70-80区间（2026E PE 13-15x）再考虑建仓**。当前PE 41x对硬件制造商偏高，且欧盟禁令尚未充分定价。如果2026Q2-Q3继续保持高增长且禁令影响有限，可在CNY 85-95区间建5%观察仓 |
-| **持仓者** | **持有但控制仓位在10%以内**。生意质量、行业趋势、管理层三个维度均给正面信号。2026年业绩高增长（Q1+68%）是短期支撑。但需密切关注2027年欧盟禁令的实际执行和应收账款趋势 |
-| **卖出信号** | （1）欧盟禁令严格执行导致德国/欧洲收入季度环比下降>20%；（2）储能逆变器毛利率跌破40%；（3）应收账款增速持续超过营收增速2倍以上；（4）张和君大幅减持（>1%持股） |
-| **加仓信号** | （1）股价回调至CNY 70-80区间；（2）马来西亚产能成功规避欧盟/美国贸易壁垒；（3）工商储季度收入突破10亿并保持>50%增速；（4）自有品牌收入占比提升至30%+ |
+| **For those with no position** | **Wait for a pullback to the CNY 70-80 range (2026E P/E of 13-15x) before considering a position.** The current 41x P/E is rich for a hardware manufacturer, and the EU ban is not yet fully priced in. If high growth continues through 2026 Q2-Q3 and the ban's impact proves limited, a 5% starter position could be built in the CNY 85-95 range |
+| **For existing holders** | **Hold, but keep the position under 10%.** Business quality, industry trend, and management all send positive signals. Strong 2026 earnings growth (Q1 +68%) provides near-term support. But watch closely how the 2027 EU ban is actually enforced and how receivables trend |
+| **Sell signals** | (1) Strict enforcement of the EU ban causes a >20% quarter-over-quarter decline in Germany/Europe revenue; (2) storage-inverter gross margin falls below 40%; (3) receivables growth persistently exceeds revenue growth by more than 2x; (4) Zhang Hejun sells down a large stake (>1% of shares) |
+| **Add-to-position signals** | (1) The share price pulls back to the CNY 70-80 range; (2) Malaysian capacity successfully sidesteps EU/US trade barriers; (3) quarterly commercial-and-industrial storage revenue exceeds CNY 1 billion while maintaining >50% growth; (4) own-brand revenue share rises to 30%+ |
 
-### 四维度模拟点评
+### Four-perspective commentary
 
-> **生意质量视角**：这是一门好生意。储能逆变器51%毛利率、30%+ROE、40亿现金流——放在任何行业都是顶级指标。但好生意不等于好股票。问题在于：新兴市场的"电力刚需"能持续多久？南非电力改善后（Eskom逐步恢复供电），储能需求会不会断崖式下降？买德业不是买一个稳定增长的消费品公司，而是买一个高度依赖全球新兴市场电力缺口的周期成长股。
+> **Business-quality perspective**: This is a good business. A 51% gross margin on storage inverters, ROE above 30%, and CNY 4 billion of cash flow — these are top-tier metrics in any industry. But a good business is not the same as a good stock. The question is: how long can the "essential power" demand in emerging markets persist? Once South Africa's power situation improves (as Eskom's supply gradually recovers), will storage demand fall off a cliff? Buying Deye is not buying a steadily growing consumer-goods company — it's buying a highly cyclical growth stock whose fortunes depend on power shortfalls across global emerging markets.
 
-> **逆向思维视角**：我最担心两件事。第一，欧盟禁令。这不是假设性风险——已经立法，2027年落地。德业24%收入来自德国，这是最高利润区。被封堵后的替代市场能否补上缺口？第二，应收账款。2024年增203%远超营收增速，这在新兴市场客户群体中是危险信号。巴基斯坦、乌克兰——这些国家的经销商真的能按时付款吗？
+> **Contrarian perspective**: Two things worry me most. First, the EU ban. This is not a hypothetical risk — it's already legislated and takes effect in 2027. Germany accounts for 24% of Deye's revenue and is its highest-margin region. Can alternative markets fill the gap once it's blocked? Second, receivables. The 203% increase in 2024 far outpaces revenue growth, which is a danger sign given the customer base in emerging markets. Pakistan, Ukraine — can distributors in these countries really be counted on to pay on time?
 
-> **管理层视角**：张和君是我见过的最优秀的中国草根企业家之一。高中学历，从模具工做到350亿身家。关键决策（并购日新、押注南非、提前布局储能）几乎全部正确。但他今年73岁了。两个儿子是加拿大籍，在中美脱钩的大背景下，这个细节让我不安。更让我不安的是"明增暗减"——嘴上增持12万股，实际通过员工持股平台减持5亿元。
+> **Management perspective**: Zhang Hejun is one of the most impressive grassroots Chinese entrepreneurs I've come across. From a high-school education, he rose from mold worker to a CNY 35 billion fortune. His key decisions — the Rixin acquisition, the South Africa bet, the early move into storage — have almost all been correct. But he is now 73. His two sons hold Canadian citizenship, and against the backdrop of US-China decoupling, that detail is unsettling. What unsettles me even more is the "buying in public, selling in private" pattern — publicly adding only 120,000 shares while quietly cashing out CNY 500 million through the employee stock ownership platform.
 
-> **文明趋势视角**：从20年的维度看，全球从集中式化石能源到分布式可再生能源的转变是不可逆的。德业站在了这个趋势的正确一侧。但个体公司能否持续捕获趋势红利取决于护城河的深度。德业的成本优势是强壁垒，但纯粹的成本领先在制造业中很少能维持20年——总有更便宜的替代者出现。德业需要在成本优势窗口期内建立品牌和软件生态，否则10年后可能沦为纯代工角色。
+> **Civilizational-trend perspective**: Viewed on a 20-year horizon, the shift from centralized fossil-fuel power to distributed renewable energy is irreversible, and Deye stands on the right side of this trend. But whether an individual company can keep capturing the dividends of that trend depends on the depth of its moat. Deye's cost advantage is a strong barrier, but pure cost leadership rarely survives 20 years in manufacturing — a cheaper alternative always eventually shows up. Deye needs to build a brand and a software ecosystem within its current cost-advantage window, or it risks being reduced to a pure contract manufacturer a decade from now.
 
 ---
 
-## 附录：AI分析置信度 vs 投资确定性
+## Appendix: AI Analysis Confidence vs. Investment Certainty
 
-| 结论 | AI分析置信度 | 投资确定性 | 说明 |
+| Conclusion | AI analysis confidence | Investment certainty | Note |
 |------|------------|-----------|------|
-| 生意质量优秀（高毛利+高ROE） | **高（90%）** | **高（85%）** | 财务数据充分、趋势清晰 |
-| 新兴市场渠道先发优势 | **高（85%）** | **中高（75%）** | 南非/巴西数据确凿，但可持续性需观察 |
-| 欧盟禁令将损害欧洲收入 | **高（85%）** | **高（80%）** | 已立法，时间表明确。不确定的是执行力度和豁免条款 |
-| 2026年净利达53.8亿 | **中高（75%）** | **中（65%）** | Q1+68%强力开局，但全年能否维持取决于Q2-Q4 |
-| 工商储成为第二增长引擎 | **中（60%）** | **中（55%）** | 投资已落地（21.27亿），但产能投产要到2028年 |
-| 应收账款风险可控 | **中（55%）** | **低（45%）** | 增速异常（+203%），新兴市场客户信用数据有限，AI难以准确评估坏账概率 |
-| 创始人继任安排妥当 | **低（40%）** | **低（35%）** | 公开信息极少披露继任计划，73岁创始人的健康和接班是AI的盲区 |
+| Excellent business quality (high margin + high ROE) | **High (90%)** | **High (85%)** | Financial data is ample and the trend is clear |
+| First-mover advantage in emerging-market distribution | **High (85%)** | **Moderate-to-high (75%)** | South Africa/Brazil data is solid, but durability needs continued observation |
+| The EU ban will damage European revenue | **High (85%)** | **High (80%)** | Already legislated with a clear timeline. The uncertainty lies in enforcement rigor and exemption clauses |
+| 2026 net profit reaching CNY 5.38 billion | **Moderate-to-high (75%)** | **Moderate (65%)** | A strong Q1 start of +68%, but whether it holds for the full year depends on Q2-Q4 |
+| Commercial-and-industrial storage becoming a second growth engine | **Moderate (60%)** | **Moderate (55%)** | Investment is already committed (CNY 2.127 billion), but capacity won't come online until 2028 |
+| Receivables risk is manageable | **Moderate (55%)** | **Low (45%)** | Growth is abnormal (+203%), credit data on emerging-market customers is limited, and bad-debt probability is hard for AI to assess accurately |
+| Founder succession is properly arranged | **Low (40%)** | **Low (35%)** | Very little public disclosure of succession plans; the 73-year-old founder's health and succession are a blind spot for AI |
 
-**核心区分**：
-- 本报告对德业生意质量、成本优势、行业趋势的判断基于充分数据，置信度高
-- 最大的不确定性来自**欧盟禁令的实际执行力度**和**新兴市场应收账款质量**——前者取决于政治博弈，后者取决于各国经济状况，均超出公开数据分析能力
-- **当前PE 41倍需要"大部分乐观假设兑现"才能获得合理回报**。如果投资者对欧盟禁令影响和业绩持续性没有高于市场共识的信心，建议等待更好的价格
+**Core distinction**:
+- This report's judgments on Deye's business quality, cost advantage, and industry trend rest on ample data, hence the high confidence
+- The greatest uncertainties are the **actual rigor of EU ban enforcement** and **the quality of emerging-market receivables** — the former depends on political dynamics, the latter on the economic conditions of individual countries, and both lie beyond the reach of public-data analysis
+- **The current 41x P/E requires "most of the optimistic assumptions to come true" to deliver a reasonable return.** If an investor's confidence in the EU ban's impact and in earnings durability is no higher than the market consensus, it would be better to wait for a better price
 
 ---
 
-*报告生成时间：2026年6月23日 | 数据截止：2026年6月23日*
-*货币单位：人民币（CNY）*
-*数据来源：德业股份年报/中报/季报、港股招股书（2026年1月）、Wood Mackenzie、SolarPower Europe、Grand View Research、Mordor Intelligence、Investing.com、东方财富、新浪财经、银河/华创/东吴/开源证券研报、Enphase 10-K、ESS News、PV Tech、pv magazine等*
+*Report generated: June 23, 2026 | Data as of: June 23, 2026*
+*Currency unit: Chinese yuan (CNY)*
+*Data sources: Deye Technology annual/interim/quarterly reports, Hong Kong IPO prospectus (January 2026), Wood Mackenzie, SolarPower Europe, Grand View Research, Mordor Intelligence, Investing.com, Eastmoney, Sina Finance, research reports from Galaxy Securities/CSC/Soochow/Kaiyuan Securities, Enphase 10-K, ESS News, PV Tech, PV Magazine, etc.*
