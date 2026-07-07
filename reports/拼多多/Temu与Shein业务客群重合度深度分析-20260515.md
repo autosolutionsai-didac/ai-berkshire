@@ -1,218 +1,218 @@
-# Temu与Shein：业务重合度与客群重合度深度分析
+# Temu vs. Shein: A Deep-Dive Analysis of Business and Customer-Base Overlap
 
-> 分析日期：2026年5月15日
-> 数据来源：Sensor Tower、Earnest Analytics、ecdb、Statista、Business of Apps等第三方机构
-
----
-
-## 一、商业模式根本差异
-
-### 1.1 Shein：自有品牌零售商 + 第三方平台
-
-Shein的本质是一家**垂直一体化的快时尚品牌公司**，同时叠加了第三方市场（Shein Marketplace）：
-
-| 维度 | 数据 |
-|------|------|
-| 1P（自营）占GMV比例 | **76%**（2025年） |
-| 3P（第三方市场）占GMV比例 | **24%**（2025年） |
-| 核心品类 | 时尚服装占总收入**77%** |
-| 非服装品类占比 | 从2022年不到20%增长至2024年超过40% |
-| 供应链模式 | 小批量快反（每次仅生产几百件），算法驱动测款 |
-| 供应商网络 | 以广州为核心的数千家紧密协作供应商 |
-
-**Shein的关键能力**：通过算法分析数字行为识别时尚趋势，快速转化为设计并小批量生产，根据消费者反馈再决定是否放量。这种"按需生产"模式让Shein在时尚品类拥有极强的产品周转效率。
-
-### 1.2 Temu：纯平台型全品类市场
-
-Temu的本质是一个**连接消费者和中国供应商的全品类电商平台**（类比早期拼多多的海外版）：
-
-| 维度 | 数据 |
-|------|------|
-| 1P占GMV比例 | **0%** |
-| 3P占GMV比例 | **100%**（纯第三方模式） |
-| 核心品类 | 全品类覆盖200+细分，时尚占比**41%** |
-| 运营模式 | 全托管/半托管（平台定价、平台控物流） |
-| 供应链模式 | 工厂直供，直接连接制造端和消费端 |
-| 定价权 | 平台决定最终售价，卖家让渡定价权 |
-
-**核心区别**：Shein更像Zara（自有品牌零售商），Temu更像拼多多/早期淘宝（平台市场）。但两者都深度介入供应链管理，Temu的全托管模式实质上是一种"准自营"。
-
-### 1.3 收入来源拆解
-
-**Shein收入结构**：
-- 自营商品销售收入（主体，约76%）
-- 第三方市场佣金和服务费（约24%）
-- 2025年总收入约240亿美元，GMV约540亿美元（全年推算）
-
-**Temu收入结构**：
-- 佣金+服务费（全部来自第三方卖家）
-- 2025年平台GMV约925亿美元
-- 目前仍处于亏损状态，预计2026年实现盈利
-- PDD 2025Q1财报显示交易服务收入（主要来自Temu）已大幅增长
+> Analysis date: May 15, 2026
+> Data sources: Sensor Tower, Earnest Analytics, ecdb, Statista, Business of Apps, and other third-party research firms
 
 ---
 
-## 二、业务重合度分析
+## I. Fundamental Differences in Business Model
 
-### 2.1 品类重合
+### 1.1 Shein: Owned-Brand Retailer + Third-Party Marketplace
 
-根据YipitData数据，**Temu和Shein的商品品类重合度低于30%**。
+At its core, Shein is a **vertically integrated fast-fashion brand company**, layered on top of a third-party marketplace (the Shein Marketplace):
 
-| 品类 | Shein | Temu | 竞争程度 |
+| Dimension | Data |
+|------|------|
+| 1P (owned/self-operated) share of GMV | **76%** (2025) |
+| 3P (third-party marketplace) share of GMV | **24%** (2025) |
+| Core category | Fashion apparel accounts for **77%** of total revenue |
+| Non-apparel category share | Grew from under 20% in 2022 to more than 40% in 2024 |
+| Supply-chain model | Small-batch, rapid-response production (as few as a few hundred units per run), with algorithm-driven trend testing |
+| Supplier network | Thousands of tightly coordinated suppliers centered on Guangzhou |
+
+**Shein's key capability**: Using algorithms to analyze digital behavior to identify fashion trends, quickly translating them into designs, producing in small batches, and then deciding whether to scale up production based on consumer feedback. This "produce-on-demand" model gives Shein extremely strong product turnover efficiency in the fashion category.
+
+### 1.2 Temu: A Pure-Platform, Full-Category Marketplace
+
+At its core, Temu is a **full-category e-commerce platform connecting consumers with Chinese suppliers** (comparable to an overseas version of early-stage Pinduoduo):
+
+| Dimension | Data |
+|------|------|
+| 1P share of GMV | **0%** |
+| 3P share of GMV | **100%** (pure third-party model) |
+| Core category | Full-category coverage across 200+ subcategories; fashion accounts for **41%** |
+| Operating model | Fully managed / semi-managed (platform sets pricing, platform controls logistics) |
+| Supply-chain model | Direct factory sourcing, connecting manufacturing directly to consumers |
+| Pricing power | The platform determines the final selling price; sellers cede pricing power |
+
+**Key distinction**: Shein is more like Zara (an owned-brand retailer), while Temu is more like Pinduoduo/early Taobao (a platform marketplace). But both are deeply involved in supply-chain management, and Temu's fully managed model is, in substance, a form of "quasi-owned-brand" operation.
+
+### 1.3 Breakdown of Revenue Sources
+
+**Shein's revenue structure:**
+- Revenue from owned-brand merchandise sales (the primary component, about 76%)
+- Third-party marketplace commissions and service fees (about 24%)
+- 2025 total revenue of roughly $24 billion, with GMV of roughly $54 billion (full-year estimate)
+
+**Temu's revenue structure:**
+- Commissions plus service fees (all from third-party sellers)
+- 2025 platform GMV of roughly $92.5 billion
+- Still operating at a loss currently, with profitability projected for 2026
+- PDD's Q1 2025 financial results showed transaction services revenue (derived mainly from Temu) growing substantially
+
+---
+
+## II. Business Overlap Analysis
+
+### 2.1 Category Overlap
+
+According to YipitData, **the overlap in product categories between Temu and Shein is below 30%**.
+
+| Category | Shein | Temu | Degree of competition |
 |------|-------|------|----------|
-| **女装** | 核心主力（占收入约50%+） | 有覆盖但非强项（约15-20%） | 中高 |
-| **男装** | 有覆盖，增长中 | 有覆盖 | 中 |
-| **配饰/饰品** | 强势品类 | 有覆盖 | 中 |
-| **美妆护肤** | 有覆盖 | 有覆盖 | 中 |
-| **家居家厨** | 扩展中 | 强势品类 | 中 |
-| **3C电子** | 弱/几乎无 | 强势品类 | **极低** |
-| **工具五金** | 无 | 有覆盖 | **无** |
-| **宠物用品** | 有覆盖 | 有覆盖 | 低 |
-| **运动户外** | 有覆盖 | 有覆盖 | 中 |
-| **玩具** | 弱 | 有覆盖 | 低 |
+| **Women's apparel** | Core strength (roughly 50%+ of revenue) | Present but not a strong suit (roughly 15-20%) | Medium-high |
+| **Men's apparel** | Present and growing | Present | Medium |
+| **Accessories/jewelry** | A strong category | Present | Medium |
+| **Beauty and skincare** | Present | Present | Medium |
+| **Home and kitchen** | Expanding | A strong category | Medium |
+| **Consumer electronics** | Weak / almost absent | A strong category | **Very low** |
+| **Tools and hardware** | Absent | Present | **None** |
+| **Pet supplies** | Present | Present | Low |
+| **Sports and outdoors** | Present | Present | Medium |
+| **Toys** | Weak | Present | Low |
 
-**结论**：品类重合主要集中在**低价时尚服装和配饰**领域。Shein在时尚领域有绝对优势（77%的收入来自时尚），而Temu的品类分布更分散。Temu在3C电子、家居工具等品类是Shein几乎不涉及的领域。
+**Conclusion**: Category overlap is concentrated mainly in **low-price fashion apparel and accessories**. Shein has a decisive advantage in fashion (77% of revenue comes from fashion), while Temu's category mix is more dispersed. Temu holds a strong position in categories such as consumer electronics and home tools that Shein barely touches.
 
-### 2.2 地域重合
+### 2.2 Geographic Overlap
 
-两个平台在全球主要市场正面交锋，但各有侧重：
+The two platforms compete head-on in the world's major markets, but each has its own areas of emphasis:
 
-| 地区 | Temu | Shein | 竞争态势 |
+| Region | Temu | Shein | Competitive dynamic |
 |------|------|-------|----------|
-| **美国** | MAU占全球11%（下降趋势，同比降28%） | 美国MAU约2570万 | 正面竞争但Temu份额下滑 |
-| **欧盟** | MAU占全球34%（同比增74%），1.42亿MAU | 2025年新增1520万欧洲用户，用户总量领先Temu约3000万 | **最激烈战场** |
-| **拉丁美洲** | MAU占全球26%（同比增122%），巴西流量超MercadoLibre | 有布局但相对较弱 | Temu攻势凶猛 |
-| **东南亚** | 正在进入越南、印尼等市场 | 已有较成熟布局 | Temu是挑战者 |
-| **中东** | 有覆盖 | 折扣力度较大（阿联酋27%、沙特23%） | 中等竞争 |
+| **United States** | 11% of global MAU (a declining trend, down 28% YoY) | About 25.7 million US MAU | Direct competition, but Temu's share is slipping |
+| **European Union** | 34% of global MAU (up 74% YoY), 142 million MAU | Added 15.2 million European users in 2025; total user base leads Temu's by about 30 million | **The fiercest battleground** |
+| **Latin America** | 26% of global MAU (up 122% YoY); Brazil traffic exceeds MercadoLibre's | Present but relatively weaker | Temu is on the offensive |
+| **Southeast Asia** | Entering markets such as Vietnam and Indonesia | Already has a more mature footprint | Temu is the challenger |
+| **Middle East** | Present | Deep discounting (27% in the UAE, 23% in Saudi Arabia) | Moderate competition |
 
-**Temu覆盖约100个国家，Shein覆盖超过200个国家**。地域重合度高，但Temu在欧洲和拉美增速远超Shein，而Shein在美国和东南亚的用户忠诚度更高。
+**Temu covers roughly 100 countries; Shein covers more than 200 countries.** Geographic overlap is high, but Temu's growth rate in Europe and Latin America far outpaces Shein's, while Shein has stronger user loyalty in the US and Southeast Asia.
 
-### 2.3 价格带重合
+### 2.3 Price-Band Overlap
 
-| 维度 | Temu | Shein |
+| Dimension | Temu | Shein |
 |------|------|-------|
-| 平均客单价（美国） | **约25-40美元** | **约58-100美元** |
-| 折扣力度 | 平均60-75%折扣 | 通常低于20%折扣 |
-| 补贴订单占比 | **85%** | **59%** |
-| 法国年均消费 | 约300欧元 | 约270欧元 |
-| 定价策略 | 极致低价+激进补贴，大量商品低于成本价销售 | 动态定价+闪购，基于趋势需求调价 |
+| Average order value (US) | **Roughly $25-40** | **Roughly $58-100** |
+| Discount depth | Average discount of 60-75% | Typically under 20% discount |
+| Share of subsidized orders | **85%** | **59%** |
+| Average annual spend in France | About €300 | About €270 |
+| Pricing strategy | Extreme low pricing plus aggressive subsidies, with a large share of items sold below cost | Dynamic pricing plus flash sales, adjusted based on trend-driven demand |
 
-**结论**：Temu的价格带整体低于Shein。两者在**5-20美元**的超低价区间有显著重合，但Shein在**20-60美元**的轻奢快时尚区间有独立空间。Temu的策略是"以价换量"，平均每单亏损约30美元；Shein已实现盈利。
+**Conclusion**: Temu's overall price band sits below Shein's. The two see meaningful overlap in the ultra-low **$5-20** price range, but Shein has independent room in the **$20-60** affordable fast-fashion range. Temu's strategy is "trading price for volume," losing about $30 per order on average; Shein has already turned profitable.
 
-### 2.4 供应链重合
+### 2.4 Supply-Chain Overlap
 
-- **地理重合**：两者都以**广东省（广州、深圳一带）**为供应链核心
-- **供应商争夺**：Temu正积极挖角Shein的广州供应商，甚至以**三倍薪酬**挖Shein供应链部门员工
-- **模式差异**：
-  - Shein：与供应商深度绑定，提供设计方案+订单保障，形成"准雇佣"关系
-  - Temu：更松散的合作关系，供应商自主性更强，但平台控制定价
-- **部分供应商确实同时供货两个平台**，但Shein的核心供应商网络更封闭、更紧密
+- **Geographic overlap**: Both platforms center their supply chains on **Guangdong province (the Guangzhou/Shenzhen area)**
+- **Competition for suppliers**: Temu is actively poaching Shein's Guangzhou suppliers, even offering **triple the salary** to lure away staff from Shein's supply-chain department
+- **Differences in model**:
+  - Shein: deeply bound to its suppliers, providing design plans plus order guarantees, forming a "quasi-employment" relationship
+  - Temu: a looser cooperative relationship, with suppliers retaining more autonomy, though the platform still controls pricing
+- **Some suppliers do serve both platforms simultaneously**, but Shein's core supplier network is more closed and tightly knit
 
 ---
 
-## 三、客群重合度分析
+## III. Customer-Base Overlap Analysis
 
-### 3.1 用户画像对比
+### 3.1 Comparison of User Profiles
 
-| 维度 | Temu | Shein |
+| Dimension | Temu | Shein |
 |------|------|-------|
-| **核心年龄段** | 25-44岁（约40%），**59岁以上**是最高频购物群体 | 13-35岁，**Z世代约65%**+年轻千禧一代35% |
-| **性别分布** | 男性偏多（约**57%**） | 女性为主（约**60-75%**） |
-| **收入水平** | 近一半收入来自年收入超19万美元的高收入用户 | 平均年收入约6.53万美元，以中低收入为主 |
-| **用户画像关键词** | 全品类寻找低价的"淘宝客"，年龄偏大，男性居多 | 追逐时尚趋势的年轻女性，价格敏感但注重潮流 |
-| **购物偏好重叠** | 与其他低价零售商（Dollar Tree、Walmart等）重叠度高 | 与时尚和美容专卖店（Forever 21、H&M等）重叠度高 |
+| **Core age bracket** | 25-44 years old (about 40%); **age 59 and above** is the highest-frequency shopping group | 13-35 years old, with **Gen Z at about 65%** plus younger millennials at 35% |
+| **Gender split** | Skews male (about **57%**) | Skews female (about **60-75%**) |
+| **Income level** | Nearly half of revenue comes from high-income users earning over $190,000 a year | Average annual income of about $65,300, skewing toward low-to-middle income |
+| **Key user-profile descriptors** | An all-category, low-price "Taobao-style bargain hunter," skewing older and more male | A young woman chasing fashion trends, price-sensitive but focused on staying trendy |
+| **Overlapping shopping preferences** | High overlap with other low-price retailers (Dollar Tree, Walmart, etc.) | High overlap with fashion and beauty specialty retailers (Forever 21, H&M, etc.) |
 
-**画像差异极大**：Shein用户是"追潮流的年轻女性"，Temu用户是"找便宜的多年龄段混合群体"。
+**The profiles diverge sharply**: Shein's users are "trend-chasing young women," while Temu's users are "a mixed-age group looking for a bargain."
 
-### 3.2 用户重叠率
+### 3.2 User Overlap Rate
 
-根据YipitData数据，**Temu和Shein的用户重合度仅约5%**。
+According to YipitData, **the user overlap between Temu and Shein is only about 5%**.
 
-其他参考数据：
-- 美国44%的成年人使用过Temu，31%使用过Shein（Morning Consult, 2025年1月）
-- 与TikTok Shop的用户重叠：Shein用户28%也用TikTok Shop，Temu用户25%也用TikTok Shop
-- 两个平台与TikTok Shop的用户重叠率远高于它们之间的直接重叠
+Other reference data points:
+- 44% of US adults have used Temu, versus 31% who have used Shein (Morning Consult, January 2025)
+- User overlap with TikTok Shop: 28% of Shein users also use TikTok Shop, versus 25% of Temu users
+- Both platforms' user overlap with TikTok Shop is far higher than their direct overlap with each other
 
-**5%的用户重叠率意味着**：绝大多数消费者只在其中一个平台购物，这两个平台实际上在服务不同的消费需求。
+**A 5% user overlap rate implies** that the vast majority of consumers shop on only one of the two platforms — meaning the two platforms are, in effect, serving different consumption needs.
 
-### 3.3 用户使用场景差异
+### 3.3 Differences in User Use-Case Scenarios
 
-| 场景 | Temu | Shein |
+| Scenario | Temu | Shein |
 |------|------|-------|
-| **核心场景** | "我需要一个便宜的XX工具/小物件" | "我想买最新款的衣服/配饰" |
-| **购物动机** | 价格驱动，追求极致性价比 | 趋势驱动，追求时尚感和新鲜感 |
-| **浏览行为** | 搜索导向，目的性较强 | 浏览导向，"逛"的成分更重 |
-| **用户粘性** | 周活跃度较低 | 周活跃度高于Temu **15%** |
-| **在线时长** | 较短 | 高于Temu约**5%** |
-| **复购率** | 90天内96%为回头客 | 用户流失率更低，忠诚度更高 |
+| **Core use case** | "I need a cheap XX tool/gadget" | "I want to buy the latest clothing/accessories" |
+| **Shopping motivation** | Price-driven, chasing extreme value for money | Trend-driven, chasing fashion appeal and freshness |
+| **Browsing behavior** | Search-oriented, highly goal-directed | Browse-oriented, with a heavier "window shopping" component |
+| **User stickiness** | Lower weekly active-user rate | Weekly active-user rate **15%** higher than Temu |
+| **Time spent on app** | Shorter | About **5%** higher than Temu |
+| **Repeat purchase rate** | 96% of purchasers within 90 days are repeat customers | Lower churn, higher loyalty |
 
-### 3.4 品牌认知差异
+### 3.4 Differences in Brand Perception
 
-消费者对两个平台有清晰的心智区分：
+Consumers hold a clear mental distinction between the two platforms:
 
-- **Shein = "便宜的Zara"**：时尚、潮流、快速上新，质量可接受
-- **Temu = "什么都有的极致低价市场"**：像一个海量SKU的超级折扣店
-- 在Fashionista 2025年的盲测中，Shein服装在5次洗涤后**73%保持形态和颜色**，而Temu可比产品仅**52%**
-- Shein在服装品类的品牌力远强于Temu
+- **Shein = "the affordable Zara"**: fashionable, trend-driven, fast to restock, acceptable quality
+- **Temu = "the ultimate low-price marketplace that has everything"**: like a mega-SKU discount superstore
+- In a Fashionista 2025 blind test, Shein garments **retained their shape and color 73% of the time** after five washes, versus only **52%** for comparable Temu products
+- Shein's brand strength in the apparel category is far greater than Temu's
 
 ---
 
-## 四、关键数据汇总
+## IV. Summary of Key Data
 
-### 4.1 规模对比（2025年数据）
+### 4.1 Scale Comparison (2025 Data)
 
-| 指标 | Temu | Shein |
+| Metric | Temu | Shein |
 |------|------|-------|
-| 年GMV | 约925亿美元 | 约540亿美元（推算） |
-| 年收入 | 约925亿美元（全部3P） | 约240亿美元 |
-| GMV增速 | **50%**（2025H1同比） | **15-20%**（2025H1同比） |
-| 全球MAU | **4.165亿**（2025Q2） | 约2.5-3亿（估算） |
-| 全球累计下载 | **突破10亿次**（2025Q2） | 约6-7亿次 |
-| 盈利状态 | 亏损（预计2026年盈利） | 已盈利 |
-| 覆盖国家 | 约100个 | 超过200个 |
-| 2025年最下载购物App排名 | **第1名** | **第2名** |
+| Annual GMV | About $92.5 billion | About $54 billion (estimated) |
+| Annual revenue | About $92.5 billion (all 3P) | About $24 billion |
+| GMV growth rate | **50%** (H1 2025 YoY) | **15-20%** (H1 2025 YoY) |
+| Global MAU | **416.5 million** (Q2 2025) | About 250-300 million (estimated) |
+| Cumulative global downloads | **Surpassed 1 billion** (Q2 2025) | About 600-700 million |
+| Profitability status | Loss-making (profitability projected for 2026) | Already profitable |
+| Countries covered | About 100 | More than 200 |
+| Most-downloaded shopping app ranking, 2025 | **#1** | **#2** |
 
-### 4.2 美国市场MAU对比
+### 4.2 US Market MAU Comparison
 
-| 时间 | Temu美国MAU | Shein美国MAU |
+| Period | Temu US MAU | Shein US MAU |
 |------|-----------|-------------|
-| 2025Q2 | 约1.34亿（但同比下降28%） | 约2570万 |
+| Q2 2025 | About 134 million (but down 28% YoY) | About 25.7 million |
 
-注：Temu的"MAU"统计口径可能包含网页端访客，Shein的数据主要为App端。不同数据源口径差异较大，需注意可比性。
+Note: Temu's "MAU" figures may include web-based visitors, while Shein's data is primarily app-based. Definitions differ significantly across data sources, so comparability should be treated with caution.
 
-### 4.3 关税冲击
+### 4.3 Tariff Impact
 
-2025年5月起，美国取消800美元以下小额包裹免税政策，对中国商品征收最高120%关税或100美元/件的固定费用（6月起升至200美元）。
+Starting in May 2025, the United States eliminated the de minimis exemption for packages under $800, imposing tariffs of up to 120% or a flat fee of $100 per item (rising to $200 starting in June) on Chinese goods.
 
-- **影响**：两平台均宣布自2025年4月25日起涨价
-- **应对**：加速在美国建设本地仓储，引入美国本土卖家以规避关税
-- **差异化影响**：Shein因自有品牌属性，有更多调价弹性；Temu因极致低价定位，涨价对其打击更大
+- **Impact**: Both platforms announced price increases effective April 25, 2025
+- **Response**: Accelerating the build-out of local warehousing in the US and onboarding US-based sellers to sidestep the tariffs
+- **Differentiated impact**: Because of its owned-brand nature, Shein has more pricing flexibility; because of its extreme-low-price positioning, Temu is hit harder by price increases
 
 ---
 
-## 五、核心结论
+## V. Core Conclusions
 
-### 5.1 业务重合度判断：**中等偏低（约25-30%）**
+### 5.1 Assessment of Business Overlap: **Moderate-to-low (roughly 25-30%)**
 
-1. **品类重合度低于30%**（YipitData数据），仅在低价服装和配饰领域直接竞争
-2. **商业模式根本不同**：Shein是品牌零售商（76%自营），Temu是纯平台（100%第三方）
-3. **供应链有部分重合**但模式迥异：Shein是"深度绑定+快反"，Temu是"松散合作+极致低价"
-4. **地域高度重合**但各有优势市场：Temu在欧洲和拉美增速领先，Shein在用户总量和忠诚度上领先
+1. **Category overlap is below 30%** (per YipitData), with direct competition confined mainly to low-price apparel and accessories
+2. **The underlying business models differ fundamentally**: Shein is a brand retailer (76% owned-brand), while Temu is a pure platform (100% third-party)
+3. **The supply chains overlap partially** but operate on very different models: Shein pursues "deep partnership plus rapid response," while Temu pursues "loose cooperation plus extreme low pricing"
+4. **Geographic footprints overlap heavily** but each has its own stronghold markets: Temu leads in growth rate in Europe and Latin America, while Shein leads in total user base and loyalty
 
-### 5.2 客群重合度判断：**极低（约5%）**
+### 5.2 Assessment of Customer-Base Overlap: **Very low (roughly 5%)**
 
-1. **用户重叠率仅5%**，远低于两者各自与TikTok Shop的重叠率（25-28%）
-2. **用户画像几乎互补**：Shein是"年轻女性追时尚"，Temu是"多年龄段找便宜"
-3. **使用场景完全不同**：时尚浏览 vs 低价搜索
-4. **品牌心智清晰区分**：消费者并不将两者视为替代品
+1. **User overlap is only 5%**, far lower than either platform's overlap with TikTok Shop (25-28%)
+2. **User profiles are nearly complementary**: Shein is "young women chasing fashion," Temu is "a mixed-age group hunting for bargains"
+3. **Use-case scenarios are entirely different**: fashion browsing vs. low-price search
+4. **Brand perception is clearly distinct**: consumers do not view the two as substitutes for each other
 
-### 5.3 对拼多多投资研究的启示
+### 5.3 Implications for Pinduoduo Investment Research
 
-1. **Temu的真正竞争对手不是Shein，而是Amazon和各地本土电商**。品类重合度和客群重合度的数据都证明，市场对"Temu vs Shein"的叙事过度简化
-2. **Shein在时尚品类的护城河（品牌+供应链+算法）是Temu难以复制的**，反之Temu在全品类低价市场的规模优势Shein也难以追赶
-3. **两者更可能走向差异化共存**：Shein深耕时尚，Temu做全品类低价平台，类似Zara和Walmart的关系
-4. **真正的风险变量是关税政策**，而非相互竞争。2025年美国取消小额免税政策对两者都是系统性风险
-5. **Temu的增速远高于Shein**（50% vs 15-20%），但亏损换增长的模式可持续性存疑
+1. **Temu's true competitor is not Shein, but Amazon and various local e-commerce incumbents.** Both the category-overlap and customer-overlap data show that the "Temu vs. Shein" narrative in the market is oversimplified
+2. **Shein's moat in the fashion category (brand plus supply chain plus algorithm) is difficult for Temu to replicate, while Temu's scale advantage in the full-category low-price market is equally difficult for Shein to catch up to**
+3. **The two are more likely to move toward differentiated coexistence**: Shein doubling down on fashion, Temu building a full-category low-price platform — a relationship somewhat like Zara and Walmart
+4. **The real risk variable is tariff policy, not mutual competition.** The 2025 elimination of the US de minimis exemption is a systemic risk for both
+5. **Temu's growth rate far exceeds Shein's (50% vs. 15-20%)**, but the sustainability of a "losses in exchange for growth" model remains questionable
 
 ---
 

@@ -1,32 +1,32 @@
-# 拼多多（PDD Holdings）投资研究 — 2026.04.07
+# Pinduoduo (PDD Holdings) Investment Research — 2026.04.07
 
-## 研究框架
+## Research Framework
 
-使用**四大师并行分析框架**，由4个AI Agent并行完成研究，Team Lead汇总输出最终报告。
+Using the **Four-Master parallel analysis framework**, with 4 AI agents completing the research in parallel and the Team Lead synthesizing the final report.
 
-| 角色 | 分析框架 | 报告文件 |
+| Role | Analytical Framework | Report File |
 |------|---------|---------|
-| 商业模式分析师 | 段永平视角 | [01-商业模式分析-段永平视角.md](01-商业模式分析-段永平视角.md) |
-| 财务分析师 | 巴菲特视角 | [02-财务估值分析-巴菲特视角.md](02-财务估值分析-巴菲特视角.md) |
-| 行业研究员 | 芒格视角 | [03-行业竞争分析-芒格视角.md](03-行业竞争分析-芒格视角.md) |
-| 风险评估师 | 李录视角 | [04-风险管理层评估-李录视角.md](04-风险管理层评估-李录视角.md) |
-| **Team Lead** | **综合框架** | [**最终报告.md**](最终报告.md) |
+| Business Model Analyst | Duan Yongping's perspective | [01-Business Model Analysis-Duan Yongping Perspective.md](01-商业模式分析-段永平视角.md) |
+| Financial Analyst | Buffett's perspective | [02-Financial and Valuation Analysis-Buffett Perspective.md](02-财务估值分析-巴菲特视角.md) |
+| Industry Researcher | Munger's perspective | [03-Industry and Competition Analysis-Munger Perspective.md](03-行业竞争分析-芒格视角.md) |
+| Risk Assessor | Li Lu's perspective | [04-Risk and Management Assessment-Li Lu Perspective.md](04-风险管理层评估-李录视角.md) |
+| **Team Lead** | **Synthesis Framework** | [**Final Report.md**](最终报告.md) |
 
-## 核心结论
+## Core Conclusion
 
-- **综合评分：3.4 / 5**
-- **一句话**：便宜有好货，但不确定能好10年。扣现金PE 6.3x极具吸引力，但护城河偏窄、Temu根基被关税动摇、10年确定性不足。
-- **建议**：适合中等仓位价值投资，不适合重仓。
+- **Overall score: 3.4 / 5**
+- **In one sentence**: A good deal at a cheap price, but not certain to stay good for 10 years. The 6.3x ex-cash PE is highly attractive, but the moat is relatively narrow, Temu's foundation has been shaken by tariffs, and 10-year certainty is insufficient.
+- **Recommendation**: Suitable for a moderate position as a value investment, not a heavy concentration.
 
-## 四维评分
+## Four-Dimension Scoring
 
-| 维度 | 评分 |
+| Dimension | Score |
 |------|:----:|
-| 商业模式 & 护城河 | 3.7/5 |
-| 财务 & 估值 | 4.4/5 |
-| 行业 & 竞争 | 3.5/5 |
-| 风险 & 管理层 | 2.0/5 |
+| Business Model & Moat | 3.7/5 |
+| Financials & Valuation | 4.4/5 |
+| Industry & Competition | 3.5/5 |
+| Risk & Management | 2.0/5 |
 
 ---
 
-*报告基于公开信息，不构成投资建议。*
+*This report is based on public information and does not constitute investment advice.*

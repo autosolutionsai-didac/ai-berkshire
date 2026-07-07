@@ -1,368 +1,371 @@
-# 川润股份（002272.SZ）四大师综合投资研究报告
+# Chuanrun Co., Ltd. (002272.SZ) — Comprehensive Four-Master Investment Research Report
 
-**研究日期**：2026年6月23日
-**股价**：18.50元 | **市值**：89.7亿元 | **总股本**：4.85亿股
-**52周区间**：6.80 - 22.60元 | **近一年涨幅**：+77.3%
+**Research date**: June 23, 2026
+**Share price**: RMB 18.50 | **Market cap**: RMB 8.97 billion | **Total shares outstanding**: 485 million
 
----
-
-## 信息丰富度评级：B级（信息适中）
-
-川润股份是一家市值不足百亿的小盘工业股，仅有1家券商覆盖（国海证券，2026年3月首次覆盖），公开研究资料有限。
-
-**AI研究局限性声明**：
-- 仅1家券商覆盖，盈利预测缺乏交叉验证
-- 液冷业务2025年首次单独披露，历史可追溯性差
-- 核电润滑冷却的市场份额数据来源有限，精确度存疑
-- 前五大客户集中度、核电订单金额等关键数据未披露
-- 本报告中标注"估计"的数据，置信度较低
-
-**偏见自查**：川润股份过去一年因"液冷+核电"概念涨幅77%，市场情绪偏热。AI在资料有限时容易被市场叙事牵引——本报告需重点做反面检验。
+**52-week range**: RMB 6.80 - 22.60 | **Trailing 12-month gain**: +77.3%
 
 ---
 
-## 一、生意本质分析 — 段永平"对的生意"
+## Information-richness rating: Grade B (moderate information)
 
-### 用一句话定义这门生意
+Chuanrun Co., Ltd. is a small-cap industrial stock with a market cap under RMB 10 billion, covered by only one brokerage (Guohai Securities, which initiated coverage in March 2026). Public research material is limited.
 
-**川润的本质是一家为重工业和能源行业提供定制化润滑冷却系统的制造商，正试图将冷却技术延伸到数据中心液冷这个高增长赛道。**
+**AI research-limitation disclosure**:
+- Only one brokerage covers the stock, so earnings forecasts lack cross-validation
+- The liquid-cooling business was first disclosed as a separate line item in 2025, giving it poor historical traceability
+- Data on market share in nuclear-power lubrication and cooling comes from limited sources, and its precision is questionable
+- Key figures such as top-five customer concentration and nuclear-order value have not been disclosed
+- Data flagged "estimate" in this report carries lower confidence
 
-### 收入结构拆解（2025年）
+**Bias self-check**: Over the past year, Chuanrun's stock has risen 77% on the "liquid cooling + nuclear power" narrative, and market sentiment is running hot. When source material is limited, AI analysis is prone to being pulled along by market narratives — this report needs to place particular emphasis on counter-checks.
 
-| 业务板块 | 收入（亿元） | 占比 | 同比增速 | 定位 |
+---
+
+## Part One: Nature of the Business — Duan Yongping's "The Right Business"
+
+### Defining this business in one sentence
+
+**At its core, Chuanrun is a manufacturer of custom lubrication and cooling systems for heavy industry and the energy sector that is now trying to extend its cooling technology into the high-growth data-center liquid-cooling arena.**
+
+### Revenue breakdown (2025)
+
+| Business segment | Revenue (RMB, billions) | Share | YoY growth | Positioning |
 |---------|------------|------|---------|------|
-| 新能源流体系统 | 8.40 | 48% | +40.8% | 基本盘（风电/光热/储能） |
-| 清洁能源装备 | 4.49 | 26% | -32.0% | 余热/生物质发电锅炉 |
-| 液冷系统 | 2.25 | 13% | +77.8% | 增长核心（AI服务器冷却） |
-| 流体工业技术服务 | 0.89 | 5% | +6.9% | 毛利率最高（33%） |
-| 储能装备 | 0.46 | 3% | +50.8% | 规模小，毛利率极低（<3%） |
-| **合计** | **17.50** | **100%** | **+9.6%** | |
+| New-energy fluid systems | 0.840 | 48% | +40.8% | Core base (wind power / solar thermal / energy storage) |
+| Clean-energy equipment | 0.449 | 26% | -32.0% | Waste-heat / biomass power boilers |
+| Liquid-cooling systems | 0.225 | 13% | +77.8% | Core growth driver (AI server cooling) |
+| Fluid industrial technical services | 0.089 | 5% | +6.9% | Highest gross margin (33%) |
+| Energy-storage equipment | 0.046 | 3% | +50.8% | Small scale, extremely low gross margin (<3%) |
+| **Total** | **1.750** | **100%** | **+9.6%** | |
 
-### 5年盈利能力趋势
+*(Note: figures above are expressed in RMB billions; the original disclosure is in RMB hundred-millions — e.g., new-energy fluid systems = RMB 840 million.)*
 
-| 年份 | 营收（亿元） | 净利润（万元） | 毛利率 | 经营现金流（万元） |
+### Five-year profitability trend
+
+| Year | Revenue (RMB) | Net profit (RMB) | Gross margin | Operating cash flow (RMB) |
 |------|------------|-------------|--------|--------------|
-| 2021 | ~15.31 | ~5,100 | ~16% | — |
-| 2022 | 16.99 | 1,198 | ~16% | — |
-| 2023 | 16.64 | **-6,360** | 15.4% | +8,826 |
-| 2024 | 15.97 | **-11,570** | 17.7% | **-13,000** |
-| 2025 | 17.50 | **-2,491** | 18.4% | +7,018 |
+| 2021 | ~RMB 1.531 billion | ~RMB 51.0 million | ~16% | — |
+| 2022 | RMB 1.699 billion | RMB 11.98 million | ~16% | — |
+| 2023 | RMB 1.664 billion | **-RMB 63.6 million** | 15.4% | +RMB 88.26 million |
+| 2024 | RMB 1.597 billion | **-RMB 115.7 million** | 17.7% | **-RMB 130.0 million** |
+| 2025 | RMB 1.750 billion | **-RMB 24.91 million** | 18.4% | +RMB 70.18 million |
 
-**趋势**：2022年利润骤降→2023年转亏→2024年亏损扩大→2025年亏损收窄78.5%但仍未盈利。收入在2023-2024年连续下滑后，2025年恢复增长。
+**Trend**: Profit collapsed in 2022, the company swung to a loss in 2023, the loss widened in 2024, and in 2025 the loss narrowed 78.5% but the company remained unprofitable. Revenue, after declining for two straight years in 2023-2024, resumed growth in 2025.
 
-### 商业模式特征
+### Business-model characteristics
 
-| 维度 | 川润股份 | 评价 |
+| Dimension | Chuanrun | Assessment |
 |------|---------|------|
-| 收入模式 | 项目制一次性销售 | 缺乏复购/订阅属性 |
-| 定制化程度 | 高（按客户需求定制） | 规模化难度大 |
-| 毛利率 | 17-18% | 典型工业制造水平，无溢价能力 |
-| 客户粘性 | 中等（资质壁垒+服务） | 非不可替代 |
-| 资本密集度 | 中等 | 拟定增9.5亿扩产 |
-| 周期性 | 强（跟随风电/核电投资周期） | 业绩波动大 |
+| Revenue model | Project-based, one-off sales | Lacks repeat-purchase / subscription character |
+| Degree of customization | High (customized to client requirements) | Difficult to scale |
+| Gross margin | 17-18% | Typical industrial-manufacturing level, no pricing premium |
+| Customer stickiness | Moderate (qualification barriers + service) | Not irreplaceable |
+| Capital intensity | Moderate | Planned RMB 950 million private placement to expand capacity |
+| Cyclicality | Strong (follows wind-power / nuclear-power investment cycles) | High earnings volatility |
 
-### 段永平式追问：这门生意好在哪？
+### Duan Yongping-style question: What's good about this business?
 
-**坦率地说，这不是一门"好生意"。**
+**Frankly, this is not a "good business."**
 
-从段永平的标准看：
-- **无定价权**：17-18%的毛利率说明川润在供应链中议价能力有限，是"给别人打工"的角色
-- **无复购/订阅**：项目制销售，每个订单都要重新竞标，没有"睡觉也在赚钱"的属性
-- **周期性强**：业绩随风电/核电投资周期大幅波动，连续三年亏损已经证明了这一点
-- **规模不经济**：收入16-17亿的体量，无法摊薄固定成本，净利润率在盈利年份也仅3-4%
+By Duan Yongping's standards:
+- **No pricing power**: A gross margin of 17-18% shows Chuanrun has limited bargaining power in the supply chain — it is essentially "working for someone else"
+- **No repeat purchases / subscriptions**: Project-based sales mean every order must be re-bid; there is no "make money while you sleep" quality
+- **Strongly cyclical**: Earnings swing widely with the wind-power / nuclear-power investment cycle, as three straight years of losses have already demonstrated
+- **No economies of scale**: At RMB 1.6-1.7 billion in revenue, the company cannot dilute fixed costs; even in profitable years, net margin was only 3-4%
 
-唯一值得关注的变量是**液冷业务**（2.25亿，+77.8%），但这改变的是"增长叙事"而非"生意本质"。液冷本质上仍然是卖硬件设备，毛利率不会比传统业务高太多。
+The only variable worth watching is the **liquid-cooling business** (RMB 225 million, +77.8%), but this changes the "growth narrative," not the "nature of the business." Liquid cooling is still fundamentally about selling hardware equipment, and its gross margin will not be much higher than the traditional business.
 
-**评分：★★（2/5）— 平庸的项目制工业品生意，低毛利、强周期、无复购**
+**Rating: ★★ (2/5) — A mediocre project-based industrial-goods business: low margin, strongly cyclical, no repeat business**
 
 ---
 
-## 二、护城河评估 — 巴菲特"经济护城河"
+## Part Two: Moat Assessment — Buffett's "Economic Moat"
 
-| 护城河类型 | 有无 | 验证 |
+| Moat type | Present? | Verification |
 |-----------|------|------|
-| 品牌/定价权 | ❌ | 毛利率17-18%，无法提价不损失销量 |
-| 转换成本 | ⚠️ 弱 | 核电资质认证有一定壁垒，但风电/水泥领域替代较易 |
-| 网络效应 | ❌ | 不存在 |
-| 规模效应 | ❌ | 年收入仅17亿，无法与恒立液压（93亿）等对手比规模 |
-| 技术/专利壁垒 | ⚠️ 弱 | 318件专利（发明60件），在细分领域有积累，但技术门槛不高 |
+| Brand / pricing power | ❌ | Gross margin of 17-18% means prices cannot be raised without losing volume |
+| Switching costs | ⚠️ Weak | Nuclear-qualification certification creates some barrier, but wind power / cement applications are easier to substitute |
+| Network effects | ❌ | None exist |
+| Scale effects | ❌ | Annual revenue of only RMB 1.75 billion, far too small to compete on scale with rivals like Hengli Hydraulics (RMB 9.3 billion) |
+| Technology / patent barriers | ⚠️ Weak | 318 patents (60 invention patents) show some accumulation in the niche, but the technical bar is not high |
 
-### 护城河的真实来源
+### The real source of the moat
 
-川润真正的壁垒不在于上述五类传统护城河，而在于两个"准入资质"：
+Chuanrun's genuine barrier is not any of the five traditional moat types above, but two "access qualifications":
 
-1. **核电项目资质**：覆盖国内绝大多数核电站，为首台国产化核电海水循环泵配套。核电是高门槛行业，一旦进入供应链就有较强的粘性。但川润提供的是辅助系统（润滑冷却），不是核岛主设备，价值量和壁垒都有限。
+1. **Nuclear-project qualification**: Chuanrun supplies the vast majority of domestic nuclear power plants and provided components for China's first domestically produced nuclear seawater circulation pump. Nuclear power is a high-barrier industry, and once a supplier enters the supply chain it tends to be fairly sticky. However, Chuanrun provides an auxiliary system (lubrication and cooling), not primary nuclear-island equipment, so both the value captured and the barrier are limited.
 
-2. **华为液冷合作关系**：作为华为昇腾AI服务器核心液冷供应商，参与制定行业标准（第一起草单位）。但液冷赛道竞争者众多（英维克市占率50%+、高澜股份、中科曙光等），川润的份额和绑定深度尚不确定。
+2. **Huawei liquid-cooling partnership**: Chuanrun is a core liquid-cooling supplier for Huawei's Ascend AI servers and has participated in drafting industry standards (as lead drafting unit). But the liquid-cooling space has many competitors — Envicool (over 50% market share), Gaolan Co., Sugon (Zhongke Sugon), and others — and Chuanrun's share and the depth of its partnership remain uncertain.
 
-### 护城河趋势
+### Moat trend
 
-**过去5年**：窄且变窄。传统润滑冷却业务毛利率从~16%提升至18%（改善有限），但收入规模停滞，连续亏损说明竞争优势不足以支撑盈利。
+**Past 5 years**: Narrow and narrowing. The traditional lubrication and cooling business's gross margin rose from ~16% to 18% (a limited improvement), but revenue scale has stagnated, and consecutive losses show that the competitive advantage is insufficient to support profitability.
 
-**未来5年**：取决于液冷和核电两个增量能否兑现。如果液冷业务从2.25亿增长到10亿+并保持较高毛利率，护城河会略微变宽。但如果液冷沦为价格战红海（类似储能毛利率<3%的前车之鉴），护城河反而更窄。
+**Next 5 years**: Depends on whether the liquid-cooling and nuclear-power increments materialize. If liquid cooling grows from RMB 225 million to RMB 1 billion+ while maintaining a decent gross margin, the moat could widen slightly. But if liquid cooling turns into a price-war red ocean (as happened with the energy-storage segment's sub-3% gross margin), the moat could instead narrow further.
 
-**巴菲特式追问**：10年后这条护城河还在吗？
+**Buffett-style question**: Will this moat still be here in 10 years?
 
-核电资质是最持久的壁垒——核电站运营30-60年，润滑冷却系统需要全生命周期服务，先发优势可以持续。但液冷业务的壁垒取决于技术迭代速度和华为合作的稳定性，10年后格局难以预判。
+The nuclear qualification is the most durable barrier — nuclear plants operate for 30-60 years, and their lubrication and cooling systems require full-lifecycle service, so first-mover advantage can persist. But the durability of the liquid-cooling moat depends on the pace of technology iteration and the stability of the Huawei partnership; the competitive landscape 10 years out is hard to predict.
 
-**评分：★★（2/5）— 窄护城河，主要靠资质准入而非真正的竞争优势**
+**Rating: ★★ (2/5) — A narrow moat, resting mainly on access qualifications rather than genuine competitive advantage**
 
 ---
 
-## 三、逆向思考与风险清单 — 芒格"反过来想"
+## Part Three: Inversion and Risk Checklist — Munger's "Invert, Always Invert"
 
-### 公司可能失败的路径
+### Paths by which the company could fail
 
-| 风险路径 | 概率 | 影响程度 | 说明 |
+| Risk path | Probability | Impact | Description |
 |---------|------|---------|------|
-| 液冷业务不及预期 | 高 | 极高 | 当前估值很大程度建立在液冷增长叙事上。实际收入仅2.25亿，远低于市场"10亿级订单"的期望 |
-| 持续亏损导致财务恶化 | 中高 | 高 | 已连续三年亏损，资产负债率55%并上升，若2026年仍不能盈利将面临ST风险 |
-| 实控人继续减持 | 高 | 中高 | 罗丽华已套现6.36亿，减持导致跌停的前科。管理层与股东利益不一致 |
-| 风电周期下行 | 中 | 高 | 新能源流体系统占收入48%，高度依赖风电装机量 |
-| 液冷竞争加剧/价格战 | 中高 | 高 | 英维克市占率50%+，高澜、曙光等强劲对手，川润作为后进入者份额有限 |
-| 定增摊薄 | 高 | 中 | 拟增发9.5亿元，按当前股价将摊薄约10% |
-| 核电审批放缓 | 低 | 中 | 政策风险较小，但核电设备订单对川润利润的贡献有限 |
+| Liquid-cooling business falls short of expectations | High | Very high | Current valuation is built largely on the liquid-cooling growth narrative. Actual revenue is only RMB 225 million, far below the market's expectation of "orders worth billions" |
+| Sustained losses lead to financial deterioration | Medium-high | High | Three consecutive years of losses; the debt-to-asset ratio stands at 55% and is rising. Continued unprofitability in 2026 would risk ST (special-treatment) designation |
+| Continued stake sales by the controlling shareholder | High | Medium-high | Luo Lihua has already cashed out approximately RMB 636 million, with a prior instance of a share sale that triggered a limit-down. Management's interests are misaligned with shareholders' |
+| Wind-power cycle downturn | Medium | High | New-energy fluid systems account for 48% of revenue and are highly dependent on wind-turbine installation volumes |
+| Intensifying liquid-cooling competition / price war | Medium-high | High | Envicool holds over 50% market share, with strong rivals such as Gaolan and Sugon; as a late entrant, Chuanrun's share is limited |
+| Dilution from the private placement | High | Medium | The planned RMB 950 million private placement would dilute existing shares by roughly 10% at the current share price |
+| Slowdown in nuclear-power approvals | Low | Medium | Policy risk is relatively low, but nuclear-equipment orders contribute only modestly to Chuanrun's profit |
 
-### 历史类比
+### Historical analogies
 
-川润股份的处境让人想起**2015-2016年的蓝科高新/科华恒盛**——当时也是传统工业企业搭上热门概念（光伏/数据中心），股价在业绩尚未兑现时因概念大幅炒作，随后业绩不及预期导致股价回落。
+Chuanrun's situation recalls **Lanke Hi-Tech / Kehua Hengsheng in 2015-2016** — traditional industrial companies that latched onto hot concepts (solar power / data centers) at the time. Their stock prices were heavily driven by the concept before earnings materialized, and prices subsequently fell back once results disappointed.
 
-更近的案例是**2023年的液冷概念炒作潮**中大量标的：多数公司液冷收入占比极小，但股价涨幅远超基本面支撑。川润液冷收入2.25亿仅占总收入13%，但市场在按"液冷纯正标的"定价。
+A more recent parallel is the **2023 liquid-cooling concept rally**, in which many listed companies saw liquid cooling contribute a tiny share of revenue while their share prices rose far beyond what fundamentals supported. Chuanrun's liquid-cooling revenue of RMB 225 million is only 13% of total revenue, yet the market is pricing it as if it were a "pure-play liquid-cooling name."
 
-### 偏误自查
+### Bias self-check
 
-- **叙事偏差**：市场将川润包装为"液冷+核电"双主线概念股，但实际仍是一家以风电润滑冷却为主业的亏损制造商
-- **锚定效应**：从6.80元涨到18.50元，投资者可能锚定低点觉得"已经涨了很多但还有空间"，忽视了绝对估值的荒谬性
-- **幸存者偏差**：市场关注液冷概念中涨幅最大的标的，但忽视了大量液冷概念股已经回落
+- **Narrative bias**: The market has packaged Chuanrun as a "liquid cooling + nuclear power" dual-theme concept stock, but it remains, in substance, a loss-making manufacturer whose primary business is wind-power lubrication and cooling
+- **Anchoring effect**: Having risen from RMB 6.80 to RMB 18.50, investors may anchor on the low point and feel there is "still room to run even though it's already risen a lot," overlooking how absurd the absolute valuation has become
+- **Survivorship bias**: The market focuses on the biggest gainers among liquid-cooling concept stocks while ignoring the large number of liquid-cooling names that have already pulled back
 
-### 芒格式追问：聪明人为什么不买这家公司？
+### Munger-style question: Why wouldn't smart people buy this company?
 
-1. **连续三年亏损**，2026Q1仍亏3088万——基本面不支撑当前估值
-2. **PB 6.15倍**对一家亏损制造商是荒谬的——这个估值水平适合高增长科技公司，不适合毛利率17%的工业企业
-3. **实控人在卖**——如果管理层都在套现，为什么外部投资者应该买入？
-4. **液冷收入仅2.25亿**——按5倍PS给液冷业务估11亿，剩余15亿收入的传统业务值78亿吗？绝对不值
-5. **融资余额5亿+**——杠杆资金深度介入，一旦情绪逆转可能踩踏
+1. **Three consecutive years of losses**, with a further loss of RMB 30.88 million in Q1 2026 — fundamentals do not support the current valuation
+2. **A P/B of 6.15x** is absurd for a loss-making manufacturer — that valuation level suits a high-growth technology company, not an industrial company with an 17% gross margin
+3. **The controlling shareholder is selling** — if management itself is cashing out, why should outside investors be buying?
+4. **Liquid-cooling revenue is only RMB 225 million** — valuing the liquid-cooling business at 5x P/S gives it RMB 1.1 billion; is the remaining RMB 1.5 billion of traditional-business revenue really worth RMB 7.8 billion? Absolutely not
+5. **Margin financing balance exceeds RMB 500 million** — leveraged money is deeply involved, and a sentiment reversal could trigger a stampede
 
-**评分：★★（2/5）— 风险远大于机会，多个致命路径并存**
+**Rating: ★★ (2/5) — Risks far outweigh opportunities, with multiple potentially fatal paths coexisting**
 
 ---
 
-## 四、管理层评估 — 段永平"对的人" + 巴菲特"管理层诚信"
+## Part Four: Management Assessment — Duan Yongping's "The Right People" + Buffett's "Management Integrity"
 
-### 实控人与管理层
+### Controlling shareholder and management
 
-| 人物 | 角色 | 持股 | 关键行为 |
+| Person | Role | Stake | Key actions |
 |------|------|------|---------|
-| 罗丽华 | 实控人 | 15.51% | **累计套现约6.36亿元**，2024年12月减持导致跌停 |
-| 钟利钢 | 实控人（罗丽华之夫） | 一致行动人 | — |
-| 罗永忠 | 董事长 | 5.42% | 1969年生，中欧EMBA |
-| 钟海晖 | 总经理 | — | 一致行动人 |
-| 一致行动人合计 | — | 29.46% | 家族控制 |
+| Luo Lihua | Controlling shareholder | 15.51% | **Has cashed out approximately RMB 636 million cumulatively**; a December 2024 share sale triggered a limit-down |
+| Zhong Ligang | Controlling shareholder (Luo Lihua's spouse) | Acting in concert | — |
+| Luo Yongzhong | Chairman | 5.42% | Born 1969; CEIBS EMBA |
+| Zhong Haihui | General Manager | — | Acting in concert |
+| Total for concert-party group | — | 29.46% | Family control |
 
-### 资本配置能力评估
+### Capital-allocation track record
 
-| 决策 | 时间 | 结果 | 评分 |
+| Decision | Timing | Outcome | Rating |
 |------|------|------|------|
-| 上市融资 | 2009年 | 主营业务持续，但盈利能力始终偏弱 | ★★★ |
-| 进入核电领域 | ~2015年 | 覆盖国内大部分核电站，方向正确 | ★★★★ |
-| 低位定增融资 | 2024年2月 | 定增约5017万股，增发价远低于后来股价 | ⚠️ |
-| 实控人高位减持 | 2024年12月 | 套现6.36亿，减持导致跌停，严重损害股东信任 | ★ |
-| 高管减持 | 2024-2025年 | 李辉、缪银兵、饶红同期宣布减持 | ★ |
-| 拟定增9.5亿扩产液冷/储能 | 2025-2026年 | 方向合理，但在公司持续亏损时大规模融资值得商榷 | ★★ |
+| IPO fundraising | 2009 | Core business persisted, but profitability has consistently remained weak | ★★★ |
+| Entry into nuclear power | ~2015 | Now supplies most domestic nuclear plants — the right direction | ★★★★ |
+| Low-price private placement | February 2024 | Roughly 50.17 million shares placed at an issue price far below the later share price | ⚠️ |
+| High-price stake sale by controlling shareholder | December 2024 | Cashed out RMB 636 million; the sale triggered a limit-down, seriously damaging shareholder trust | ★ |
+| Executive stake sales | 2024-2025 | Li Hui, Miao Yinbing, and Rao Hong announced sales around the same time | ★ |
+| Planned RMB 950 million placement to expand liquid-cooling/energy-storage capacity | 2025-2026 | Direction is reasonable, but raising this much capital while the company remains unprofitable is questionable | ★★ |
 
-### 核心治理问题："低位定增→高位减持"
+### Core governance problem: "Buy low via placement, then sell high"
 
-2024年2月低位定增融资→2024年底实控人高位减持套现6.36亿元。这个操作序列虽然在法律上合规，但从股东利益一致性角度看是**严重的负面信号**。
+A low-price private placement in February 2024 was followed by the controlling shareholder cashing out RMB 636 million at high prices by the end of 2024. While legally compliant, this sequence of actions is a **serious negative signal** from a shareholder-alignment standpoint.
 
-**巴菲特的标准**：管理层是否像对待自己的钱一样对待股东的钱？答案显然是否定的。
+**Buffett's standard**: Does management treat shareholders' money as they would treat their own? The answer here is clearly no.
 
-### 薪酬合理性
+### Compensation reasonableness
 
-总经理薪酬100万、副总60-67万，在A股同体量公司中属于中等偏低。薪酬本身不是问题，问题在于减持套现远超薪酬收入。
+The General Manager's compensation of RMB 1 million and Deputy General Managers' RMB 600,000-670,000 are middling-to-low for A-share companies of comparable size. Compensation itself is not the issue; the issue is that cash-outs from stake sales far exceed compensation income.
 
-### 段永平式追问：如果CEO退休，这家公司还能保持竞争力吗？
+### Duan Yongping-style question: If the CEO retired, would this company remain competitive?
 
-川润是一家家族控制的工业企业，核心竞争力来自长期积累的技术和客户关系，而非某个人的个人能力。如果管理层换人，公司不会崩溃，但也不会变好——因为竞争优势本就有限。
+Chuanrun is a family-controlled industrial enterprise whose core competitiveness stems from long-accumulated technology and customer relationships rather than any single individual's ability. If management changed, the company would not collapse, but it would not improve either — because its competitive advantage was limited to begin with.
 
-**评分：★★（2/5）— 实控人大额减持是严重的治理红旗，利益不一致**
-
----
-
-## 五、行业与文明趋势 — 李录"文明演进框架"
-
-### 核电：确定性最高的增量
-
-| 指标 | 数据 |
-|------|------|
-| 2022-2025年年均核准 | ≥10台/年，已形成常态化 |
-| 在运装机 | 6,083万千瓦（58台），世界第三 |
-| 在建装机 | 4,190万千瓦（35台），全球第一 |
-| 合计（运+建+核准） | 1.13亿千瓦（102台），**世界第一** |
-| 2030年目标 | 在运~1.2亿千瓦 |
-| 核电设备市场 | ~546亿元/年 |
-
-核电是中国能源转型中确定性最高的方向之一——"双碳"目标+能源安全+技术成熟。但川润在核电中的定位是**辅助系统供应商**（润滑冷却），不是核岛主设备商，能分到的蛋糕有限。
-
-### 液冷：增速最快但竞争最激烈
-
-| 指标 | 数据 |
-|------|------|
-| 2024年中国液冷服务器市场 | 23.7亿美元（+67%） |
-| 2029年预测 | 162亿美元 |
-| CAGR（2024-2029） | 46.8% |
-
-液冷是AI算力爆发带来的"文明级"基础设施需求——这一点毫无疑问。但问题在于：**好行业≠好公司**。液冷赛道的竞争者包括英维克（市占率50%+）、高澜股份、中科曙光（曙光数创）等，川润作为后进入者，收入仅2.25亿，在一个未来可能达千亿级的市场中占比微不足道。
-
-### 风电：存量市场，增长趋缓
-
-川润的基本盘——风电润滑冷却——受益于全球风电装机增长，但增速已趋缓。川润在风电润滑冷却全球市占率约30-35%（据公司自述），是细分龙头，但赛道天花板有限。
-
-### 川润在产业价值链中的位置
-
-川润处于产业链的**辅助设备/配套环节**——不是核心设备（如核岛反应堆、风电整机），也不是终端应用（如发电运营）。这个位置的特点是：
-- 进入门槛中等（有资质壁垒但技术门槛不高）
-- 议价能力弱（下游是大型央企/龙头企业）
-- 价值量有限（在总投资中占比小）
-
-### 李录式追问：20年后回看，这家公司是"标准石油"还是"3Com"？
-
-**两者都不是。** 川润更可能是一家普通的工业配套企业——不会消失，但也不会成为伟大公司。核电和液冷的增长会带来一定增量，但川润在产业链中的位置决定了它无法捕获大部分价值。
-
-**评分：★★★（3/5）— 行业方向正确（核电+液冷），但川润在价值链中的位置决定了它只能分到有限的蛋糕**
+**Rating: ★★ (2/5) — The controlling shareholder's large-scale stake sales are a serious governance red flag, and interests are seriously misaligned**
 
 ---
 
-## 六、估值与安全边际 — 巴菲特"内在价值" + 段永平"对的价格"
+## Part Five: Industry and Civilizational Trends — Li Lu's "Framework of Civilizational Progress"
 
-### 当前估值指标（经工具验算）
+### Nuclear power: the most certain incremental driver
 
-| 指标 | 数据 | 说明 |
+| Indicator | Data |
+|------|------|
+| Average annual approvals, 2022-2025 | ≥10 units/year, now the new normal |
+| Installed capacity in operation | 60.83 GW (58 units), third-largest in the world |
+| Installed capacity under construction | 41.90 GW (35 units), largest in the world |
+| Total (operating + under construction + approved) | 113 GW (102 units), **the largest in the world** |
+| 2030 target | ~120 GW in operation |
+| Nuclear-equipment market | ~RMB 54.6 billion per year |
+
+Nuclear power is one of the most certain directions in China's energy transition, driven by "dual carbon" goals, energy security, and mature technology. But Chuanrun's position within nuclear power is that of an **auxiliary-systems supplier** (lubrication and cooling), not a primary nuclear-island equipment maker, so the slice of the pie it can capture is limited.
+
+### Liquid cooling: fastest-growing but most fiercely contested
+
+| Indicator | Data |
+|------|------|
+| China's liquid-cooled server market, 2024 | USD 2.37 billion (+67%) |
+| 2029 forecast | USD 16.2 billion |
+| CAGR (2024-2029) | 46.8% |
+
+Liquid cooling represents a "civilizational-scale" infrastructure need driven by the AI computing boom — this much is beyond doubt. But the problem is: **a good industry is not the same as a good company**. Competitors in liquid cooling include Envicool (over 50% market share), Gaolan Co., and Sugon (Sugon Data Cool), and Chuanrun, as a late entrant with only RMB 225 million in revenue, holds an insignificant share of a market that could reach the hundred-billion-RMB scale in the future.
+
+### Wind power: a mature market with slowing growth
+
+Chuanrun's core base — wind-power lubrication and cooling — benefits from ongoing growth in global wind-turbine installations, but growth has already slowed. Chuanrun holds an estimated 30-35% global market share in wind-power lubrication and cooling (per the company's own disclosure) and is a niche leader, but the segment's ceiling is limited.
+
+### Chuanrun's position in the industry value chain
+
+Chuanrun sits in the **auxiliary-equipment / supporting-component segment** of the industry chain — neither core equipment (such as nuclear reactors or wind turbines) nor end-use application (such as power generation operations). This position has the following characteristics:
+- Moderate barriers to entry (qualification barriers exist, but the technical bar is not high)
+- Weak bargaining power (downstream customers are large state-owned enterprises / industry leaders)
+- Limited value capture (a small share of total investment)
+
+### Li Lu-style question: Looking back 20 years from now, will this company be "Standard Oil" or "3Com"?
+
+**Neither.** Chuanrun is more likely to end up an ordinary industrial supporting-component enterprise — it will not disappear, but it will not become a great company either. Growth in nuclear power and liquid cooling will bring some incremental benefit, but Chuanrun's position in the value chain means it cannot capture the majority of the value created.
+
+**Rating: ★★★ (3/5) — The industry direction is correct (nuclear power + liquid cooling), but Chuanrun's position in the value chain means it can only capture a limited slice of the opportunity**
+
+---
+
+## Part Six: Valuation and Margin of Safety — Buffett's "Intrinsic Value" + Duan Yongping's "The Right Price"
+
+### Current valuation metrics (verified with tools)
+
+| Metric | Data | Note |
 |------|------|------|
-| 股价 | 18.50元 | 2026年6月 |
-| 市值 | 89.7亿元 | ✅ 验算通过（18.5×4.85亿股） |
-| PE（TTM） | **负值（亏损）** | 连续三年亏损，PE不适用 |
-| PB | **6.15倍** | ✅ 验算通过（18.5/3.01） |
-| PS | **5.13倍** | 89.7亿/17.5亿 |
-| PE（2026E） | **~132倍** | 基于国海证券预测EPS 0.14元 |
-| PE（2027E） | **~71倍** | 基于国海证券预测EPS 0.26元 |
+| Share price | RMB 18.50 | June 2026 |
+| Market cap | RMB 8.97 billion | Verified (RMB 18.5 x 485 million shares) |
+| P/E (TTM) | **Negative (loss-making)** | Three consecutive years of losses; P/E not applicable |
+| P/B | **6.15x** | Verified (18.5 / 3.01) |
+| P/S | **5.13x** | RMB 8.97 billion / RMB 1.75 billion |
+| P/E (2026E) | **~132x** | Based on Guohai Securities' forecast EPS of RMB 0.14 |
+| P/E (2027E) | **~71x** | Based on Guohai Securities' forecast EPS of RMB 0.26 |
 
-### 估值的荒谬性检验
+### Testing the absurdity of the valuation
 
-| 对比对象 | 市值 | PE | PB | PS | 毛利率 | 净利润率 |
+| Comparison | Market cap | P/E | P/B | P/S | Gross margin | Net margin |
 |---------|------|-----|-----|-----|--------|---------|
-| **川润股份** | **89.7亿** | **亏损** | **6.15** | **5.13** | **18%** | **亏损** |
-| 恒立液压（液压龙头） | ~700亿 | ~25x | ~4x | ~7x | 33% | 20% |
-| 英维克（液冷龙头） | ~170亿 | ~45x | ~6x | ~5x | 30% | 10% |
-| 高澜股份（液冷对手） | ~80亿 | ~60x | ~4x | ~6x | 25% | 5% |
+| **Chuanrun** | **RMB 8.97 billion** | **Loss-making** | **6.15** | **5.13** | **18%** | **Loss-making** |
+| Hengli Hydraulics (hydraulics leader) | ~RMB 70 billion | ~25x | ~4x | ~7x | 33% | 20% |
+| Envicool (liquid-cooling leader) | ~RMB 17 billion | ~45x | ~6x | ~5x | 30% | 10% |
+| Gaolan Co. (liquid-cooling rival) | ~RMB 8 billion | ~60x | ~4x | ~6x | 25% | 5% |
 
-川润的PB 6.15倍与英维克（液冷龙头、毛利率30%、已盈利）相当，但川润毛利率仅18%且仍在亏损。**市场在用龙头公司的估值给一家亏损配套企业定价。**
+Chuanrun's P/B of 6.15x is comparable to Envicool's (the liquid-cooling leader, 30% gross margin, already profitable), yet Chuanrun's gross margin is only 18% and it remains unprofitable. **The market is pricing a loss-making supporting-component company at a valuation befitting an industry leader.**
 
-### 三情景估值（经工具精确计算）
+### Three-scenario valuation (precisely calculated with tools)
 
-基于国海证券2026E EPS 0.14元，三年预测：
+Based on Guohai Securities' 2026E EPS forecast of RMB 0.14, projected over three years:
 
-| 情景 | 年增速 | 目标PE | 2029E EPS | 目标股价 | vs当前 |
-|------|--------|--------|----------|---------|--------|
-| 乐观 | 40% | 60x | 0.38元 | 23.0元 | **+24.6%** |
-| 中性 | 25% | 40x | 0.27元 | 10.9元 | **-40.9%** |
-| 悲观 | 10% | 25x | 0.19元 | 4.7元 | **-74.8%** |
+| Scenario | Annual growth | Target P/E | 2029E EPS | Target price | vs. current |
+|------|--------|--------|----------|---------|------|
+| Bullish | 40% | 60x | RMB 0.38 | RMB 23.0 | **+24.6%** |
+| Neutral | 25% | 40x | RMB 0.27 | RMB 10.9 | **-40.9%** |
+| Bearish | 10% | 25x | RMB 0.19 | RMB 4.7 | **-74.8%** |
 
-**核心发现**：即使在最乐观的假设下（40%盈利增速+60倍PE），三年后的目标价仅23元，上行空间仅25%。而中性和悲观情景下，下行幅度高达41%-75%。**风险/回报比极不对称——下行远大于上行。**
+**Key finding**: Even under the most optimistic assumptions (40% earnings growth + a 60x P/E), the three-year target price is only RMB 23, an upside of just 25%. Under the neutral and bearish scenarios, downside runs 41%-75%. **The risk/reward ratio is starkly asymmetric — downside far exceeds upside.**
 
-### 反向DCF：当前股价隐含了什么？
+### Reverse DCF: what does the current share price imply?
 
-当前89.7亿市值，扣除净资产约14.6亿（3.01元×4.85亿股），市场给川润的无形资产/增长溢价约75亿元。
+At the current market cap of RMB 8.97 billion, net of net assets of approximately RMB 1.46 billion (RMB 3.01 x 485 million shares), the market is assigning Chuanrun roughly RMB 7.5 billion in intangible-asset / growth premium.
 
-要让75亿元的增长溢价合理化，川润需要在未来5年内达到年净利润3-4亿元（假设15倍PE）。对比2025年亏损2491万→2026E盈利6800万（国海证券预测），从亏损到年利润3-4亿的跨越需要收入翻倍+净利润率从-1.4%提升至10%以上。
+To justify a RMB 7.5 billion growth premium, Chuanrun would need to reach annual net profit of RMB 300-400 million within the next five years (assuming a 15x P/E). Against a 2025 loss of RMB 24.91 million and a projected 2026E profit of RMB 68 million (per Guohai Securities), the leap from a loss to annual profit of RMB 300-400 million would require revenue to double and net margin to rise from -1.4% to above 10%.
 
-**这意味着当前股价隐含了极度乐观的假设：液冷业务爆发性增长+核电订单大幅增加+毛利率显著提升。任何一个假设未能兑现，估值都将大幅回调。**
+**This means the current share price implies an extremely optimistic set of assumptions: explosive growth in the liquid-cooling business, a large increase in nuclear orders, and a significant rise in gross margin. If any single one of these assumptions fails to materialize, the valuation faces a sharp correction.**
 
-### 合理估值区间
+### Reasonable valuation range
 
-| 方法 | 估值 | 逻辑 |
+| Method | Valuation | Rationale |
 |------|------|------|
-| PB合理值（2.5-3倍） | 36-44亿 → 7.4-9.1元 | 亏损制造商合理PB区间 |
-| PS合理值（2-3倍） | 35-53亿 → 7.2-10.9元 | 工业制造业合理PS区间 |
-| 2027E PE（30-40倍） | 38-50亿 → 7.8-10.3元 | 基于国海证券2027E EPS 0.26元 |
-| **综合合理区间** | **7-11元** | **当前价格高出70-160%** |
+| Reasonable P/B (2.5-3x) | RMB 3.6-4.4 billion → RMB 7.4-9.1 | Reasonable P/B range for a loss-making manufacturer |
+| Reasonable P/S (2-3x) | RMB 3.5-5.3 billion → RMB 7.2-10.9 | Reasonable P/S range for industrial manufacturing |
+| 2027E P/E (30-40x) | RMB 3.8-5.0 billion → RMB 7.8-10.3 | Based on Guohai Securities' 2027E EPS forecast of RMB 0.26 |
+| **Combined reasonable range** | **RMB 7-11** | **Current price is 70-160% above this range** |
 
-### 段永平式追问：如果股市明天关闭5年，你愿意以18.5元持有吗？
+### Duan Yongping-style question: If the stock market closed for the next five years, would you be willing to hold at RMB 18.50?
 
-**绝对不愿意。** 一家连续三年亏损、毛利率17%、实控人在减持的工业配套企业，即使液冷和核电的增长叙事全部兑现，5年后的合理估值也难以支撑当前价格。以18.5元买入，你需要所有乐观假设同时成立才能不亏钱——这不是投资，是投机。
+**Absolutely not.** For an industrial supporting-component company with three consecutive years of losses, a 17% gross margin, and a controlling shareholder who is selling down, even if the liquid-cooling and nuclear-power growth narratives fully materialize, a reasonable valuation five years out is unlikely to support the current price. Buying at RMB 18.50 requires every optimistic assumption to hold simultaneously just to avoid a loss — that isn't investing, it's speculation.
 
-**评分：★（1/5）— 严重高估，当前价格透支了所有乐观预期**
+**Rating: ★ (1/5) — Seriously overvalued; the current price has already priced in every optimistic expectation**
 
 ---
 
-## 七、综合决策备忘录
+## Part Seven: Comprehensive Decision Memo
 
-### 六维评估表
+### Six-dimension assessment table
 
-| 维度 | 结论 | 评分 | 信心度 |
+| Dimension | Conclusion | Rating | Confidence |
 |------|------|------|--------|
-| 生意质量（段永平） | 低毛利、强周期、项目制工业品，不是好生意 | ★★ | 高 |
-| 护城河（巴菲特） | 窄护城河，主要靠资质准入 | ★★ | 高 |
-| 管理层（段永平+巴菲特） | 实控人大额减持，利益严重不一致 | ★★ | 高 |
-| 最大风险（芒格） | 液冷不及预期+实控人减持+持续亏损 | ★★ | 高 |
-| 文明趋势（李录） | 行业方向对（核电+液冷），但川润位置有限 | ★★★ | 中 |
-| 估值（巴菲特+段永平） | PB 6.15x对亏损制造商严重高估 | ★ | 高 |
+| Business quality (Duan Yongping) | Low margin, strongly cyclical, project-based industrial goods — not a good business | ★★ | High |
+| Moat (Buffett) | Narrow moat, resting mainly on access qualifications | ★★ | High |
+| Management (Duan Yongping + Buffett) | Large-scale stake sales by the controlling shareholder; seriously misaligned interests | ★★ | High |
+| Biggest risk (Munger) | Liquid-cooling shortfall + controlling-shareholder sales + sustained losses | ★★ | High |
+| Civilizational trend (Li Lu) | Right industry direction (nuclear power + liquid cooling), but Chuanrun's position captures limited value | ★★★ | Medium |
+| Valuation (Buffett + Duan Yongping) | A P/B of 6.15x is a serious overvaluation for a loss-making manufacturer | ★ | High |
 
-**综合评分：1.8★ / 5★**
+**Composite rating: 1.8★ / 5★**
 
-### 最终决策表
+### Final decision table
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **回避。** 当前估值严重透支，风险/回报比极不对称。即使看好液冷和核电方向，也有更好的标的（英维克、高澜等）。等待估值回归至7-11元区间（PB 2.5-3倍）再考虑。 |
-| **持仓者** | **减仓至清仓。** 股价从6.80元涨至18.50元已实现172%涨幅，当前估值无安全边际。实控人都在卖，散户不应比实控人更有信心。 |
-| **卖出信号** | 实控人继续减持公告；2026H1液冷订单低于预期；连续两季度经营现金流为负；融资余额继续攀升（杠杆踩踏风险） |
-| **加仓信号** | 股价回落至8-10元（PB ~3倍）；液冷订单超过5亿/年；连续两个季度盈利；实控人停止减持并增持 |
+| **Non-holders** | **Avoid.** The current valuation is severely stretched, and the risk/reward ratio is starkly asymmetric. Even for investors who like the liquid-cooling and nuclear-power themes, better options exist (Envicool, Gaolan, etc.). Wait for a valuation reversion to the RMB 7-11 range (P/B of 2.5-3x) before reconsidering. |
+| **Current holders** | **Trim to exit.** The share price has already risen 172% from RMB 6.80 to RMB 18.50, and the current valuation offers no margin of safety. If the controlling shareholder is selling, retail investors have no business being more confident than the insider. |
+| **Sell signals** | Further stake-sale announcements by the controlling shareholder; H1 2026 liquid-cooling orders falling short of expectations; two consecutive quarters of negative operating cash flow; a continued rise in the margin-financing balance (leveraged-stampede risk) |
+| **Add signals** | Share price pulling back to RMB 8-10 (P/B of ~3x); liquid-cooling orders exceeding RMB 500 million/year; two consecutive quarters of profitability; the controlling shareholder halting sales and beginning to buy |
 
-### 四位大师模拟点评
+### Simulated commentary from the four masters
 
-> **巴菲特**："一家连续三年亏损、毛利率17%的工业配套企业，PB估值6倍——这不是投资，这是在赌场。好的行业趋势不等于好的投资机会，尤其当价格已经把所有好消息都定价了的时候。我会把这只股票放进'太难'的篮子里。"
+> **Buffett**: "A supporting-component company for industrial equipment with three consecutive years of losses and a 17% gross margin, valued at 6x book — this isn't investing, it's gambling. A good industry trend doesn't equal a good investment opportunity, especially once the price has already priced in every piece of good news. I'd put this stock in the 'too hard' pile."
 
-> **芒格**："反过来想——实控人在公司亏损时大举减持，这告诉你什么？她对公司的未来比市场更悲观，或者她认为当前股价已经超过了公司的内在价值。无论哪种情况，外部投资者都不应该比内部人更乐观。"
+> **Munger**: "Invert — the controlling shareholder is selling heavily while the company is losing money. What does that tell you? Either she's more pessimistic about the company's future than the market is, or she believes the current price already exceeds the company's intrinsic value. Either way, outside investors shouldn't be more optimistic than the insider."
 
-> **段永平**："我不投资没有定价权的制造企业。17%的毛利率意味着这家公司是在给客户打工。好的生意应该让客户愿意支付溢价，而不是靠报价最低来赢单。液冷概念很热，但热门≠好生意。"
+> **Duan Yongping**: "I don't invest in manufacturers without pricing power. A 17% gross margin means this company is working for its customers. A good business should make customers willing to pay a premium, not win orders by quoting the lowest price. The liquid-cooling theme is hot, but hot doesn't equal good business."
 
-> **李录**："核电和液冷确实是文明进步带来的长期机会，这一点我不否认。但投资的关键不是找对行业，而是找到能在行业中持久赢得超额回报的公司。川润在产业链中的位置——辅助系统配套商——决定了它分不到太多蛋糕。而且，以这个价格买入，即使行业判断正确，回报也可能令人失望。"
-
----
-
-## AI分析置信度 vs 投资确定性
-
-### 基于充分数据的结论（置信度高）：
-- 公司连续三年亏损，2025年亏损收窄但未盈利 → 事实
-- 综合毛利率17-18%，在工业制造中无突出竞争力 → 事实
-- 实控人累计套现约6.36亿元 → 事实
-- 当前PB 6.15倍、PS 5.13倍对于亏损制造商偏高 → 高置信度判断
-- 三情景估值即使乐观假设上行仅25%，下行41-75% → 工具验算结果
-
-### 基于有限信息的推理（置信度中等）：
-- 液冷业务的真实市场份额和华为合作深度 → 仅有公司单方面表述
-- 核电业务的订单金额和利润贡献 → 未单独披露
-- 2026年能否实现盈利 → 仅1家券商预测，无交叉验证
-
-### 关键区分：AI分析置信度 ≠ 投资确定性
-
-本报告的AI分析置信度是**中等**（B级信息，数据有限），但投资确定性的判断却是**较高**——不是因为我们对公司了解得足够深，而是因为：
-
-**当一家亏损公司的PB达到6倍时，你不需要深入了解它的每一个细节就能判断估值过高。** 这就像你不需要知道一个人的精确体重就能判断他是否超重——当偏离合理范围足够远时，精确数据反而不重要了。
+> **Li Lu**: "Nuclear power and liquid cooling are indeed long-term opportunities brought about by civilizational progress — I don't dispute that. But the key to investing isn't finding the right industry; it's finding the company that can durably earn excess returns within that industry. Chuanrun's position in the value chain — an auxiliary-systems supplier — means it won't capture much of the pie. And at this price, even if the industry call is right, the returns could still be disappointing."
 
 ---
 
-## 关键数据交叉验证记录
+## AI Analysis Confidence vs. Investment Certainty
+
+### Conclusions based on sufficient data (high confidence):
+- The company has posted losses for three consecutive years; the 2025 loss narrowed but remained a loss → fact
+- The blended gross margin of 17-18% shows no standout competitive advantage in industrial manufacturing → fact
+- The controlling shareholder has cumulatively cashed out approximately RMB 636 million → fact
+- A current P/B of 6.15x and P/S of 5.13x are on the high side for a loss-making manufacturer → high-confidence judgment
+- Under the three-scenario valuation, even the optimistic case yields only 25% upside, versus 41-75% downside → tool-verified calculation result
+
+### Inferences based on limited information (medium confidence):
+- The true market share of the liquid-cooling business and the depth of the Huawei partnership → only the company's own one-sided statements are available
+- The order value and profit contribution of the nuclear-power business → not separately disclosed
+- Whether profitability can be achieved in 2026 → forecast by only one brokerage, with no cross-validation
+
+### A key distinction: AI analysis confidence ≠ investment certainty
+
+This report's AI analysis confidence is **medium** (Grade B information, limited data), but the judgment on investment certainty is nonetheless **fairly high** — not because we understand the company in exhaustive depth, but because:
+
+**When a loss-making company's P/B reaches 6x, you don't need to understand every detail to conclude the valuation is too high.** It's like not needing to know a person's exact weight to tell that they are overweight — once a deviation from a reasonable range is large enough, precise data becomes less important.
+
+---
+
+## Cross-Validation Record for Key Data
 
 ```
-市值验算：18.5元 × 4.85亿股 = 89.72亿元 ≈ 报告89.70亿 ✅（偏差0.03%）
-PB验算：18.5 / 3.01 = 6.15倍 ✅
-PS验算：89.7 / 17.50 = 5.13倍 ✅
-PE验算：18.5 / -0.0514 = -359.92倍（亏损，不适用）✅
-2025年营收交叉验证：年报17.50亿 = 证券时报17.50亿 ✅（偏差0%）
-三情景估值：乐观+24.6% / 中性-40.9% / 悲观-74.8% ✅（工具精确计算）
+Market-cap check: RMB 18.5 x 485 million shares = RMB 8.972 billion ≈ reported RMB 8.970 billion ✅ (0.03% deviation)
+P/B check: 18.5 / 3.01 = 6.15x ✅
+P/S check: 8.97 / 1.75 = 5.13x ✅
+P/E check: 18.5 / -0.0514 = -359.92x (loss-making, not applicable) ✅
+2025 revenue cross-check: annual report RMB 1.750 billion = Securities Times RMB 1.750 billion ✅ (0% deviation)
+Three-scenario valuation: bullish +24.6% / neutral -40.9% / bearish -74.8% ✅ (precise tool calculation)
 ```
 
 ---
 
-**数据来源**：川润股份2024年报、2025年报（2026年4月披露）、2026Q1季报、国海证券研报（2026年3月）、证券时报、中证网、同花顺数据
+**Data sources**: Chuanrun Co., Ltd. 2024 and 2025 annual reports (disclosed April 2026), 2026 Q1 quarterly report, Guohai Securities research report (March 2026), Securities Times, China Securities Journal, THS (10jqka) data

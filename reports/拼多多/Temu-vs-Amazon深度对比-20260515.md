@@ -1,161 +1,161 @@
-# Temu vs Amazon 深度对比分析
+# Temu vs Amazon: An In-Depth Comparison
 
-**研究日期：2026年5月15日 | 核心问题：业务异同、营收利润对比、10年后预测**
+**Research date: May 15, 2026 | Core questions: business similarities and differences, revenue/profit comparison, 10-year outlook**
 
 ---
 
-## 一、当前差距：PDD是Amazon的几分之几？
+## I. The current gap: what fraction of Amazon is PDD?
 
-| 维度 | PDD/Temu | Amazon | 比例 |
+| Dimension | PDD/Temu | Amazon | Ratio |
 |------|---------|--------|------|
-| 总营收 | 618亿美元 | 7,170亿美元 | **1/12** |
-| 净利润 | 144亿美元 | ~590亿美元 | **1/4**（差距最小） |
-| 市值 | 1,381亿 | 2.89万亿 | **1/21**（差距最大） |
-| 电商GMV | ~800亿 | ~9,000亿 | 1/12 |
-| 用户规模 | 2.92亿MAU | ~31亿月访问 | 1/10 |
-| PE | **10x** | 32x | PDD便宜3倍 |
-| 广告收入 | 刚起步 | $680亿 | 天壤之别 |
-| 履约中心 | 13个 | 1,200+ | 1/100 |
+| Total revenue | $61.8B | $717.0B | **1/12** |
+| Net income | $14.4B | ~$59.0B | **1/4** (smallest gap) |
+| Market cap | $138.1B | $2.89T | **1/21** (largest gap) |
+| E-commerce GMV | ~$80B | ~$900B | 1/12 |
+| User base | 292M MAU | ~3.1B monthly visits | 1/10 |
+| P/E | **10x** | 32x | PDD 3x cheaper |
+| Advertising revenue | Just getting started | $68B | Worlds apart |
+| Fulfillment centers | 13 | 1,200+ | 1/100 |
 
-**利润差距反而最小（1/4）**：拼多多主站利润率极高（40%+）。市值差距最大（1/21）：市场给AWS和广告高溢价。
+**The profit gap is actually the smallest (1/4)**: PDD's main platform runs extremely high margins (40%+). The market-cap gap is the largest (1/21): the market awards a premium for AWS and advertising.
 
 ---
 
-## 二、商业模式本质不同
+## II. Fundamentally different business models
 
-### Amazon：多引擎科技巨头
+### Amazon: a multi-engine tech giant
 
-| 业务 | 2025年收入 | 营业利润 | 角色 |
+| Business | 2025 revenue | Operating profit | Role |
 |------|-----------|---------|------|
-| 电商1P（自营） | ~2,500亿 | 微利 | 流量入口 |
-| 电商3P（佣金+FBA） | ~1,600亿 | 高利润 | 利润来源 |
-| AWS云 | 1,287亿 | **~400亿+** | **利润引擎** |
-| 广告 | 680亿 | **~300亿+** | **第二利润引擎** |
-| Prime会员 | ~450亿 | 中等 | 用户锁定 |
-| 其他 | ~650亿 | — | — |
+| E-commerce 1P (self-run) | ~$250B | Thin margin | Traffic gateway |
+| E-commerce 3P (commissions + FBA) | ~$160B | High margin | Profit source |
+| AWS cloud | $128.7B | **~$40B+** | **Profit engine** |
+| Advertising | $68B | **~$30B+** | **Second profit engine** |
+| Prime membership | ~$45B | Moderate | User lock-in |
+| Other | ~$65B | — | — |
 
-### Temu：聚焦低价的跨境电商平台
+### Temu: a cross-border e-commerce platform focused on low prices
 
-| 业务 | 2025年数据 | 角色 |
+| Business | 2025 data | Role |
 |------|-----------|------|
-| 全托管电商 | GMV ~950亿，佣金25-30% | 核心但亏损 |
-| 半托管电商 | 快速增长，佣金15-20% | 转型方向 |
-| 新拼姆（自营品牌） | 2026年Q3上线 | 未来增长点 |
-| 广告 | 刚起步，<1% | 利润关键变量 |
+| Fully-managed e-commerce | GMV ~$95B, 25-30% commission | Core, but unprofitable |
+| Semi-managed e-commerce | Growing fast, 15-20% commission | Direction of transition |
+| Duoduo Premium (private label) | Launching Q3 2026 | Future growth driver |
+| Advertising | Just getting started, <1% | Key profit variable |
 
-### 核心差异
+### Core differences
 
-| 维度 | Amazon | Temu |
+| Dimension | Amazon | Temu |
 |------|--------|------|
-| 商业模式本质 | 多元科技巨头 | 跨境低价电商平台 |
-| 利润引擎 | **AWS + 广告**（电商本身微利） | **无第二曲线**（依赖主站输血） |
-| 用户粘性 | Prime会员生态锁定（2亿美国会员） | 靠低价维持，粘性低 |
-| 物流 | 1,200+履约中心，1-2天达 | 13个自营仓，5-10天达 |
-| 广告变现 | $680亿（全球第三大） | 刚起步 |
-| 客单价 | $52（Prime $62） | $23.9 |
-| 政策敏感度 | 几乎不受关税影响 | **de minimis取消后DAU暴跌58%** |
+| Nature of business model | Diversified tech giant | Cross-border low-price e-commerce platform |
+| Profit engine | **AWS + advertising** (e-commerce itself is thin-margin) | **No second curve** (relies on the main platform to subsidize it) |
+| User stickiness | Locked in by the Prime membership ecosystem (200M US members) | Sustained by low prices; low stickiness |
+| Logistics | 1,200+ fulfillment centers, 1-2 day delivery | 13 self-operated warehouses, 5-10 day delivery |
+| Ad monetization | $68B (world's third-largest ad platform) | Just getting started |
+| Average order value | $52 (Prime $62) | $23.9 |
+| Policy sensitivity | Almost unaffected by tariffs | **DAU plunged 58% after de minimis exemption was eliminated** |
 
 ---
 
-## 三、业务重合度
+## III. Degree of business overlap
 
-| 维度 | 重合程度 | 说明 |
+| Dimension | Degree of overlap | Notes |
 |------|---------|------|
-| 商品品类 | 77%重叠 | 但竞争集中在$10-30低价日用品 |
-| 跨境电商份额 | 各24% | 已追平 |
-| 美国电商整体 | Amazon 42% vs Temu 18% | 差距2.3倍 |
-| 高价值品类 | **不重叠** | 电子/品牌商品是Amazon的领地 |
-| 非电商业务 | **完全不重叠** | AWS/Prime Video/Alexa等 |
+| Product categories | 77% overlap | But competition concentrates in the $10-30 low-price everyday-goods segment |
+| Cross-border e-commerce share | 24% each | Now roughly even |
+| Overall US e-commerce | Amazon 42% vs Temu 18% | 2.3x gap |
+| High-value categories | **No overlap** | Electronics/branded goods are Amazon's territory |
+| Non-e-commerce businesses | **No overlap at all** | AWS/Prime Video/Alexa etc. |
 
-### Amazon Haul对标Temu
+### Amazon Haul, positioned against Temu
 
-Amazon推出Haul直接对标Temu低价市场，已扩展至25个市场，选品增长400%。但月度使用率仅16%，远落后于Temu的28%。进展不及预期。
+Amazon launched Haul specifically to compete with Temu's low-price market. It has expanded to 25 markets, with selection up 400%. But monthly usage is only 16%, far behind Temu's 28%. Progress has fallen short of expectations.
 
-### 反直觉发现
+### A counterintuitive finding
 
-**Prime会员比非会员更爱在Temu购物**——两个平台更多是互补而非替代。消费者把Amazon当"需要快速收到的品质商品"，把Temu当"不急用的便宜好物"。
-
----
-
-## 四、四大结构性差距
-
-### 1. 利润引擎：AWS让Amazon立于不败之地
-
-AWS年收入$1,287亿，增速20%+，营业利润率30%+。这意味着即使Amazon电商业务完全不赚钱，AWS的利润就足以支撑整个公司。PDD没有类似的第二曲线——Temu的利润前景完全取决于电商本身。
-
-### 2. 用户粘性：Prime的生态锁定 vs Temu的价格驱动
-
-2亿美国Prime会员每年支付$139-$180会员费，获得免运费+Prime Video+Music等服务。这创造了极强的转换成本。Temu的用户留存完全靠低价——一旦价格优势消失（关税），用户立即流失（DAU暴跌58%）。
-
-### 3. 物流基建：100倍的差距
-
-Amazon 1,200+履约中心实现1-2天达，Temu 13个自营仓只能做到5-10天。这个差距需要数百亿美元和5-10年时间才能缩小。
-
-### 4. 广告变现：$680亿 vs 刚起步
-
-Amazon是全球第三大数字广告平台，广告业务边际成本接近零，是纯利润。Temu的广告生态尚未建立——而这恰恰是Temu未来利润的最大变量。
+**Prime members are more likely to shop on Temu than non-members** — the two platforms are more complementary than substitutive. Consumers treat Amazon as "quality goods I need quickly" and Temu as "cheap stuff that isn't urgent."
 
 ---
 
-## 五、10年后预测（2036年）
+## IV. Four structural gaps
 
-### 中性情景对比
+### 1. Profit engine: AWS makes Amazon nearly unbeatable
 
-| 指标 | Amazon 2036 | PDD 2036 | 差距倍数 |
+AWS generates $128.7B in annual revenue, growing 20%+, with a 30%+ operating margin. That means even if Amazon's e-commerce business made zero profit, AWS alone would be enough to support the entire company. PDD has no comparable second curve — Temu's profit outlook depends entirely on the e-commerce business itself.
+
+### 2. User stickiness: Prime's ecosystem lock-in vs. Temu's price-driven loyalty
+
+200 million US Prime members pay $139-$180 in annual membership fees, in exchange for free shipping plus Prime Video, Music, and other services. This creates extremely high switching costs. Temu's user retention rests entirely on low prices — once the price advantage disappears (as with tariffs), users leave immediately (DAU plunged 58%).
+
+### 3. Logistics infrastructure: a 100x gap
+
+Amazon's 1,200+ fulfillment centers achieve 1-2 day delivery; Temu's 13 self-operated warehouses can only manage 5-10 days. Closing this gap would take tens of billions of dollars and 5-10 years.
+
+### 4. Ad monetization: $68B vs. just getting started
+
+Amazon is the world's third-largest digital advertising platform, with advertising's marginal cost near zero — it's pure profit. Temu's advertising ecosystem hasn't been built yet, and this is precisely the biggest variable for Temu's future profitability.
+
+---
+
+## V. A 10-year forecast (2036)
+
+### Base-case comparison
+
+| Metric | Amazon 2036 | PDD 2036 | Gap multiple |
 |------|------------|---------|---------|
-| 总营收 | **1.8万亿美元** | 1,100亿美元 | **16.4倍**（从12.8倍扩大） |
-| 净利润 | **1,800亿美元** | 190亿美元 | **9.5倍**（从5.7倍扩大） |
-| 其中AWS | 1,600亿利润 | — | Amazon独有 |
-| 其中广告 | 1,300亿利润 | — | Amazon独有 |
-| 市值（估） | ~5-6万亿 | ~3,000-4,000亿 | ~15倍 |
+| Total revenue | **$1.8T** | $110B | **16.4x** (widening from 12.8x) |
+| Net income | **$180B** | $19B | **9.5x** (widening from 5.7x) |
+| Of which AWS | $160B profit | — | Amazon-only |
+| Of which advertising | $130B profit | — | Amazon-only |
+| Market cap (est.) | ~$5-6T | ~$300-400B | ~15x |
 
-### 差距为什么会扩大？
+### Why would the gap widen?
 
-Amazon有三个超级增长引擎同时运转：
-1. **AWS**：AI时代最大受益者，云市场2030年预计$2万亿
-2. **广告**：电商广告仍在渗透早期
-3. **国际电商**：在全球多个市场持续扩张
+Amazon has three super-growth engines running simultaneously:
+1. **AWS**: the biggest beneficiary of the AI era, with the cloud market projected to reach $2T by 2030
+2. **Advertising**: e-commerce advertising is still in its early penetration phase
+3. **International e-commerce**: continued expansion across multiple global markets
 
-PDD只有Temu一个高增长引擎，且受关税和地缘政治严重制约。
+PDD has only one high-growth engine — Temu — and it's severely constrained by tariffs and geopolitics.
 
-### 但投资回报率PDD可能略高
+### But PDD's return on investment may be somewhat higher
 
-| 指标 | Amazon | PDD |
+| Metric | Amazon | PDD |
 |------|--------|-----|
-| 当前PE | 32x | **10x** |
-| 概率加权年化回报 | 3.6% | **4.3%** |
-| 乐观情景年化 | 8.2% | **12.6%** |
-| 悲观情景年化 | 0.5% | **-7.4%** |
+| Current P/E | 32x | **10x** |
+| Probability-weighted annualized return | 3.6% | **4.3%** |
+| Optimistic-scenario annualized return | 8.2% | **12.6%** |
+| Pessimistic-scenario annualized return | 0.5% | **-7.4%** |
 
-**PDD的期望回报略高，但方差远大于Amazon。** 原因很简单：PE 10x vs 32x——你用更便宜的价格买入，即使公司增速更慢，回报率也可能更高。但PDD悲观情景的下行风险（年化-7.4%）远大于Amazon（年化+0.5%）。
+**PDD's expected return is somewhat higher, but its variance is far greater than Amazon's.** The reason is simple: P/E of 10x vs. 32x — you're buying at a much cheaper price, so even with slower growth, the return can still be higher. But PDD's downside in the pessimistic scenario (-7.4% annualized) is far worse than Amazon's (+0.5% annualized).
 
 ---
 
-## 六、投资启示
+## VI. Investment implications
 
-### Amazon是更好的生意，PDD可能是更好的赌注
+### Amazon is the better business; PDD may be the better bet
 
-| 维度 | Amazon | PDD |
+| Dimension | Amazon | PDD |
 |------|--------|-----|
-| 生意质量 | **极高**（多引擎+AWS护城河） | 中（主站强，Temu不确定） |
-| 确定性 | **高**（AWS+广告增长可见） | 低（关税/地缘政治不可控） |
-| 估值 | 贵（PE 32x） | **便宜（PE 10x）** |
-| 下行保护 | 强（AWS兜底） | 中（主站+现金兜底，但不分红） |
-| 上行弹性 | 中（体量大增速放缓） | **高（Temu成功+新拼姆=翻倍空间）** |
+| Quality of business | **Extremely high** (multi-engine + AWS moat) | Medium (main platform strong, Temu uncertain) |
+| Certainty | **High** (AWS + advertising growth is visible) | Low (tariffs/geopolitics are uncontrollable) |
+| Valuation | Expensive (P/E 32x) | **Cheap (P/E 10x)** |
+| Downside protection | Strong (AWS as a backstop) | Medium (main platform + cash as a backstop, but no dividend) |
+| Upside optionality | Medium (large scale, growth slowing) | **High (Temu success + Duoduo Premium = potential to double)** |
 
-### 如果只能选一个？
+### If you could only pick one?
 
-取决于你的风险偏好：
-- **追求确定性**：Amazon — 10年后大概率仍是全球最有价值的公司之一
-- **追求高回报**：PDD — PE 10x + Temu期权 + 新拼姆期权，赔率更好但方差大
-- **两者之间的最优解**：研究团队的结论是——**腾讯可能是更好的选择**（确定性高于PDD、增速高于Amazon、估值在两者之间）
-
----
-
-### 数据置信度声明
-
-Amazon财务数据来自公开年报，置信度高。Temu数据拼多多从未单独披露，来自券商估算和第三方平台，置信度中等。10年预测基于当前趋势外推，实际结果可能大幅偏离。
+It depends on your risk appetite:
+- **Seeking certainty**: Amazon — 10 years from now it will most likely still be one of the world's most valuable companies
+- **Seeking high return**: PDD — P/E of 10x plus a Temu option plus a Duoduo Premium option; better odds but higher variance
+- **The optimal middle ground**: the research team's conclusion is — **Tencent may be the better choice** (more certainty than PDD, faster growth than Amazon, valuation between the two)
 
 ---
 
-*数据来源：Amazon FY2025年报、PDD FY2025年报、高盛、eMarketer、Digital Commerce 360、Yahoo Finance等*
+### Data confidence disclosure
+
+Amazon's financial data comes from public annual reports, with high confidence. Temu's data has never been separately disclosed by PDD; it comes from brokerage estimates and third-party platforms, with medium confidence. The 10-year forecast is extrapolated from current trends, and actual results may deviate substantially.
+
+---
+
+*Data sources: Amazon FY2025 annual report, PDD FY2025 annual report, Goldman Sachs, eMarketer, Digital Commerce 360, Yahoo Finance, and others*
