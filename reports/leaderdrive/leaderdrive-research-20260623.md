@@ -1,41 +1,42 @@
-# 绿的谐波（688017.SH）四大师综合投资研究报告
+# Leaderdrive (688017.SH) Four-Master Comprehensive Investment Research Report
 
-**研究日期**：2026年6月23日
-**股价**：~330元 | **市值**：~605亿元 | **总股本**：1.8333亿股
-**52周区间**：波动剧烈 | **2025年净利润**：1.24亿元
+**Research date**: June 23, 2026
+**Share price**: ~330 yuan | **Market cap**: ~60.5 billion yuan | **Total shares**: 183.33 million
 
----
-
-## 信息丰富度评级：B级（信息适中）
-
-绿的谐波是科创板上市公司，7家券商覆盖（2买入+5增持），信息量适中但以概念炒作叙事为主。核心风险在于市场共识过于乐观——"人形机器人"叙事主导定价，基本面数据反而被忽视。
-
-**AI研究局限性声明**：
-- 人形机器人需求预测高度不确定，各来源差异大（2027年需求600万台 vs 实际可能远低于此）
-- 与哈默纳科的技术差距评估主要来自国内媒体/券商，可能存在乐观偏差
-- 产能利用率、客户集中度等细节数据披露不充分
-- 当前股价波动极大（380-600亿市值区间），估值判断对取价时点高度敏感
+**52-week range**: highly volatile | **2025 net profit**: 124 million yuan
 
 ---
 
-## 一、生意本质分析 — 段永平"对的生意"
+## Information richness rating: Grade B (moderate)
 
-### 用一句话定义这门生意
+Leaderdrive is listed on the STAR Market, covered by 7 brokerages (2 buy, 5 add), with moderate information availability but dominated by concept-driven narratives. The core risk is that market consensus has become excessively optimistic — the "humanoid robot" narrative is driving the valuation while the underlying fundamentals are being overlooked.
 
-**绿的谐波是中国唯一实现谐波减速器全产业链自主的精密制造商，为工业机器人和人形机器人提供核心关节部件。**
+**AI research limitations disclosure**:
+- Demand forecasts for humanoid robots are highly uncertain and vary widely across sources (6 million units of demand by 2027 vs. an actual figure that could be far lower)
+- Assessments of the technology gap with Harmonic Drive Systems come mainly from domestic media/brokerage research and may carry an optimistic bias
+- Disclosure of details such as capacity utilization and customer concentration is incomplete
+- The current share price is extremely volatile (market cap ranging from 38 to 60 billion yuan), so valuation judgments are highly sensitive to the point in time at which the price is taken
 
-### 收入结构（2025年）
+---
 
-| 产品 | 收入（万元） | 占比 | 同比增速 | 毛利率 |
+## Section One: Business Fundamentals — Duan Yongping's "the right business"
+
+### Defining this business in one sentence
+
+**Leaderdrive is China's only precision manufacturer to have achieved full self-sufficiency across the entire harmonic reducer supply chain, supplying core joint components for industrial robots and humanoid robots.**
+
+### Revenue structure (2025)
+
+| Product | Revenue (RMB 10k) | Share | YoY growth | Gross margin |
 |------|------------|------|---------|--------|
-| 谐波减速器及金属件 | 47,649 | 83.4% | +46.4% | 36.8% |
-| 机电一体化产品 | 7,430 | 13.0% | +41.3% | 40.9% |
-| 智能自动化装备 | 1,489 | 2.6% | +221.4% | 11.5% |
-| **合计** | **57,100** | **100%** | **+47.3%** | **36.9%** |
+| Harmonic reducers and metal components | 47,649 | 83.4% | +46.4% | 36.8% |
+| Mechatronic products | 7,430 | 13.0% | +41.3% | 40.9% |
+| Intelligent automation equipment | 1,489 | 2.6% | +221.4% | 11.5% |
+| **Total** | **57,100** | **100%** | **+47.3%** | **36.9%** |
 
-### 5年盈利能力趋势
+### 5-year profitability trend
 
-| 年份 | 营收（亿元） | 同比 | 净利润（亿元） | 同比 | 毛利率 | ROE |
+| Year | Revenue (RMB 100m) | YoY | Net profit (RMB 100m) | YoY | Gross margin | ROE |
 |------|------------|------|-------------|------|--------|-----|
 | 2020 | 2.17 | +16% | 0.82 | +40% | ~50% | — |
 | 2021 | 4.43 | +105% | 1.89 | +131% | ~53% | 5.5% |
@@ -44,338 +45,338 @@
 | 2024 | 3.87 | +9% | 0.56 | -33% | ~37% | 1.6% |
 | **2025** | **5.71** | **+47%** | **1.24** | **+121%** | **36.9%** | **4.2%** |
 
-**关键趋势**：
-- **收入**：2021年爆发（+105%）→2022-2023年行业下行→2024年缓慢复苏→2025年强劲反弹
-- **毛利率**：从53%持续下滑至37%，连续4年下行，价格战侵蚀严重
-- **净利润**：2021年高点1.89亿→2024年低点0.56亿→2025年回升至1.24亿，但仍未回到2021年水平
-- **ROE极低**：1.6%-5.5%，IPO+定增导致净资产基数庞大（约35亿），资金使用效率差
+**Key trends**:
+- **Revenue**: an explosive 2021 (+105%) → industry downturn in 2022-2023 → a slow recovery in 2024 → a strong rebound in 2025
+- **Gross margin**: a sustained slide from 53% down to 37%, four straight years of decline, with severe erosion from price competition
+- **Net profit**: a 2021 peak of 189 million yuan → a 2024 trough of 56 million yuan → a 2025 recovery to 124 million yuan, still below the 2021 level
+- **Extremely low ROE**: 1.6%-5.5%. The IPO and follow-on offerings inflated the net-asset base (roughly 3.5 billion yuan), leaving capital-use efficiency poor
 
-### 商业模式画布
+### Business model canvas
 
-| 维度 | 绿的谐波 | 评价 |
+| Dimension | Leaderdrive | Assessment |
 |------|---------|------|
-| 收入模式 | 硬件一次性销售（减速器单价~1,128元/台） | 无订阅/复购属性 |
-| 产品形态 | 精密机械零部件 | 典型B2B工业品 |
-| 客户粘性 | 中强（验证周期6-12月，但非不可替代） | 有转换成本但非锁定 |
-| 下游分布 | 多关节机器人36%、协作机器人32%、数控机床8% | 高度依赖机器人行业景气度 |
-| 定价权 | 弱化中（单价一年降15%，毛利率连降4年） | 国产替代完成后开始内卷 |
+| Revenue model | One-time hardware sales (reducer unit price ~1,128 yuan/unit) | No subscription/repeat-purchase characteristics |
+| Product form | Precision mechanical components | Classic B2B industrial goods |
+| Customer stickiness | Moderate-to-strong (6-12 month qualification cycle, but not irreplaceable) | Switching costs exist but customers are not locked in |
+| Downstream distribution | Multi-joint robots 36%, collaborative robots 32%, CNC machine tools 8% | Highly dependent on the robotics industry cycle |
+| Pricing power | Weakening (unit price down 15% in a year, gross margin declining for 4 straight years) | Domestic substitution has been completed and internal price competition has begun |
 
-### 段永平式追问：这门生意好在哪？
+### Duan Yongping-style questioning: what's good about this business?
 
-**好的一面**：谐波减速器是机器人的"关节"，是不可或缺的核心部件，技术门槛真实存在（P型齿廓、交叉滚子轴承等）。绿的谐波是中国唯一实现全产业链自主的企业，在国产替代浪潮中占据龙头地位。
+**The good side**: harmonic reducers are the "joints" of robots, an indispensable core component, and the technical barriers are real (P-tooth profile, cross roller bearings, etc.). Leaderdrive is the only Chinese company to have achieved full supply-chain self-sufficiency and holds a leading position in the wave of domestic substitution.
 
-**不好的一面**：
-1. **毛利率连降4年**（53%→37%），说明"国产替代"红利正在消退，进入国产厂商之间的价格战阶段
-2. **ROE极低**（1.6%-4.2%），说明大量融资的钱没有高效运转——IPO+定增募了几十亿，净利润只有1亿多
-3. **周期性强**——2023年收入下降20%、利润暴跌46%，说明这不是一门"旱涝保收"的生意
-4. **单价持续下行**（~1,320元→~1,128元，降幅15%），与段永平最看重的"定价权"背道而驰
+**The bad side**:
+1. **Gross margin has fallen for 4 straight years** (53% → 37%), indicating the "domestic substitution" dividend is fading and the industry is entering a price war among domestic manufacturers
+2. **ROE is extremely low** (1.6%-4.2%), meaning the large sums raised through financing are not being put to efficient use — the IPO and follow-on offerings raised billions of yuan, yet net profit is only just over 100 million yuan
+3. **Strongly cyclical** — in 2023 revenue fell 20% and profit collapsed 46%, showing this is not a "rain or shine" business
+4. **Unit prices keep falling** (from ~1,320 yuan to ~1,128 yuan, a 15% decline), running directly counter to the "pricing power" Duan Yongping values most highly
 
-**如果只能用一句话**：绿的谐波是一门"好赛道、好技术、差商业模型"的生意——产品重要但不稀缺，技术领先但在被追赶，定价权在丧失而非增强。
+**If it had to be summed up in one sentence**: Leaderdrive is a business with "a good track, good technology, but a mediocre business model" — its product is important but not scarce, its technology is leading but being chased, and its pricing power is eroding rather than strengthening.
 
-**评分：★★★（3/5）— 技术含量真实但商业模式不够好，毛利率下行趋势令人担忧**
+**Rating: ★★★ (3/5) — the technical content is real, but the business model is not good enough, and the declining gross-margin trend is concerning**
 
 ---
 
-## 二、护城河评估 — 巴菲特"经济护城河"
+## Section Two: Moat Assessment — Buffett's "economic moat"
 
-| 护城河类型 | 验证 | 评分 |
+| Moat type | Verification | Rating |
 |-----------|------|------|
-| 品牌/定价权 | ❌ 单价一年降15%，毛利率连降4年，明确缺乏定价权 | ★ |
-| 转换成本 | ⚠️ 验证周期6-12月提供一定粘性，但多家国产厂商已通过验证 | ★★★ |
-| 网络效应 | ❌ 不存在 | — |
-| 规模效应 | ⚠️ 全球产能排名第三（12%），但利用率不足50% | ★★ |
-| 技术/专利壁垒 | ✅ P型齿廓、交叉滚子轴承自研，204件专利，国内唯一全链路自主 | ★★★★ |
+| Brand/pricing power | ❌ Unit price down 15% in a year, gross margin down for four straight years — a clear absence of pricing power | ★ |
+| Switching costs | ⚠️ The 6-12 month qualification cycle provides some stickiness, but many domestic manufacturers have already passed qualification | ★★★ |
+| Network effects | ❌ None | — |
+| Scale effects | ⚠️ Third-largest global capacity (12% share), but utilization below 50% | ★★ |
+| Technology/patent barriers | ✅ Self-developed P-tooth profile and cross roller bearings, 204 patents, the only company domestically with full supply-chain self-sufficiency | ★★★★ |
 
-### 技术壁垒深度解析
+### Deep dive into the technology barrier
 
-绿的谐波的技术壁垒是其最核心的资产：
+Leaderdrive's technology barrier is its most important asset:
 
-**与哈默纳科对比**：
+**Comparison with Harmonic Drive Systems**:
 
-| 维度 | 绿的谐波 | 哈默纳科 | 判断 |
+| Dimension | Leaderdrive | Harmonic Drive Systems | Verdict |
 |------|---------|---------|------|
-| 传动精度 | 1 arc min | 1 arc min | 持平 |
-| 空程(回差) | <30 arc sec | 60 arc sec | **绿的优** |
-| 设计寿命 | 15,000h | 10,000h | **绿的优** |
-| 精度保持性 | 有差距 | 优 | 哈默优 |
-| 噪音控制 | 有差距 | 优 | 哈默优 |
-| 售价 | 1,100-2,000元 | 3,000-4,000元 | **绿的优（约50%折价）** |
-| 产品谱系 | 不完整 | 齐全 | 哈默优 |
+| Transmission accuracy | 1 arc min | 1 arc min | Tied |
+| Backlash (hysteresis) | <30 arc sec | 60 arc sec | **Leaderdrive better** |
+| Design lifespan | 15,000h | 10,000h | **Leaderdrive better** |
+| Accuracy retention | Gap remains | Superior | Harmonic better |
+| Noise control | Gap remains | Superior | Harmonic better |
+| Selling price | 1,100-2,000 yuan | 3,000-4,000 yuan | **Leaderdrive better (roughly 50% discount)** |
+| Product lineup | Incomplete | Full range | Harmonic better |
 
-**核心判断**：绿的谐波在主要参数上已追平甚至超越哈默纳科，但在精度保持性和噪音控制等"使用体验"维度仍有差距。价格约为哈默纳科的50%是其最大竞争武器——但这同时也意味着"以价换量"，牺牲利润率换市场份额。
+**Core judgment**: Leaderdrive has caught up with or even surpassed Harmonic Drive Systems on key parameters, but still lags on "usage experience" dimensions such as accuracy retention and noise control. A price roughly 50% of Harmonic's is its biggest competitive weapon — but that also means "trading price for volume," sacrificing margin for market share.
 
-### 护城河趋势
+### Moat trend
 
-**过去5年**：**变窄**。技术壁垒本身没有削弱，但竞争格局在恶化——来福谐波、大族精密、双环传动等国产对手快速追赶，谐波减速器国产化率从39%飙升至75%。国产替代的"共同敌人"（哈默纳科）被打败后，国产厂商开始相互厮杀。毛利率从53%降至37%就是护城河变窄的直接证据。
+**Past 5 years**: **narrowing**. The technical barrier itself has not weakened, but the competitive landscape has deteriorated — domestic rivals such as Laifual, Zhenit, and Shuanghuan Transmission are rapidly catching up, and the domestic-substitution rate for harmonic reducers has jumped from 39% to 75%. With the "common enemy" (Harmonic Drive Systems) defeated, domestic manufacturers have started fighting each other. The drop in gross margin from 53% to 37% is direct evidence of the narrowing moat.
 
-**未来5年**：**取决于人形机器人**。如果人形机器人需求爆发，谐波减速器出现供不应求，绿的谐波作为产能最大的国产厂商会受益，护城河可能暂时变宽。但如果需求不及预期，产能过剩（全球利用率已不足50%）将加剧价格战，护城河进一步变窄。
+**Next 5 years**: **depends on humanoid robots**. If humanoid robot demand explodes and harmonic reducers fall into short supply, Leaderdrive, as the domestic manufacturer with the largest capacity, would benefit and its moat could temporarily widen. But if demand falls short, overcapacity (global utilization is already below 50%) would intensify the price war and narrow the moat further.
 
-**巴菲特式追问**：10年后这条护城河还在吗？
+**Buffett-style questioning: will this moat still be there in 10 years?**
 
-技术壁垒大概率还在——精密制造的know-how不容易被彻底复制。但定价权可能进一步丧失。谐波减速器可能走上"液晶面板"的老路：中国企业通过技术突破+价格战击败日本对手，然后在国产厂商之间继续内卷，最终所有人都不赚钱。
+The technical barrier will most likely still be there — precision-manufacturing know-how is not easily fully replicated. But pricing power may erode further. Harmonic reducers could follow the old path of "LCD panels": Chinese companies achieve a technological breakthrough, defeat Japanese rivals through a price war, and then continue to grind each other down among domestic manufacturers until, ultimately, nobody makes money.
 
-**评分：★★★（3/5）— 技术壁垒真实但在缩窄，定价权持续丧失是最大隐忧**
+**Rating: ★★★ (3/5) — the technical barrier is real but narrowing, and the ongoing loss of pricing power is the biggest concern**
 
 ---
 
-## 三、逆向思考与风险清单 — 芒格"反过来想"
+## Section Three: Inversion and Risk Checklist — Munger's "invert, always invert"
 
-### 失败路径
+### Failure paths
 
-| 风险路径 | 概率 | 影响 | 说明 |
+| Risk path | Probability | Impact | Notes |
 |---------|------|------|------|
-| 人形机器人放量远不及预期 | **高** | **极高** | 当前估值的核心支撑。特斯拉Optimus量产时间表一再推迟 |
-| 毛利率继续下滑至30%以下 | **中高** | **高** | 单价一年降15%，国产对手持续追赶 |
-| 产能过剩导致行业性亏损 | **中** | **高** | 全球产能利用率已不足50%，绿的自身扩至159万台 |
-| 技术路线变化（行星减速器替代） | **中低** | **极高** | 人形机器人可能采用不同的减速方案 |
-| 大客户流失 | **中** | **中高** | 第一大客户优傲占比13%，前五大客户变动较大 |
-| 哈默纳科大幅降价反击 | **中** | **高** | 哈默产能从130万扩至260万台，有降价空间 |
+| Humanoid robot volumes come in far below expectations | **High** | **Very high** | This is the core support for the current valuation. Tesla's Optimus production timeline keeps slipping |
+| Gross margin keeps sliding below 30% | **Medium-high** | **High** | Unit prices down 15% in a year, domestic rivals keep catching up |
+| Overcapacity causes an industry-wide loss | **Medium** | **High** | Global capacity utilization is already below 50%, while Leaderdrive itself is expanding capacity to 1.59 million units |
+| A technology-route shift (planetary reducers replacing harmonic) | **Medium-low** | **Very high** | Humanoid robots might adopt a different reduction-gear scheme |
+| Loss of a major customer | **Medium-high** | **Medium-high** | Top customer Universal Robots accounts for 13% of sales; the top-five customer list has shown significant turnover |
+| Harmonic Drive Systems fights back with steep price cuts | **Medium** | **High** | Harmonic is expanding capacity from 1.3 million to 2.6 million units and has room to cut prices |
 
-### 历史类比
+### Historical analogy
 
-绿的谐波让人想起**2015-2018年的京东方（BOE）**——同样是在国产替代叙事下，技术突破后获得巨大市场关注。但京东方的教训是：即使技术追上了，面板行业最终变成了"谁都不赚钱"的苦生意，ROE长期低于5%。绿的谐波ROE已经只有1.6%-4.2%，毛利率连降4年，轨迹令人不安。
+Leaderdrive is reminiscent of **BOE Technology Group from 2015-2018** — also a case of a domestic-substitution narrative drawing enormous market attention after a technological breakthrough. But BOE's lesson was: even after catching up technologically, the panel industry ultimately became a business where "nobody makes money," with ROE staying below 5% for years. Leaderdrive's ROE is already only 1.6%-4.2%, its gross margin has fallen for four straight years, and the trajectory is unsettling.
 
-**更乐观的类比**是**宁德时代早期**——同样是中国制造商在核心零部件领域击败日本对手，最终凭借规模效应建立了持久的竞争优势。但宁德时代的毛利率在扩张期维持在25-30%，而绿的谐波的37%正在快速向这个区间靠拢——且收入规模（5.7亿）与宁德时代不可同日而语。
+A **more optimistic analogy** is **CATL in its early days** — also a case of a Chinese manufacturer defeating Japanese rivals in a core-component field and ultimately building a durable competitive advantage through scale effects. But CATL's gross margin held at 25-30% during its expansion phase, while Leaderdrive's 37% is rapidly converging toward that range — and its revenue scale (570 million yuan) is not remotely comparable to CATL's.
 
-### 芒格式追问：聪明人为什么不买？
+### Munger-style questioning: why wouldn't smart people buy this?
 
-1. **PE 485倍**——即使2025年利润翻倍至2.5亿，PE仍高达242倍。要让估值合理化（PE降至50倍），净利润需要达到12亿——是当前的10倍。这意味着你在赌一个极度乐观的未来
-2. **7家券商均价目标价238元**——当前330元已超出卖方目标价39%。连最乐观的分析师都认为股价过高
-3. **毛利率下行**——市场在讲"量的爆发"故事，但忽视了"价的崩塌"。即使出货量翻3倍，如果单价再降30%+毛利率降至25%，利润增长可能远不及预期
-4. **ROE 4.2%**——净资产35亿只赚1.24亿，资本效率极差。市场给了605亿市值，说明价格完全脱离了资本回报的锚
-5. **实控人首次减持**——上市6年后兄弟二人同时首次减持3%，信号值得重视
+1. **PE of 485x** — even if 2025 profit doubles to 250 million yuan, the PE would still be as high as 242x. For the valuation to become reasonable (a PE of 50x), net profit would need to reach 1.2 billion yuan — ten times the current level. That means you're betting on an extremely optimistic future
+2. **Seven brokerages' average target price is 238 yuan** — the current 330 yuan is already 39% above the sell-side target. Even the most optimistic analysts think the share price is too high
+3. **Gross margin declining** — the market is telling a "volume explosion" story, but is ignoring the "price collapse." Even if shipment volume triples, if unit prices fall another 30%+ and gross margin drops to 25%, profit growth could fall well short of expectations
+4. **ROE of 4.2%** — net assets of 3.5 billion yuan generate only 124 million yuan in profit, an extremely poor capital efficiency. The market has assigned a 60.5 billion yuan valuation, meaning the price has completely detached from the anchor of capital returns
+5. **First-ever insider selling by controlling shareholders** — six years after listing, the two brothers simultaneously sold down 3% of their stake for the first time, a signal worth taking seriously
 
-**评分：★★（2/5）— 风险/回报严重失衡，多个高概率风险路径**
+**Rating: ★★ (2/5) — risk/reward is severely imbalanced, with multiple high-probability risk paths**
 
 ---
 
-## 四、管理层评估 — 段永平"对的人"
+## Section Four: Management Assessment — Duan Yongping's "the right people"
 
-### 左昱昱（董事长）& 左晶（副董事长）
+### Zuo Yuyu (Chairman) & Zuo Jing (Vice Chairman)
 
-| 维度 | 评价 | 评分 |
+| Dimension | Assessment | Rating |
 |------|------|------|
-| 技术能力 | 2003年从精密加工转型自主研发谐波减速器，突破日本垄断，技术直觉和坚持值得尊重 | ★★★★ |
-| 战略眼光 | 选对了赛道，在国产替代窗口期建立了领先地位 | ★★★★ |
-| 资本配置 | IPO+定增募资数十亿，ROE仅1.6%-4.2%，大量资金配置低收益资产，效率差 | ★★ |
-| 股东利益一致性 | 兄弟合计持股37.6%，利益绑定较深；但2025年首次减持3%是负面信号 | ★★★ |
-| 诚信度 | 无重大负面记录 | ★★★★ |
+| Technical ability | Transitioned from precision machining in 2003 to independently develop harmonic reducers, breaking the Japanese monopoly; technical intuition and persistence deserve respect | ★★★★ |
+| Strategic vision | Chose the right track and built a leading position during the domestic-substitution window | ★★★★ |
+| Capital allocation | Raised billions through IPO and follow-on offerings, yet ROE is only 1.6%-4.2%; a large amount of capital sits in low-return assets, poor efficiency | ★★ |
+| Alignment with shareholders | The brothers together hold 37.6%, a fairly deep alignment of interests; but the first-ever 3% sale in 2025 is a negative signal | ★★★ |
+| Integrity | No major negative record | ★★★★ |
 
-### 关键决策复盘
+### Review of key decisions
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Outcome | Rating |
 |------|------|------|------|
-| 2003年 | 从精密加工转型研发谐波减速器 | 正确。抓住国产替代历史机遇 | ★★★★★ |
-| 2020年 | 科创板上市 | 正确。获得资金和品牌背书 | ★★★★ |
-| 2024年 | 收购德国Haux | 待验证。垂直整合方向对，但协同效应尚未显现 | ★★★ |
-| 2024-2025年 | 定增20亿扩产 | 方向正确但时机值得商榷——在产能利用率不足50%时大幅扩产 | ★★★ |
-| 2025年 | 首次减持3% | 负面信号。"自身资金需求"的解释缺乏说服力 | ★★ |
+| 2003 | Pivoted from precision machining to develop harmonic reducers | Correct. Seized a historic domestic-substitution opportunity | ★★★★★ |
+| 2020 | Listed on the STAR Market | Correct. Gained capital and brand endorsement | ★★★★ |
+| 2024 | Acquired Germany's Haux | Yet to be verified. The direction toward vertical integration is right, but synergies have not yet materialized | ★★★ |
+| 2024-2025 | Raised 2 billion yuan via follow-on offering to expand capacity | Direction correct but timing questionable — expanding heavily while capacity utilization is below 50% | ★★★ |
+| 2025 | First-ever 3% stake sale | Negative signal. The explanation of "personal capital needs" is unconvincing | ★★ |
 
-### 段永平式追问：如果CEO退休，这家公司还能保持竞争力吗？
+### Duan Yongping-style questioning: if the CEO retired, could this company retain its competitive edge?
 
-**大概率可以**。谐波减速器的竞争力来自技术积累和制造工艺，而非创始人个人魅力。左氏兄弟建立了技术团队和生产体系，这些组织能力可以传承。但战略方向（如人形机器人布局的timing和力度）可能会因管理层更替而出现偏差。
+**Most likely, yes**. The company's competitiveness comes from accumulated technology and manufacturing know-how rather than the founder's personal charisma. The Zuo brothers have built a technical team and a production system, and this organizational capability can be passed on. But strategic direction (such as the timing and intensity of the humanoid-robot push) could drift with a change in management.
 
-**评分：★★★（3/5）— 技术创业者值得尊重，但资本配置效率差、首次减持是瑕疵**
+**Rating: ★★★ (3/5) — the technical entrepreneurs deserve respect, but poor capital-allocation efficiency and the first-ever stake sale are blemishes**
 
 ---
 
-## 五、行业与文明趋势 — 李录"文明演进框架"
+## Section Five: Industry and Civilizational Trends — Li Lu's "framework of civilizational evolution"
 
-### 谐波减速器所处的文明趋势
+### The civilizational trends harmonic reducers sit within
 
-谐波减速器处于两个重叠的文明级趋势交汇点：
+Harmonic reducers sit at the intersection of two overlapping civilization-scale trends:
 
-1. **工业自动化**（进行中）：全球工业机器人密度持续提升，中国从2015年的49台/万人上升至2023年的392台/万人，仍有翻倍空间
-2. **人形机器人**（潜在）：如果实现，是"蒸汽机级别"的范式转移。但当前处于极早期
+1. **Industrial automation** (already underway): global industrial-robot density continues to rise, and in China it climbed from 49 units per 10,000 workers in 2015 to 392 units per 10,000 workers in 2023, with room to double again
+2. **Humanoid robots** (potential): if realized, this would be a "steam-engine-scale" paradigm shift. But it is currently at a very early stage
 
-### TAM分析
+### TAM analysis
 
-| 市场 | 2024年规模 | 预测 | CAGR |
+| Market | 2024 size | Forecast | CAGR |
 |------|-----------|------|------|
-| 全球谐波减速器 | ~5亿美元 | 2032年29亿美元 | 29.5% |
-| 中国谐波减速器 | ~51.5亿元 | 持续增长 | ~28% |
-| 含人形机器人的潜在市场 | — | 2025年147.5亿元 | — |
-| 人形机器人对谐波需求 | ~0 | 2027年600万台（乐观预测） | — |
+| Global harmonic reducers | ~$500 million | $2.9 billion by 2032 | 29.5% |
+| China harmonic reducers | ~5.15 billion yuan | Continued growth | ~28% |
+| Potential market including humanoid robots | — | 14.75 billion yuan in 2025 | — |
+| Humanoid-robot demand for harmonic reducers | ~0 | 6 million units by 2027 (optimistic forecast) | — |
 
-### 绿的谐波在产业链中的位置
+### Leaderdrive's position in the value chain
 
 ```
-原材料 → 精密加工 → 谐波减速器 → 机器人整机 → 终端应用
+Raw materials → Precision machining → Harmonic reducer → Complete robot → End application
                     ↑
-               绿的谐波（核心零部件供应商）
+               Leaderdrive (core component supplier)
 ```
 
-绿的谐波处于产业链的**核心零部件环节**——与川润股份（辅助设备）不同，谐波减速器是机器人成本的重要组成部分（约占人形机器人成本30%），在价值链中有较高的战略地位。
+Leaderdrive occupies the **core-component segment** of the value chain — unlike Chuanrun Co. (auxiliary equipment), harmonic reducers are a significant share of a robot's cost (roughly 30% of a humanoid robot's cost), giving the company a relatively strong strategic position in the value chain.
 
-但这个位置也意味着：下游（机器人厂商）的议价能力在增强——随着国产替代完成和供应商增多，下游有更多选择，压价动力强劲。
+But this position also means: downstream (robot manufacturers) bargaining power is strengthening — as domestic substitution is completed and the number of suppliers grows, downstream buyers have more choices and a strong incentive to push prices down.
 
-### 人形机器人的不确定性
+### Uncertainty around humanoid robots
 
-| 乐观情景 | 悲观情景 |
+| Optimistic scenario | Pessimistic scenario |
 |---------|---------|
-| 特斯拉Optimus 2027年量产10万台+ | 量产一再推迟，2030年前不超过1万台 |
-| 多家厂商跟进，2030年全球100万台+ | 技术瓶颈导致商业化失败 |
-| 谐波减速器供不应求，绿的谐波产能利用率100%+ | 行星减速器等替代方案崛起 |
-| 绿的谐波收入20亿+、利润5亿+ | 绿的谐波收入仍在10亿以下 |
+| Tesla's Optimus reaches mass production of 100,000+ units by 2027 | Mass production keeps slipping, staying under 10,000 units before 2030 |
+| Multiple manufacturers follow, reaching 1,000,000+ units globally by 2030 | Technical bottlenecks derail commercialization |
+| Harmonic reducers fall into short supply, Leaderdrive's capacity utilization hits 100%+ | Alternative solutions such as planetary reducers rise |
+| Leaderdrive revenue of 2 billion+ yuan, profit of 500 million+ yuan | Leaderdrive revenue stays below 1 billion yuan |
 
-**核心判断**：人形机器人是一个**真实但时间高度不确定**的机会。2027年600万台的需求预测大概率过于乐观——特斯拉在制造和成本控制方面很强，但人形机器人的应用场景验证还远未完成。
+**Core judgment**: humanoid robots are a **real but highly time-uncertain** opportunity. The forecast of 6 million units of demand by 2027 is most likely far too optimistic — Tesla is strong in manufacturing and cost control, but validation of humanoid-robot application scenarios is far from complete.
 
-### 李录式追问：20年后这家公司是"标准石油"还是"3Com"？
+### Li Lu-style questioning: in 20 years, will this company be "Standard Oil" or "3Com"?
 
-**更可能是"日本电产的中国版"**——一家在精密传动领域有真实技术积累的公司，能从行业增长中受益，但不会成为"赢家通吃"的垄断者。谐波减速器的市场结构注定是寡头竞争（哈默纳科+绿的谐波+2-3家对手），而非一家独大。20年后绿的谐波大概率仍然存在且更大，但它的利润率和ROE可能令今天以500倍PE买入的投资者失望。
+**More likely "the Chinese version of Nidec"** — a company with real accumulated technology in precision transmission that can benefit from industry growth, but will not become a "winner-take-all" monopolist. The market structure for harmonic reducers is destined to be oligopolistic competition (Harmonic Drive Systems + Leaderdrive + 2-3 rivals), not one company dominating all. In 20 years, Leaderdrive will most likely still exist and be larger, but its profit margins and ROE may disappoint investors who bought in today at a 500x PE.
 
-**评分：★★★★（4/5）— 赛道确定性高，公司位置好，但估值已把最乐观的未来都定价了**
+**Rating: ★★★★ (4/5) — the track has high certainty and the company's position is good, but the valuation has already priced in even the most optimistic future**
 
 ---
 
-## 六、估值与安全边际 — 巴菲特"内在价值"
+## Section Six: Valuation and Margin of Safety — Buffett's "intrinsic value"
 
-### 当前估值（经工具验算）
+### Current valuation (verified with tools)
 
-| 指标 | 数值 | 说明 |
+| Metric | Value | Notes |
 |------|------|------|
-| 股价 | ~330元 | 波动剧烈 |
-| 市值 | 605亿元 | ✅ 验算通过（330×1.8333亿股） |
-| PE（TTM） | **485倍** | ✅ 验算通过（330/0.68） |
-| PB | **17.25倍** | ✅ 验算通过（330/19.13） |
-| PS（TTM） | **106倍** | 605亿/5.71亿 |
-| ROE | **3.55%** | ✅ 验算通过（0.68/19.13） |
-| 盈利收益率 | **0.21%** | 相当于买入一个年化0.21%的"资产" |
+| Share price | ~330 yuan | Highly volatile |
+| Market cap | 60.5 billion yuan | ✅ Verified (330 × 183.33 million shares) |
+| PE (TTM) | **485x** | ✅ Verified (330 / 0.68) |
+| PB | **17.25x** | ✅ Verified (330 / 19.13) |
+| PS (TTM) | **106x** | 60.5 billion / 570 million |
+| ROE | **3.55%** | ✅ Verified (0.68 / 19.13) |
+| Earnings yield | **0.21%** | Equivalent to buying an "asset" yielding 0.21% annually |
 
-### 券商目标价 vs 当前价
+### Brokerage target prices vs. current price
 
-| 券商 | 目标价 | vs 当前330元 |
+| Brokerage | Target price | vs. current 330 yuan |
 |------|--------|-------------|
-| 国金证券 | 258.92元 | **当前高出27%** |
-| 国泰海通 | 364.73元 | 当前低于10% |
-| 7家均价 | 238.00元 | **当前高出39%** |
+| Guojin Securities | 258.92 yuan | **Current price 27% higher** |
+| Guotai Junan | 364.73 yuan | Current price 10% lower |
+| 7-brokerage average | 238.00 yuan | **Current price 39% higher** |
 
-**当前股价已超出大多数券商目标价。**
+**The current share price already exceeds most brokerages' target prices.**
 
-### 三情景估值（经工具精确计算）
+### Three-scenario valuation (precisely calculated with tools)
 
-基于2025年EPS 0.68元，预测3年后（2028年）：
+Based on 2025 EPS of 0.68 yuan, projecting 3 years out (2028):
 
-| 情景 | 年增速 | 目标PE | 2028E EPS | 目标股价 | vs当前 |
+| Scenario | Annual growth | Target PE | 2028E EPS | Target price | vs. current |
 |------|--------|--------|----------|---------|--------|
-| 乐观 | 60% | 100x | 2.79元 | 278.5元 | **-15.6%** |
-| 中性 | 35% | 60x | 1.67元 | 100.4元 | **-69.6%** |
-| 悲观 | 15% | 35x | 1.03元 | 36.2元 | **-89.0%** |
+| Optimistic | 60% | 100x | 2.79 yuan | 278.5 yuan | **-15.6%** |
+| Neutral | 35% | 60x | 1.67 yuan | 100.4 yuan | **-69.6%** |
+| Pessimistic | 15% | 35x | 1.03 yuan | 36.2 yuan | **-89.0%** |
 
-**这是本报告最重要的发现**：
+**This is the most important finding in this report**:
 
-即使假设绿的谐波未来三年盈利以60%的惊人速度增长（意味着2028年净利润达5.1亿元，是当前的4倍），并且市场仍然愿意给予100倍PE（这对一家制造企业来说已是极其慷慨），**三年后的合理价格仍然低于当前价格**。
+Even assuming Leaderdrive's profit grows at an astonishing 60% annually over the next three years (implying 2028 net profit reaches 510 million yuan, four times the current level), and assuming the market is still willing to grant a 100x PE (already extremely generous for a manufacturing company), **the reasonable price three years from now would still be below the current price**.
 
-换言之：**当前股价不仅透支了乐观预期，甚至透支了"超级乐观"预期。**
+In other words: **the current share price doesn't just overdraw an optimistic outlook — it overdraws a "super-optimistic" outlook.**
 
-### 估值的荒谬性校验
+### Sanity-checking the absurdity of the valuation
 
-| 对比 | 市值 | 净利润 | PE | 毛利率 | ROE |
+| Comparison | Market cap | Net profit | PE | Gross margin | ROE |
 |------|------|--------|-----|--------|-----|
-| **绿的谐波** | **605亿** | **1.24亿** | **485x** | **37%** | **4.2%** |
-| 汇川技术（工控龙头） | ~2,000亿 | ~55亿 | ~36x | ~36% | ~18% |
-| 恒立液压（液压龙头） | ~700亿 | ~28亿 | ~25x | ~33% | ~14% |
-| 哈默纳科（全球龙头） | ~2,500亿日元（~120亿元） | — | ~50x | ~50% | — |
+| **Leaderdrive** | **60.5 billion** | **124 million** | **485x** | **37%** | **4.2%** |
+| Inovance Technology (industrial-control leader) | ~200 billion | ~5.5 billion | ~36x | ~36% | ~18% |
+| Hengli Hydraulics (hydraulics leader) | ~70 billion | ~2.8 billion | ~25x | ~33% | ~14% |
+| Harmonic Drive Systems (global leader) | ~250 billion yen (~12 billion yuan) | — | ~50x | ~50% | — |
 
-绿的谐波的市值（605亿）已经是行业全球龙头哈默纳科（约120亿元人民币）的**5倍**——但收入仅为哈默的约1/4、全球份额仅为哈默的30%。
+Leaderdrive's market cap (60.5 billion yuan) is already **5 times** that of the global industry leader Harmonic Drive Systems (about 12 billion yuan) — yet its revenue is only about a quarter of Harmonic's, and its global market share only 30% of Harmonic's.
 
-### 合理估值区间
+### Reasonable valuation range
 
-| 方法 | 假设 | 合理市值 | 合理股价 |
+| Method | Assumption | Reasonable market cap | Reasonable share price |
 |------|------|---------|---------|
-| 2027E PE 50x | 净利润3亿（券商预测） | 150亿 | ~82元 |
-| 2028E PE 40x | 净利润5亿（极乐观） | 200亿 | ~109元 |
-| PS 20x（成长股） | 收入10亿（2027E） | 200亿 | ~109元 |
-| PB 8x（科技制造） | 净资产~40亿 | 320亿 | ~175元 |
-| **综合合理区间** | | **150-200亿** | **82-109元** |
+| 2027E PE 50x | Net profit of 300 million (brokerage forecast) | 15 billion | ~82 yuan |
+| 2028E PE 40x | Net profit of 500 million (extremely optimistic) | 20 billion | ~109 yuan |
+| PS 20x (growth stock) | Revenue of 1 billion (2027E) | 20 billion | ~109 yuan |
+| PB 8x (tech manufacturing) | Net assets ~4 billion | 32 billion | ~175 yuan |
+| **Combined reasonable range** | | **15-20 billion** | **82-109 yuan** |
 
-**当前330元高于合理区间200%-300%。**
+**The current 330 yuan is 200%-300% above the reasonable range.**
 
-### 段永平式追问：如果股市关闭5年，你愿意以330元持有吗？
+### Duan Yongping-style questioning: if the stock market closed for 5 years, would you be willing to hold it at 330 yuan?
 
-**绝对不愿意。** 330元买入意味着你以605亿市值买入一家年利润1.24亿的公司。即使5年后利润增长5倍至6亿，PE回归50倍，市值也只有300亿——你亏损50%。以330元持有5年不亏钱，需要净利润增长到12亿以上（当前的10倍），并且市场给予50倍PE。这要求一切完美——人形机器人爆发、毛利率企稳、竞争格局不恶化——同时实现的概率极低。
+**Absolutely not.** Buying at 330 yuan means paying a 60.5 billion yuan market cap for a company earning 124 million yuan a year. Even if profit grows fivefold to 600 million yuan in 5 years and the PE reverts to 50x, the market cap would only be 30 billion yuan — you'd be down 50%. To hold at 330 yuan for 5 years without losing money would require net profit to grow above 1.2 billion yuan (ten times the current level) and the market to grant a 50x PE. That requires everything to go perfectly — a humanoid-robot boom, gross margin stabilizing, and no deterioration of the competitive landscape — all happening at once, which has an extremely low probability.
 
-**评分：★（1/5）— 当前估值是"概念泡沫"级别，远超任何合理估值框架**
+**Rating: ★ (1/5) — the current valuation is at "concept bubble" level, far beyond any reasonable valuation framework**
 
 ---
 
-## 七、综合决策备忘录
+## Section Seven: Comprehensive Decision Memo
 
-### 六维评估表
+### Six-dimension assessment table
 
-| 维度 | 结论 | 评分 | 信心度 |
+| Dimension | Conclusion | Rating | Confidence |
 |------|------|------|--------|
-| 生意质量（段永平） | 好赛道、好技术，但商业模式不够好，毛利率持续下行 | ★★★ | 高 |
-| 护城河（巴菲特） | 技术壁垒真实但在缩窄，定价权在丧失 | ★★★ | 高 |
-| 管理层（段永平+巴菲特） | 技术创业者值得尊重，资本配置效率差 | ★★★ | 中 |
-| 最大风险（芒格） | 人形机器人不及预期+毛利率继续下滑+产能过剩 | ★★ | 高 |
-| 文明趋势（李录） | 赛道确定性高，公司位置好 | ★★★★ | 中（人形机器人时间表不确定） |
-| 估值（巴菲特+段永平） | PE 485x，三情景即使乐观仍高估，超出券商目标价39% | ★ | 高 |
+| Business quality (Duan Yongping) | Good track, good technology, but the business model isn't good enough and gross margin keeps declining | ★★★ | High |
+| Moat (Buffett) | Technical barrier is real but narrowing, pricing power is eroding | ★★★ | High |
+| Management (Duan Yongping + Buffett) | Technical entrepreneurs deserve respect, capital-allocation efficiency is poor | ★★★ | Medium |
+| Biggest risk (Munger) | Humanoid robots falling short of expectations + continued gross-margin decline + overcapacity | ★★ | High |
+| Civilizational trend (Li Lu) | The track has high certainty and the company's position is good | ★★★★ | Medium (the humanoid-robot timeline is uncertain) |
+| Valuation (Buffett + Duan Yongping) | PE of 485x; even the optimistic scenario in the three-scenario valuation shows overvaluation, 39% above the brokerage target price | ★ | High |
 
-**综合评分：2.5★ / 5★ — 好公司、好赛道，但以当前价格买入是投机而非投资**
+**Combined rating: 2.5★ / 5★ — a good company on a good track, but buying at the current price is speculation, not investment**
 
-### 最终决策表
+### Final decision table
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **回避。** 当前估值处于"概念泡沫"状态，三情景估值即使最乐观也显示高估。如果真心看好人形机器人赛道，等待股价回落至100-120元区间（PE 60-80倍）再考虑建仓。 |
-| **持仓者** | **减仓。** 股价已远超7家券商均价目标238元。至少减至半仓，锁定部分利润。底仓可保留参与长期赛道，但仓位不宜超过组合的3-5%。 |
-| **卖出信号** | 人形机器人量产时间表再次推迟；季度毛利率跌破30%；实控人继续减持；融资余额/杠杆资金异常攀升 |
-| **加仓信号** | 股价回落至100元以下（PE <150x基于2025利润）；特斯拉Optimus确认大规模量产订单并指定绿的为供应商；季度毛利率企稳回升至40%以上 |
+| **No current position** | **Avoid.** The current valuation is in "concept bubble" territory, and the three-scenario valuation shows overvaluation even in the most optimistic case. If you genuinely believe in the humanoid-robot track, wait for the share price to fall back to the 100-120 yuan range (PE of 60-80x) before considering a position. |
+| **Existing holders** | **Trim.** The share price is already far above the 7-brokerage average target of 238 yuan. Cut at least to a half position to lock in some gains. A base position can be kept to participate in the long-term track, but it should not exceed 3-5% of the portfolio. |
+| **Sell signals** | The humanoid-robot mass-production timeline slips again; quarterly gross margin falls below 30%; controlling shareholders continue selling down; margin financing/leverage balances rise abnormally |
+| **Add signals** | Share price falls below 100 yuan (PE <150x on 2025 profit); Tesla's Optimus confirms large-scale production orders naming Leaderdrive as a supplier; quarterly gross margin stabilizes and rebounds above 40% |
 
-### 四位大师模拟点评
+### Simulated commentary from the four masters
 
-> **巴菲特**："我完全理解这家公司的技术价值——谐波减速器是机器人不可或缺的关键部件。但605亿市值对应1.24亿利润，PE 485倍——这不是在为一家公司定价，这是在为一个梦想定价。我不买梦想，我买确定性。等利润追上估值的时候再来找我。"
+> **Buffett**: "I fully understand this company's technical value — harmonic reducers are an indispensable key component for robots. But a 60.5 billion yuan market cap against 124 million yuan of profit — a PE of 485x — isn't pricing a company, it's pricing a dream. I don't buy dreams, I buy certainty. Come find me again once the profit catches up with the valuation."
 
-> **芒格**："让我用简单算术帮你清醒一下：605亿市值、年利润1.24亿，意味着你花605元买了1.24元的年收益。即使利润每年翻倍，5年后也只有40亿利润，按50倍PE只值2000亿——但前提是利润真的每年翻倍，连续五年。你觉得这个概率有多大？"
+> **Munger**: "Let me sober you up with some simple arithmetic: a 60.5 billion yuan market cap and 124 million yuan of annual profit means you're paying 605 yuan for 1.24 yuan of annual earnings. Even if profit doubles every year, in 5 years you'd have 4 billion yuan of profit, worth 200 billion at a 50x PE — but only if profit truly doubles every year, for five straight years. How likely do you think that is?"
 
-> **段永平**："技术很好的公司，创始人有情怀。但我最担心的是毛利率——从53%降到37%，连降四年。这说明国产替代完成后，竞争已经从'中国vs日本'变成了'中国vs中国'。所有参与者都在降价抢份额，最终可能谁都不赚钱。这不是我想要的'好生意'。"
+> **Duan Yongping**: "It's a company with good technology and a founder with real passion for the work. But what worries me most is the gross margin — down from 53% to 37%, four years in a row. That tells you that once domestic substitution was complete, the competition shifted from 'China vs. Japan' to 'China vs. China.' Everyone is cutting prices to grab share, and in the end nobody may make money. That's not the 'good business' I'm looking for."
 
-> **李录**："人形机器人如果成功，确实是文明级的变革。但投资的关键是择时和择价——即使方向100%正确，以当前价格买入，你的回报可能远不如等一年在更合理的价格买入。1999年买入互联网公司的人方向完全正确，但以泡沫价格买入的投资者等了15年才解套。"
-
----
-
-## AI分析置信度 vs 投资确定性
-
-### 基于充分数据的结论（置信度高）：
-- 2025年营收5.71亿（+47%）、净利润1.24亿（+121%），业绩拐点已确认 → 事实
-- 毛利率从53%连续4年下滑至37% → 事实
-- PE 485倍、PB 17.25倍，股价超出券商目标价39% → 工具验算事实
-- 三情景估值即使最乐观仍显示当前高估15.6% → 工具验算事实
-- 谐波减速器全球产能利用率不足50% → 行业数据
-
-### 基于有限信息的推理（置信度中等）：
-- 人形机器人需求量和时间表 → 高度不确定，各来源差异巨大
-- 绿的谐波在特斯拉供应链中的具体份额和订单量 → 仅有"进入供应商名单"的确认
-- 未来3-5年毛利率走向 → 取决于竞争格局演变和需求弹性
-- 哈默纳科降价反击的可能性和力度 → 无确切信息
-
-### 核心区分
-
-**AI分析置信度**：B级（中等）——数据有限但足以得出关键判断
-
-**投资确定性判断**：高置信度判断——**当前价格下风险/回报比极度不对称。** 这个结论不需要精确预测人形机器人的需求量或绿的谐波的未来利润——当PE 485倍、即使最乐观三情景估值也显示高估时，你不需要更多数据就能做出决策。
-
-**需要一手验证的问题清单**：
-1. 绿的谐波在特斯拉Optimus供应链中的实际份额和定价是多少？
-2. 哈默纳科260万台扩产计划的定价策略如何？是否会大幅降价反击？
-3. 来福谐波等国产竞争对手的真实技术水平和产能爬坡速度？
-4. 绿的谐波的微型谐波减速器（人形机器人用）量产良率和成本？
-5. 人形机器人终端客户（汽车厂/物流公司）的真实采购意愿和价格敏感度？
+> **Li Lu**: "If humanoid robots succeed, it truly is a civilization-scale transformation. But the key to investing is timing and price — even if the direction is 100% correct, buying at the current price means your return could be far worse than waiting a year and buying at a more reasonable price. People who bought internet companies in 1999 got the direction completely right, but those who bought at bubble prices waited 15 years to break even."
 
 ---
 
-## 关键数据交叉验证记录
+## AI Analysis Confidence vs. Investment Certainty
+
+### Conclusions based on sufficient data (high confidence):
+- 2025 revenue of 571 million yuan (+47%), net profit of 124 million yuan (+121%) — a performance inflection point is confirmed → fact
+- Gross margin has fallen for 4 straight years, from 53% to 37% → fact
+- PE of 485x, PB of 17.25x, share price 39% above the brokerage target → tool-verified fact
+- Even the most optimistic of the three scenarios shows the current price is 15.6% overvalued → tool-verified fact
+- Global capacity utilization for harmonic reducers is below 50% → industry data
+
+### Reasoning based on limited information (moderate confidence):
+- The volume and timeline of humanoid-robot demand → highly uncertain, sources vary widely
+- Leaderdrive's specific share and order volume in Tesla's supply chain → only a confirmation of "being on the approved-supplier list"
+- The direction of gross margin over the next 3-5 years → depends on how the competitive landscape and demand elasticity evolve
+- The likelihood and intensity of a price-cut counterattack from Harmonic Drive Systems → no definitive information
+
+### Core distinction
+
+**AI analysis confidence**: Grade B (moderate) — data is limited but sufficient to reach the key judgments
+
+**Investment certainty judgment**: high-confidence judgment — **at the current price, the risk/reward is extremely asymmetric.** This conclusion does not require precisely forecasting humanoid-robot demand or Leaderdrive's future profit — when the PE is 485x and even the most optimistic of the three scenarios shows overvaluation, no additional data is needed to make the decision.
+
+**Checklist of questions requiring first-hand verification**:
+1. What is Leaderdrive's actual share and pricing within Tesla's Optimus supply chain?
+2. What is Harmonic Drive Systems' pricing strategy for its planned expansion to 2.6 million units? Will it cut prices sharply in response?
+3. What is the real technical level and capacity ramp-up speed of domestic competitors such as Laifual?
+4. What is the mass-production yield and cost of Leaderdrive's miniature harmonic reducers (for humanoid robots)?
+5. What is the real purchasing intent and price sensitivity of humanoid robots' end customers (automakers/logistics companies)?
+
+---
+
+## Cross-Validation Record for Key Data
 
 ```
-市值验算：330元 × 1.8333亿股 = 604.99亿 ≈ 报告605亿 ✅（偏差0.00%）
-PE验算：330 / 0.68 = 485.29倍 ✅
-PB验算：330 / 19.13 = 17.25倍 ✅
-ROE验算：0.68 / 19.13 = 3.55% ✅
-2025年营收交叉验证：年报5.71亿 = 证券之星5.71亿 ✅（偏差0%）
-三情景估值：乐观-15.6% / 中性-69.6% / 悲观-89.0% ✅（工具精确计算）
+Market cap check: 330 yuan × 183.33 million shares = 60.499 billion ≈ reported 60.5 billion ✅ (0.00% deviation)
+PE check: 330 / 0.68 = 485.29x ✅
+PB check: 330 / 19.13 = 17.25x ✅
+ROE check: 0.68 / 19.13 = 3.55% ✅
+2025 revenue cross-check: annual report 571 million = Stcn.com 571 million ✅ (0% deviation)
+Three-scenario valuation: optimistic -15.6% / neutral -69.6% / pessimistic -89.0% ✅ (precisely calculated with tools)
 ```
 
 ---
 
-**数据来源**：绿的谐波2024年报、2025年报、2026Q1季报、GGII谐波减速器报告、国金证券/东吴证券/国泰海通研报、东方财富网、证券之星、新浪财经
+**Data sources**: Leaderdrive 2024 annual report, 2025 annual report, 2026 Q1 quarterly report, GGII harmonic reducer report, Guojin Securities/Soochow Securities/Guotai Junan research reports, Eastmoney, Stcn.com, Sina Finance

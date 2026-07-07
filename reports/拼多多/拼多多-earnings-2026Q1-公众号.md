@@ -1,166 +1,166 @@
-# 拼多多Q1财报：利润去哪了？
+# PDD Q1 Earnings: Where Did the Profit Go?
 
-今天凌晨拼多多发了2026年一季度财报。营收1062亿，同比增11%，不及预期。净利润125亿，同比降15%，大幅不及预期。盘中一度跌超13%。
+PDD released its Q1 2026 earnings early this morning. Revenue came in at 106.2 billion yuan, up 11% year-over-year, missing expectations. Net income was 12.5 billion yuan, down 15% year-over-year, badly missing expectations. The stock fell more than 13% intraday.
 
-| 指标 | Q1 2026 | Q1 2025 | 同比 |
+| Metric | Q1 2026 | Q1 2025 | YoY |
 |------|---------|---------|------|
-| 总营收 | 1062亿 | 957亿 | +11% |
-| 交易服务收入 | 563亿 | 470亿 | +20% |
-| 在线营销收入 | 499亿 | 487亿 | +2.5% |
-| 营业利润 | 196亿 | 161亿 | +22% |
-| 净利润 | 125亿 | 147亿 | -15% |
-| 经营活动现金流 | 164亿 | 155亿 | +6% |
-| 现金+短期投资 | 4361亿 | — | — |
+| Total revenue | 106.2B yuan | 95.7B yuan | +11% |
+| Transaction services revenue | 56.3B yuan | 47.0B yuan | +20% |
+| Online marketing revenue | 49.9B yuan | 48.7B yuan | +2.5% |
+| Operating profit | 19.6B yuan | 16.1B yuan | +22% |
+| Net income | 12.5B yuan | 14.7B yuan | -15% |
+| Operating cash flow | 16.4B yuan | 15.5B yuan | +6% |
+| Cash + short-term investments | 436.1B yuan | — | — |
 
-市场很不满意，但我看完整份财报后觉得，这份财报被误读了。
+The market wasn't happy, but after reading the full earnings report, I think it's being misread.
 
-## 利润到底去哪了——逐行拆利润表
+## Where did the profit actually go — a line-by-line breakdown of the income statement
 
-看上面那张表，营业利润196亿，同比增22%。经营层面赚的钱多了，为什么到手的利润反而少了？
+Look at the table above: operating profit was 19.6 billion yuan, up 22% year-over-year. The business generated more operating profit, so why did the bottom line shrink?
 
-我把SEC原始文件里营业利润以下的每一行都扒出来了：
+I pulled every line below operating profit straight from the original SEC filing:
 
-| 利润表项目 | Q1 2025 | Q1 2026 | 变化 |
+| Income statement item | Q1 2025 | Q1 2026 | Change |
 |-----------|---------|---------|------|
-| 营业利润 | 160.86亿 | 195.66亿 | +34.8亿 |
-| 利息和投资收益（净额） | +2.23亿 | -6.32亿 | -8.55亿 |
-| 汇兑损失 | -2.42亿 | -1.45亿 | +0.97亿 |
-| 其他收益（净额） | +32.61亿 | -20.31亿 | -52.92亿 |
-| 税前利润 | 193.28亿 | 167.58亿 | -25.7亿 |
-| 所得税 | -44.81亿 | -41.15亿 | +3.66亿 |
-| 净利润 | 147.42亿 | 125.47亿 | -21.95亿 |
+| Operating profit | 16.086B yuan | 19.566B yuan | +3.48B |
+| Interest and investment income (net) | +0.223B | -0.632B | -0.855B |
+| Foreign exchange loss | -0.242B | -0.145B | +0.097B |
+| Other income (net) | +3.261B | -2.031B | -5.292B |
+| Pre-tax profit | 19.328B | 16.758B | -2.57B |
+| Income tax | -4.481B | -4.115B | +0.366B |
+| Net income | 14.742B | 12.547B | -2.195B |
 
-一目了然。经营上多赚了35亿，但"其他收益"一项就恶化了53亿，"投资收益"又亏了8.5亿。两个坑加起来61亿，把多赚的钱全吃掉还倒亏26亿。
+It's clear at a glance. Operating profit grew by 3.5 billion yuan, but the "other income" line deteriorated by 5.3 billion yuan, and "investment income" swung to a loss of 0.85 billion. Together these two items wiped out the operating gain and then some, leaving a net shortfall of about 2.6 billion.
 
-**"其他收益"从赚33亿变成亏20亿——这53亿的坑到底是什么？**
+**"Other income" flipped from a gain of 3.3 billion to a loss of 2.0 billion — what exactly is this 5.3 billion hole?**
 
-这是整份财报最关键的问题，也是最让人恼火的地方：PDD在季度财报（6-K）里不做详细拆分，只有年报（20-F）附注里才会逐项披露，而FY2026的年报要到2027年4月才出。
+This is the most important — and most frustrating — question in the entire earnings report. PDD does not itemize this in its quarterly filing (Form 6-K); the detailed breakdown only appears in the footnotes of the annual report (Form 20-F), and the FY2026 annual report won't be released until April 2027.
 
-根据PDD历年20-F的披露模式，"其他收益（净额）"通常包含几样东西：一是金融资产公允价值变动——PDD账上有3131亿的短期投资（结构性存款、银行理财、债券），这些资产的市值会随利率环境波动，金额可以很大；二是政府补贴和税收返还；三是商家罚款收入——拼多多对违规商家有罚款机制，但千亿扶持计划大幅减免了商家费用，这块收入很可能显著缩水。
+Based on the disclosure patterns in PDD's historical 20-F filings, "other income (net)" typically includes a few things: first, fair-value changes on financial assets — PDD holds 313.1 billion yuan in short-term investments (structured deposits, bank wealth-management products, bonds), and the market value of these assets can swing significantly with the interest-rate environment; second, government subsidies and tax rebates; third, merchant penalty income — PDD has a penalty mechanism for merchants who violate platform rules, but the 100-billion-yuan merchant support program has sharply cut merchant fees, so this revenue line has likely shrunk considerably.
 
-Q1 2025那个+33亿大概率包含了一笔较大的金融资产公允价值收益（去年同期市场环境好）。Q1 2026变成-20亿，合理的推测是理财/债券投资出现了市值回撤，叠加商家罚款收入因惠商政策减少。但具体各占多少，季报里看不到。
+The +3.3 billion in Q1 2025 likely included a sizable fair-value gain on financial assets (market conditions were favorable in the same period last year). The swing to -2.0 billion in Q1 2026 is reasonably explained by mark-to-market losses on wealth-management/bond investments, compounded by lower merchant-penalty income due to the merchant-support policies. But the exact split isn't visible in the quarterly report.
 
-**"投资收益"从赚2亿变成亏6亿——投了什么亏了？**
+**"Investment income" flipped from a gain of 0.2 billion to a loss of 0.6 billion — what investment lost money?**
 
-PDD全年的利息和投资收入其实不少——2025全年这一行赚了256亿，平均每季度60多亿。Q1只赚了2亿（去年）和亏了6亿（今年），说明利息收入本身还在正常产生，但被某笔投资的浮亏给抵消了。Non-GAAP调整表里"Loss from fair value change of certain investments"金额很小（全年才2500万），说明不是股权投资踩雷，更可能是利率变化导致债券/理财产品的估值波动。
+PDD's full-year interest and investment income is actually substantial — this line earned 25.6 billion yuan for full-year 2025, or roughly 6+ billion per quarter on average. In Q1 it earned only 0.2 billion (last year) and lost 0.6 billion (this year), which suggests interest income itself is still being generated normally, but was offset by an unrealized loss on some investment. In the Non-GAAP reconciliation table, "loss from fair value change of certain investments" is small (only 25 million for the full year), suggesting this isn't an equity-investment blowup — more likely it's bond/wealth-management valuation swings driven by interest-rate changes.
 
-所以净利润下降15%，最直接的原因是营业利润线以下的非经营性项目。这些项目季度波动大，会严重扭曲单季度的利润数字。
+So the most direct cause of the 15% drop in net income is non-operating items below the operating-profit line. These items are volatile quarter to quarter and can badly distort a single quarter's profit figure.
 
-但这不等于说业务本身没问题。营业利润增长22%，主要是营销费用从暴增43%变成只涨1%——是省钱省出来的，不是收入加速带来的。广告收入增速从56%掉到2.5%，这个趋势才是真正需要关注的。
+That doesn't mean the underlying business has no problems, though. Operating profit grew 22%, mainly because marketing spend went from surging 43% to growing just 1% — that's savings-driven, not revenue-acceleration-driven. Advertising revenue growth fell from 56% to 2.5%, and that trend is the one that genuinely deserves attention.
 
-## 国内的增长引擎在熄火
+## The domestic growth engine is stalling
 
-拼多多两块收入的增速差距太大了——交易服务563亿涨了20%，在线营销499亿只涨了2.5%。
+The growth gap between PDD's two revenue lines is stark — transaction services revenue of 56.3 billion grew 20%, while online marketing revenue of 49.9 billion grew just 2.5%.
 
-交易服务主要是Temu的佣金。在线营销基本上就是国内商家投的广告。2.5%这个数字，放在两年前是不可想象的——2024年Q1这块收入还在涨56%。
+Transaction services revenue is mostly Temu commissions. Online marketing is essentially advertising spend from domestic merchants. That 2.5% figure would have been unthinkable two years ago — this line was still growing 56% in Q1 2024.
 
-9.34亿活跃买家，增幅创新低。ARPU增速从28%掉到14%。用户到顶了，花钱也开始收着了。更麻烦的是抖音电商今年GMV超过了京东，拼多多从三面受敌变成四面受敌。
+Active buyers reached 934 million, the slowest growth on record. ARPU growth fell from 28% to 14%. The user base has plateaued, and spending per user is tightening too. To make matters worse, Douyin e-commerce's GMV surpassed JD.com this year, so PDD has gone from fighting on three fronts to fighting on four.
 
-## 国内和Temu各赚了多少？
+## How much did domestic and Temu each earn?
 
-拼多多不拆分国内和海外的收入，这是投资者最头疼的地方。但综合多家券商的模型，可以大致估算（注意都是估计值）：
+PDD doesn't break out domestic versus overseas revenue, which is the biggest headache for investors. But pooling estimates across several brokerage models gives a rough picture (note: these are all estimates):
 
-| 业务 | 营收（估计） | 营业利润（估计） | 利润率 |
+| Segment | Revenue (est.) | Operating profit (est.) | Margin |
 |------|-------------|-----------------|--------|
-| 国内主站 | 500-550亿 | 200-250亿 | 40-45% |
-| Temu海外 | 500-550亿 | 亏损50-100亿 | 亏损 |
+| Domestic main platform | 50-55B | 20-25B | 40-45% |
+| Temu overseas | 50-55B | Loss of 5-10B | Loss |
 
-国内主站依然是整个集团的利润来源。Temu美国市场快打平了，欧洲和新兴市场还在烧。
+The domestic main platform remains the group's sole profit engine. Temu is roughly breaking even in the US, while Europe and emerging markets are still burning cash.
 
-说白了，目前的拼多多就是国内赚钱养海外。
+Bluntly put: right now PDD is domestic profits subsidizing overseas losses.
 
-## 那经营层面就没有隐忧吗？
+## So is there no cause for concern on the operating side?
 
-有。非经营性亏损解释了本季利润下降的直接原因，但经营端也有几个长期压力：
+There is. Non-operating losses explain the direct cause of this quarter's profit decline, but the operating side carries several long-term pressures too.
 
-千亿扶持计划是最大的一个——佣金减免、物流补贴、保证金下调，覆盖了上千万商家。这个不是亏在报表的某一行上，而是分散压在营收增速和毛利率里。管理层说了，"有意为之的战略选择"。
+The 100-billion-yuan merchant support program is the biggest one — commission waivers, logistics subsidies, and lower deposit requirements covering tens of millions of merchants. This doesn't show up as a single line item on the income statement; instead it's spread across revenue growth and gross margin. Management called it "a deliberate strategic choice."
 
-Temu被美国关税打了一拳。de minimis免税取消后每个包裹多了3到7.5美元成本，全托管占比从75%骤降到10%左右，日活一度流失三分之一。
+Temu took a direct hit from US tariffs. After the de minimis exemption was eliminated, each package now costs an extra $3 to $7.5, the fully-managed model's share of orders plummeted from 75% to roughly 10%, and daily active users dropped by as much as a third at one point.
 
-国内竞争也在加剧。淘宝京东加码百亿补贴，政府以旧换新补贴天然有利于自营平台。管理层在电话会上难得说了句实话："在国补政策承接方面相较竞争对手处于劣势。"
+Domestic competition is intensifying too. Taobao and JD.com have ramped up their hundred-billion-yuan subsidy programs, and the government's trade-in subsidy program naturally favors platforms that operate on a self-run (1P) basis. Management admitted as much on the earnings call, in a rare moment of candor: "We are at a disadvantage relative to competitors in capturing the national subsidy program."
 
-3月份成立的新拼姆也在花钱——首期注资150亿，三年要投1000亿搞自营品牌。重资产路子，短期肯定压利润。
+The newly established Duoduo Premium, founded in March, is also spending — an initial capital injection of 15 billion yuan, with plans to invest 100 billion yuan over three years building private-label brands. It's an asset-heavy approach that will inevitably weigh on near-term profit.
 
-这些因素不是让利润"暴跌"的原因（那个是非经营性的53亿坑），但它们决定了未来几个季度的营业利润增速不会太好看。
+These factors aren't what caused profit to "crater" (that was the non-operating 5.3-billion-yuan hole), but they will shape how operating-profit growth trends over the next several quarters — and it won't look pretty.
 
-## 管理层的态度
+## Management's tone
 
-陈磊和赵佳臻的发言口径高度一致：利润会继续降。
+Chen Lei and Zhao Jiazhen struck a highly consistent note: profit will keep falling.
 
-陈磊说："拼多多未来利润将逐步进入下降趋势，这是长期健康必要的代价。"
+Chen Lei said: "PDD's profit will gradually enter a declining trend going forward — this is a necessary cost for long-term health."
 
-赵佳臻说："未来的利润率在不同季度之间会继续展现起伏和波动，这个将会是一个常态。"然后建议投资者"不要过多关注单一季度的利润率指标"。
+Zhao Jiazhen said: "Profit margins will continue to fluctuate across quarters going forward — this will be the new normal," then advised investors "not to focus too much on any single quarter's profit-margin metric."
 
-意思已经很明确了：后面几个季度也别指望利润好看。
+The message is clear: don't expect the next several quarters' profits to look good either.
 
-管理层选择把利润下滑包装成"主动牺牲"，而不是"被动挨打"。这个叙事是否可信，取决于你怎么看待他们的执行力。
+Management is choosing to frame the profit decline as a "deliberate sacrifice" rather than "taking a beating." Whether that narrative holds up depends on how you assess their execution.
 
-## Temu的转型
+## Temu's pivot
 
-关税之后Temu做了一件聪明的事：不硬扛，快转型。
+After the tariff hit, Temu did something smart: rather than grinding it out, it pivoted quickly.
 
-整个模式从"中国工厂直邮"变成"海外本地仓发货"。美国的全托管占比从75%降到了10%，2026年目标是欧美80%以上的订单走本地仓。
+The whole model shifted from "direct shipping from Chinese factories" to "shipping from local overseas warehouses." The fully-managed share of US orders fell from 75% to 10%, and the 2026 target is for over 80% of orders in Europe and the US to go through local warehouses.
 
-运营效率确实在改善：
+Operating efficiency has genuinely improved:
 
-| 指标 | 早期（2023） | 现在 |
+| Metric | Early period (2023) | Now |
 |------|-------------|------|
-| 获客成本 | 15美元 | 8美元 |
-| 物流成本/单 | 15美元 | 12美元 |
-| 客单价 | 40美元 | 43-44美元 |
+| Customer acquisition cost | $15 | $8 |
+| Logistics cost per order | $15 | $12 |
+| Average order value | $40 | $43-44 |
 
-广告预算只花了计划的一半，ROI不到40%的投放直接停掉。
+Only half of the planned advertising budget has actually been spent, and any campaign with ROI below 40% is being cut immediately.
 
-欧洲成了Temu新的增长极，GMV增速90%，贡献了全球40%的交易额。全球月活5.16亿。
+Europe has become Temu's new growth pole, with GMV growth of 90% and now accounting for 40% of global transaction volume. Global monthly active users stand at 516 million.
 
-高盛预测Temu 2027年能盈利。我觉得不算乐观，前提是关税别再加码、欧盟那边的DSA调查别出大问题。
+Goldman Sachs projects Temu will turn profitable in 2027. I'm not as optimistic — that's contingent on tariffs not escalating further and the EU's DSA investigation not turning into a major problem.
 
-## 三家电商的利润方向完全相反
+## The three e-commerce companies' profits are moving in opposite directions
 
-同一个季度：
+Same quarter:
 
-| 公司 | 净利润 | 同比 |
+| Company | Net income | YoY |
 |------|--------|------|
-| 阿里 | 124亿 | +279% |
-| 京东 | 109亿 | +54% |
-| 拼多多 | 125亿 | -15% |
+| Alibaba | 12.4B yuan | +279% |
+| JD.com | 10.9B yuan | +54% |
+| PDD | 12.5B yuan | -15% |
 
-阿里京东在修复利润，拼多多在主动放利润。三家的周期完全错开了。
+Alibaba and JD.com are recovering their profits; PDD is deliberately sacrificing them. The three companies' cycles are completely out of sync.
 
-拼多多选在竞争对手回血的时候加大投入，这个节奏到底是高明还是冒险？答案取决于千亿投入最终能换回什么。
+PDD chose to ramp up investment at exactly the moment its competitors are recovering. Is that timing brilliant or reckless? The answer depends on what the 100-billion-yuan investment ultimately buys.
 
-顺便提一句，拼多多净利润125亿还领先京东的109亿，但这个差距正在快速收窄。
+Worth noting: PDD's net income of 12.5 billion still leads JD.com's 10.9 billion, but that gap is narrowing fast.
 
-## 容易被忽视的多多买菜
+## The easily overlooked Duoduo Grocery
 
-美团优选去年12月全国关停之后，多多买菜成了社区团购赛道唯一的全国性选手。GMV接近3000亿，取货点覆盖超过70%的行政村。美团退出后日销单量涨了50%，部分地区已经盈利了。
+After Meituan Select shut down nationwide last December, Duoduo Grocery became the only remaining nationwide player in community group buying. Its GMV is approaching 300 billion yuan, with pickup points covering over 70% of administrative villages. Daily order volume rose 50% after Meituan's exit, and some regions are already profitable.
 
-在主站增长放缓、Temu还在亏钱的窗口期，多多买菜可能是最先贡献增量利润的业务。
+In this window, while the main platform's growth slows and Temu still loses money, Duoduo Grocery may be the first business to contribute incremental profit.
 
-## 估值
+## Valuation
 
-盘中跌超13%后，市值大概1200亿美元。对应2026年预期PE大概8倍，行业中位数16倍。
+After falling more than 13% intraday, the market cap sits around $120 billion. That implies roughly 8x expected 2026 P/E, versus an industry median of 16x.
 
-账上现金加短期投资4361亿元，折合632亿美元，占市值超过一半。
+Cash plus short-term investments on the balance sheet total 436.1 billion yuan, equivalent to about $63.2 billion, or more than half the market cap.
 
-分析师预测EPS从2025年的66.7元回升到2026年的77.4元、2027年的88.0元。
+Analysts forecast EPS recovering from 66.7 yuan in 2025 to 77.4 yuan in 2026 and 88.0 yuan in 2027.
 
-## 最后说两句
+## Final thoughts
 
-逐行拆完利润表之后，事情比表面的"净利润降15%"清楚得多。净利润下降的最大推手是营业利润线以下的非经营性项目——53亿的"其他收益"恶化加上8.5亿的投资收益转亏，跟拼多多卖不卖得动货没有直接关系。
+After breaking down the income statement line by line, things are far clearer than the headline "net income down 15%." The biggest driver of the net income decline is non-operating items below the operating-profit line — the 5.3-billion-yuan deterioration in "other income" plus the swing to a 0.85-billion-yuan investment loss have nothing directly to do with whether PDD's goods are selling.
 
-但经营端也不能说好。营业利润增22%听着不错，拆开看主要是Temu营销费用大幅收缩省出来的（从暴增43%变成只涨1%），而不是收入端在加速。国内广告收入增速从56%掉到2.5%，这才是最值得警惕的信号——说明国内商家在拼多多上投广告的意愿在下降，平台对商家的吸引力在减弱。
+But the operating side isn't unambiguously fine either. A 22% rise in operating profit sounds good, but broken down, it's mainly driven by a sharp pullback in Temu's marketing spend (from surging 43% to growing just 1%), not by accelerating revenue. Domestic advertising revenue growth falling from 56% to 2.5% is the signal that most deserves close attention — it suggests domestic merchants' willingness to advertise on PDD is declining, and the platform's pull on merchants is weakening.
 
-管理层在电话会上反复强调"利润下降趋势不可避免"。这种说法在中国互联网公司里非常罕见——大多数管理层哪怕业绩烂了也要找个角度说"下个季度会好起来"。拼多多反着来，要么是对长期战略极度自信，要么是在给未来几个季度的报表提前打预防针。
+Management repeatedly emphasized on the call that "the declining profit trend is unavoidable." That kind of statement is rare among Chinese internet companies — most management teams, even when results are poor, try to find an angle to say "next quarter will be better." PDD is doing the opposite, which means either it is extremely confident in its long-term strategy, or it is pre-emptively vaccinating the market against several more quarters of weak numbers.
 
-8倍PE，超过一半市值是现金。如果你信"三年再造一个拼多多"这个故事，这个价格的安全边际是够的。如果不信，利润往下走、又不分红不回购、632亿美金趴在账上不动，那就是典型的价值陷阱。
+At 8x P/E with more than half the market cap in cash, if you believe the "rebuild another PDD in three years" story, the margin of safety at this price is adequate. If you don't believe it, and profit keeps declining with no dividends or buybacks while $63.2 billion sits idle on the balance sheet, then this is a textbook value trap.
 
-归根结底，这是一道关于信任的题。
+At the end of the day, this comes down to a question of trust.
 
-财报出来后我卖了一些PDD的put。逻辑是：净利润下降的最大推手是非经营性波动而非核心业务崩塌，8倍PE加上超过一半市值的现金提供了足够的安全边际。国内广告增速放缓是实实在在的隐忧，但这个价格已经反映了相当多的悲观预期。如果跌下来被行权，我愿意在这个价格接货。
+After the earnings report came out, I sold some PDD puts. The logic: the biggest driver of the net income decline is non-operating volatility rather than a collapse of the core business, and 8x P/E plus more than half the market cap in cash provides an adequate margin of safety. The slowdown in domestic advertising growth is a real concern, but the current price already reflects a fair amount of pessimism. If it falls and I get assigned, I'm willing to take the stock at this price.
 
 ---
 
-*数据来源：SEC 6-K申报文件、电话会议纪要、高盛/摩根士丹利/汇丰研报、新浪财经、华尔街见闻、TechBuzz China*
+*Data sources: SEC Form 6-K filings, earnings call transcripts, Goldman Sachs / Morgan Stanley / HSBC research reports, Sina Finance, Wallstreetcn, TechBuzz China*
 
-*免责声明：本文仅为个人投资研究，不构成投资建议。*
+*Disclaimer: This piece is personal investment research only and does not constitute investment advice.*

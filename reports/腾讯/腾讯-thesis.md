@@ -1,124 +1,124 @@
-# 腾讯控股（00700.HK）投资论文
+# Tencent Holdings (00700.HK) Investment Thesis
 
-**建立日期：2026年4月9日**
-**当前股价：496 港元**
-**参考资料：腾讯-research-20260408.md**
-
----
-
-## A1：核心论文
-
-我以 **496港元** 买入腾讯控股，因为：
-
-1. **这门生意的本质是**：以微信13.85亿MAU社交关系链为核心，通过游戏（32%）、金融科技及企业服务（31%）、广告（19%）、社交网络（17%）四大板块变现的超级平台。我理解它的赚钱方式——用户社交关系链锁定流量，再通过游戏内购、支付抽成、广告展示、云服务多渠道提取价值。
-
-2. **它的护城河是**：微信13.85亿MAU的社交网络效应+极高的转换成本（社交关系链无法迁移），护城河在**稳定偏宽**——视频号（DAU 4亿+）和小程序生态持续加深护城河，但AI入口竞争（元宝 vs 豆包）带来不确定性。
-
-3. **管理层**：马化腾+刘炽平是中国最优秀的科技管理组合，值得信赖的原因是——从QQ到微信的"自我革命"证明了战略判断力，年回购800-1120亿港元+分红410亿证明了股东友好的资本配置能力，AI资本开支792亿证明了前瞻投资魄力。
-
-4. **当前价格相当于内在价值的约75折**（DCF内在价值~658港元），安全边际来自：PE 17.6x较10年中位数27x折让35%；毛利率56%创历史新高；净现金1,071亿提供下行保护。
-
-5. **即使我错了，下行风险可控**，因为：净现金1,071亿+年FCF 1,826亿意味着公司不缺钱；回购持续注销股本托底股价；多元收入结构使单一业务下滑不致命；即使按悲观假设（零增长+14x PE），股价仍有~455港元支撑（32.5×14）。
+**Established: April 9, 2026**
+**Current share price: HK$496**
+**Reference: Tencent-research-20260408.md**
 
 ---
 
-## A2：核心假设清单
+## A1: Core Thesis
 
-| # | 核心假设 | 验证方式 | 验证频率 | 当前状态 |
+I am buying Tencent Holdings at **HK$496** because:
+
+1. **The essence of this business**: a super-platform built around WeChat's 1.385 billion MAU social graph, monetized across four segments — games (32%), fintech and business services (31%), advertising (19%), and social networks (17%). I understand how it makes money: the social graph locks in user traffic, and value is then extracted through multiple channels — in-game purchases, payment take-rates, ad impressions, and cloud services.
+
+2. **Its moat**: the network effect of WeChat's 1.385 billion MAU plus extremely high switching costs (the social graph cannot be migrated) — the moat is **stable to wide**. Video Accounts (DAU of 400 million+) and the Mini Programs ecosystem keep deepening the moat, but competition for the AI entry point (Yuanbao vs. Doubao) introduces uncertainty.
+
+3. **Management**: Pony Ma and Martin Lau form China's best technology management pairing. They are trustworthy because — the "self-revolution" from QQ to WeChat proved strategic judgment; annual buybacks of HK$80-112 billion plus dividends of HK$41 billion proved shareholder-friendly capital allocation; and AI capex of RMB 79.2 billion proved forward-looking investment courage.
+
+4. **The current price is roughly 75 cents on the dollar of intrinsic value** (DCF intrinsic value ~HK$658), with the margin of safety coming from: a PE of 17.6x that is 35% below the 10-year median of 27x; a gross margin of 56%, an all-time high; and net cash of RMB 107.1 billion providing downside protection.
+
+5. **Even if I'm wrong, the downside is manageable**, because: net cash of RMB 107.1 billion plus annual FCF of RMB 182.6 billion means the company isn't short of money; ongoing buybacks and share cancellations put a floor under the stock; the diversified revenue mix means no single segment's decline is fatal; and even under a pessimistic scenario (zero growth + 14x PE), the share price would still have support around HK$455 (32.5 x 14).
+
+---
+
+## A2: Core Assumptions Checklist
+
+| # | Core assumption | How to verify | Verification frequency | Current status |
 |---|---------|---------|---------|---------|
-| 1 | 微信MAU保持13.5亿+，不出现环比下降 | 季度财报MAU数据 | 每季度 | ✅ 13.85亿，+1.9% |
-| 2 | Non-IFRS净利润年增速维持10-15%+ | 季度Non-IFRS净利润同比增速 | 每季度 | ✅ 2025年+16.6% |
-| 3 | 毛利率维持53%以上（经营杠杆持续释放） | 季度毛利率趋势 | 每季度 | ✅ 56%创新高 |
-| 4 | 游戏业务（含海外）保持正增长 | 季度游戏收入增速，关注海外占比 | 每季度 | ✅ 国内+18%，海外+33% |
-| 5 | AI投资（年资本开支792亿+）能在2-3年内产生可见回报 | AI相关收入占比、元宝MAU、云AI收入增速 | 半年度 | ⏳ 元宝MAU 2480万，远逊豆包 |
-| 6 | 股东回报率（回购+分红/净利润）维持50%+ | 年度回购金额+分红总额 | 每年 | ✅ 1210亿港元，~50-60% |
-| 7 | 监管环境保持稳定或持续缓和 | 游戏版号发放数量、政策文件 | 持续 | ✅ 2025年版号1771个，近5年峰值 |
+| 1 | WeChat MAU stays above 1.35bn, with no sequential decline | Quarterly MAU data in earnings reports | Every quarter | ✅ 1.385bn, +1.9% |
+| 2 | Non-IFRS net profit growth stays at 10-15%+ annually | Quarterly Non-IFRS net profit YoY growth | Every quarter | ✅ +16.6% in 2025 |
+| 3 | Gross margin stays above 53% (operating leverage continues to play out) | Quarterly gross margin trend | Every quarter | ✅ 56%, an all-time high |
+| 4 | Gaming (including overseas) stays in positive growth | Quarterly gaming revenue growth, watching the overseas share | Every quarter | ✅ Domestic +18%, overseas +33% |
+| 5 | AI investment (annual capex of RMB 79.2bn+) produces visible returns within 2-3 years | Share of AI-related revenue, Yuanbao MAU, cloud AI revenue growth | Semi-annually | ⏳ Yuanbao MAU at 24.8 million, far behind Doubao |
+| 6 | Shareholder return ratio (buybacks + dividends / net profit) stays above 50% | Annual buyback amount + total dividends | Annually | ✅ HK$121bn, ~50-60% |
+| 7 | The regulatory environment stays stable or continues to ease | Number of game licenses approved, policy documents | Ongoing | ✅ 1,771 licenses approved in 2025, a five-year high |
 
 ---
 
-## A3：红线清单（触发任何一条 = 必须重新评估）
+## A3: Red-Line Checklist (Any Trigger = Must Reassess)
 
-| # | 红线 | 触发标准 | 说明 |
+| # | Red line | Trigger threshold | Note |
 |---|------|---------|------|
-| 1 | 微信MAU出现环比下降 | 任意季度MAU环比为负 | 社交护城河根基动摇 |
-| 2 | 游戏版号政策突然收紧 | 月均版号发放<50个 或 出台重大限制政策 | 重现2018年场景，核心收入受损 |
-| 3 | Non-IFRS净利润连续两季度同比下滑 | 连续2个季度YoY为负 | 增长逻辑被打破 |
-| 4 | AI入口迁移实质性发生 | 豆包/其他AI应用开始替代微信核心功能（社交、搜索、支付入口） | 护城河被绕过 |
-| 5 | 管理层重大变动且无清晰继任方案 | 马化腾或刘炽平突然离任 | 核心人物风险 |
-| 6 | Prosus加速减持 | 年度减持超过总股本3% | 确定性卖压大幅加剧 |
-| 7 | 中美关系急剧恶化导致制裁风险 | 腾讯被列入制裁实体清单或面临强制退市 | 系统性风险 |
-| 8 | 毛利率跌破48% | 单季度毛利率<48% | 商业模式质量恶化信号 |
+| 1 | WeChat MAU declines sequentially | MAU QoQ turns negative in any quarter | The foundation of the social moat is shaken |
+| 2 | Game license policy suddenly tightens | Average monthly license approvals fall below 50, or major restrictive policies are introduced | Reprises the 2018 scenario, damaging core revenue |
+| 3 | Non-IFRS net profit declines YoY for two consecutive quarters | YoY negative for 2 consecutive quarters | The growth logic is broken |
+| 4 | A substantive shift of the AI entry point occurs | Doubao or other AI apps begin replacing WeChat's core functions (social, search, payment entry points) | The moat is bypassed |
+| 5 | A major management change with no clear succession plan | Pony Ma or Martin Lau departs abruptly | Key-person risk |
+| 6 | Prosus accelerates its stake reduction | Annual reduction exceeds 3% of total shares outstanding | Materially heightened, certain selling pressure |
+| 7 | A sharp deterioration in US-China relations creates sanctions risk | Tencent is placed on a sanctions entity list or faces forced delisting | Systemic risk |
+| 8 | Gross margin falls below 48% | Quarterly gross margin < 48% | A signal of deteriorating business-model quality |
 
 ---
 
-## A4：估值锚点
+## A4: Valuation Anchors
 
-### 核心数据
+### Core Data
 
-| 指标 | 数值 | 来源 |
+| Metric | Value | Source |
 |------|------|------|
-| 当前股价 | 496 港元 | 市场数据（2026/4/9） |
-| 总股本 | ~91亿股 | 2025年报 |
-| 市值 | ~4.51万亿港元 | 496 x 91亿 |
-| Non-IFRS净利润（2025） | 2,596亿人民币 | 2025年报 |
-| Non-IFRS EPS | ~28.577元人民币（~32.5港元） | 2596亿/90.81亿股，港元=28.577/0.8795 |
-| IFRS EPS | ~24.749元人民币（~28.1港元） | 2025年报，港元=24.749/0.8795 |
-| 毛利率 | 56% | 2025年报（历史新高） |
-| FCF | 1,826亿人民币 | 2025年报 |
-| 净现金 | 1,071亿人民币 | 2025年报 |
-| PE（IFRS TTM） | ~17.6x | 496/28.1 手算校验 |
-| PE（Non-IFRS） | ~15.3x | 496/32.5 手算校验 |
-| PB | ~2.97x | 手算校验 |
-| 股息率 | ~1.07% | 5.30 HKD / 496 HKD |
-| DCF内在价值 | ~658港元 | 研究报告估算 |
+| Current share price | HK$496 | Market data (4/9/2026) |
+| Total shares outstanding | ~9.1bn shares | 2025 annual report |
+| Market cap | ~HK$4.51 trillion | 496 x 9.1bn |
+| Non-IFRS net profit (2025) | RMB 259.6bn | 2025 annual report |
+| Non-IFRS EPS | ~RMB 28.577 (~HK$32.5) | RMB 259.6bn / 9.081bn shares; HKD = 28.577/0.8795 |
+| IFRS EPS | ~RMB 24.749 (~HK$28.1) | 2025 annual report; HKD = 24.749/0.8795 |
+| Gross margin | 56% | 2025 annual report (all-time high) |
+| FCF | RMB 182.6bn | 2025 annual report |
+| Net cash | RMB 107.1bn | 2025 annual report |
+| PE (IFRS TTM) | ~17.6x | 496/28.1, manually verified |
+| PE (Non-IFRS) | ~15.3x | 496/32.5, manually verified |
+| PB | ~2.97x | Manually verified |
+| Dividend yield | ~1.07% | HK$5.30 / HK$496 |
+| DCF intrinsic value | ~HK$658 | Estimated in the research report |
 
-### 三情景估值（3年期，基于Non-IFRS EPS）
+### Three-Scenario Valuation (3-Year Horizon, Based on Non-IFRS EPS)
 
-| 情景 | 年利润增速 | 目标PE | 3年后EPS（港元） | 目标股价（港元） | 较当前涨跌幅 |
+| Scenario | Annual profit growth | Target PE | EPS in 3 years (HK$) | Target price (HK$) | Change vs. current |
 |------|-----------|--------|----------------|----------------|------------|
-| **乐观** | 15% | 22x | 49.4 | **1,087** | **+119%** |
-| **中性** | 10% | 18x | 43.3 | **779** | **+57%** |
-| **悲观** | 3% | 14x | 35.5 | **497** | **~0%** |
+| **Bull** | 15% | 22x | 49.4 | **1,087** | **+119%** |
+| **Base** | 10% | 18x | 43.3 | **779** | **+57%** |
+| **Bear** | 3% | 14x | 35.5 | **497** | **~0%** |
 
-**乐观假设**：AI投资开花结果，视频号商业化加速，海外游戏持续高增长，港股估值折价收窄。
-**中性假设**：各业务稳健增长，毛利率维持高位，回购持续增厚EPS，估值维持当前水平。
-**悲观假设**：宏观消费疲软，AI投资回报不及预期，港股折价持续，利润增速放缓至个位数。
+**Bull assumptions**: AI investment bears fruit, Video Accounts monetization accelerates, overseas gaming keeps growing rapidly, and the Hong Kong equity valuation discount narrows.
+**Base assumptions**: all businesses grow steadily, gross margin stays elevated, buybacks continue to boost EPS, and the valuation holds at current levels.
+**Bear assumptions**: macro consumption stays weak, AI investment returns disappoint, the Hong Kong discount persists, and profit growth slows to single digits.
 
-### 关键价格锚点
+### Key Price Anchors
 
-| 价格（港元） | 含义 |
+| Price (HK$) | Meaning |
 |-------------|------|
-| **350-400** | 极度悲观价（悲观PE 14x × 当前EPS 32.5），保守型投资者理想买入区 |
-| **450-500** | 当前合理估值区间，稳健型可建仓 |
-| **550-600** | 合理偏贵，不宜追高，持有者可继续持有 |
-| **658+** | 接近DCF内在价值，考虑部分止盈 |
-| **750+** | 中性情景3年目标价，分批减仓 |
+| **350-400** | Extreme-bear price (bear-case PE of 14x x current EPS of 32.5), an ideal buy zone for conservative investors |
+| **450-500** | The current reasonable valuation range, where conservative investors can build a position |
+| **550-600** | Reasonable but on the expensive side; not a level to chase, though holders can continue holding |
+| **658+** | Close to DCF intrinsic value; consider taking some profit |
+| **750+** | The base-case 3-year target price; scale out in tranches |
 
 ---
 
-## A5：追踪记录
+## A5: Tracking Record
 
-> 段永平："投资就是买未来现金流的折现。最重要的是：这个生意你能不能看懂，护城河是不是够深。"
+> Duan Yongping: "Investing is buying the discounted value of future cash flows. What matters most is whether you can understand the business, and whether the moat is deep enough."
 >
-> 芒格："找到一个好企业，以合理价格买入，然后坐在那里就行了。"
+> Munger: "Find a good business, buy it at a reasonable price, then just sit there."
 
-### 季度追踪表
+### Quarterly Tracking Table
 
-| 日期 | 事件/季报 | 关键指标变化 | 假设验证 | 红线检查 | 行动 |
+| Date | Event/quarterly report | Key metric changes | Assumption check | Red-line check | Action |
 |------|----------|------------|---------|---------|------|
-| 2026-04-09 | 论文建立 | 股价496 HKD，PE 17.6x | 全部假设初始状态已记录 | 无红线触发 | 建立观察 |
+| 2026-04-09 | Thesis established | Share price HK$496, PE 17.6x | Initial state of all assumptions recorded | No red lines triggered | Initiate coverage |
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-### 价格行动记录
+### Price Action Log
 
-| 日期 | 操作 | 价格（港元） | 仓位变化 | 理由 |
+| Date | Action | Price (HK$) | Position change | Rationale |
 |------|------|------------|---------|------|
 | | | | | |
 | | | | | |
 
 ---
 
-*本投资论文基于公开信息建立，不构成投资建议。核心参考：腾讯-research-20260408.md。*
-*论文需至少每季度review一次，对照假设清单和红线清单更新。*
+*This investment thesis is built on public information and does not constitute investment advice. Core reference: Tencent-research-20260408.md.*
+*The thesis must be reviewed at least once per quarter, updated against the assumptions checklist and the red-line checklist.*

@@ -1,220 +1,220 @@
-# 腾讯控股（00700.HK）2026年Q1 财报精读
+# Tencent Holdings (00700.HK) Q1 2026 Earnings Deep Dive
 
-> 发布日期：2026-05-13 | 精读日期：2026-05-13
-> 资料可得性：B级（官方新闻稿PDF完整获取，电话会Q&A纪要尚未发布）
-> 数据来源：腾讯官方业绩公告PDF + CNBC/Yahoo Finance/DoNews
+> Published: 2026-05-13 | Deep-dive date: 2026-05-13
+> Data availability: Grade B (official press release PDF fully obtained; earnings-call Q&A transcript not yet published)
+> Data sources: Tencent official earnings announcement PDF + CNBC/Yahoo Finance/DoNews
 
 ---
 
-## 一、核心数据速览
+## I. Key data at a glance
 
-| 指标 | Q1 2026 | Q1 2025 | 同比 | 市场预期 | 是否达标 |
+| Metric | Q1 2026 | Q1 2025 | YoY | Market expectation | Beat/miss |
 |------|---------|---------|------|---------|---------|
-| **总收入** | 1,965亿 | 1,800亿 | **+9%** | 1,994亿 | ❌ 低于预期25亿 |
-| **毛利** | 1,113亿 | 1,005亿 | **+11%** | — | — |
-| **毛利率** | 56.6% | 55.8% | +0.8pp | — | — |
-| **Non-IFRS经营利润** | 756亿 | 693亿 | **+9%** | — | — |
-| **Non-IFRS经营利润率** | 38.5% | 38.5% | 持平 | — | — |
-| **Non-IFRS归母净利** | 679亿 | 613亿 | **+11%** | 672-678亿 | ✅ 小幅超预期 |
-| **IFRS归母净利** | 581亿 | 478亿 | **+21%** | 614亿 | ❌ 低于预期 |
-| **自由现金流** | 567亿 | 472亿 | **+20%** | — | — |
-| **资本开支** | 319亿 | 275亿 | **+16%** | — | — |
-| **净现金** | 1,469亿 | 902亿 | **+63%** | — | — |
-| 微信MAU | 14.32亿 | 14.02亿 | +2% | — | — |
-| 回购 | 76亿港元 | 171亿港元 | **-56%** | — | — |
+| **Total revenue** | RMB 196.5 billion | RMB 180.0 billion | **+9%** | RMB 199.4 billion | ❌ Missed by RMB 2.5 billion |
+| **Gross profit** | RMB 111.3 billion | RMB 100.5 billion | **+11%** | — | — |
+| **Gross margin** | 56.6% | 55.8% | +0.8pp | — | — |
+| **Non-IFRS operating profit** | RMB 75.6 billion | RMB 69.3 billion | **+9%** | — | — |
+| **Non-IFRS operating margin** | 38.5% | 38.5% | Flat | — | — |
+| **Non-IFRS net profit attributable to shareholders** | RMB 67.9 billion | RMB 61.3 billion | **+11%** | RMB 67.2-67.8 billion | ✅ Slightly beat |
+| **IFRS net profit attributable to shareholders** | RMB 58.1 billion | RMB 47.8 billion | **+21%** | RMB 61.4 billion | ❌ Missed |
+| **Free cash flow** | RMB 56.7 billion | RMB 47.2 billion | **+20%** | — | — |
+| **Capital expenditure** | RMB 31.9 billion | RMB 27.5 billion | **+16%** | — | — |
+| **Net cash** | RMB 146.9 billion | RMB 90.2 billion | **+63%** | — | — |
+| Weixin MAU | 1.432 billion | 1.402 billion | +2% | — | — |
+| Buybacks | HKD 7.6 billion | HKD 17.1 billion | **-56%** | — | — |
 
-### 分业务收入
+### Segment revenue
 
-| 业务 | Q1 2026 | Q1 2025 | 同比 | Q4 2025 | 环比 |
-|------|---------|---------|------|---------|------|
-| 增值服务 | 961亿 | 921亿 | +4% | 899亿 | +7% |
-| — 本土游戏 | 454亿 | 428亿 | +6% | — | — |
-| — 国际游戏 | 188亿 | 166亿 | +13% | — | — |
-| — 社交网络 | 319亿 | 326亿 | **-2%** | — | — |
-| **营销服务** | **382亿** | **319亿** | **+20%** | 411亿 | -7% |
-| 金融科技及企业服务 | 599亿 | 549亿 | +9% | 608亿 | -2% |
-| — 其中企业服务 | — | — | **+20%** | — | — |
+| Segment | Q1 2026 | Q1 2025 | YoY | Q4 2025 | QoQ |
+|------|---------|---------|------|------|------|
+| Value-Added Services | RMB 96.1 billion | RMB 92.1 billion | +4% | RMB 89.9 billion | +7% |
+| — Domestic games | RMB 45.4 billion | RMB 42.8 billion | +6% | — | — |
+| — International games | RMB 18.8 billion | RMB 16.6 billion | +13% | — | — |
+| — Social networks | RMB 31.9 billion | RMB 32.6 billion | **-2%** | — | — |
+| **Marketing Services** | **RMB 38.2 billion** | **RMB 31.9 billion** | **+20%** | RMB 41.1 billion | -7% |
+| Fintech and Business Services | RMB 59.9 billion | RMB 54.9 billion | +9% | RMB 60.8 billion | -2% |
+| — Of which, Business Services | — | — | **+20%** | — | — |
 
 ---
 
-## 二、本期最重要的3个变化
+## II. The 3 most important changes this quarter
 
-### 1. 腾讯首次披露"剔除AI新产品"的经营利润——核心业务极其健康
+### 1. Tencent discloses operating profit "excluding new AI products" for the first time — the core business is extremely healthy
 
-这是本季财报最重要的新信息。腾讯首次将AI新产品（混元、元宝、CodeBuddy、WorkBuddy、QClaw）的投入从核心业务中拆出：
+This is the single most important new disclosure in this quarter's report. For the first time, Tencent has broken out spending on new AI products (Hunyuan, Yuanbao, CodeBuddy, WorkBuddy, QClaw) from the core business:
 
-| 口径 | Q1 2026 | Q1 2025 | 同比 | 利润率 |
+| Basis | Q1 2026 | Q1 2025 | YoY | Margin |
 |------|---------|---------|------|--------|
-| Non-IFRS经营利润（含AI产品） | 756亿 | 693亿 | +9% | 38.5% |
-| **Non-IFRS经营利润（剔除AI产品）** | **844亿** | **721亿** | **+17%** | **43.0%** |
-| AI新产品亏损 | **~88亿** | ~28亿 | +214% | — |
+| Non-IFRS operating profit (including AI products) | RMB 75.6 billion | RMB 69.3 billion | +9% | 38.5% |
+| **Non-IFRS operating profit (excluding AI products)** | **RMB 84.4 billion** | **RMB 72.1 billion** | **+17%** | **43.0%** |
+| New AI product losses | **~RMB 8.8 billion** | ~RMB 2.8 billion | +214% | — |
 
-**解读**：核心业务（游戏+广告+金融科技）的利润增速是17%、利润率43%，比表面数字好得多。AI产品Q1亏损约88亿，全年计划投入超360亿（2025年180亿的2倍）。这说明腾讯的"利润增速放缓"完全是AI投入造成的，而非核心业务疲软。
+**Interpretation**: The core business (games + advertising + fintech) grew profit at 17% with a 43% margin — far better than the headline numbers suggest. AI products lost roughly RMB 8.8 billion in Q1, with full-year planned spending exceeding RMB 36 billion (double 2025's RMB 18 billion). This shows that Tencent's "slowing profit growth" is entirely attributable to AI investment, not weakness in the core business.
 
-**对投资论文的影响**：强化。证明核心业务的盈利引擎完好，AI投入是主动选择而非被动应对。
+**Impact on the investment thesis**: Reinforcing. It confirms the core business's profit engine remains intact, and that AI investment is a deliberate choice rather than a reactive scramble.
 
-### 2. 广告业务加速增长至+20%，AI驱动效果显著
+### 2. Advertising accelerates to +20% growth, with AI-driven effectiveness gains
 
-营销服务收入增速从Q4的17%提升至20%，是所有板块中最亮眼的。关键驱动力：
+Marketing Services revenue growth accelerated from 17% in Q4 to 20%, the strongest of any segment. Key drivers:
 
-- AI驱动的广告推荐模型升级，提升了广告效果和定价
-- **AIM+自动化投放方案**已驱动约30%的广告主总支出
-- 视频号用户时长同比+20%以上，持续释放广告库存
-- 互联网服务、电商、游戏类广告主增长最快
+- AI-driven upgrades to the ad recommendation model improved ad effectiveness and pricing
+- The **AIM+ automated ad-placement solution** now drives roughly 30% of total advertiser spending
+- Weixin Channels (Video Accounts) user time spent grew over 20% year over year, continuing to release ad inventory
+- Internet services, e-commerce, and gaming advertisers grew the fastest
 
-**解读**：广告是腾讯增速最快的板块，且增长质量高——不是靠堆量，而是靠AI提升单位广告价值。AIM+覆盖30%广告主支出说明AI对广告业务的赋能已过了早期阶段。
+**Interpretation**: Advertising is Tencent's fastest-growing segment, and the growth is high quality — driven not by volume but by AI raising the value per ad unit. AIM+'s 30% coverage of advertiser spending shows that AI's contribution to the advertising business has moved past the early stage.
 
-### 3. 回购大幅缩减——资金向AI倾斜
+### 3. Buybacks shrink sharply as capital tilts toward AI
 
-| 期间 | 回购金额 |
+| Period | Buyback amount |
 |------|---------|
-| 2024全年 | 1,120亿港元 |
-| 2025全年 | ~800亿港元 |
-| Q1 2026 | 76亿港元（年化约300亿） |
+| Full-year 2024 | HKD 112.0 billion |
+| Full-year 2025 | ~HKD 80.0 billion |
+| Q1 2026 | HKD 7.6 billion (annualized pace of ~HKD 30.0 billion) |
 
-回购节奏大幅放缓，管理层明确表示将缩减回购以资助AI投资。这是一个**需要密切关注的信号**——腾讯过去两年的股东回报故事正在被AI投入故事取代。好处是净现金从902亿增至1,469亿（+63%），财务安全垫更厚；风险是如果AI投入回报不达预期，缩减回购将直接拖累股东回报。
+The pace of buybacks has slowed sharply, and management has explicitly stated it will scale back buybacks to fund AI investment. This is a **signal that warrants close monitoring** — Tencent's shareholder-return story of the past two years is being displaced by an AI-investment story. The upside is that net cash rose from RMB 90.2 billion to RMB 146.9 billion (+63%), thickening the financial cushion; the risk is that if the return on AI investment falls short, the shrinking buyback will directly weigh on shareholder returns.
 
 ---
 
-## 三、管理层语气与承诺追踪
+## III. Management tone and commitment tracking
 
-### 3.1 马化腾开场声明要点
+### 3.1 Key points from Pony Ma's opening statement
 
 > "We started 2026 by making significant initial progress on our new AI products..."
 
-| 信号类型 | 判断 | 依据 |
-|---------|------|------|
-| 坦诚度 | 🟢 较好 | 首次披露AI产品亏损88亿，主动区分核心业务和AI投入，信息透明度提升 |
-| 清晰度 | 🟢 较好 | 具体提到Hy3在OpenRouter排名第一、WorkBuddy是中国最广泛使用的生产力AI智能体 |
-| 过度乐观 | ⚠️ 轻微 | "significant initial progress"用词偏积极，但加了"initial"限定 |
+| Signal type | Assessment | Basis |
+|---------|------|---------|
+| Candor | 🟢 Good | First-time disclosure of RMB 8.8 billion in AI product losses; proactively distinguishes the core business from AI investment, improving transparency |
+| Clarity | 🟢 Good | Specifically cited Hunyuan-3 ranking No. 1 on OpenRouter and WorkBuddy being the most widely used productivity AI agent in China |
+| Over-optimism | ⚠️ Slight | The phrase "significant initial progress" leans positive, though qualified by "initial" |
 
-### 3.2 承诺追踪（vs Q4 2025电话会）
+### 3.2 Commitment tracking (vs. Q4 2025 earnings call)
 
-| 上期承诺 | 本期兑现 | 评价 |
+| Prior commitment | This quarter's delivery | Assessment |
 |---------|---------|------|
-| "2026年AI投入至少翻倍" | Q1 AI产品亏损88亿（年化352亿 vs 2025年180亿） | ✅ 节奏吻合 |
-| "收入增速将快于利润增速" | 收入+9%，Non-IFRS利润+11%（利润反而更快） | ⚠️ 本季利润增速略快于收入，但主要因为IFRS利润含投资收益波动 |
-| "资本开支将增加" | Q1资本开支319亿，同比+16%、环比+63% | ✅ 兑现 |
-| "视频号持续增长" | 用户时长同比+20% | ✅ 兑现 |
-| 暗示回购将缩减 | 76亿港元 vs Q1 2025的171亿港元 | ✅ 兑现（回购缩减56%） |
+| "AI investment in 2026 will at least double" | Q1 AI product losses of RMB 8.8 billion (annualized RMB 35.2 billion vs. RMB 18.0 billion in 2025) | ✅ On pace |
+| "Revenue growth will outpace profit growth" | Revenue +9%, Non-IFRS profit +11% (profit actually grew faster) | ⚠️ Profit growth slightly outpaced revenue this quarter, but mainly because IFRS profit includes swings in investment gains |
+| "Capex will increase" | Q1 capex of RMB 31.9 billion, +16% YoY and +63% QoQ | ✅ Delivered |
+| "Weixin Channels will keep growing" | User time spent +20% YoY | ✅ Delivered |
+| Implied that buybacks would shrink | HKD 7.6 billion vs. HKD 17.1 billion in Q1 2025 | ✅ Delivered (buybacks down 56%) |
 
-### 3.3 管理层整体语气
+### 3.3 Overall management tone
 
-**务实中带有战略信心，但明确承认短期压力。**
+**Pragmatic, with strategic confidence, but with clear acknowledgment of near-term pressure.**
 
-关键判断：马化腾用"significant initial progress"定性AI进展，刘炽平此前明确预警"收入增速快于利润增速"——这是一种**对市场预期的精细管理**，刻意区分"AI赋能现有业务"（已产生回报）和"AI新产品"（仍在投入期）。
+Key judgment: Pony Ma characterized AI progress as "significant initial progress," while Martin Lau had previously given a clear advance warning that "revenue growth would outpace profit growth" — this is a form of **careful management of market expectations**, deliberately distinguishing "AI empowering existing businesses" (already generating returns) from "new AI products" (still in the investment phase).
 
 ---
 
-## 四、附注中的隐藏信息
+## IV. Hidden information in the notes
 
-### 4.1 异常信号检测
+### 4.1 Anomaly signal detection
 
-| 检查项 | 结果 | 判断 |
+| Check item | Result | Assessment |
 |--------|------|------|
-| 应收账款增速 vs 收入增速 | 应收+16.4% vs 收入+9.1% | ⚠️ **需关注** — 应收增速高于收入增速7个百分点 |
-| 经营现金流 vs 净利润 | 自由现金流567亿 vs IFRS净利594亿，FCF/净利=95% | ✅ 健康 |
-| 递延收入变化 | 流动递延收入+28%（1,101亿→1,413亿） | 🟢 **正面** — 大量预收但未确认的收入，未来会释放 |
-| 股份酬金 | 65.3亿 vs Q1 2025的101亿，下降35% | 🟢 **正面** — 股权激励成本大幅降低 |
-| 商誉 | 含在无形资产1,990亿中，环比-3.4% | ✅ 无减值迹象 |
-| 投资组合公允价值 | 上市投资从6,727亿降至5,471亿（-19%） | ⚠️ 综合全面收益录得亏损240亿 |
+| Receivables growth vs. revenue growth | Receivables +16.4% vs. revenue +9.1% | ⚠️ **Warrants attention** — receivables growth outpaces revenue growth by 7 percentage points |
+| Operating cash flow vs. net profit | Free cash flow RMB 56.7 billion vs. IFRS net profit RMB 59.4 billion; FCF/net profit = 95% | ✅ Healthy |
+| Change in deferred revenue | Current deferred revenue +28% (RMB 110.1 billion → RMB 141.3 billion) | 🟢 **Positive** — a large amount of cash collected in advance but not yet recognized as revenue, to be released in future periods |
+| Share-based compensation | RMB 6.53 billion vs. RMB 10.1 billion in Q1 2025, down 35% | 🟢 **Positive** — equity-incentive costs down sharply |
+| Goodwill | Included within intangible assets of RMB 199.0 billion, -3.4% QoQ | ✅ No sign of impairment |
+| Investment portfolio fair value | Listed investments fell from RMB 672.7 billion to RMB 547.1 billion (-19%) | ⚠️ Total comprehensive income recorded a loss of RMB 24.0 billion |
 
-### 4.2 应收账款偏高的可能原因
+### 4.2 Possible reasons for elevated receivables
 
-应收账款从499亿增至581亿（+16.4%），显著快于收入增速。可能原因：
-- 广告业务快速增长（+20%）但部分广告主账期较长
-- 企业服务/云业务增长（+20%）中大客户项目结算周期偏长
-- 需在Q2观察是否回收正常，如果持续扩大需要警惕
+Receivables rose from RMB 49.9 billion to RMB 58.1 billion (+16.4%), significantly outpacing revenue growth. Possible reasons:
+- Advertising is growing quickly (+20%) but some advertisers have longer payment terms
+- Within business services/cloud growth (+20%), large-customer projects have longer settlement cycles
+- Whether collections normalize needs to be watched in Q2; continued widening would warrant caution
 
-### 4.3 现金流细节
+### 4.3 Cash flow details
 
-- **自由现金流567亿，同比+20%**——现金生成能力依然极强
-- 资本开支319亿虽然同比+16%，但自由现金流增速更快，说明业务本身的现金造血能力在加速
-- 净现金从1,071亿增至1,469亿，增长37%环比——说明即使加大AI投入和资本开支，现金还在快速积累
+- **Free cash flow of RMB 56.7 billion, +20% YoY** — cash-generation ability remains extremely strong
+- Although capex of RMB 31.9 billion grew +16% YoY, free cash flow grew even faster, showing that the business's own cash-generation capacity is accelerating
+- Net cash rose from RMB 107.1 billion to RMB 146.9 billion, up 37% QoQ — showing that even with stepped-up AI investment and capex, cash is still accumulating rapidly
 
 ---
 
-## 五、历史趋势对比
+## V. Historical trend comparison
 
-| 指标 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | **Q1 2026** | 趋势 |
+| Metric | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | **Q1 2026** | Trend |
 |------|---------|---------|---------|---------|------------|------|
-| 总收入(亿) | 1,800 | 1,832 | 1,672 | 1,944 | **1,965** | 稳步增长 |
-| 收入增速 | +13% | +8% | +8% | +11% | **+9%** | 9-13%区间波动 |
-| 毛利率 | 55.8% | 57.4% | 54.3% | 55.7% | **56.6%** | 稳定 |
-| Non-IFRS经营利润率 | 38.5% | 38.2% | 37.8% | 35.8% | **38.5%** | Q4触底反弹 |
-| Non-IFRS归母净利增速 | +22% | +17% | +14% | +3% | **+11%** | Q4低谷后回升 |
-| 营销服务增速 | +20% | +19% | +17% | +17% | **+20%** | 再次加速 |
-| 资本开支(亿) | 275 | 209 | 111 | 196 | **319** | 大幅上升 |
+| Total revenue (RMB bn) | 180.0 | 183.2 | 167.2 | 194.4 | **196.5** | Steady growth |
+| Revenue growth | +13% | +8% | +8% | +11% | **+9%** | Fluctuating in a 9-13% range |
+| Gross margin | 55.8% | 57.4% | 54.3% | 55.7% | **56.6%** | Stable |
+| Non-IFRS operating margin | 38.5% | 38.2% | 37.8% | 35.8% | **38.5%** | Bottomed in Q4, rebounded |
+| Non-IFRS net profit growth | +22% | +17% | +14% | +3% | **+11%** | Recovered after the Q4 trough |
+| Marketing Services growth | +20% | +19% | +17% | +17% | **+20%** | Reaccelerating |
+| Capex (RMB bn) | 27.5 | 20.9 | 11.1 | 19.6 | **31.9** | Sharp rise |
 
-**关键趋势判断**：
-1. 收入增速稳定在9-13%区间，无加速也无恶化
-2. Q4 2025的利润率低谷（35.8%）在Q1回升至38.5%，说明并非结构性恶化
-3. 广告增速重新加速至20%，是最大的增长引擎
-4. 资本开支从Q3的111亿跳升至Q1的319亿，AI投入进入加速期
-
----
-
-## 六、与投资论文的关系
-
-### 现有投资论文核心要素
-
-1. **微信生态的广告变现**（视频号+小程序+搜索）→ **强化**，广告+20%且加速
-2. **游戏业务的长青能力** → **维持**，长青游戏流水创新高，但收入增速仅+6%受春节时差影响
-3. **AI对各业务的赋能** → **强化**，首次量化显示核心业务剔除AI后利润率43%
-4. **股东回报**（回购+分红）→ **削弱**，回购从年化680亿降至年化300亿
-5. **净现金安全垫** → **强化**，净现金1,469亿（+63%）
+**Key trend assessment**:
+1. Revenue growth is stable in a 9-13% range, neither accelerating nor deteriorating
+2. Q4 2025's margin trough (35.8%) rebounded to 38.5% in Q1, indicating it was not structural deterioration
+3. Advertising growth reaccelerated to 20%, the largest growth engine
+4. Capex jumped from RMB 11.1 billion in Q3 to RMB 31.9 billion in Q1, with AI investment entering an accelerating phase
 
 ---
 
-## 七、结论：这份财报改变了什么？
+## VI. Relationship to the investment thesis
 
-### 1. 超预期、符合预期、还是低于预期？
+### Core elements of the existing investment thesis
 
-**表面低于预期（收入miss 25亿），实质略超预期。**
-
-收入miss主要因春节时差导致游戏收入确认推迟，属于季节性因素，Q2会回补。Non-IFRS归母净利小幅超预期。最重要的是首次披露的"剔除AI产品"利润数据——核心业务+17%增长、43%利润率——远好于市场担忧。
-
-### 2. 对投资论文的影响
-
-**整体强化，但"股东回报"支柱被削弱。**
-
-核心业务盈利能力比预期更好，AI投入虽大但财务完全可承受（净现金+63%）。唯一的负面是回购大幅缩减——如果AI投入3年后无法产生可观回报，这将被证明是错误的资本配置。
-
-### 3. 下一个催化剂
-
-- **Q2财报**：游戏收入春节时差回补 + AI产品亏损规模是否扩大
-- **混元3正式版发布**：能否维持OpenRouter领先地位
-- **元宝DAU突破**：当前1,800万远落后于豆包/千问，需要看到增长拐点
-- **电话会Q&A**：管理层对利润率指引和回购计划的最新表态
-
-### 4. 如果已持有，该如何操作？
-
-**持有。**
-
-核心业务健康（+17%利润增速），估值合理（~20x Non-IFRS PE），净现金充裕（1,469亿）。AI投入是明智的战略选择，短期压制利润但长期方向正确。唯一需要警惕的是：如果连续2-3个季度AI产品（元宝/WorkBuddy）用户数据无改善，则需要重新评估AI投入的回报预期。
+1. **Weixin ecosystem ad monetization** (Weixin Channels + Mini Programs + Search) → **Reinforced**, advertising +20% and accelerating
+2. **Evergreen strength of the games business** → **Maintained**, evergreen game grossing hit new highs, though revenue growth was only +6%, affected by the Lunar New Year calendar shift
+3. **AI empowering all business lines** → **Reinforced**, first-time quantification shows the core business's margin excluding AI is 43%
+4. **Shareholder returns** (buybacks + dividends) → **Weakened**, buybacks fell from an annualized HKD 68.0 billion pace to an annualized HKD 30.0 billion pace
+5. **Net cash safety cushion** → **Reinforced**, net cash of RMB 146.9 billion (+63%)
 
 ---
 
-## 利润口径说明
+## VII. Conclusion: what did this earnings report change?
 
-腾讯财报中有5个主要利润数字：
+### 1. Beat, in line, or miss?
 
-| 口径 | Q1金额 | 增速 | 含义 |
+**On the surface, a miss (revenue missed by RMB 2.5 billion); in substance, a slight beat.**
+
+The revenue miss was mainly caused by the Lunar New Year calendar shift delaying game-revenue recognition — a seasonal factor that will be made up in Q2. Non-IFRS net profit attributable to shareholders slightly beat expectations. Most importantly, the first-time disclosure of profit data "excluding AI products" — 17% growth and a 43% margin in the core business — was far better than the market had feared.
+
+### 2. Impact on the investment thesis
+
+**Overall reinforced, but the "shareholder returns" pillar was weakened.**
+
+The core business's profitability is better than expected, and while AI investment is large, it is fully affordable financially (net cash +63%). The only negative is the sharp reduction in buybacks — if AI investment fails to generate meaningful returns three years from now, this will prove to have been a poor capital-allocation decision.
+
+### 3. Next catalysts
+
+- **Q2 earnings**: whether game revenue recovers from the Lunar New Year calendar shift, and whether AI product losses widen
+- **Official launch of Hunyuan 3**: whether it can maintain its leading position on OpenRouter
+- **Yuanbao DAU breakthrough**: currently at 18 million, far behind Doubao/Qwen — a growth inflection point needs to be seen
+- **Earnings call Q&A**: management's latest remarks on margin guidance and buyback plans
+
+### 4. If already holding, what to do?
+
+**Hold.**
+
+The core business is healthy (+17% profit growth), the valuation is reasonable (~20x Non-IFRS P/E), and net cash is ample (RMB 146.9 billion). AI investment is a sound strategic choice — it weighs on profit in the near term but is directionally correct for the long run. The one thing to watch for: if user data for AI products (Yuanbao/WorkBuddy) shows no improvement for 2-3 consecutive quarters, the return expectations for AI investment will need to be reassessed.
+
+---
+
+## Profit metrics explained
+
+Tencent's earnings report contains 5 main profit figures:
+
+| Basis | Q1 amount | Growth | Meaning |
 |------|--------|------|------|
-| 毛利 | 1,113亿 | +11% | 收入 - 直接成本（服务器、内容、分成等） |
-| IFRS经营利润 | 674亿 | +17% | 含股权激励、并购摊销的完整经营利润 |
-| **Non-IFRS经营利润** | **756亿** | **+9%** | 剔除非现金项后的核心业务盈利能力 |
-| IFRS净利润 | 594亿 | +19% | 含投资组合公允价值波动，一个季度可能差几十亿 |
-| **Non-IFRS归母净利** | **679亿** | **+11%** | 剔除所有非经常性项目的"真实"净利润 |
+| Gross profit | RMB 111.3 billion | +11% | Revenue minus direct costs (servers, content, revenue-sharing, etc.) |
+| IFRS operating profit | RMB 67.4 billion | +17% | Full operating profit including share-based compensation and M&A-related amortization |
+| **Non-IFRS operating profit** | **RMB 75.6 billion** | **+9%** | Core-business profitability after excluding non-cash items |
+| IFRS net profit | RMB 59.4 billion | +19% | Includes fair-value swings in the investment portfolio, which can differ by billions of RMB in a single quarter |
+| **Non-IFRS net profit attributable to shareholders** | **RMB 67.9 billion** | **+11%** | "True" net profit after excluding all non-recurring items |
 
-日常跟踪用Non-IFRS经营利润（看业务）和Non-IFRS归母净利（看股东赚到的钱）。本季新增"剔除AI新产品"口径（844亿/+17%），专门展示核心业务健康度。
+For routine tracking, use Non-IFRS operating profit (to gauge the business) and Non-IFRS net profit attributable to shareholders (to gauge what shareholders actually earned). This quarter adds a new basis "excluding new AI products" (RMB 84.4 billion / +17%), specifically to show the health of the core business.
 
 ---
 
 Sources:
-- [腾讯官方Q1 2026业绩公告PDF](https://static.www.tencent.com/uploads/2026/05/13/47382ae415a209fd161bc19a1f9b3704.pdf)
+- [Tencent official Q1 2026 earnings announcement PDF](https://static.www.tencent.com/uploads/2026/05/13/47382ae415a209fd161bc19a1f9b3704.pdf)
 - [CNBC: Tencent Q1 earnings](https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html)
 - [Yahoo Finance: Tencent Q1 revenue rises 9%](https://finance.yahoo.com/news/tencent-q1-revenue-rises-9-084226522.html)
-- [DoNews: 腾讯Q1营收1964.6亿](https://www.donews.com/news/detail/1/6554161.html)
-- [36氪: 腾讯需要一场2026年的首胜](https://36kr.com/p/3806113231511049)
-- [腾讯投资者关系页面](https://www.tencent.com/zh-cn/investors.html)
+- [DoNews: Tencent Q1 revenue RMB 196.46 billion](https://www.donews.com/news/detail/1/6554161.html)
+- [36Kr: Tencent needs its first win of 2026](https://36kr.com/p/3806113231511049)
+- [Tencent Investor Relations page](https://www.tencent.com/zh-cn/investors.html)

@@ -1,377 +1,377 @@
-# Nittobo (3110.T) 深度投资研究
+# Nittobo (3110.T) In-Depth Investment Research
 
-**日期：2026-06-04**
-**股价：¥20,770（2026-06-04收盘）**
-**市值：¥783B（约$51亿）**
-**52周范围：¥4,790 - ¥32,900**
+**Date: 2026-06-04**
+**Share price: ¥20,770 (2026-06-04 close)**
+**Market cap: ¥783B (approx. $5.1B)**
+**52-week range: ¥4,790 - ¥32,900**
 
 ---
 
-## 核心结论（先说答案）
+## Core Conclusion (the answer up front)
 
-| 维度 | 判定 |
+| Dimension | Judgment |
 |------|------|
-| 瓶颈地位 | ★★★★★ 世界级垄断，T-glass全球唯一量产商 |
-| 财务质量 | ★★★ FY2025净利¥41.8B含¥34.2B一次性收益，经常性仅¥7.6B |
-| 估值 | ★ 经常性P/E 121x，前瞻P/E 46-54x，严重高估 |
-| 安全边际 | ★ 当前价格距安全边际入场区间仍高估100%+ |
-| 综合评级 | **观望——好公司，坏价格** |
+| Bottleneck position | ★★★★★ World-class monopoly, the world's only volume producer of T-glass |
+| Financial quality | ★★★ FY2025 net profit of ¥41.8B includes a ¥34.2B one-off gain; recurring profit is only ¥7.6B |
+| Valuation | ★ Recurring P/E of 121x, forward P/E of 46-54x — severely overvalued |
+| Margin of safety | ★ Current price is still 100%+ above the margin-of-safety entry range |
+| Overall rating | **Watch — good company, bad price** |
 
-> "以合理的价格买入一家好公司，远好于以好的价格买入一家合理的公司。但前提是价格至少得'合理'。" ——巴菲特
+> "It's far better to buy a good company at a fair price than a fair company at a good price. But that's only on the condition that the price is at least 'fair.'" — Buffett
 
 ---
 
-## 一、公司概况
+## I. Company Overview
 
-### 1.1 业务结构
+### 1.1 Business Structure
 
-日东纺绩（Nittobo）成立于1923年，总部位于日本东京，东京交易所上市（3110.T）。六大业务分部：
+Nitto Boseki (Nittobo) was founded in 1923, is headquartered in Tokyo, Japan, and is listed on the Tokyo Stock Exchange (3110.T). It has six major business segments:
 
-| 分部 | 主要产品 | 占收入比（估计） | 增长态势 |
+| Segment | Main products | Share of revenue (estimate) | Growth trend |
 |------|---------|--------------|---------|
-| **电子材料** | T-glass、NE-glass、E-glass玻纤布 | ~40% | 高速增长（AI驱动） |
-| 复合材料 | 玻璃纤维增强塑料 | ~15% | 稳定 |
-| 医疗 | 体外诊断试剂 | ~15% | 稳定 |
-| 断热材料 | 建筑保温材料 | ~15% | 低增长（住宅疲软） |
-| 材料解决方案 | 特种纤维 | ~10% | 稳定 |
-| 其他 | 纺织、不动产等 | ~5% | 低增长 |
+| **Electronic Materials** | T-glass, NE-glass, E-glass fiberglass cloth | ~40% | Rapid growth (AI-driven) |
+| Composite Materials | Fiberglass-reinforced plastics | ~15% | Stable |
+| Healthcare | In-vitro diagnostic reagents | ~15% | Stable |
+| Insulation Materials | Building thermal insulation materials | ~15% | Low growth (weak housing market) |
+| Materials Solutions | Specialty fibers | ~10% | Stable |
+| Other | Textiles, real estate, etc. | ~5% | Low growth |
 
-**关键点：** 电子材料分部内，T-glass约占该分部30%收入，NE-glass约40%，E-glass约30%。T-glass占公司**总收入约15-20%**——瓶颈叙事虽然真实，但纯正度偏低。
+**Key point:** Within the Electronic Materials segment, T-glass accounts for roughly 30% of segment revenue, NE-glass about 40%, and E-glass about 30%. T-glass makes up **only about 15-20% of the company's total revenue** — the bottleneck narrative is real, but its purity is relatively low.
 
-数据来源：Nittobo集成报告2025、GlobalTechResearch分析
+Data sources: Nittobo Integrated Report 2025, GlobalTechResearch analysis
 
-### 1.2 T-glass：为什么重要
+### 1.2 T-glass: Why It Matters
 
-T-glass（低CTE玻纤布）是AI GPU先进封装的关键材料：
+T-glass (low-CTE fiberglass cloth) is a critical material for advanced AI GPU packaging:
 
-- **应用场景：** ABF基板（IC封装基板）的核心增强材料，防止大尺寸封装基板在高温下翘曲
-- **技术参数：** 热膨胀系数（CTE）2.8 ppm/K，远低于普通E-glass的5.5 ppm/K
-- **下游客户：** Nvidia（CoWoS先进封装）、Apple、Google、Amazon等
-- **为何不可替代：** T-glass需要特殊的硼基玻璃配方+超细纤维拉丝工艺，良率壁垒极高
+- **Application:** The core reinforcement material for ABF substrates (IC packaging substrates), preventing warping of large packaging substrates at high temperatures
+- **Technical spec:** Coefficient of thermal expansion (CTE) of 2.8 ppm/K, far below ordinary E-glass's 5.5 ppm/K
+- **Downstream customers:** Nvidia (CoWoS advanced packaging), Apple, Google, Amazon, and others
+- **Why it's irreplaceable:** T-glass requires a specialized boron-based glass formula plus an ultra-fine fiber-drawing process, creating an extremely high yield barrier
 
-数据来源：TrendForce、Tom's Hardware、CompositesWorld
+Data sources: TrendForce, Tom's Hardware, CompositesWorld
 
-### 1.3 市场地位
+### 1.3 Market Position
 
-| 产品 | Nittobo全球份额 | 第二名 |
+| Product | Nittobo global share | Runner-up |
 |------|---------------|--------|
-| T-glass（ABF基板用） | **90-100%** | 无有效竞争者 |
-| NE-glass | 60-70% | 台湾玻纤等 |
-| E-glass（电子级） | 20-30% | 台湾玻纤、南亚塑胶等 |
+| T-glass (for ABF substrates) | **90-100%** | No effective competitor |
+| NE-glass | 60-70% | Taiwan Glass Fiber, etc. |
+| E-glass (electronic grade) | 20-30% | Taiwan Glass Fiber, Nan Ya Plastics, etc. |
 
-数据来源：TrendForce（2025/11）、Digitimes
+Data sources: TrendForce (2025/11), Digitimes
 
 ---
 
-## 二、财务分析
+## II. Financial Analysis
 
-### 2.1 利润表关键数据
+### 2.1 Key Income Statement Data
 
-| 指标 | FY2024 | FY2025（实际） | FY2026（管理层指引） | FY2027（中期目标） |
+| Metric | FY2024 | FY2025 (actual) | FY2026 (management guidance) | FY2027 (mid-term target) |
 |------|--------|--------------|-------------------|------------------|
-| 营收 | ¥109.0B | ¥118.2B (+8.4%) | ¥137.0B (+15.9%) | ¥155.0B |
-| 营业利润 | ¥16.4B | ¥20.8B (+26.6%) | ¥26.0B (+24.9%) | ¥36.0B |
-| 营业利润率 | 15.1% | 17.6% | 19.0% | 23.2% |
-| **净利润（报告）** | ¥12.9B | **¥41.8B** (+225%) | ¥17.0B | ~¥25B（估计） |
-| **净利润（经常性）** | ¥12.9B | **¥7.6B** | ¥17.0B | ~¥25B（估计） |
+| Revenue | ¥109.0B | ¥118.2B (+8.4%) | ¥137.0B (+15.9%) | ¥155.0B |
+| Operating profit | ¥16.4B | ¥20.8B (+26.6%) | ¥26.0B (+24.9%) | ¥36.0B |
+| Operating margin | 15.1% | 17.6% | 19.0% | 23.2% |
+| **Net profit (reported)** | ¥12.9B | **¥41.8B** (+225%) | ¥17.0B | ~¥25B (estimate) |
+| **Net profit (recurring)** | ¥12.9B | **¥7.6B** | ¥17.0B | ~¥25B (estimate) |
 | EBITDA | ¥24.4B | ¥30.1B (+23.5%) | ¥37.6B | — |
-| EBITDA利润率 | 22.4% | 25.5% | 27.4% | — |
-| EPS | — | ¥1,147（含一次性） | ¥451（经常性基准） | — |
+| EBITDA margin | 22.4% | 25.5% | 27.4% | — |
+| EPS | — | ¥1,147 (including one-off) | ¥451 (recurring basis) | — |
 
-**注：FY2025在日本会计年度指截至2025年3月的财年，而Nittobo的IR资料中FY2026指引对应截至2027年3月的财年。以上统一按实际年份标注。**
+**Note: FY2025 refers to the fiscal year ended March 2025 under the Japanese fiscal-year convention, while the FY2026 guidance in Nittobo's IR materials refers to the fiscal year ending March 2027. Fiscal years are labeled consistently above by their actual calendar-year reference.**
 
-数据来源：Quartr、TipRanks、Nittobo IR
+Data sources: Quartr, TipRanks, Nittobo IR
 
-### 2.2 一次性收益的重大影响
+### 2.2 The Major Impact of the One-Off Gain
 
-**这是分析Nittobo时最容易踩的坑。**
+**This is the biggest trap when analyzing Nittobo.**
 
-FY2025报告净利润¥41.8B中，约¥34.2B来自非流动资产出售收益（2025年11月董事会决议）。扣除后经常性净利润仅¥7.6B。
+Of the ¥41.8B in reported FY2025 net profit, approximately ¥34.2B came from a gain on the sale of a non-current asset (approved by the board of directors in November 2025). Excluding that gain, recurring net profit was only ¥7.6B.
 
-| 口径 | 净利润 | P/E（基于当前¥783B市值） |
+| Basis | Net profit | P/E (based on current ¥783B market cap) |
 |------|-------|----------------------|
-| 报告口径 | ¥41.8B | 18.7x（看似合理） |
-| **经常性口径** | **¥7.6B** | **103x（极贵）** |
-| FY2026指引 | ¥17.0B | **46x** |
+| Reported basis | ¥41.8B | 18.7x (looks reasonable) |
+| **Recurring basis** | **¥7.6B** | **103x (extremely expensive)** |
+| FY2026 guidance | ¥17.0B | **46x** |
 | FY2027E | ~¥25B | **31x** |
 
-> 段永平："不赚钱的生意不是生意。"——剥离一次性收益后，当前估值隐含了对未来极高增长的预期。
+> Duan Yongping: "A business that doesn't make money isn't a business." — Once the one-off gain is stripped out, the current valuation implies extremely high expectations for future growth.
 
-### 2.3 电子材料分部（核心引擎）
+### 2.3 Electronic Materials Segment (the core engine)
 
-| 指标 | FY2025 H1 | 同比 |
+| Metric | FY2025 H1 | YoY |
 |------|-----------|------|
-| 分部收入 | ¥23.4B | +19.3% |
-| 分部营业利润 | ¥9.0B | +40.2% |
-| **营业利润率** | **38.4%** | — |
+| Segment revenue | ¥23.4B | +19.3% |
+| Segment operating profit | ¥9.0B | +40.2% |
+| **Operating margin** | **38.4%** | — |
 
-电子材料分部的38.4%营业利润率极为出色，体现了垄断定价能力。但需注意，这个高利润率分部仅贡献约40%的总收入，其余60%的业务利润率远低于此。
+The Electronic Materials segment's 38.4% operating margin is outstanding, reflecting monopoly-level pricing power. Note, however, that this high-margin segment contributes only about 40% of total revenue — the remaining 60% of the business carries far lower margins.
 
-### 2.4 资本支出与自由现金流
+### 2.4 Capital Expenditure and Free Cash Flow
 
-| 指标 | FY2026指引 | 中期规划 |
+| Metric | FY2026 guidance | Mid-term plan |
 |------|-----------|---------|
-| 资本支出 | ¥45.0B | 中期合计¥120B |
+| CapEx | ¥45.0B | ¥120B cumulative mid-term |
 | EBITDA | ¥37.6B | — |
-| **FCF** | **负值** | **未来2-3年持续为负** |
+| **FCF** | **Negative** | **Expected to stay negative for the next 2-3 years** |
 
-**核心问题：** ¥120B的中期资本支出（含福岛¥15B扩产）远超EBITDA，意味着未来2-3年自由现金流持续为负。公司实质上处于"烧钱扩产"阶段。
+**Core issue:** The ¥120B in mid-term CapEx (including ¥15B for the Fukushima capacity expansion) far exceeds EBITDA, meaning free cash flow will likely stay negative for the next 2-3 years. The company is effectively in a "burn cash to expand capacity" phase.
 
 ---
 
-## 三、瓶颈逻辑深度分析
+## III. In-Depth Analysis of the Bottleneck Thesis
 
-### 3.1 供应瓶颈的现实
+### 3.1 The Reality of the Supply Bottleneck
 
-**利多论据（瓶颈真实性）：**
+**Bullish arguments (the bottleneck is real):**
 
-1. **产能满载：** Nittobo产线100%满负荷运转，2025-2026年产能无增量（来源：Nittobo管理层表态，Digitimes）
-2. **供应缺口：** 2026H2供应缺口预计>40%，AI服务器/ABF基板需求激增（来源：TrendForce）
-3. **Nvidia锁定合同：** Nvidia签订中长期独家供应协议，锁定优先分配权（来源：Digitimes、Tom's Hardware）
-4. **两轮涨价成功实施：**
-   - 第一轮：2025年8月，+20%
-   - 第二轮：2026年4月，+20-30%
-   - 涨价向下游ABF基板传导约滞后2个季度
-5. **日本政府支持：** 福岛扩产获经济安全保障补贴约¥2.4B（来源：MarketScreener）
+1. **Capacity fully utilized:** Nittobo's production lines are running at 100% capacity, with no incremental capacity in 2025-2026 (source: Nittobo management statements, Digitimes)
+2. **Supply gap:** The supply gap in 2026 H2 is projected to exceed 40%, driven by surging demand for AI servers and ABF substrates (source: TrendForce)
+3. **Nvidia lock-in contract:** Nvidia has signed a mid-to-long-term exclusive supply agreement, locking in priority allocation (source: Digitimes, Tom's Hardware)
+4. **Two successful rounds of price increases:**
+   - First round: August 2025, +20%
+   - Second round: April 2026, +20-30%
+   - Price increases pass through to downstream ABF substrates with roughly a two-quarter lag
+5. **Japanese government support:** The Fukushima expansion received an economic security subsidy of approximately ¥2.4B (source: MarketScreener)
 
-**利空论据（瓶颈可能减弱）：**
+**Bearish arguments (the bottleneck could weaken):**
 
-1. **南亚塑胶合作/替代：** Nittobo与南亚塑胶（台塑集团）合作，南亚目标2027年承担20%的T-glass织布产能（来源：TrendForce 2025/11）
-2. **台湾玻纤跟进：** 台湾玻纤也在扩产，2028年市场可能转向供应过剩（来源：Digitimes）
-3. **次代T-glass的双刃剑：** 2028年推出CTE 2.0 ppm次代产品，巩固技术领先但也意味着当前产品生命周期有限
-4. **AI封装技术路线变化：** 3-5年内可能出现替代材料路径绕过T-glass需求
-5. **半导体周期性：** AI投资一旦放缓，供应缺口可能迅速消失
+1. **Nan Ya Plastics partnership/substitution:** Nittobo has partnered with Nan Ya Plastics (Formosa Plastics Group); Nan Ya aims to handle 20% of T-glass weaving capacity by 2027 (source: TrendForce 2025/11)
+2. **Taiwan Glass Fiber catching up:** Taiwan Glass Fiber is also expanding capacity, and the market could shift to oversupply by 2028 (source: Digitimes)
+3. **Double-edged sword of next-gen T-glass:** The next-generation product with a CTE of 2.0 ppm/K launching in 2028 consolidates Nittobo's technological lead but also implies a limited life cycle for the current product
+4. **Shifts in AI packaging technology roadmaps:** Alternative material pathways that bypass T-glass demand could emerge within 3-5 years
+5. **Semiconductor cyclicality:** Should AI investment slow, the supply gap could disappear quickly
 
-### 3.2 涨价逻辑的利润传导
+### 3.2 Profit Pass-Through of the Price Increases
 
-| 时间 | 事件 | 对利润的影响 |
+| Time | Event | Impact on profit |
 |------|------|-----------|
-| 2025年8月 | 第一轮涨价+20% | FY2026 H1开始体现 |
-| 2026年4月 | 第二轮涨价+20-30% | FY2026 H2开始体现 |
-| 2027年H2 | 福岛新产能上线 | 量增+价增叠加 |
-| 2028年 | 次代T-glass量产 | 更高ASP的新产品 |
+| August 2025 | First round of price increases, +20% | Begins showing up in FY2026 H1 |
+| April 2026 | Second round of price increases, +20-30% | Begins showing up in FY2026 H2 |
+| 2027 H2 | New Fukushima capacity comes online | Volume growth compounds with price growth |
+| 2028 | Next-gen T-glass reaches volume production | Higher-ASP new product |
 
-**但另一方面：** 涨价红利的持续性取决于供应缺口能维持多久。一旦2027-2028年新产能集中释放（Nittobo自身3倍扩产+南亚20%+台玻跟进），定价权可能受到侵蚀。
+**But on the other hand:** How long the price-increase windfall persists depends on how long the supply gap can be sustained. Once new capacity is released in bulk in 2027-2028 (Nittobo's own 3x expansion plus Nan Ya's 20% plus Taiwan Glass Fiber catching up), pricing power could erode.
 
-### 3.3 次代T-glass路线图
+### 3.3 Next-Gen T-glass Roadmap
 
-| 指标 | 当前T-glass | 次代T-glass（2028） |
+| Metric | Current T-glass | Next-gen T-glass (2028) |
 |------|-----------|-------------------|
 | CTE | 2.8 ppm/K | **2.0 ppm/K** (-30%) |
-| 目标客户 | Nvidia、Apple等 | 同上+更高性能需求 |
-| 状态 | 量产中 | 样品评估中 |
+| Target customers | Nvidia, Apple, etc. | Same, plus customers with even higher performance needs |
+| Status | In volume production | Under sample evaluation |
 
-次代T-glass将CTE从2.8降至2.0 ppm/K，改善幅度约30%，目标2028年投入使用。这巩固了Nittobo的技术护城河——即使竞争者追上当前产品，次代产品又拉开了差距。
+The next-generation T-glass reduces CTE from 2.8 to 2.0 ppm/K, an improvement of about 30%, targeted for deployment in 2028. This consolidates Nittobo's technology moat — even if competitors catch up to the current product, the next-gen product opens the gap again.
 
-数据来源：TrendForce（2026/02）、Digitimes
+Data sources: TrendForce (2026/02), Digitimes
 
 ---
 
-## 四、竞争格局
+## IV. Competitive Landscape
 
-### 4.1 直接竞争者
+### 4.1 Direct Competitors
 
-| 公司 | 产品 | 状态 | 威胁等级 |
+| Company | Product | Status | Threat level |
 |------|------|------|---------|
-| **南亚塑胶**（台塑） | T-glass织布 | 与Nittobo合作，2027年目标20%产能 | 中（受控的合作关系） |
-| **台湾玻纤** | 类T-glass | 扩产中 | 中（spec-in但良率问题） |
-| **旭化成** | 替代材料 | 研发中 | 低-中（技术路线不同） |
+| **Nan Ya Plastics** (Formosa Plastics) | T-glass weaving | Partnered with Nittobo, targeting 20% of capacity by 2027 | Medium (a controlled partnership) |
+| **Taiwan Glass Fiber** | T-glass-like product | Expanding capacity | Medium (spec-in but yield issues) |
+| **Asahi Kasei** | Alternative materials | In development | Low-to-medium (different technology path) |
 
-**关键判断：** 南亚塑胶更像是Nittobo主导的产能外包合作，而非真正意义上的竞争替代。Nittobo保留核心玻璃纤维配方和拉丝技术，南亚仅负责下游织布环节。但长期来看，台湾厂商追赶30-40%份额的意图是明确的。
+**Key judgment:** Nan Ya Plastics looks more like a capacity-outsourcing arrangement led by Nittobo than a genuine competitive substitute. Nittobo retains the core glass-fiber formula and fiber-drawing technology, with Nan Ya handling only the downstream weaving step. Over the long run, however, Taiwanese manufacturers clearly intend to chase a 30-40% share.
 
-Nittobo管理层表态："竞争者有spec-in资质，但缺乏足够的供应量"。换言之——竞争者能做出合格产品，但无法大规模稳定量产。这种"良率壁垒"是Nittobo最核心的护城河。
+Nittobo management has stated: "Competitors have spec-in qualification, but lack sufficient supply volume." In other words — competitors can produce qualified product, but cannot achieve stable production at scale. This "yield barrier" is Nittobo's most central moat.
 
-数据来源：TrendForce、Digitimes、SmartKarma
+Data sources: TrendForce, Digitimes, SmartKarma
 
 ---
 
-## 五、估值分析
+## V. Valuation Analysis
 
-### 5.1 当前估值快照
+### 5.1 Current Valuation Snapshot
 
-**基于2026-06-04收盘价¥20,770，市值¥783B**
+**Based on the 2026-06-04 closing price of ¥20,770 and a market cap of ¥783B**
 
-| 估值指标 | 数值 | 判定 |
+| Valuation metric | Value | Judgment |
 |---------|------|------|
-| P/E（报告口径，含一次性） | 18.7x | 误导——含¥34.2B一次性收益 |
-| **P/E（经常性）** | **103x** | 极贵 |
-| **P/E（FY2026前瞻）** | **46x** | 贵 |
-| P/E（FY2027E前瞻） | 31x | 偏贵 |
-| EV/EBITDA（FY2026前瞻） | ~22x | 偏贵 |
-| P/S（FY2026前瞻） | 5.7x | 对制造业偏贵 |
-| 股息率 | 0.64% | 极低 |
+| P/E (reported basis, including one-off) | 18.7x | Misleading — includes a ¥34.2B one-off gain |
+| **P/E (recurring)** | **103x** | Extremely expensive |
+| **P/E (FY2026 forward)** | **46x** | Expensive |
+| P/E (FY2027E forward) | 31x | On the expensive side |
+| EV/EBITDA (FY2026 forward) | ~22x | On the expensive side |
+| P/S (FY2026 forward) | 5.7x | Expensive for a manufacturer |
+| Dividend yield | 0.64% | Extremely low |
 
-**注意：** 股价已从5月7日高点¥32,900回落37%至¥20,770，但估值仍然昂贵。
+**Note: The share price has already pulled back 37% from its May 7 high of ¥32,900 to ¥20,770, but the valuation remains expensive.**
 
-### 5.2 DCF估值
+### 5.2 DCF Valuation
 
-| 情景 | 企业价值 | 每股内在价值 | vs当前¥20,770 |
+| Scenario | Enterprise value | Intrinsic value per share | vs. current ¥20,770 |
 |------|---------|-----------|-------------|
-| 保守（FCF缓慢释放） | ¥262B | ¥7,197 | 高估189% |
-| 基准（扩产按计划释放） | ¥401B | ¥11,016 | 高估89% |
-| 乐观（产能全部转化） | ¥562B | ¥15,440 | 高估34% |
+| Conservative (FCF released slowly) | ¥262B | ¥7,197 | Overvalued 189% |
+| Base case (expansion released as planned) | ¥401B | ¥11,016 | Overvalued 89% |
+| Optimistic (full capacity conversion) | ¥562B | ¥15,440 | Overvalued 34% |
 
-关键假设：折现率10%，终端增长率2-3%。FY2026-2028 FCF连续为负（¥120B中期资本支出 > 累计EBITDA）。
+Key assumptions: 10% discount rate, 2-3% terminal growth rate. FCF is expected to stay negative through FY2026-2028 (¥120B mid-term CapEx exceeds cumulative EBITDA).
 
-### 5.3 10年25xPE退出法
+### 5.3 10-Year 25x-P/E Exit Method
 
-- 当前市值¥783B → 10年后目标市值（年化10%回报）= ¥2,031B
-- 所需10年后净利润 = ¥2,031B / 25 = ¥81.2B
-- 从FY2026指引¥17.0B起步 → **所需CAGR = 16.9%**
-- **判断：** 16.9%的净利润CAGR持续10年，对制造业公司极为困难。即使T-glass维持垄断定价，这意味着10年后需要¥81.2B净利润——接近当前营收的60%，要求净利率超过25%（当前经常性仅6.4%）。
+- Current market cap ¥783B → target market cap in 10 years (at a 10% annualized return) = ¥2,031B
+- Net profit required in 10 years = ¥2,031B / 25 = ¥81.2B
+- Starting from FY2026 guidance of ¥17.0B → **required CAGR = 16.9%**
+- **Judgment:** Sustaining a 16.9% net-profit CAGR for 10 years is extremely difficult for a manufacturing company. Even if T-glass retains its monopoly pricing, this implies net profit of ¥81.2B in 10 years — close to 60% of current revenue, requiring a net margin above 25% (versus only 6.4% recurring today).
 
-### 5.4 可比公司法
+### 5.4 Comparable-Company Method
 
-| 基准 | 适用PE | 每股价值 | vs当前¥20,770 |
+| Basis | Applied P/E | Value per share | vs. current ¥20,770 |
 |------|--------|---------|-------------|
-| FY2026E ¥17.0B净利，25x | 25x | ¥11,280 | 高估84% |
-| FY2027E ¥25.0B净利，25x | 25x | ¥16,596 | 高估25% |
-| FY2027E ¥25.0B净利，30x（垄断溢价） | 30x | ¥19,916 | 高估4% |
-| FY2027E ¥25.0B净利，35x（极端溢价） | 35x | ¥23,235 | 低估12% |
+| FY2026E net profit ¥17.0B, 25x | 25x | ¥11,280 | Overvalued 84% |
+| FY2027E net profit ¥25.0B, 25x | 25x | ¥16,596 | Overvalued 25% |
+| FY2027E net profit ¥25.0B, 30x (monopoly premium) | 30x | ¥19,916 | Overvalued 4% |
+| FY2027E net profit ¥25.0B, 35x (extreme premium) | 35x | ¥23,235 | Undervalued 12% |
 
-**只有给予35倍极端垄断溢价、且使用FY2027E（尚未实现的利润）才能勉强支撑当前价格。**
+**Only by applying an extreme 35x monopoly premium and using FY2027E (not-yet-realized profit) can the current price be barely justified.**
 
-### 5.5 SOTP（分部加总）
+### 5.5 Sum-of-the-Parts (SOTP)
 
-| 分部 | 收入占比 | 估值方式 | 估值 |
+| Segment | Revenue share | Valuation method | Valuation |
 |------|---------|---------|------|
-| 电子材料（含T-glass） | 40% | 30-40x PE | ¥240-400B |
-| 非电子材料（医疗、断热等） | 60% | 12-15x PE | ¥30-45B |
-| **合计** | — | — | **¥270-445B** |
-| **每股** | — | — | **¥7,400-12,200** |
+| Electronic Materials (including T-glass) | 40% | 30-40x P/E | ¥240-400B |
+| Non-electronic materials (healthcare, insulation, etc.) | 60% | 12-15x P/E | ¥30-45B |
+| **Total** | — | — | **¥270-445B** |
+| **Per share** | — | — | **¥7,400-12,200** |
 
-### 5.6 安全边际
+### 5.6 Margin of Safety
 
-| 标准 | 价格/区间 | 说明 |
+| Standard | Price / range | Note |
 |------|----------|------|
-| 综合内在价值 | ¥11,000-15,000 | DCF+SOTP+可比中值 |
-| **安全边际买入价（7折）** | **¥7,700-10,500** | 巴菲特安全边际原则 |
-| 拆股后安全边际 | **¥1,540-2,100** | 除以5 |
-| 当前股价 | ¥20,770 | 高出安全边际上限98% |
-| **高估幅度** | **98-170%** | — |
+| Composite intrinsic value | ¥11,000-15,000 | Midpoint of DCF + SOTP + comparables |
+| **Margin-of-safety buy price (30% discount)** | **¥7,700-10,500** | Buffett's margin-of-safety principle |
+| Margin of safety post-split | **¥1,540-2,100** | Divided by 5 |
+| Current share price | ¥20,770 | 98% above the top of the margin-of-safety range |
+| **Overvaluation magnitude** | **98-170%** | — |
 
-> 芒格："即使是世界上最好的公司，如果价格不对，也不是一笔好投资。"
+> Munger: "Even the best company in the world is not a good investment if the price is wrong."
 
 ---
 
-## 六、催化剂与事件日历
+## VI. Catalysts and Event Calendar
 
-| 时间 | 事件 | 影响 |
+| Time | Event | Impact |
 |------|------|------|
-| **2026年6月29日** | **5:1股票拆分基准日** | 降低最低投资门槛，吸引散户，短期利好情绪 |
-| **2026年7月1日** | 股票拆分生效日 | 拆后每股约¥4,154（基于当前价） |
-| 2026年H2 | 第二轮涨价（+20-30%）利润传导 | 营业利润率提升 |
-| 2026年12月 | 福岛新工厂建设完工 | 为2027年量产做准备 |
-| **2027年H2** | **福岛新产能上线** | 产能最高可达当前3倍 |
-| 2027年 | 南亚塑胶承担20%织布产能 | 总体供应增加，但受Nittobo控制 |
-| **2028年** | **次代T-glass（CTE 2.0 ppm）量产** | 巩固技术领先 |
+| **June 29, 2026** | **5:1 stock split record date** | Lowers the minimum investment threshold, attracts retail investors, positive for short-term sentiment |
+| **July 1, 2026** | Stock split effective date | Post-split price of about ¥4,154 (based on the current price) |
+| 2026 H2 | Profit pass-through of the second price increase (+20-30%) | Operating margin improvement |
+| December 2026 | Construction of the new Fukushima plant completed | Preparing for 2027 volume production |
+| **2027 H2** | **New Fukushima capacity comes online** | Capacity could reach up to 3x current level |
+| 2027 | Nan Ya Plastics takes on 20% of weaving capacity | Overall supply increases, but remains under Nittobo's control |
+| **2028** | **Next-gen T-glass (CTE 2.0 ppm) reaches volume production** | Consolidates technology leadership |
 
-**近期最大催化剂：** 5:1股票拆分（6月29日基准日），拆后每股约¥4,000+，大幅降低投资门槛。日本散户倾向于买入拆分后"便宜"的股票——这是短期情绪催化剂，不改变基本面。
+**Biggest near-term catalyst:** The 5:1 stock split (record date June 29), after which shares will trade at roughly ¥4,000+, sharply lowering the investment threshold. Japanese retail investors tend to buy "cheaper"-looking shares after a split — this is a short-term sentiment catalyst that does not change the fundamentals.
 
 ---
 
-## 七、分析师观点
+## VII. Analyst Views
 
-| 维度 | 数据 |
+| Dimension | Data |
 |------|------|
-| 分析师评级 | 5 Buy / 0 Sell（一致看多） |
-| 平均目标价 | ¥27,641（较当前+33%） |
-| 最高目标价 | ¥33,000 |
-| 最低目标价 | ¥22,000 |
-| Forward P/E（分析师估算） | 23.65x |
+| Analyst ratings | 5 Buy / 0 Sell (unanimously bullish) |
+| Average price target | ¥27,641 (+33% vs. current) |
+| Highest price target | ¥33,000 |
+| Lowest price target | ¥22,000 |
+| Forward P/E (analyst estimate) | 23.65x |
 
-**但另一方面：** 日本分析师对本土AI概念股普遍偏乐观。值得注意的是，Simply Wall St基于现金流折现的公允价值估算仅¥2,634——与市价差距超过7倍。分析师目标价和量化模型之间存在巨大分歧。
+**But on the other hand:** Japanese analysts tend to be broadly optimistic on domestic AI-themed stocks. Notably, Simply Wall St's discounted-cash-flow-based fair-value estimate is only ¥2,634 — more than 7x below the market price. There is a vast divergence between analyst price targets and quantitative models.
 
-数据来源：Investing.com、StockAnalysis、Simply Wall St、ValueInvesting.io
-
----
-
-## 八、风险矩阵
-
-| 风险 | 概率 | 影响 | 评级 |
-|------|------|------|------|
-| **估值严重高估，回调50%+** | 中-高 | 极高 | ★★★★★ |
-| T-glass纯正度仅15-20%（混合型公司） | 确定 | 高 | ★★★★ |
-| 南亚2027年20%替代+台玻跟进 | 中 | 中-高 | ★★★ |
-| AI投资周期性放缓 | 中 | 高 | ★★★★ |
-| 重资本开支期FCF持续为负 | 高 | 中 | ★★★ |
-| 替代材料技术路线出现 | 低-中 | 高 | ★★★ |
-| 福岛扩产执行风险（良率爬坡延迟） | 中 | 中 | ★★★ |
-| 日元汇率波动 | 中 | 低-中 | ★★ |
-
-### 最大风险详解：估值
-
-当前¥20,770对应：
-- 经常性P/E **103x**——即使Nvidia锁定合同的T-glass，也不值得为一家制造业公司付100倍以上的利润
-- 前瞻P/E（FY2026）**46x**——仍然远高于日本制造业平均15-20x
-- 10年25xPE退出法所需CAGR **16.9%**——对制造业公司几乎不可能持续10年
-
-**即使从5月高点¥32,900回调了37%，股价仍然严重偏离内在价值。**
-
-### 纯正度问题
-
-T-glass占总收入仅15-20%。投资者为T-glass垄断故事付出了整个公司100+倍P/E的代价，但60%的收入来自增长乏力的医疗、断热、复合材料等业务。这本质上是一个"把一颗钻石镶在铁矿上定价"的问题。
-
-> 李录："好生意的定义之一是不需要大量资本再投入就能持续产生高回报。"——Nittobo当前阶段恰恰相反，¥120B中期资本支出意味着大量资本再投入。
+Data sources: Investing.com, StockAnalysis, Simply Wall St, ValueInvesting.io
 
 ---
 
-## 九、投资结论
+## VIII. Risk Matrix
 
-### 9.1 正面论据总结
+| Risk | Probability | Impact | Rating |
+|------|------|------|---------|
+| **Severe overvaluation, 50%+ correction** | Medium-high | Extremely high | ★★★★★ |
+| T-glass purity only 15-20% (a mixed-business company) | Certain | High | ★★★★ |
+| Nan Ya's 20% substitution in 2027 plus Taiwan Glass Fiber catching up | Medium | Medium-high | ★★★ |
+| Cyclical slowdown in AI investment | Medium | High | ★★★★ |
+| Persistently negative FCF during the heavy-CapEx period | High | Medium | ★★★ |
+| Emergence of alternative-material technology paths | Low-to-medium | High | ★★★ |
+| Execution risk on the Fukushima expansion (yield ramp-up delays) | Medium | Medium | ★★★ |
+| Yen exchange-rate fluctuations | Medium | Low-to-medium | ★★ |
 
-1. T-glass全球唯一量产商，90-100%市占率，护城河真实且深
-2. Nvidia等头部客户签锁定合同，定价权极强（两轮涨价+20%/+20-30%）
-3. 2026H2供应缺口>40%，至少到2027年H2新产能上线前供不应求
-4. 次代T-glass（CTE 2.0 ppm）2028年路线图巩固技术领先
-5. FY2026/FY2027管理层指引分别+16%/+13%营收增长，+25%/+38%营业利润增长
-6. 电子材料分部营业利润率38.4%，体现垄断利润水平
-7. 5:1股票拆分（6月29日）短期情绪催化
+### The Biggest Risk in Detail: Valuation
 
-### 9.2 负面论据总结
+At the current ¥20,770 price:
+- Recurring P/E of **103x** — even for T-glass with an Nvidia lock-in contract, paying more than 100x earnings for a manufacturing company isn't worth it
+- Forward P/E (FY2026) of **46x** — still far above the 15-20x average for Japanese manufacturers
+- The required CAGR of **16.9%** under the 10-year 25x-P/E exit method — nearly impossible to sustain for a manufacturing company over 10 years
 
-1. **估值是最大问题：** 经常性P/E 103x，前瞻46x，10年16.9% CAGR对制造业不可持续
-2. **一次性收益扭曲：** FY2025报告的¥41.8B净利中82%是一次性资产出售
-3. **纯正度低：** T-glass仅占总收入15-20%，60%收入来自低增长业务
-4. **FCF为负：** ¥120B中期资本支出，未来2-3年无正自由现金流
-5. **竞争追赶：** 南亚2027年20%替代，台玻跟进，2028年可能供应过剩
-6. **半导体周期性：** AI投资放缓将使供应缺口快速消失
+**Even after a 37% pullback from the May high of ¥32,900, the share price remains severely disconnected from intrinsic value.**
 
-### 9.3 最终判定
+### The Purity Problem
 
-| 判定 | 说明 |
+T-glass accounts for only 15-20% of total revenue. Investors are paying 100+x P/E for the entire company on the strength of the T-glass monopoly story, but 60% of revenue comes from slow-growing businesses like healthcare, insulation materials, and composite materials. This is, in essence, a case of "pricing a diamond as if the whole iron mine were made of diamond."
+
+> Li Lu: "One definition of a good business is one that can keep generating high returns without requiring large amounts of reinvested capital." — Nittobo's current stage is precisely the opposite: ¥120B in mid-term CapEx means massive reinvestment of capital.
+
+---
+
+## IX. Investment Conclusion
+
+### 9.1 Summary of Bullish Arguments
+
+1. Nittobo is the world's only volume producer of T-glass, with 90-100% market share — the moat is real and deep
+2. Top-tier customers like Nvidia have signed lock-in contracts, giving Nittobo very strong pricing power (two rounds of price increases of +20% and +20-30%)
+3. The 2026 H2 supply gap exceeds 40%, and supply will likely fall short of demand at least until new capacity comes online in 2027 H2
+4. The next-gen T-glass (CTE 2.0 ppm) 2028 roadmap consolidates its technology lead
+5. FY2026/FY2027 management guidance calls for revenue growth of +16%/+13% and operating-profit growth of +25%/+38%, respectively
+6. The Electronic Materials segment's 38.4% operating margin reflects monopoly-level profitability
+7. The 5:1 stock split (June 29) is a short-term sentiment catalyst
+
+### 9.2 Summary of Bearish Arguments
+
+1. **Valuation is the biggest problem:** Recurring P/E of 103x, forward P/E of 46x, and a 16.9% 10-year CAGR requirement that is unsustainable for a manufacturer
+2. **The one-off gain distorts the picture:** 82% of the ¥41.8B in reported FY2025 net profit came from a one-time asset sale
+3. **Low purity:** T-glass accounts for only 15-20% of total revenue, with 60% of revenue coming from low-growth businesses
+4. **Negative FCF:** ¥120B in mid-term CapEx means no positive free cash flow for the next 2-3 years
+5. **Competitors catching up:** Nan Ya's 20% substitution in 2027 and Taiwan Glass Fiber's expansion could lead to oversupply by 2028
+6. **Semiconductor cyclicality:** A slowdown in AI investment would cause the supply gap to disappear quickly
+
+### 9.3 Final Judgment
+
+| Judgment | Note |
 |------|------|
-| **当前操作** | **回避——严重高估，不买** |
-| 安全边际入场价（拆前） | ¥7,700-10,500 |
-| 安全边际入场价（拆后） | ¥1,540-2,100 |
-| 合理估值区间（拆前） | ¥11,000-15,000 |
-| 当前高估幅度 | 38-170%（取决于估值口径） |
-| 入场触发条件 | 日经整体暴跌 或 AI退潮导致估值重置 |
+| **Current action** | **Avoid — severely overvalued, do not buy** |
+| Margin-of-safety entry price (pre-split) | ¥7,700-10,500 |
+| Margin-of-safety entry price (post-split) | ¥1,540-2,100 |
+| Fair valuation range (pre-split) | ¥11,000-15,000 |
+| Current overvaluation magnitude | 38-170% (depending on the valuation basis) |
+| Entry trigger conditions | A broad Nikkei crash, or an AI-hype unwind that resets the valuation |
 
-**Nittobo是少数真正拥有世界级垄断地位的日本制造业公司。T-glass的瓶颈是真实的、可验证的、有合同锁定的。但好公司不等于好投资——当前价格已将未来数年的瓶颈红利全部透支。**
+**Nittobo is one of the few Japanese manufacturers that genuinely holds a world-class monopoly position. The T-glass bottleneck is real, verifiable, and backed by locked-in contracts. But a good company is not the same as a good investment — the current price has already front-loaded years' worth of bottleneck windfall.**
 
-以¥20,770买入，要实现年化10%回报，需要净利润以16.9% CAGR增长10年——这意味着10年后净利润达¥81B，接近当前整个营收的60%。对一家需要持续投入¥120B+资本支出的制造业公司而言，这个预期不现实。
+Buying at ¥20,770 and achieving a 10% annualized return would require net profit to grow at a 16.9% CAGR for 10 years — meaning net profit of ¥81B in 10 years, close to 60% of the company's entire current revenue. For a manufacturing company that needs to keep investing ¥120B+ in CapEx, this expectation is unrealistic.
 
-**纪律性结论：** 将Nittobo加入观察名单，设定价格警报（拆后¥1,540-2,100），等待市场先生犯错——可能在AI周期下行或日本市场整体调整时出现。在此之前，不追高。
+**Disciplined conclusion: Add Nittobo to the watchlist, set a price alert (post-split ¥1,540-2,100), and wait for Mr. Market to make a mistake — which may come during an AI-cycle downturn or a broad correction in the Japanese market. Do not chase the price until then.**
 
 ---
 
-## 数据来源
+## Sources
 
-- Nittobo官方IR：[Nittobo Financial Results](https://www.nittobo.co.jp/eng/ir/library/tanshin.htm)
+- Nittobo official IR: [Nittobo Financial Results](https://www.nittobo.co.jp/eng/ir/library/tanshin.htm)
 - [Quartr - Nitto Boseki IR](https://quartr.com/companies/nitto-boseki-co-ltd_15812)
 - [StockAnalysis - TYO:3110](https://stockanalysis.com/quote/tyo/3110/)
-- [TrendForce - Nittobo扩产Nan Ya合作](https://www.trendforce.com/news/2025/11/28/news-nittobo-expands-glass-fiber-output-with-nan-ya-nan-ya-to-handle-20-by-2027-amid-ai-surge/)
-- [TrendForce - 次代T-glass 2028](https://www.trendforce.com/news/2026/02/04/news-nittobo-reportedly-plans-2028-next-gen-t-glass-customers-may-include-nvidia-apple-and-others/)
-- [Tom's Hardware - T-glass供应短缺](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
-- [Digitimes - T-glass争夺战](https://www.digitimes.com/news/a20250625PD217/fiberglass-cloth-japan-nvidia-amd.html)
-- [Digitimes - Nittobo三倍扩产](https://www.digitimes.com/news/a20250901PD242/fiberglass-cloth-capacity-ai-server-packaging-production.html)
-- [Simply Wall St - 估值分析](https://simplywall.st/stocks/jp/capital-goods/tse-3110/nitto-boseki-shares/news/assessing-nitto-boseki-tse3110-valuation-after-upgraded-earn)
-- [Globe and Mail - 股票拆分公告](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2122978/nittobo-announces-five-for-one-stock-split-and-boosts-authorized-shares/)
-- [Investing.com - 分析师预测](https://www.investing.com/equities/nitto-boseki-co.,-ltd.)
+- [TrendForce - Nittobo expansion and Nan Ya partnership](https://www.trendforce.com/news/2025/11/28/news-nittobo-expands-glass-fiber-output-with-nan-ya-nan-ya-to-handle-20-by-2027-amid-ai-surge/)
+- [TrendForce - Next-gen T-glass 2028](https://www.trendforce.com/news/2026/02/04/news-nittobo-reportedly-plans-2028-next-gen-t-glass-customers-may-include-nvidia-apple-and-others/)
+- [Tom's Hardware - T-glass supply shortage](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
+- [Digitimes - The T-glass battle](https://www.digitimes.com/news/a20250625PD217/fiberglass-cloth-japan-nvidia-amd.html)
+- [Digitimes - Nittobo's threefold capacity expansion](https://www.digitimes.com/news/a20250901PD242/fiberglass-cloth-capacity-ai-server-packaging-production.html)
+- [Simply Wall St - Valuation analysis](https://simplywall.st/stocks/jp/capital-goods/tse-3110/nitto-boseki-shares/news/assessing-nitto-boseki-tse3110-valuation-after-upgraded-earn)
+- [Globe and Mail - Stock split announcement](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2122978/nittobo-announces-five-for-one-stock-split-and-boosts-authorized-shares/)
+- [Investing.com - Analyst forecasts](https://www.investing.com/equities/nitto-boseki-co.,-ltd.)
 - [ValueInvesting.io - Forward P/E](https://valueinvesting.io/3110.T/metric/forward-pe)
-- [CompositesWorld - T-glass在AI中的角色](https://www.compositesworld.com/news/on-the-radar-the-role-of-t-glass-in-ai)
+- [CompositesWorld - The role of T-glass in AI](https://www.compositesworld.com/news/on-the-radar-the-role-of-t-glass-in-ai)
 
 ---
 
-*本报告仅供研究参考，不构成投资建议。*
+*This report is for research reference only and does not constitute investment advice.*

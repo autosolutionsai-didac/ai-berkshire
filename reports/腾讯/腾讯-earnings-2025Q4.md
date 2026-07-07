@@ -1,368 +1,368 @@
-# 腾讯控股(0700.HK) 2025年报/Q4财报精读
+# Tencent Holdings (0700.HK) 2025 Annual Report / Q4 Earnings Deep Read
 
-> 报告日期：2026-04-09 | 财报期间：2025年全年及第四季度 | 发布日期：2026-03-18
+> Report date: 2026-04-09 | Reporting period: Full-year 2025 and Q4 | Release date: 2026-03-18
 
 ---
 
-## 资料可得性评估
+## Data Availability Assessment
 
-| 来源 | 可得性 | 说明 |
+| Source | Availability | Notes |
 |------|--------|------|
-| 腾讯官方新闻稿(PDF) | A级 | 2025年报完整数据，含Q4拆分 |
-| 业绩电话会纪要 | A级 | 多家媒体发布完整纪要含Q&A |
-| Yahoo Finance / Investing.com | B级 | 英文数据有小幅四舍五入差异 |
-| 同花顺/东方财富 | B级 | 中文数据齐全，部分口径有差异 |
-| 港交所披露易 | A级 | 官方公告原件 |
+| Tencent official press release (PDF) | Grade A | Complete 2025 annual report data, including Q4 breakdown |
+| Earnings call transcript | Grade A | Multiple media outlets published full transcripts including Q&A |
+| Yahoo Finance / Investing.com | Grade B | English-language data shows minor rounding differences |
+| iFind / Eastmoney | Grade B | Chinese-language data is complete, with some differences in methodology |
+| HKEX news disclosure | Grade A | Original official filings |
 
-**综合评级：A级** — 一手资料充分，多源交叉验证可行。
+**Overall rating: Grade A** — Primary-source data is abundant, and multi-source cross-validation is feasible.
 
 ---
 
-## 一、核心数据速览
+## I. Key Data at a Glance
 
-### 1.1 收入与利润表
+### 1.1 Income Statement
 
-#### 全年数据（2025 vs 2024）
+#### Full-year data (2025 vs 2024)
 
-| 指标 | 2025全年 | 2024全年 | YoY |
+| Metric | FY2025 | FY2024 | YoY |
 |------|---------|---------|-----|
-| **总收入** | 7,517.7亿 | 6,602.6亿 | **+14%** |
-| 增值服务 | 3,692.8亿 | 3,191.7亿 | +16% |
-| — 本土游戏 | 1,642亿 | 1,397亿 | +18% |
-| — 海外游戏 | 774亿(估计) | 580亿 | +33%(估计) |
-| — 社交网络 | 1,277亿(估计) | 1,215亿 | +5%(估计) |
-| 营销服务 | 1,449.7亿 | 1,213.7亿 | +19% |
-| 金融科技及企业服务 | 2,294.4亿 | 2,119.6亿 | +8% |
-| **毛利润** | 4,225.9亿 | 3,496亿(估计) | **+21%** |
-| **毛利率** | **56.2%** | 52.9% | **+3.3pp** |
-| **GAAP经营利润** | 2,415.6亿 | 2,082亿(估计) | **+16%** |
-| 经营利润率 | 32.1% | 31.5%(估计) | +0.6pp |
-| **Non-IFRS经营利润** | 2,806.6亿(估计) | 2,398亿(估计) | **+17%** |
-| **GAAP归母净利润** | 2,248.4亿 | 1,940.7亿 | **+16%** |
-| **Non-IFRS归母净利润** | 2,596.3亿 | 2,227亿(估计) | **+17%** |
-| 基本EPS | 24.749元 | 20.96元(估计) | +18% |
-| 稀释EPS | 24.153元 | — | — |
-| Non-IFRS基本EPS | 28.577元 | — | +18%(估计) |
+| **Total revenue** | RMB 751.77 billion | RMB 660.26 billion | **+14%** |
+| Value-added services | RMB 369.28 billion | RMB 319.17 billion | +16% |
+| — Domestic games | RMB 164.2 billion | RMB 139.7 billion | +18% |
+| — International games | RMB 77.4 billion (estimate) | RMB 58.0 billion | +33% (estimate) |
+| — Social networks | RMB 127.7 billion (estimate) | RMB 121.5 billion | +5% (estimate) |
+| Marketing services | RMB 144.97 billion | RMB 121.37 billion | +19% |
+| Fintech and business services | RMB 229.44 billion | RMB 211.96 billion | +8% |
+| **Gross profit** | RMB 422.59 billion | RMB 349.6 billion (estimate) | **+21%** |
+| **Gross margin** | **56.2%** | 52.9% | **+3.3pp** |
+| **GAAP operating profit** | RMB 241.56 billion | RMB 208.2 billion (estimate) | **+16%** |
+| Operating margin | 32.1% | 31.5% (estimate) | +0.6pp |
+| **Non-IFRS operating profit** | RMB 280.66 billion (estimate) | RMB 239.8 billion (estimate) | **+17%** |
+| **GAAP net profit attributable to shareholders** | RMB 224.84 billion | RMB 194.07 billion | **+16%** |
+| **Non-IFRS net profit attributable to shareholders** | RMB 259.63 billion | RMB 222.7 billion (estimate) | **+17%** |
+| Basic EPS | RMB 24.749 | RMB 20.96 (estimate) | +18% |
+| Diluted EPS | RMB 24.153 | — | — |
+| Non-IFRS basic EPS | RMB 28.577 | — | +18% (estimate) |
 
-> 注：标注"估计"的数据为基于公开信息推算，未经官方确认精确值。
+> Note: figures marked "estimate" are inferred from public information and have not been confirmed as precise official figures.
 
-#### Q4单季数据（2025Q4 vs 2024Q4）
+#### Q4 single-quarter data (2025Q4 vs 2024Q4)
 
-| 指标 | 2025Q4 | 2024Q4 | YoY |
+| Metric | 2025Q4 | 2024Q4 | YoY |
 |------|--------|--------|-----|
-| **总收入** | 1,943.7亿 | 1,722亿(估计) | **+13%** |
-| 增值服务 | 899.2亿 | — | +14% |
-| — 本土游戏 | 382亿 | 332亿 | +15% |
-| — 海外游戏 | 211亿 | 160亿 | **+32%** |
-| 营销服务 | 411.2亿 | 350亿 | +17% |
-| 金融科技及企业服务 | 608.2亿 | 560亿 | +8% |
-| **毛利润** | 1,082.9亿 | — | +19% |
-| **毛利率** | 55.7% | — | — |
-| **Non-IFRS经营利润** | 695.2亿 | — | **+17%** |
+| **Total revenue** | RMB 194.37 billion | RMB 172.2 billion (estimate) | **+13%** |
+| Value-added services | RMB 89.92 billion | — | +14% |
+| — Domestic games | RMB 38.2 billion | RMB 33.2 billion | +15% |
+| — International games | RMB 21.1 billion | RMB 16.0 billion | **+32%** |
+| Marketing services | RMB 41.12 billion | RMB 35.0 billion | +17% |
+| Fintech and business services | RMB 60.82 billion | RMB 56.0 billion | +8% |
+| **Gross profit** | RMB 108.29 billion | — | +19% |
+| **Gross margin** | 55.7% | — | — |
+| **Non-IFRS operating profit** | RMB 69.52 billion | — | **+17%** |
 
-**关键发现**：
-- 收入增速14%看似平稳，但毛利增速21%远超收入增速，说明**收入质量在显著提升**
-- 海外游戏Q4同比+32%是最大亮点，全年增速+33%
-- 金融科技8%增速是"拖后腿"的板块，但腾讯云实现规模化盈利是质变
+**Key findings**:
+- The 14% revenue growth rate looks steady on the surface, but the 21% gross-profit growth rate far outpaced revenue growth, indicating that **revenue quality is improving markedly**
+- International games growing +32% YoY in Q4 is the biggest highlight, with full-year growth of +33%
+- The 8% growth rate in fintech is the segment "dragging its feet," but the fact that Tencent Cloud has reached profitability at scale is a qualitative shift
 
-### 1.2 现金流表
+### 1.2 Cash Flow Statement
 
-| 指标 | 2025全年 | 2024全年 | YoY |
+| Metric | FY2025 | FY2024 | YoY |
 |------|---------|---------|-----|
-| **经营性现金流** | 3,030.5亿 | 2,586亿(估计) | **+17%** |
-| **资本开支** | 792亿 | 769亿(估计) | +3% |
-| — Q4资本开支 | 224亿 | — | 主要投AI基础设施 |
-| **自由现金流** | 1,826亿 | 1,548亿(估计) | **+18%** |
-| 回购金额 | 800亿港元 | 1,120亿港元 | -29% |
-| 分红金额 | ~410亿港元 | ~310亿港元 | +32% |
-| 总股东回报 | ≥1,210亿港元 | ~1,430亿港元 | -15% |
+| **Operating cash flow** | RMB 303.05 billion | RMB 258.6 billion (estimate) | **+17%** |
+| **Capital expenditure** | RMB 79.2 billion | RMB 76.9 billion (estimate) | +3% |
+| — Q4 capital expenditure | RMB 22.4 billion | — | Primarily invested in AI infrastructure |
+| **Free cash flow** | RMB 182.6 billion | RMB 154.8 billion (estimate) | **+18%** |
+| Buyback amount | HKD 80.0 billion | HKD 112.0 billion | -29% |
+| Dividend amount | ~HKD 41.0 billion | ~HKD 31.0 billion | +32% |
+| Total shareholder returns | ≥HKD 121.0 billion | ~HKD 143.0 billion | -15% |
 
-**现金流质量分析**：
+**Cash flow quality analysis**:
 
-| 质量指标 | 2025 | 判断 |
+| Quality metric | 2025 | Assessment |
 |---------|------|------|
-| 经营现金流/净利润 | 135%(=3030/2248) | 优秀，远超100% |
-| FCF/净利润 | 81%(=1826/2248) | 健康 |
-| 资本开支/经营现金流 | 26%(=792/3031) | 适度，仍有大量自由现金流 |
-| 资本开支/收入 | 10.5%(=792/7518) | 低于预期的"低双位数" |
+| Operating cash flow / net profit | 135% (=303.05/224.84) | Excellent, well above 100% |
+| FCF / net profit | 81% (=182.6/224.84) | Healthy |
+| Capex / operating cash flow | 26% (=79.2/303.1) | Moderate, still leaves substantial free cash flow |
+| Capex / revenue | 10.5% (=79.2/751.8) | Below the "low double digits" the market had expected |
 
-> 段永平视角：经营现金流/净利润=135%，说明利润是"真金白银"，不是纸上富贵。这是印钞机级别的现金流质量。
+> Duan Yongping's view: with operating cash flow / net profit at 135%, profit is "real cash," not paper wealth. This is cash-flow quality on the level of a money-printing machine.
 
-### 1.3 资产负债表
+### 1.3 Balance Sheet
 
-| 指标 | 2025年末 | 2024年末 | 变化 |
+| Metric | Year-end 2025 | Year-end 2024 | Change |
 |------|---------|---------|------|
-| 现金+定期存款+高流动性投资 | 4,949亿 | 4,163亿(估计) | **+19%** |
-| 有息负债(借款+应付票据) | ~3,878亿 | ~3,760亿(估计) | +3% |
-| — 非流动借款 | ~2,084亿 | — | — |
-| — 应付票据 | ~1,262亿 | — | — |
-| **净现金** | **1,071亿** | **765亿(估计)** | **+40%** |
-| 上市投资公司权益(公允值) | ~8,008亿 | — | 隐藏的"投资帝国" |
-| 非上市投资公司权益(账面值) | ~3,631亿 | — | — |
-| 总股本 | 90.81亿股 | 92.35亿股(估计) | 回购注销1.534亿股 |
+| Cash + time deposits + highly liquid investments | RMB 494.9 billion | RMB 416.3 billion (estimate) | **+19%** |
+| Interest-bearing liabilities (borrowings + notes payable) | ~RMB 387.8 billion | ~RMB 376.0 billion (estimate) | +3% |
+| — Non-current borrowings | ~RMB 208.4 billion | — | — |
+| — Notes payable | ~RMB 126.2 billion | — | — |
+| **Net cash** | **RMB 107.1 billion** | **RMB 76.5 billion (estimate)** | **+40%** |
+| Fair value of listed investee equity | ~RMB 800.8 billion | — | A hidden "investment empire" |
+| Book value of unlisted investee equity | ~RMB 363.1 billion | — | — |
+| Total share count | 9.081 billion shares | 9.235 billion shares (estimate) | 153.4 million shares repurchased and cancelled |
 
-**资产负债表健康度**：净现金1,071亿，同比+40%，在大规模AI投入+800亿港元回购之后仍然净现金大幅增长，说明造血能力极强。
-
----
-
-## 二、本期最重要的3个变化
-
-### 变化一：毛利率从53%跳升至56%——结构性拐点
-
-这不是一个季度的波动，而是全年系统性提升3.3个百分点。驱动因素：
-1. **高毛利的游戏收入占比提升**：增值服务（主要是游戏）增速16%，快于整体14%
-2. **广告业务效率提升**：AI驱动的精准投放降低了获客成本
-3. **金融科技降本**：腾讯云从大幅亏损转为规模化盈利，该板块毛利率从47%升至51%（Q3数据）
-4. **混合效应**：低毛利的金融科技增速最慢(8%)，高毛利业务增速快
-
-> 芒格视角：毛利率56%意味着每赚100元收入就有56元是毛利，这是极强的定价权和竞争壁垒的体现。
-
-### 变化二：AI从"烧钱叙事"转向"可见变现"
-
-2025年AI投入的财务轨迹：
-- **资本开支792亿**（仅+3%），远低于市场预期的千亿级别
-- 刘炽平解释：**不是不想花，是先进GPU在中国供应受阻**
-- 混元大模型+元宝专项投入180亿元，Q4单季70亿（加速中）
-- 2026年AI新产品投入"至少翻倍"（即≥360亿）
-
-AI变现已有4条明确路径：
-1. AI优化广告定向 → 广告收入+19%
-2. AI推荐引擎 → 用户时长↑ → 广告库存↑
-3. AI增强老游戏体验 → 游戏ARPU↑
-4. GPU云服务 → 腾讯云收入加速+规模化盈利
-
-### 变化三：海外游戏爆发式增长——第二增长曲线兑现
-
-- Q4海外游戏收入211亿，同比**+32%**
-- 全年海外游戏收入估计774亿，同比增速+33%
-- 这是腾讯最具战略意义的突破：海外收入摆脱了中国监管和宏观经济的单一风险
+**Balance sheet health**: Net cash of RMB 107.1 billion, up +40% YoY — net cash still grew substantially even after massive AI spending plus HKD 80.0 billion in buybacks, indicating extremely strong cash-generation capacity.
 
 ---
 
-## 三、管理层语气与承诺追踪
+## II. The 3 Most Important Changes This Period
 
-### 3.1 语气分析
+### Change One: Gross Margin Jumps from 53% to 56% — A Structural Inflection Point
 
-| 话题 | 语气 | 评价 |
+This is not a single quarter's fluctuation but a systematic full-year improvement of 3.3 percentage points. The drivers:
+1. **Rising share of high-margin gaming revenue**: value-added services (primarily games) grew 16%, faster than the overall 14%
+2. **Improved advertising efficiency**: AI-driven precision targeting lowered customer-acquisition costs
+3. **Cost reduction in fintech**: Tencent Cloud swung from significant losses to profitability at scale, with the segment's gross margin rising from 47% to 51% (Q3 data)
+4. **Mix effect**: low-margin fintech grew slowest (8%), while high-margin businesses grew faster
+
+> Munger's view: a 56% gross margin means that for every RMB 100 of revenue earned, RMB 56 is gross profit — a reflection of very strong pricing power and competitive moat.
+
+### Change Two: AI Shifts from a "Cash-Burning Narrative" to "Visible Monetization"
+
+The financial trajectory of 2025 AI investment:
+- **Capital expenditure of RMB 79.2 billion** (up just +3%), far below the market's expected level of over RMB 100 billion
+- Martin Lau explained: **it's not a lack of willingness to spend — advanced GPU supply in China is constrained**
+- Special investment in the Hunyuan model and Yuanbao totaled RMB 18.0 billion, with RMB 7.0 billion in Q4 alone (and accelerating)
+- 2026 investment in new AI products will "at least double" (i.e., ≥RMB 36.0 billion)
+
+AI monetization already has 4 clear paths:
+1. AI-optimized ad targeting → advertising revenue +19%
+2. AI recommendation engine → increased user time spent → increased ad inventory
+3. AI-enhanced experience in older games → increased game ARPU
+4. GPU cloud services → accelerated Tencent Cloud revenue + profitability at scale
+
+### Change Three: Explosive Growth in International Games — The Second Growth Curve Is Delivering
+
+- Q4 international games revenue was RMB 21.1 billion, up **+32%** YoY
+- Full-year international games revenue is estimated at RMB 77.4 billion, up an estimated +33% YoY
+- This is Tencent's most strategically significant breakthrough: overseas revenue frees the company from the single risk concentration of Chinese regulation and macroeconomics
+
+---
+
+## III. Management Tone and Commitment Tracking
+
+### 3.1 Tone Analysis
+
+| Topic | Tone | Assessment |
 |------|------|------|
-| AI战略 | **罕见坦诚** | 马化腾承认"慢了9-12个月"，这种坦诚在中国科技公司中极为少见 |
-| 资本开支 | 务实 | 不讳言GPU供应受阻导致资本开支低于预期 |
-| 云业务 | 自信 | 马化腾明确表示"云业务实现规模化盈利" |
-| 元宝/混元 | 自省 | 承认用DeepSeek冷启动后用户留存不佳，需要自研模型补课 |
-| 微信智能体 | 战略性 | 描绘了基于微信生态的独特AI Agent愿景 |
+| AI strategy | **Rare candor** | Pony Ma admitted the company was "9-12 months behind," a level of candor rarely seen among Chinese tech companies |
+| Capital expenditure | Pragmatic | Did not shy away from the fact that GPU supply constraints held capex below expectations |
+| Cloud business | Confident | Pony Ma explicitly stated that "the cloud business has achieved profitability at scale" |
+| Yuanbao / Hunyuan | Self-reflective | Acknowledged that user retention was poor after using DeepSeek for a cold start, and that the company needs to catch up with its own proprietary model |
+| WeChat agents | Strategic | Outlined a distinctive AI-agent vision built on the WeChat ecosystem |
 
-**管理层坦诚度评分：★★★★☆**
-加分项：主动承认AI落后、承认元宝留存问题。减分项：对具体AI营收贡献的量化披露仍然不足。
+**Management candor score: ★★★★☆**
+Positives: proactively acknowledged falling behind on AI, and acknowledged the Yuanbao retention problem. Negatives: quantitative disclosure of AI's specific revenue contribution remains insufficient.
 
-### 3.2 上期承诺追踪
+### 3.2 Tracking of Prior-Period Commitments
 
-| 承诺(2024年报电话会) | 兑现情况 | 评分 |
+| Commitment (2024 annual report call) | Delivery | Score |
 |---------------------|---------|------|
-| 加大AI基础设施投入 | 资本开支792亿，因GPU供应受限低于预期 | ★★★ |
-| 继续大规模回购 | 全年回购800亿港元，注销1.534亿股 | ★★★★ |
-| 提升广告变现效率 | 营销服务+19%，超预期 | ★★★★★ |
-| 推进云业务盈利 | 云业务实现规模化盈利 | ★★★★★ |
-| 海外游戏持续增长 | Q4+32%，全年+33% | ★★★★★ |
+| Increase AI infrastructure investment | Capex of RMB 79.2 billion, below expectations due to GPU supply constraints | ★★★ |
+| Continue large-scale buybacks | Full-year buybacks of HKD 80.0 billion, 153.4 million shares cancelled | ★★★★ |
+| Improve advertising monetization efficiency | Marketing services +19%, above expectations | ★★★★★ |
+| Advance cloud business profitability | Cloud business achieved profitability at scale | ★★★★★ |
+| Sustain international games growth | Q4 +32%, full year +33% | ★★★★★ |
 
-### 3.3 电话会最尖锐的问题
+### 3.3 The Sharpest Questions on the Earnings Call
 
-**Q1：AI投入与利润率的矛盾**
-> 分析师：在运营费用持续上升的背景下，如何看待利润率变化？2026年收入增长与利润增长的差距如何理解？
+**Q1: The tension between AI investment and margins**
+> Analyst: Against a backdrop of continually rising operating expenses, how should we think about margin trends? How should we understand the gap between 2026 revenue growth and profit growth?
 
-管理层回应质量：★★★★ — 刘炽平明确表示AI投入会继续加大但有纪律性，不会无限制烧钱。给出了2026年AI新产品投入"翻倍"的量化指引。
+Quality of management's response: ★★★★ — Martin Lau made clear that AI investment will continue to increase but with discipline, and will not burn cash without limit. He provided quantitative guidance that 2026 investment in new AI products would "double."
 
-**Q2：资本开支为何低于预期？**
-> 分析师质疑腾讯AI投入决心不足。
+**Q2: Why was capital expenditure below expectations?**
+> An analyst questioned whether Tencent's commitment to AI investment was insufficient.
 
-管理层回应质量：★★★★★ — 坦诚承认是GPU供应受阻而非战略退缩，并给出了未来加大投入的明确信号。
+Quality of management's response: ★★★★★ — Candidly acknowledged that this was due to GPU supply constraints rather than strategic retreat, and gave a clear signal of increased investment ahead.
 
-**Q3：元宝竞争力如何？**
-> 分析师关注元宝与字节豆包、百度文心的差距。
+**Q3: How competitive is Yuanbao?**
+> An analyst focused on the gap between Yuanbao and ByteDance's Doubao and Baidu's Ernie Bot.
 
-管理层回应质量：★★★ — 承认问题但解决方案还在"进行中"，姚顺雨加盟和组织架构调整是积极信号，但效果待验证。
+Quality of management's response: ★★★ — Acknowledged the problem, but the solution is still "in progress." The hiring of Yao Shunyu and the organizational restructuring are positive signals, but their effectiveness remains to be verified.
 
 ---
 
-## 四、附注隐藏信息
+## IV. Hidden Information in the Footnotes
 
-### 4.1 股权激励稀释
+### 4.1 Share-Based Compensation Dilution
 
-2025年回购注销1.534亿股，总股本从约92.35亿降至90.81亿，**净减少1.7%**。这意味着腾讯的回购不仅覆盖了股权激励稀释，还在持续缩减股本，对每股收益有实质性增厚效果。
+In 2025, 153.4 million shares were repurchased and cancelled, reducing total share count from approximately 9.235 billion to 9.081 billion — a **net decrease of 1.7%**. This means Tencent's buybacks not only covered share-based compensation dilution but continued to shrink the share count, meaningfully accretive to earnings per share.
 
-### 4.2 投资帝国的隐含价值
+### 4.2 The Implied Value of the Investment Empire
 
-| 类别 | 价值 |
+| Category | Value |
 |------|------|
-| 上市公司投资(公允值) | ~8,008亿人民币 |
-| 非上市公司投资(账面值) | ~3,631亿人民币 |
-| **投资组合总估值** | **~1.16万亿人民币** |
+| Listed company investments (fair value) | ~RMB 800.8 billion |
+| Unlisted company investments (book value) | ~RMB 363.1 billion |
+| **Total investment portfolio valuation** | **~RMB 1.16 trillion** |
 
-按90.81亿股计算，仅投资组合每股价值约128元人民币（~140港元），占当前股价508港元的**27%**。这是巨大的隐含安全边际。
+At 9.081 billion shares, the investment portfolio alone is worth approximately RMB 128 per share (~HKD 140), or **27%** of the current share price of HKD 508 — a substantial implicit margin of safety.
 
-### 4.3 AI投入的会计处理
+### 4.3 Accounting Treatment of AI Investment
 
-2025年混元+元宝专项投入180亿元走费用化处理（体现在研发费用中），而792亿资本开支走资本化处理。两者合计AI相关投入接近1,000亿，但对利润的影响路径不同：
-- 180亿费用化：立即冲击当期利润
-- 792亿资本化：通过折旧摊销在未来数年影响利润
+In 2025, the RMB 18.0 billion in special investment in Hunyuan and Yuanbao was expensed (reflected in R&D expenses), while the RMB 79.2 billion in capital expenditure was capitalized. Together, AI-related investment totals nearly RMB 100 billion, but the impact on profit follows different paths:
+- The RMB 18.0 billion expensed amount hits current-period profit immediately
+- The RMB 79.2 billion capitalized amount affects profit over future years through depreciation and amortization
 
-### 4.4 异常信号检测
+### 4.4 Anomaly Detection
 
-| 检查项 | 结果 | 风险 |
+| Check item | Result | Risk |
 |--------|------|------|
-| 应收增速 vs 收入增速 | 数据不足，无法确认 | 待关注 |
-| 研发费用 | 857.5亿，同比增长（创历史新高） | 正面：持续投入 |
-| 关联交易 | 未发现异常披露 | 低风险 |
-| 会计政策变更 | 无重大变更 | 正常 |
+| Receivables growth vs. revenue growth | Insufficient data, cannot confirm | Worth watching |
+| R&D expenses | RMB 85.75 billion, up YoY (an all-time high) | Positive: sustained investment |
+| Related-party transactions | No abnormal disclosures found | Low risk |
+| Accounting policy changes | No material changes | Normal |
 
 ---
 
-## 五、趋势分析（4季度时间序列）
+## V. Trend Analysis (4-Quarter Time Series)
 
-### 5.1 季度收入趋势
+### 5.1 Quarterly Revenue Trend
 
-| 指标 | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
+| Metric | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
 |------|--------|--------|--------|--------|
-| 总收入(亿) | ~1,800 | 1,845 | 1,929 | 1,944 |
-| YoY增速 | ~13% | 15% | 15% | 13% |
+| Total revenue (RMB billion) | ~180.0 | 184.5 | 192.9 | 194.4 |
+| YoY growth | ~13% | 15% | 15% | 13% |
 
-**判断**：收入增速在13%-15%区间稳定运行，Q4略有放缓但仍在双位数。环比来看，每个季度环比小幅递增，表明增长是有机且可持续的。
+**Assessment**: revenue growth has run steadily in the 13%-15% range, with Q4 slightly slower but still in double digits. On a sequential basis, each quarter has grown modestly quarter-over-quarter, indicating that growth is organic and sustainable.
 
-### 5.2 季度利润率趋势
+### 5.2 Quarterly Margin Trend
 
-| 指标 | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
+| Metric | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
 |------|--------|--------|--------|--------|
-| 毛利率 | ~56% | ~57% | 56% | ~56% |
-| Non-IFRS经营利润率 | ~38%(估计) | ~33%(估计) | ~38% | ~36% |
+| Gross margin | ~56% | ~57% | 56% | ~56% |
+| Non-IFRS operating margin | ~38% (estimate) | ~33% (estimate) | ~38% | ~36% |
 
-**判断**：毛利率稳定在56-57%高位，全年系统性高于2024年的53%，这是结构性改善而非周期性波动。
+**Assessment**: gross margin has held steady at a high 56-57% level, systematically above 2024's 53% for the full year — this is a structural improvement rather than a cyclical fluctuation.
 
-### 5.3 季度现金流趋势
+### 5.3 Quarterly Cash Flow Trend
 
-| 指标 | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
+| Metric | 2025Q1 | 2025Q2 | 2025Q3 | 2025Q4 |
 |------|--------|--------|--------|--------|
-| 资本开支(亿) | 275 | 191 | 130 | 224 |
+| Capital expenditure (RMB billion) | 27.5 | 19.1 | 13.0 | 22.4 |
 
-**判断**：Q1资本开支最高（275亿），Q3降至130亿（GPU供应受限），Q4回升至224亿。全年792亿，低于市场预期的千亿级别，但2026年将大幅增加。
+**Assessment**: Q1 capex was highest (RMB 27.5 billion), falling to RMB 13.0 billion in Q3 (due to GPU supply constraints), then recovering to RMB 22.4 billion in Q4. Full-year capex of RMB 79.2 billion came in below the market's expected level of over RMB 100 billion, but 2026 will see a substantial increase.
 
-### 5.4 关键趋势总结
+### 5.4 Summary of Key Trends
 
 ```
-毛利率趋势：  53%(2024) → 56%(2025)   ↑↑↑ 结构性改善
-收入增速：    8%(2024)  → 14%(2025)    ↑↑  加速增长
-FCF增速：     —          → +18%(2025)   ↑↑  现金流充沛
-海外游戏：    9%(2024)  → +33%(2025)   ↑↑↑ 爆发式增长
-净现金：      ~765亿     → 1,071亿      ↑↑  财务更安全
+Gross margin trend:      53% (2024) → 56% (2025)      up up up  structural improvement
+Revenue growth:           8% (2024) → 14% (2025)       up up     accelerating growth
+FCF growth:                —          → +18% (2025)     up up     abundant cash flow
+International games:      9% (2024) → +33% (2025)      up up up  explosive growth
+Net cash:                 ~RMB 76.5bn → RMB 107.1bn      up up     stronger financial footing
 ```
 
 ---
 
-## 六、估值验算
+## VI. Valuation Check
 
-### 6.1 市值验算
-
-```
-股价：508港元（2026-04-09）
-总股本：90.81亿股
-计算市值：508 × 90.81亿 = 46,132亿港元 ≈ 4.61万亿港元
-报告市值（港交所）：~4.42万亿港元（基于496.6港元/股估算）
-偏差原因：股价日间波动
-```
-
-### 6.2 估值指标
+### 6.1 Market Cap Verification
 
 ```
-以港币计：
-股价：508 HKD
-Non-IFRS EPS：28.577 RMB ≈ 32.49 HKD（28.577 / 0.8795）
-PE (Non-IFRS TTM)：508 / 32.49 ≈ 15.6x
-
-以人民币计：
-Non-IFRS归母净利润：2,596.3亿
-市值(RMB)：508 × 0.8795 × 90.81亿 ≈ 4.06万亿 RMB
-PE：4.06万亿 / 2,596亿 ≈ 15.6x
-
-FCF Yield：1,826亿 / 40,570亿 ≈ 4.5%
-股息率：410亿港元 / 46,132亿港元 ≈ 0.9%
-每股股息：5.30港元，股息率 5.30/508 = 1.04%
+Share price: HKD 508 (2026-04-09)
+Total share count: 9.081 billion shares
+Calculated market cap: 508 x 9.081 billion = HKD 4,613.2 billion ≈ HKD 4.61 trillion
+Reported market cap (HKEX): ~HKD 4.42 trillion (estimated based on HKD 496.6/share)
+Reason for discrepancy: intraday share-price fluctuation
 ```
 
-> 巴菲特视角：Non-IFRS PE 15.6倍，FCF Yield 4.5%，对应一家14%收入增速、18%FCF增速的现金牛，这个估值并不贵。如果考虑1.16万亿投资组合的隐含价值，实际经营业务的PE更低。
+### 6.2 Valuation Metrics
 
-### 6.3 多源交叉验证
+```
+In HKD terms:
+Share price: HKD 508
+Non-IFRS EPS: RMB 28.577 ≈ HKD 32.49 (28.577 / 0.8795)
+P/E (Non-IFRS TTM): 508 / 32.49 ≈ 15.6x
 
-| 数据点 | 官方年报 | 36氪 | 新浪财经 | 一致性 |
+In RMB terms:
+Non-IFRS net profit attributable to shareholders: RMB 259.63 billion
+Market cap (RMB): 508 x 0.8795 x 9.081 billion ≈ RMB 4.057 trillion
+P/E: RMB 4.057 trillion / RMB 259.6 billion ≈ 15.6x
+
+FCF Yield: RMB 182.6 billion / RMB 4,057 billion ≈ 4.5%
+Dividend yield: HKD 41.0 billion / HKD 4,613.2 billion ≈ 0.9%
+Dividend per share: HKD 5.30, dividend yield 5.30/508 = 1.04%
+```
+
+> Buffett's view: a Non-IFRS P/E of 15.6x and an FCF yield of 4.5%, for a cash cow growing revenue at 14% and FCF at 18%, is not an expensive valuation. Factoring in the implied value of the RMB 1.16 trillion investment portfolio, the P/E of the core operating business is even lower.
+
+### 6.3 Multi-Source Cross-Validation
+
+| Data point | Official annual report | 36Kr | Sina Finance | Consistency |
 |--------|---------|------|---------|--------|
-| 总收入 | 7,517.7亿 | 7,518亿 | 7,517.7亿 | ✅ 一致 |
-| 归母净利润 | 2,248.4亿 | — | 2,248.42亿 | ✅ 一致 |
-| Non-IFRS归母净利润 | 2,596.3亿 | 2,596.26亿 | — | ✅ 一致 |
-| 自由现金流 | 1,826亿 | — | — | 单源待验证 |
-| 资本开支 | 792亿 | — | 792亿 | ✅ 一致 |
+| Total revenue | RMB 751.77 billion | RMB 751.8 billion | RMB 751.77 billion | Consistent |
+| Net profit attributable to shareholders | RMB 224.84 billion | — | RMB 224.842 billion | Consistent |
+| Non-IFRS net profit attributable to shareholders | RMB 259.63 billion | RMB 259.626 billion | — | Consistent |
+| Free cash flow | RMB 182.6 billion | — | — | Single-source, to be verified |
+| Capital expenditure | RMB 79.2 billion | — | RMB 79.2 billion | Consistent |
 
 ---
 
-## 七、关键问题
+## VII. Key Questions
 
-1. **AI投入的ROI何时可量化？** 2025年AI对各业务线的具体增量贡献尚未明确拆分，2026年翻倍投入后需要看到更清晰的归因分析。
+1. **When will the ROI on AI investment become quantifiable?** In 2025, AI's specific incremental contribution to each business line was not clearly broken out; after 2026's doubled investment, a clearer attribution analysis will be needed.
 
-2. **元宝能否追上豆包？** 马化腾承认落后9-12个月，姚顺雨加盟是积极信号，但To C大模型应用的窗口期正在收窄。微信生态的独特壁垒是唯一杀手锏。
+2. **Can Yuanbao catch up to Doubao?** Pony Ma acknowledged the company is 9-12 months behind; the hiring of Yao Shunyu is a positive signal, but the window of opportunity for consumer-facing large-model applications is narrowing. WeChat's unique ecosystem moat is the only trump card.
 
-3. **GPU供应瓶颈何时缓解？** 2025年资本开支低于预期的核心原因。如果2026年供应改善，资本开支可能大幅跳升，短期冲击利润率。
+3. **When will the GPU supply bottleneck ease?** This was the core reason 2025 capex fell below expectations. If supply improves in 2026, capex could jump sharply, pressuring margins in the near term.
 
-4. **金融科技增速放缓是否见底？** 8%的增速在三大板块中最低，微信支付流水增长面临监管和竞争双重压力。但云业务规模化盈利是板块内的积极变化。
+4. **Has the slowdown in fintech growth bottomed out?** At 8%, this is the slowest-growing of the three major segments, with WeChat Pay transaction-volume growth facing dual pressure from regulation and competition. However, the cloud business reaching profitability at scale is a positive development within the segment.
 
-5. **回购缩减的信号意义？** 2024年回购1,120亿港元 → 2025年800亿港元，虽然仍然可观，但缩减28%。是否意味着管理层认为当前估值吸引力下降？还是为AI投入保留更多现金？
+5. **What does the reduced buyback signal?** Buybacks fell from HKD 112.0 billion in 2024 to HKD 80.0 billion in 2025 — still substantial, but a 28% reduction. Does this suggest management sees diminished valuation appeal at current prices? Or is more cash being reserved for AI investment?
 
 ---
 
-## 八、结论
+## VIII. Conclusion
 
-### 1. 超预期/符合/低于预期：**超预期** ★★★★☆
+### 1. Beat / In-line / Miss: **Beat expectations** ★★★★☆
 
-- 收入+14%符合预期，但毛利率从53%→56%**大幅超预期**
-- Non-IFRS净利润+17%，FCF+18%，均超市场一致预期
-- 海外游戏Q4+32%是惊喜
-- 唯一不及预期的是资本开支仅792亿（市场预期千亿级），但这是供应问题而非需求问题
+- Revenue growth of +14% was in line with expectations, but gross margin rising from 53% to 56% **substantially beat expectations**
+- Non-IFRS net profit +17% and FCF +18% both beat the market consensus
+- International games growing +32% in Q4 was a pleasant surprise
+- The only miss was capex of just RMB 79.2 billion (versus market expectations of over RMB 100 billion), but this was a supply issue, not a demand issue
 
-### 2. 对投资论文的影响：**强化**
+### 2. Impact on the Investment Thesis: **Reinforced**
 
-核心投资论文——"腾讯是中国最优秀的现金流复利机器"——在本次财报中得到全面强化：
-- 经营现金流/净利润=135%，造血能力无可挑剔
-- 毛利率提升3.3pp说明竞争壁垒在加深而非侵蚀
-- 海外游戏爆发证明增长空间远未触顶
-- AI从烧钱转向可见变现，叙事升级
-- 管理层坦诚度提升，组织架构积极调整
+The core investment thesis — "Tencent is China's finest cash-flow compounding machine" — was comprehensively reinforced by this earnings report:
+- Operating cash flow / net profit = 135%, cash-generation capacity is beyond reproach
+- The 3.3pp gross-margin increase indicates the competitive moat is deepening, not eroding
+- The surge in international games proves the growth runway is far from exhausted
+- AI is shifting from cash-burning to visible monetization, upgrading the narrative
+- Management candor has improved, and organizational restructuring is proceeding proactively
 
-### 3. 下一个催化剂
+### 3. Next Catalysts
 
-| 催化剂 | 预计时间 | 影响程度 |
+| Catalyst | Expected timing | Impact |
 |--------|---------|---------|
-| 混元3.0大模型发布 | 2026年4月 | ★★★★ |
-| 2026Q1财报验证AI投入翻倍效果 | 2026年5月 | ★★★★★ |
-| 微信智能体生态启动 | 2026年H1 | ★★★★★ |
-| 海外游戏pipeline新作 | 持续 | ★★★ |
-| GPU供应缓解→资本开支加速 | 2026年H1 | ★★★ |
+| Hunyuan 3.0 model release | April 2026 | ★★★★ |
+| 2026Q1 earnings validating the doubled AI investment's effect | May 2026 | ★★★★★ |
+| Launch of the WeChat agent ecosystem | H1 2026 | ★★★★★ |
+| New titles in the international games pipeline | Ongoing | ★★★ |
+| Easing of GPU supply → accelerated capex | H1 2026 | ★★★ |
 
-### 4. 操作建议：**持有偏加仓** ★★★★
+### 4. Recommended Action: **Hold, biased toward adding** ★★★★
 
-- **Non-IFRS PE 15.6x**，对应17%利润增速，PEG<1
-- FCF Yield 4.5%+股息率1%=5.5%的股东回报率
-- 净现金1,071亿+投资组合1.16万亿提供厚实安全边际
-- 风险：AI投入加速可能短期压缩利润率；中美科技脱钩影响GPU供应
-- **加仓条件**：股价回调至450港元以下（对应PE<13.9x），或Q1财报进一步验证AI变现
+- **Non-IFRS P/E of 15.6x** against 17% profit growth implies a PEG below 1
+- FCF yield of 4.5% + dividend yield of 1% = 5.5% shareholder-return rate
+- Net cash of RMB 107.1 billion plus an RMB 1.16 trillion investment portfolio provides a substantial margin of safety
+- Risks: accelerating AI investment could compress margins in the near term; a US-China tech decoupling could affect GPU supply
+- **Condition for adding**: a pullback in the share price to below HKD 450 (implying a P/E below 13.9x), or the Q1 earnings report further validating AI monetization
 
-> 李录视角：腾讯是极少数同时拥有"消费垄断"（微信13亿MAU）、"管理层品质"（坦诚承认不足并快速纠错）和"合理价格"（PE 15.6x）三个要素的公司。在AI时代，微信的社交图谱和支付闭环是不可复制的护城河。持有。
+> Li Lu's view: Tencent is among a very small group of companies that simultaneously possesses "consumer monopoly" (WeChat's 1.3 billion MAU), "quality of management" (candidly acknowledging shortcomings and correcting them quickly), and "reasonable price" (P/E of 15.6x). In the AI era, WeChat's social graph and closed-loop payments form an irreplicable moat. Hold.
 
 ---
 
-**数据来源**：
+**Data sources**:
 
-- [腾讯2025年度及第四季业绩公告(官方PDF)](https://static.www.tencent.com/uploads/2026/03/18/559e5d480a4411165e6c7367d61fefbd.pdf)
-- [腾讯2025年Q4业绩电话会议纪要 - 新浪财经](https://finance.sina.com.cn/roll/2026-03-19/doc-inhrnktu4281832.shtml)
-- [腾讯2025年营收7518亿元 - 36氪](https://36kr.com/p/3728291911613317)
-- [腾讯控股2025年业绩点评 - 新浪财经](https://finance.sina.com.cn/cj/2026-03-21/doc-inhrukzn2816854.shtml)
-- [腾讯高管承认AI布局落后 - 虎嗅](https://m.huxiu.com/article/4830162.html)
-- [腾讯2025年AI战略全面落地 - 虎嗅](https://www.huxiu.com/article/4842068.html)
+- [Tencent 2025 Annual and Fourth Quarter Results Announcement (official PDF)](https://static.www.tencent.com/uploads/2026/03/18/559e5d480a4411165e6c7367d61fefbd.pdf)
+- [Tencent 2025 Q4 Earnings Call Transcript - Sina Finance](https://finance.sina.com.cn/roll/2026-03-19/doc-inhrnktu4281832.shtml)
+- [Tencent's 2025 revenue reaches RMB 751.8 billion - 36Kr](https://36kr.com/p/3728291911613317)
+- [Tencent Holdings 2025 Results Commentary - Sina Finance](https://finance.sina.com.cn/cj/2026-03-21/doc-inhrukzn2816854.shtml)
+- [Tencent executives acknowledge AI strategy lagged behind - Huxiu](https://m.huxiu.com/article/4830162.html)
+- [Tencent's 2025 AI strategy fully rolled out - Huxiu](https://www.huxiu.com/article/4842068.html)
 - [Tencent 2025 Annual Results - PR Newswire](https://www.prnewswire.com/apac/news-releases/tencent-announces-2025-annual-and-fourth-quarter-results-302717280.html)
 - [Tencent Q4 2025 Earnings Call - Yahoo Finance](https://finance.yahoo.com/news/tencent-holdings-ltd-tcehy-q4-190136023.html)
 
-> 免责声明：本报告仅供投资研究参考，不构成投资建议。数据标注"估计"的部分为基于公开信息推算，可能与最终审计数据存在差异。投资者应自行查阅官方年报原件。
+> Disclaimer: This report is for investment research reference only and does not constitute investment advice. Figures marked "estimate" are inferred from public information and may differ from final audited data. Investors should consult the official annual report filings themselves.

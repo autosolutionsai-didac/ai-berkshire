@@ -1,191 +1,191 @@
-# 技术路线——MoE架构、开源策略与训练效率突破
+# Technical Path — MoE Architecture, the Open-Source Strategy, and the Training-Efficiency Breakthrough
 
-> 《看懂DeepSeek》系列 · 第 02 篇
-> 阅读时间约 10 分钟
-
----
-
-## 为什么要先讲技术？
-
-一家270人的团队，用560万美元训练出全球前沿大模型。这件事如果只是运气，就没有研究价值；如果是结构性的——它就改变了整个AI行业的竞争逻辑。
-
-判断这件事，只有一条路：把技术路线看懂。这篇会尽量用非技术语言把四个核心创新说清楚。
+> Understanding DeepSeek series · Part 02
+> Reading time: approximately 10 minutes
 
 ---
 
-## 创新一：MoE架构——用1/10的电费做同等量级的计算
+## Why start with the technology?
 
-### 什么是MoE？
+A 270-person team trained a globally frontier large model for $5.6 million. If this were purely luck, it wouldn't be worth researching; if it is structural, it changes the competitive logic of the entire AI industry.
 
-传统大模型（如早期GPT-4）是"稠密模型"——每次推理，**所有参数**都参与计算。1万亿参数的模型，每个问题都要动用全部1万亿参数。
-
-MoE（Mixture of Experts，混合专家）的思路完全不同：把模型拆成**多个"专家模块"**，每次推理只激活其中一小部分。
-
-类比：一家有500个律师的律所，客户来了不是500人一起上，而是根据案件类型只派5个最相关的专家。
-
-DeepSeek V3的数据：
-
-| 指标 | 数值 |
-|------|------|
-| 总参数 | **6,710亿**（671B） |
-| 每次激活参数 | **370亿**（37B） |
-| 激活比例 | 约**5.5%** |
-
-V4-Pro更进一步：
-
-| 指标 | 数值 |
-|------|------|
-| 总参数 | **1.6万亿**（1.6T） |
-| 每次激活参数 | **490亿**（49B） |
-| 激活比例 | 约**3%** |
-
-（来源：DeepSeek技术论文、Hugging Face模型页面）
-
-**这意味着什么？** V4-Pro拥有1.6万亿参数的"知识容量"，但每次计算只消耗490亿参数的算力成本。知识的广度和推理的效率，两者兼得。
-
-**反方观点**：MoE并非DeepSeek的发明——Google的Switch Transformer（2021年）、Mixtral（2024年）都在用MoE。DeepSeek的贡献在于**把MoE在超大规模上做到了工程极致**，但这并不意味着其他公司无法复制。事实上，V4发布后数周内，多个实验室已经在研究类似架构。
-
-### MoE的关键优势
-
-| 优势 | 说明 |
-|------|------|
-| 训练成本低 | V3训练仅**560万美元**，同等性能的稠密模型需要上亿美元 |
-| 推理成本低 | 每次只激活3-5%参数，单次推理电费大幅降低 |
-| 扩展性好 | 可以不断加"专家"而不等比增加推理成本 |
+There is only one way to judge this: understand the technical path. This article will do its best to explain the four core innovations in non-technical language.
 
 ---
 
-## 创新二：MLA注意力机制——解决长文本的内存瓶颈
+## Innovation One: MoE Architecture — Doing the Same Order of Computation on 1/10 the Electricity Bill
 
-大模型在处理长文本时有一个技术瓶颈：**KV-cache**（键值缓存）会随上下文长度线性增长，消耗大量GPU显存。
+### What is MoE?
 
-DeepSeek的**MLA（Multi-head Latent Attention）** 通过对注意力头进行低秩压缩，大幅降低KV-cache的内存占用。
+Traditional large models (such as early GPT-4) are "dense models" — every inference call engages **all parameters**. A model with one trillion parameters uses the full trillion parameters for every single question.
 
-V4在此基础上进一步引入**CSA（压缩稀疏注意力）** 和 **HCA（重度压缩注意力）** 混合机制：
+MoE (Mixture of Experts) takes a completely different approach: split the model into **multiple "expert modules,"** and activate only a small subset of them on each inference call.
 
-| 指标 | 对比V3 |
+An analogy: a law firm with 500 lawyers doesn't send all 500 to meet a client — it dispatches only the 5 most relevant experts based on the type of case.
+
+DeepSeek V3's numbers:
+
+| Metric | Value |
+|------|------|
+| Total parameters | **671 billion** (671B) |
+| Parameters activated per call | **37 billion** (37B) |
+| Activation ratio | Approximately **5.5%** |
+
+V4-Pro goes further:
+
+| Metric | Value |
+|------|------|
+| Total parameters | **1.6 trillion** (1.6T) |
+| Parameters activated per call | **49 billion** (49B) |
+| Activation ratio | Approximately **3%** |
+
+(Source: DeepSeek technical papers, Hugging Face model pages)
+
+**What does this mean?** V4-Pro has a "knowledge capacity" of 1.6 trillion parameters, but each computation only consumes the compute cost of 49 billion parameters. It gets both breadth of knowledge and efficiency of inference.
+
+**Counterargument**: MoE is not DeepSeek's invention — Google's Switch Transformer (2021) and Mixtral (2024) both use MoE. DeepSeek's contribution is **pushing MoE to engineering extremes at ultra-large scale**, but that doesn't mean other companies can't replicate it. In fact, within weeks of V4's release, multiple labs were already researching similar architectures.
+
+### MoE's key advantages
+
+| Advantage | Description |
+|------|------|
+| Low training cost | V3 was trained for only **$5.6 million**, whereas a dense model of comparable performance would require hundreds of millions of dollars |
+| Low inference cost | Only 3-5% of parameters are activated per call, sharply lowering the electricity cost per inference |
+| Good scalability | More "experts" can keep being added without a proportional increase in inference cost |
+
+---
+
+## Innovation Two: The MLA Attention Mechanism — Solving the Memory Bottleneck for Long Text
+
+Large models hit a technical bottleneck when processing long text: the **KV-cache** (key-value cache) grows linearly with context length, consuming enormous amounts of GPU memory.
+
+DeepSeek's **MLA (Multi-head Latent Attention)** performs low-rank compression on the attention heads, sharply reducing the memory footprint of the KV-cache.
+
+Building on this, V4 further introduces a hybrid mechanism of **CSA (Compressed Sparse Attention)** and **HCA (Heavily Compressed Attention)**:
+
+| Metric | Compared to V3 |
 |------|--------|
-| 单token推理计算量 | 仅为V3的**27%** |
-| KV-cache占用 | 仅为V3的**10%** |
-| 上下文窗口 | 从128K扩展到**100万tokens** |
+| Compute per token of inference | Only **27%** of V3's |
+| KV-cache footprint | Only **10%** of V3's |
+| Context window | Expanded from 128K to **1 million tokens** |
 
-（来源：DeepSeek V4技术论文）
+(Source: DeepSeek V4 technical paper)
 
-**为什么这很重要？** 100万tokens的上下文窗口意味着可以一次读入一整本书、一整个代码库。而KV-cache的压缩意味着这个能力的硬件成本大幅降低——不是靠堆更贵的GPU，而是靠更聪明的算法。
-
----
-
-## 创新三：FP8混合精度训练与R1-Zero
-
-### FP8训练
-
-传统大模型用FP16（16位浮点数）或BF16进行训练。DeepSeek V3是**第一个成功用FP8（8位浮点数）完成完整训练的开源大模型**。
-
-位数减半，直接的效果：
-
-- 内存占用减半
-- 计算吞吐量几乎翻倍
-- 训练总成本进一步降低
-
-（来源：DeepSeek V3 arXiv论文）
-
-**反方观点**：FP8训练在学术界已有讨论多年，NVIDIA的H100/H200本身就支持FP8算力。DeepSeek的贡献是**第一个在超大规模模型上跑通了FP8训练的完整流水线**，但这项技术会迅速被行业跟进。
-
-### R1-Zero：纯强化学习的里程碑
-
-2025年1月，DeepSeek R1发布时附带了一个研究成果——**R1-Zero**。
-
-传统训练大模型的推理能力，需要先用人工标注的"思维链"数据做监督微调（SFT），再做强化学习（RL）。这个过程依赖大量人工标注。
-
-R1-Zero的突破是：**完全跳过监督微调，仅用强化学习，模型就自发涌现出了推理链**。
-
-这被学术界视为一个标志性事件——它暗示：**推理能力可能不需要人类手把手教，AI可以通过自我博弈学会"思考"。**
-
-**反方观点**：R1-Zero在实际性能上不如经过SFT+RL完整流程的R1。它的学术意义大于工程意义。但它验证了一条理论路径，这条路径的长期影响可能远超短期基准测试分数。
+**Why does this matter?** A 1 million token context window means being able to read an entire book or an entire codebase in one pass. And the compression of the KV-cache means the hardware cost of this capability is sharply reduced — not by piling on more expensive GPUs, but through smarter algorithms.
 
 ---
 
-## 创新四：全MIT开源——护城河还是自掘坟墓？
+## Innovation Three: FP8 Mixed-Precision Training and R1-Zero
 
-DeepSeek的所有核心模型——V3、R1、V4——全部以**MIT协议**开源。这是最宽松的开源协议之一，意味着：
+### FP8 training
 
-- 任何人可以免费下载模型权重
-- 可以用于商业用途
-- 不要求对修改版本也开源
-- 训练代码和工具也全部公开
+Traditional large models are trained using FP16 (16-bit floating point) or BF16. DeepSeek V3 is **the first open-source large model to successfully complete full training using FP8 (8-bit floating point)**.
 
-**38%的2025年Q1新AI论文引用了DeepSeek的工具或数据集**（来源：DemandSage统计）。Hugging Face上，DeepSeek模型月下载量超过**80万次**。
+Halving the bit width has direct effects:
 
-### 开源策略的利与弊
+- Memory footprint cut in half
+- Compute throughput nearly doubled
+- Total training cost further reduced
 
-| 维度 | 看多（护城河说） | 看空（自毁说） |
+(Source: DeepSeek V3 arXiv paper)
+
+**Counterargument**: FP8 training has been discussed in academia for years, and NVIDIA's H100/H200 already support FP8 compute natively. DeepSeek's contribution is **being the first to run a complete FP8 training pipeline at ultra-large scale**, but this technique will quickly be adopted across the industry.
+
+### R1-Zero: a milestone in pure reinforcement learning
+
+In January 2025, DeepSeek R1 was released along with a research result — **R1-Zero**.
+
+Traditionally, training a large model's reasoning ability requires first using human-annotated "chain of thought" data for supervised fine-tuning (SFT), then applying reinforcement learning (RL). This process relies on a large amount of human annotation.
+
+R1-Zero's breakthrough is: **skipping supervised fine-tuning entirely, using only reinforcement learning, and having the model spontaneously develop chains of reasoning on its own.**
+
+The academic community views this as a landmark event — it hints that **reasoning ability may not need to be taught to an AI step by step by humans; AI can learn to "think" through self-play.**
+
+**Counterargument**: R1-Zero's actual performance falls short of R1, which went through the full SFT+RL pipeline. Its academic significance outweighs its engineering significance. But it validates a theoretical path, and the long-term impact of that path may far exceed its short-term benchmark scores.
+
+---
+
+## Innovation Four: Full MIT Open Source — Moat or Self-Inflicted Wound?
+
+All of DeepSeek's core models — V3, R1, V4 — are open-sourced entirely under the **MIT license**. This is one of the most permissive open-source licenses, which means:
+
+- Anyone can download the model weights for free
+- They can be used for commercial purposes
+- Modified versions are not required to also be open-sourced
+- Training code and tools are also all made public
+
+**38% of new AI papers in Q1 2025 cited DeepSeek's tools or datasets** (Source: DemandSage statistics). On Hugging Face, DeepSeek models are downloaded more than **800,000 times** per month.
+
+### Pros and cons of the open-source strategy
+
+| Dimension | Bull case (the "moat" argument) | Bear case (the "self-destruction" argument) |
 |------|-----------------|---------------|
-| 生态 | 开发者生态一旦建成极难迁移 | 别人拿走代码训自己的模型 |
-| 人才吸引 | 全球顶级研究者愿意为开源项目贡献 | 核心知识产权免费送出 |
-| 品牌 | "AI界的Linux"——影响力巨大 | Linux基金会不赚钱 |
-| 商业 | API低价+开源=占领开发者市场 | 竞争对手用你的模型做出竞品 |
-| 安全 | 代码透明→安全审计更充分 | 恶意使用者可以去除安全限制 |
+| Ecosystem | Once a developer ecosystem is built, it's extremely hard to migrate away from | Others can take the code and train their own competing models |
+| Talent attraction | Top researchers worldwide are willing to contribute to open-source projects | Core intellectual property is given away for free |
+| Brand | "The Linux of AI" — enormous influence | The Linux Foundation doesn't make money |
+| Commercial | Low-priced API + open source = capturing the developer market | Competitors use your model to build competing products |
+| Security | Transparent code leads to more thorough security audits | Malicious users can strip out the safety guardrails |
 
-**一个不可忽视的事实**：截至2026年5月，DeepSeek在开源大模型领域排名**全球第一**，GitHub仓库累计超过**7万星**（来源：GitHub）。在"开源AI"这条赛道上，DeepSeek已经建立了显著的先发优势。
+**One fact that can't be ignored**: as of May 2026, DeepSeek ranks **first in the world** in open-source large models, with its GitHub repositories accumulating more than **70,000 stars** in total (Source: GitHub). On the "open-source AI" track, DeepSeek has built a significant first-mover advantage.
 
-**但另一个事实同样不可忽视**：Anthropic（Claude）和OpenAI走的是完全相反的闭源路线，两者在商业化上都远远领先于DeepSeek。开源的影响力能否转化为可持续的竞争优势，至今没有定论。
+**But another fact is equally impossible to ignore**: Anthropic (Claude) and OpenAI have taken the completely opposite closed-source path, and both are far ahead of DeepSeek commercially. Whether open-source influence can be converted into a sustainable competitive advantage remains an open question.
 
 ---
 
-## V4适配华为昇腾：一个关键转折
+## V4's Adaptation to Huawei Ascend: A Key Turning Point
 
-2026年4月24日，DeepSeek V4发布时有一个容易被忽略的细节：**同步宣布全面支持华为昇腾950芯片**。
+On April 24, 2026, when DeepSeek V4 was released, one easily overlooked detail was included: **it simultaneously announced full support for Huawei's Ascend 950 chip.**
 
-这意味着：
+This means:
 
-| 变化 | 之前 | 之后 |
+| Change | Before | After |
 |------|------|------|
-| 训练依赖 | 主要依赖NVIDIA H800 | 开始适配华为昇腾 |
-| 推理部署 | CUDA生态（NVIDIA） | CANN框架（华为） |
-| 供应链风险 | 极高（美国芯片禁令） | 有备份路线 |
+| Training dependency | Primarily reliant on NVIDIA H800 | Beginning to adapt to Huawei Ascend |
+| Inference deployment | CUDA ecosystem (NVIDIA) | CANN framework (Huawei) |
+| Supply chain risk | Extremely high (U.S. chip ban) | Has a backup path |
 
-华为昇腾950超级节点在V4-Pro上实现了单卡解码吞吐**4,700 TPS**、首token延迟约**20ms**（来源：华为计算、科学网）。
+Huawei's Ascend 950 super node achieved single-card decoding throughput of **4,700 TPS** and a first-token latency of about **20ms** on V4-Pro (Source: Huawei Computing, Sciencenet).
 
-**这是第一次一个世界级开源大模型在国产芯片上实现了从训练到推理的全栈部署**，不依赖任何NVIDIA硬件。
+**This is the first time a world-class open-source large model has achieved full-stack deployment — from training to inference — on domestic chips**, without relying on any NVIDIA hardware.
 
-**反方观点**：昇腾芯片与NVIDIA最新的H200/B100相比仍有性能差距。华为自身产能爬坡需要时间——V4-Pro的高端推理服务目前因算力受限，价格预计要到2026年下半年昇腾950量产后才能大幅下降。"去美化"是方向，但远未完成。
-
----
-
-## 技术领先能持续多久？
-
-这是最难回答的问题。直接给出正反两面：
-
-### 看多的理由
-
-1. **算法创新的组织能力**：270人团队持续产出V3→R1→V4三代突破性成果，说明团队的"研究密度"极高
-2. **成本优势有复利效应**：训练成本低→迭代速度快→成本进一步降低
-3. **开源生态壁垒**：全球38%新论文引用，开发者生态一旦锁定很难迁移
-4. **国产芯片适配先行**：在昇腾上的经验会成为后续国产替代的标杆
-
-### 看空的理由
-
-1. **MoE架构不是秘密**：技术论文全部公开，竞对可以快速跟进
-2. **人才流失已在发生**：2025年底至2026年初，多名核心成员离职加入小米、腾讯、字节跳动（来源：36氪）
-3. **无股权激励**：270人的精英团队没有上市公司的股权锁定机制
-4. **芯片差距**：昇腾适配降低了供应链风险，但训练前沿模型的效率仍可能受限
-
-**一个比较审慎的判断是**：技术领先大概率能维持**1-2年**。3年以上的领先取决于团队稳定性、芯片供应和对手的追赶速度——这些都有很大不确定性。
+**Counterargument**: the Ascend chip still lags NVIDIA's latest H200/B100 in performance. Huawei's own capacity ramp-up needs time — V4-Pro's high-end inference service is currently constrained by compute, and pricing is not expected to drop substantially until the Ascend 950 reaches mass production in the second half of 2026. "De-Americanization" is the direction, but it is far from complete.
 
 ---
 
-## 下期预告
+## How Long Can the Technical Lead Last?
 
-技术只是起点。下一篇，我们要回答一个更尖锐的问题——**这个实验室的钱从哪来？能走多远？**
+This is the hardest question to answer. Here are the arguments on both sides, directly:
 
-要拆解的问题：
+### Reasons to be bullish
 
-- 幻方量化到底是什么？它的利润能支撑DeepSeek多久？
-- 首轮融资500亿元意味着什么？"理想主义"还在吗？
-- 与OpenAI、Anthropic、Google的竞争，DeepSeek处于什么位置？
-- "不商业化"是战略还是无奈？
+1. **The organizational capability behind algorithmic innovation**: a 270-person team has continuously produced three generations of breakthrough results — V3, R1, V4 — indicating extremely high "research density" within the team
+2. **The cost advantage has a compounding effect**: lower training cost leads to faster iteration leads to further lower cost
+3. **The open-source ecosystem moat**: cited by 38% of new papers globally; once a developer ecosystem locks in, it's very hard to migrate away
+4. **Early domestic-chip adaptation**: the experience on Ascend will become a benchmark for later domestic substitution efforts
+
+### Reasons to be bearish
+
+1. **The MoE architecture is not a secret**: the technical papers are fully public, and competitors can quickly catch up
+2. **Talent attrition is already happening**: from late 2025 through early 2026, multiple core members departed to join Xiaomi, Tencent, and ByteDance (Source: 36Kr)
+3. **No equity incentives**: the 270-person elite team has none of the equity lock-up mechanisms of a listed company
+4. **The chip gap**: the Ascend adaptation lowers supply-chain risk, but the efficiency of training frontier models may still be constrained
+
+**A relatively cautious judgment is**: the technical lead will most likely be maintained for **1-2 years**. A lead of 3 years or more depends on team stability, chip supply, and how fast competitors catch up — all of which carry significant uncertainty.
 
 ---
 
-*本文是《看懂DeepSeek》系列第 02 篇。*
-*本系列不构成任何投资建议。所有数据来源已在文中标注，如有错误欢迎指正。*
+## Coming Up Next
+
+Technology is only the starting point. In the next article, we'll answer a sharper question — **where does this lab's money come from? How far can it go?**
+
+Questions to unpack:
+
+- What exactly is High-Flyer Quant? How long can its profits sustain DeepSeek?
+- What does the 50 billion yuan first funding round mean? Is the "idealism" still there?
+- Where does DeepSeek stand in its competition with OpenAI, Anthropic, and Google?
+- Is "not commercializing" a strategy, or a lack of choice?
+
+---
+
+*This article is Part 02 of the "Understanding DeepSeek" series.*
+*This series does not constitute investment advice. All data sources are cited in the text; corrections are welcome if errors are found.*

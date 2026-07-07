@@ -1,299 +1,299 @@
-# Temu vs Amazon：业务异同深度分析
+# Temu vs Amazon: A Deep-Dive on Business Model Similarities and Differences
 
-> 分析日期：2026年5月15日
+> Analysis date: May 15, 2026
 
 ---
 
-## 一、商业模式对比
+## I. Business Model Comparison
 
-### 1.1 Amazon：多元帝国
+### 1.1 Amazon: The Diversified Empire
 
-Amazon已经远远超越"电商公司"的定义，是一个横跨七大业务板块的科技巨头：
+Amazon has long outgrown the definition of an "e-commerce company" — it is a technology giant spanning seven major business segments:
 
-| 业务板块 | 2025年收入 | 占总收入比 | 增速 |
+| Business segment | 2025 revenue | % of total revenue | Growth rate |
 |---------|-----------|-----------|------|
-| 北美电商（含1P+3P） | 4263亿美元 | 59.5% | +10% |
-| 国际电商 | 1619亿美元 | 22.6% | +13% |
-| AWS云计算 | 1287亿美元 | 18.0% | +20% |
-| 广告服务 | 680亿美元 | 9.5% | ~23% |
-| 订阅服务（Prime等） | 496亿美元 | 6.9% | +12% |
-| **合计** | **7169亿美元** | | |
+| North America e-commerce (1P + 3P) | $426.3 billion | 59.5% | +10% |
+| International e-commerce | $161.9 billion | 22.6% | +13% |
+| AWS cloud computing | $128.7 billion | 18.0% | +20% |
+| Advertising services | $68.0 billion | 9.5% | ~23% |
+| Subscription services (Prime, etc.) | $49.6 billion | 6.9% | +12% |
+| **Total** | **$716.9 billion** | | |
 
-注：广告和订阅收入已包含在北美/国际分部中，存在重叠统计。
+Note: Advertising and subscription revenue are already included within the North America/International segments, so there is some overlap in the figures.
 
-Amazon的电商模式是**1P自营 + 3P市场的混合体**：
-- **1P自营**：Amazon直接采购商品、定价、销售，承担库存风险
-- **3P市场**：第三方卖家在平台上销售，Amazon收取佣金（通常15%）+ FBA物流费
-- 82%的活跃卖家使用FBA，私有品牌卖家FBA使用率高达92%
-- 卖家利润率约25%-30%
+Amazon's e-commerce model is a **hybrid of 1P first-party retail and 3P marketplace**:
+- **1P first-party**: Amazon directly sources, prices, and sells products, bearing the inventory risk
+- **3P marketplace**: Third-party sellers sell on the platform, and Amazon takes a commission (typically 15%) plus FBA fulfillment fees
+- 82% of active sellers use FBA, and FBA usage among private-label sellers is as high as 92%
+- Seller profit margins run about 25%-30%
 
-### 1.2 Temu：极致效率的单一业务
+### 1.2 Temu: A Single Business Built for Extreme Efficiency
 
-Temu的业务结构远比Amazon简单，核心就是**跨境电商平台**：
+Temu's business structure is far simpler than Amazon's — at its core, it is simply a **cross-border e-commerce platform**:
 
-| 指标 | 2025年数据 |
+| Metric | 2025 figure |
 |------|-----------|
-| GMV | 约925亿美元 |
-| 同比增速 | +70%-75% |
-| 月活用户 | 约4.17亿（Q2 2025） |
-| 用户增速 | +68% |
+| GMV | ~$92.5 billion |
+| Year-over-year growth | +70%-75% |
+| Monthly active users | ~417 million (Q2 2025) |
+| User growth rate | +68% |
 
-**全托管模式**（占比约90%）：
-- 卖家只负责供货，Temu负责定价、运营、物流、售后
-- 本质是"平台做庄"，卖家变成了Temu的供应商
-- 卖家利润率极薄，仅2%-5%
+**Fully-managed model** (~90% of the business):
+- Sellers are only responsible for supplying goods; Temu handles pricing, operations, logistics, and after-sales service
+- In essence, "the platform runs the show" — sellers effectively become Temu's suppliers
+- Seller profit margins are razor-thin, just 2%-5%
 
-**半托管模式**（占比约10%，快速增长中）：
-- 卖家自行将商品发至海外仓，负责最后一公里配送
-- Temu负责流量和前端运营
-- 在美国搜索场景中，70%的流量已分配给半托管商品
+**Semi-managed model** (~10% of the business, growing rapidly):
+- Sellers ship goods to overseas warehouses themselves and handle last-mile delivery
+- Temu is responsible for traffic and front-end operations
+- In U.S. search scenarios, 70% of traffic has already been allocated to semi-managed listings
 
-**新拼姆自营品牌**（2026年3月启动）：
-- 初始投入15亿元现金，计划三年投入1万亿元
-- 目标：渗透国内产业集群，孵化自营品牌
-- 覆盖产品标准、仓储物流、知识产权、法务合规全链条
-- 本质上是从"流量分发平台"向"品牌制造商"的战略跃迁
+**New "Pinm" self-owned brand initiative** (launched March 2026):
+- Initial investment of RMB 1.5 billion in cash, with a planned RMB 1 trillion investment over three years
+- Goal: penetrate domestic industrial clusters and incubate self-owned brands
+- Covers the full chain — product standards, warehousing and logistics, intellectual property, and legal compliance
+- In essence, a strategic leap from "traffic distribution platform" to "brand manufacturer"
 
-### 1.3 电商模式的核心差异
+### 1.3 Core Differences in E-commerce Model
 
-| 维度 | Amazon | Temu |
+| Dimension | Amazon | Temu |
 |------|--------|------|
-| 卖家准入 | 各类卖家均可入驻 | 仅限工厂和品牌方 |
-| 定价权 | 卖家自主定价 | 全托管模式下平台定价 |
-| 物流时效 | Prime 1-2天达 | 5-10天（跨境直邮），本地仓逐步加速 |
-| 卖家利润 | 25%-30% | 2%-5% |
-| 平台角色 | 基础设施+流量入口 | 深度介入运营的"超级买手" |
-| 自营商品 | 有Amazon Basics等自有品牌 | 新拼姆刚起步 |
+| Seller onboarding | Open to all types of sellers | Limited to factories and brand owners |
+| Pricing power | Sellers set their own prices | Platform sets prices under the fully-managed model |
+| Delivery speed | Prime: 1-2 days | 5-10 days (cross-border direct shipping), gradually accelerating with local warehouses |
+| Seller profit margin | 25%-30% | 2%-5% |
+| Platform's role | Infrastructure + traffic gateway | A "super buyer" deeply involved in operations |
+| Self-owned products | Has private labels such as Amazon Basics | "Pinm" has just gotten started |
 
-### 1.4 物流模式对比
+### 1.4 Logistics Model Comparison
 
-**Amazon FBA全球物流网络**：
-- 全球1200+个履约中心
-- 40000+辆半挂卡车
-- 25000+辆电动配送车
-- 110+架货运飞机
-- 美国包裹配送量已超UPS和FedEx之和
-- 2025年履约支出906亿美元
-- 核心优势：1-2天送达的确定性体验
+**Amazon's FBA global logistics network**:
+- 1,200+ fulfillment centers worldwide
+- 40,000+ tractor-trailers
+- 25,000+ electric delivery vans
+- 110+ cargo aircraft
+- U.S. package delivery volume already exceeds the combined total of UPS and FedEx
+- 2025 fulfillment expenses: $90.6 billion
+- Core advantage: the certainty of 1-2 day delivery experience
 
-**Temu的物流体系**（快速演进中）：
-- 全球13个自营仓库（欧洲10个、美国2个、墨西哥1个）
-- 美国自营仓处理量占美国总量的15%-20%，预计2026年提升至20%-25%
-- 欧洲目标：2025年底前80%欧洲订单通过本地仓处理
-- 每单退货成本节省约0.60美元
-- 核心瓶颈：仍高度依赖跨境直邮，时效和成本劣势明显
+**Temu's logistics system** (rapidly evolving):
+- 13 self-operated warehouses globally (10 in Europe, 2 in the U.S., 1 in Mexico)
+- Self-operated U.S. warehouses handle 15%-20% of U.S. volume, expected to rise to 20%-25% by 2026
+- European target: 80% of European orders processed through local warehouses by the end of 2025
+- Return costs saved at ~$0.60 per order
+- Core bottleneck: still heavily dependent on cross-border direct shipping, with clear disadvantages in speed and cost
 
-**差距总结**：Amazon用20年建成了全球最大的商业物流网络，Temu刚刚开始建设本地仓。这个差距不是几年能追上的，但Temu正在用"半托管+本地仓"模式快速缩小时效差距。
+**Gap summary**: Amazon spent 20 years building the world's largest commercial logistics network; Temu has only just begun building local warehouses. This gap cannot be closed in a few years, but Temu is rapidly narrowing the delivery-speed gap using a "semi-managed + local warehouse" model.
 
 ---
 
-## 二、业务重合度
+## II. Business Overlap
 
-### 2.1 正面竞争的品类和市场
+### 2.1 Categories and Markets of Direct Competition
 
-**品类重叠极高**：Temu有77%的商品与Amazon上架商品存在近似匹配，其中10%是完全相同的商品。在时尚和美妆品类，重叠率高达94%。
+**Extremely high category overlap**: 77% of Temu's products have close matches among items listed on Amazon, of which 10% are exactly identical products. In fashion and beauty categories, the overlap rate is as high as 94%.
 
-**核心竞争品类**：
-- 时尚服饰（Temu最大品类，占销售额41%）
-- 家居用品
-- 小电子产品/配件
-- 美妆个护
-- 日用百货
+**Core competing categories**:
+- Fashion apparel (Temu's largest category, 41% of sales)
+- Home goods
+- Small electronics/accessories
+- Beauty and personal care
+- General merchandise
 
-**不竞争的领域**：
-- 高价值电子产品（手机、电脑、电视）
-- 品牌商品（Nike、Apple等大品牌不入驻Temu）
-- 生鲜食品（Amazon有Whole Foods和Amazon Fresh）
-- 云计算、数字内容、智能硬件等Amazon的非电商业务
+**Non-competing areas**:
+- High-value electronics (phones, computers, TVs)
+- Branded goods (major brands like Nike and Apple do not sell on Temu)
+- Fresh groceries (Amazon has Whole Foods and Amazon Fresh)
+- Cloud computing, digital content, smart hardware, and other non-e-commerce Amazon businesses
 
-### 2.2 Amazon Haul的进展
+### 2.2 Amazon Haul's Progress
 
-Amazon于2024年11月推出Haul，直接对标Temu：
-- 所有商品低于20美元，从中国仓库直邮
-- 配送时间约两周
-- 已扩展至全球多个市场，并推出独立App
+Amazon launched Haul in November 2024, aimed directly at Temu:
+- All items priced under $20, shipped directly from Chinese warehouses
+- Delivery time about two weeks
+- Expanded to multiple markets globally and launched as a standalone app
 
-**但进展不及预期**：
-- 月度使用率仅16%，远落后于Temu的28%和Shein的23%
-- 仅24%的美国消费者尝试过至少一次购买
-- 核心问题：消费者行为转变缓慢，Haul缺乏足够的差异化吸引力
-- Amazon需要在用户体验、配送速度或独家优惠上找到突破口
+**But progress has fallen short of expectations**:
+- Monthly usage rate is only 16%, well behind Temu's 28% and Shein's 23%
+- Only 24% of U.S. consumers have tried making at least one purchase
+- Core problem: consumer behavior is slow to shift, and Haul lacks sufficient differentiation to attract users
+- Amazon needs to find a breakthrough in user experience, delivery speed, or exclusive deals
 
-### 2.3 美国市场份额
+### 2.3 U.S. Market Share
 
-| 平台 | 美国电商市场份额 | 跨境电商份额 |
+| Platform | U.S. e-commerce market share | Cross-border e-commerce share |
 |------|----------------|-------------|
 | Amazon | ~42% | 24% |
 | Temu | ~18% | 24% |
 
-值得注意：在跨境电商这个细分领域，Temu已经追平Amazon，两者均为24%。但在美国电商整体市场，Amazon的份额是Temu的2.3倍。
+Worth noting: in the cross-border e-commerce sub-segment, Temu has already caught up to Amazon, with both at 24%. But in the overall U.S. e-commerce market, Amazon's share is 2.3 times that of Temu.
 
-### 2.4 价格带重叠
+### 2.4 Price Range Overlap
 
-| 指标 | Temu | Amazon |
+| Metric | Temu | Amazon |
 |------|------|--------|
-| 平均客单价 | 23.9美元 | 52美元 |
-| Prime会员客单价 | - | 60-62美元 |
-| 非Prime客单价 | - | 43-45美元 |
-| Prime Day客单价 | - | 57.97美元 |
+| Average order value | $23.90 | $52 |
+| Prime member order value | - | $60-62 |
+| Non-Prime order value | - | $43-45 |
+| Prime Day order value | - | $57.97 |
 
-Temu的客单价约为Amazon的46%。两者的价格带存在一定重叠，主要在以下区间：
-- **高度重叠**：10-30美元区间（日用品、小件商品）
-- **部分重叠**：30-50美元区间（服装、家居）
-- **几乎无重叠**：50美元以上（电子产品、品牌商品Amazon占绝对优势）
+Temu's average order value is about 46% of Amazon's. The two platforms' price ranges overlap to a certain extent, mainly in the following bands:
+- **Highly overlapping**: $10-30 range (daily necessities, small items)
+- **Partially overlapping**: $30-50 range (apparel, home goods)
+- **Almost no overlap**: above $50 (electronics and branded goods, where Amazon holds an overwhelming advantage)
 
 ---
 
-## 三、用户群对比
+## III. User Base Comparison
 
-### 3.1 用户规模
+### 3.1 User Scale
 
-| 指标 | Amazon | Temu |
+| Metric | Amazon | Temu |
 |------|--------|------|
-| 全球用户 | ~3亿+ | ~4.17亿MAU |
-| 美国用户 | ~2亿（Prime会员） | 下降显著（关税后） |
-| Prime会员数 | 全球约2.4亿付费会员 | 无会员体系 |
+| Global users | ~300 million+ | ~417 million MAU |
+| U.S. users | ~200 million (Prime members) | Declined significantly (post-tariffs) |
+| Prime members | ~240 million paying members globally | No membership system |
 
-### 3.2 用户画像差异
+### 3.2 User Profile Differences
 
-**Temu用户画像**：
-- 年龄分布广泛：千禧一代（25-42岁）使用率最高（21%），X世代（43-55岁）紧随其后（20%）
-- 性别平衡：男性50.31%，女性49.69%
-- 收入水平：早期以年收入5万美元以下人群为主（55%），后期向5-10万美元中产扩展（50%）
-- 购物动机：极致低价、"淘宝"式探索乐趣、高性价比日用品
-- 26%的美国受访者过去一年在Temu购物过
+**Temu's user profile**:
+- Broad age distribution: Millennials (25-42) have the highest usage rate (21%), followed closely by Gen X (43-55) at 20%
+- Gender balance: 50.31% male, 49.69% female
+- Income level: early on, dominated by households earning under $50,000/year (55%), later expanding to the $50,000-$100,000 middle-income bracket (50%)
+- Shopping motivations: extreme low prices, "treasure-hunting"-style browsing fun, high-value-for-money daily necessities
+- 26% of U.S. survey respondents have shopped on Temu in the past year
 
-**Amazon用户画像**：
-- 以中产及以上家庭为主
-- Prime会员黏性极强：42%选择年付，58%选择月付
-- 购物动机：便捷送达、品牌信赖、一站式购物
-- 品类偏好更广泛，包括高价值商品
+**Amazon's user profile**:
+- Dominated by middle-class and above households
+- Extremely strong Prime member stickiness: 42% choose annual billing, 58% choose monthly billing
+- Shopping motivations: convenient delivery, brand trust, one-stop shopping
+- Broader category preferences, including high-value goods
 
-### 3.3 用户重叠情况
+### 3.3 User Overlap
 
-一个关键发现：**Amazon Prime会员更倾向于在Temu购物**，比非Prime会员的Temu使用率更高。这说明：
-- 两者并非完全替代关系，更像互补
-- 高频网购用户倾向于"Amazon买必需品，Temu买额外小物件"
-- 在过去三个月内Amazon交易超过20次的消费者中，超过6%同时也在Temu和Shein购物
+A key finding: **Amazon Prime members are actually more inclined to shop on Temu** than non-Prime members, showing a higher Temu usage rate. This suggests:
+- The two are not fully substitutive — more of a complementary relationship
+- High-frequency online shoppers tend to "buy necessities on Amazon, buy extra small items on Temu"
+- Among consumers who made more than 20 Amazon transactions in the past three months, over 6% also shopped on both Temu and Shein
 
-### 3.4 购物频次和消费力
+### 3.4 Shopping Frequency and Spending Power
 
-| 指标 | Temu | Amazon |
+| Metric | Temu | Amazon |
 |------|------|--------|
-| 客单价 | 23.9美元 | 52美元 |
-| 月均下单次数 | 2.1次/用户 | 更高（Prime会员频次更高） |
-| 月均消费额 | ~48.5美元/活跃用户 | 显著更高 |
-| 用户粘性来源 | 低价+游戏化+推送 | Prime会员权益+配送速度+内容 |
+| Average order value | $23.90 | $52 |
+| Average monthly orders | 2.1 per user | Higher (Prime members order more frequently) |
+| Average monthly spend | ~$48.50 per active user | Significantly higher |
+| Source of user stickiness | Low prices + gamification + push notifications | Prime membership benefits + delivery speed + content |
 
-### 3.5 关税冲击对Temu美国用户的影响
+### 3.5 Impact of Tariffs on Temu's U.S. User Base
 
-2025年5月2日美国取消de minimis免税政策后：
-- Temu美国日活下降58%
-- 月活下降30%
-- Temu被迫暂停美国全托管模式
-- 随后通过降价60%、免收进口费等手段回拉用户
-- 美国市场占Temu GMV比例从约31%下降
-- 欧洲市场份额上升至40%，增速80%-100%
+After the U.S. eliminated the de minimis duty-free exemption on May 2, 2025:
+- Temu's U.S. daily active users fell 58%
+- Monthly active users fell 30%
+- Temu was forced to suspend its fully-managed model in the U.S.
+- It subsequently tried to win back users through 60% price cuts, waiving import fees, and other measures
+- The U.S. market's share of Temu's GMV fell from around 31%
+- Europe's share rose to 40%, with growth of 80%-100%
 
 ---
 
-## 四、核心差异总结
+## IV. Summary of Core Differences
 
-### 4.1 利润引擎：AWS vs 无
+### 4.1 Profit Engine: AWS vs. None
 
-这是两家公司最本质的差异。
+This is the single most fundamental difference between the two companies.
 
-**Amazon的AWS**：
-- 2025年收入1287亿美元，增速20%
-- 是Amazon的利润引擎和战略纵深
-- AWS的存在让Amazon可以容忍电商业务的低利润甚至亏损来打价格战
-- 给Amazon提供了巨大的AI和技术能力反哺
+**Amazon's AWS**:
+- 2025 revenue of $128.7 billion, growing 20%
+- Amazon's profit engine and strategic depth
+- AWS's existence lets Amazon tolerate low margins — or even losses — in e-commerce in order to wage price wars
+- Provides Amazon with substantial AI and technology capability that feeds back into the rest of the business
 
-**Temu/PDD Holdings**：
-- 没有云计算业务，没有第二增长曲线
-- 利润主要来自拼多多国内主站
-- Temu本身尚未盈利，预计2025-2026年接近盈亏平衡
-- PDD Holdings 2025年Q3净利润293亿元（约41亿美元），同比+17%
+**Temu/PDD Holdings**:
+- No cloud computing business, no second growth curve
+- Profit comes primarily from Pinduoduo's domestic main platform
+- Temu itself is not yet profitable, and is expected to approach breakeven in 2025-2026
+- PDD Holdings' Q3 2025 net profit was RMB 29.3 billion (~$4.1 billion), up 17% year-over-year
 
-**关键含义**：Amazon可以用AWS的利润长期补贴电商竞争（包括Haul），而Temu必须在电商业务本身实现盈利。这是结构性的不对等。
+**Key implication**: Amazon can use AWS profits to subsidize e-commerce competition (including Haul) over the long term, while Temu must achieve profitability in its e-commerce business itself. This is a structural asymmetry.
 
-### 4.2 用户粘性：Prime会员 vs 价格驱动
+### 4.2 User Stickiness: Prime Membership vs. Price-Driven
 
-**Amazon Prime**：
-- 2亿美国会员，全球2.4亿
-- 年度订阅收入496亿美元
-- Prime Day 2025消费者支出241亿美元，同比+70%
-- 会员权益覆盖：次日达、Prime Video、Prime Music、Prime Reading等
-- 高转换成本：一旦付费，用户倾向于在Amazon上集中消费以"值回票价"
+**Amazon Prime**:
+- 200 million U.S. members, 240 million globally
+- Annual subscription revenue of $49.6 billion
+- Prime Day 2025 consumer spending of $24.1 billion, up 70% year-over-year
+- Membership benefits cover next-day delivery, Prime Video, Prime Music, Prime Reading, and more
+- High switching costs: once paying, users tend to concentrate their spending on Amazon to "get their money's worth"
 
-**Temu的用户留存**：
-- 无会员体系，靠低价吸引用户
-- 游戏化设计（转盘、优惠券、社交分享）提升打开率
-- 大量补贴获客，CAC（获客成本）较高
-- 关税冲击证明：当价格优势被削弱时，用户流失极快（日活下降58%）
-- 缺乏Prime那样的"锁定效应"
+**Temu's user retention**:
+- No membership system; relies on low prices to attract users
+- Gamified design (spin wheels, coupons, social sharing) boosts open rates
+- Heavy subsidies for user acquisition, with relatively high CAC (customer acquisition cost)
+- The tariff shock proved it: when the price advantage is eroded, user attrition is extremely fast (daily active users fell 58%)
+- Lacks a Prime-like "lock-in effect"
 
-**结论**：Amazon的用户粘性来自"生态系统锁定"，Temu的用户粘性来自"持续的价格优势"。前者更持久，后者更脆弱。
+**Conclusion**: Amazon's user stickiness comes from "ecosystem lock-in," while Temu's comes from "sustained price advantage." The former is more durable, the latter more fragile.
 
-### 4.3 物流基础设施：20年积累 vs 刚刚起步
+### 4.3 Logistics Infrastructure: 20 Years of Accumulation vs. Just Getting Started
 
-| 维度 | Amazon | Temu |
+| Dimension | Amazon | Temu |
 |------|--------|------|
-| 全球履约中心 | 1200+ | 13个自营仓 |
-| 运输工具 | 4万+卡车、2.5万+电动车、110+飞机 | 依赖第三方物流 |
-| 配送时效 | 1-2天（Prime） | 5-10天（缩短中） |
-| 年度履约支出 | 906亿美元 | 远小于此 |
-| 美国包裹量 | 超过UPS+FedEx之和 | 仅15%-20%通过本地仓 |
+| Global fulfillment centers | 1,200+ | 13 self-operated warehouses |
+| Transportation fleet | 40,000+ trucks, 25,000+ electric vans, 110+ aircraft | Relies on third-party logistics |
+| Delivery speed | 1-2 days (Prime) | 5-10 days (shortening) |
+| Annual fulfillment expense | $90.6 billion | Far smaller than this |
+| U.S. package volume | Exceeds UPS + FedEx combined | Only 15%-20% through local warehouses |
 
-Temu正在快速建设，但与Amazon的差距是数量级的。这种基础设施差距直接影响用户体验和运营效率。
+Temu is building rapidly, but the gap with Amazon is an order of magnitude. This infrastructure gap directly affects user experience and operational efficiency.
 
-### 4.4 广告业务：680亿 vs 刚起步
+### 4.4 Advertising Business: $68 Billion vs. Just Getting Started
 
-**Amazon广告**：
-- 2025年收入680亿美元，同比+23%
-- 已成为仅次于Google和Meta的第三大数字广告平台
-- 广告是高利润率业务，直接提升Amazon的整体盈利能力
-- Sponsored Products、Sponsored Brands、DSP等产品矩阵成熟
+**Amazon advertising**:
+- 2025 revenue of $68.0 billion, up 23% year-over-year
+- Has become the third-largest digital advertising platform behind only Google and Meta
+- Advertising is a high-margin business that directly boosts Amazon's overall profitability
+- A mature product suite including Sponsored Products, Sponsored Brands, and DSP
 
-**Temu广告**：
-- 目前主要是平台对外投放广告获客（Meta、Google上的巨额广告支出）
-- 平台内广告（商家付费推广）刚起步
-- 2025年不强制全托管商家投广告，2026年起逐步推广
-- 美国半托管广告业务因关税导致商家投放意愿下降
-- 广告曾占收入80%以上（2022年），但这主要是国内拼多多的数据
+**Temu advertising**:
+- Currently mainly outbound advertising spend to acquire users (massive ad spend on Meta and Google)
+- On-platform advertising (paid merchant promotion) has just begun
+- In 2025, fully-managed merchants were not required to advertise; this will be gradually rolled out starting 2026
+- U.S. semi-managed merchants' willingness to advertise has declined due to tariffs
+- Advertising once accounted for over 80% of revenue (2022), but that figure was primarily from domestic Pinduoduo
 
-**关键差距**：Amazon的广告业务是"印钞机"，商家主动付费获取流量。Temu目前还在"烧钱买流量"阶段，从花钱做广告到赚广告费，这个转变需要足够的用户规模和商家生态支撑。
+**Key gap**: Amazon's advertising business is a "money printer" — merchants voluntarily pay to acquire traffic. Temu is still in the "burning cash to buy traffic" phase; the shift from spending on ads to earning ad revenue requires sufficient user scale and merchant ecosystem support.
 
 ---
 
-## 五、竞争格局总结
+## V. Summary of the Competitive Landscape
 
-### 5.1 Temu对Amazon的真实威胁
+### 5.1 Temu's Real Threat to Amazon
 
-1. **低价品类分流**：在10-30美元的日用品、服饰、家居小件领域，Temu确实在分流Amazon的一部分订单
-2. **跨境电商份额追平**：两者在跨境电商领域已各占24%，说明Temu在这个细分领域有真实竞争力
-3. **用户心智占领**：26%的美国消费者已经在Temu购物过，这个渗透率不低
-4. **品类重叠度高**：77%的商品重叠意味着消费者可以在两个平台之间比价
+1. **Diversion of low-price categories**: In the $10-30 range for daily necessities, apparel, and small home goods, Temu is indeed diverting a portion of Amazon's orders
+2. **Parity in cross-border e-commerce share**: The two now each hold 24% of the cross-border e-commerce segment, showing Temu has genuine competitiveness in this niche
+3. **Mindshare capture**: 26% of U.S. consumers have already shopped on Temu — that penetration rate is not low
+4. **High category overlap**: A 77% product overlap rate means consumers can comparison-shop across the two platforms
 
-### 5.2 Temu难以撼动Amazon的领域
+### 5.2 Areas Where Temu Struggles to Shake Amazon
 
-1. **Prime生态锁定**：2亿美国会员的黏性不是低价能打破的
-2. **物流基础设施**：1-2天达 vs 5-10天达，体验差距巨大
-3. **品牌信任**：大品牌优先选择Amazon，Temu仍以白牌/工厂品为主
-4. **利润纵深**：AWS+广告两大利润引擎让Amazon有无限"弹药"
-5. **高价值品类**：电子产品、品牌商品等高客单价领域是Amazon的护城河
-6. **政策韧性**：关税冲击下Temu日活暴跌58%，Amazon几乎不受影响
+1. **Prime ecosystem lock-in**: The stickiness of 200 million U.S. members cannot be broken by low prices alone
+2. **Logistics infrastructure**: 1-2 day delivery vs. 5-10 day delivery — a huge experience gap
+3. **Brand trust**: Major brands prioritize Amazon; Temu remains dominated by white-label/factory-direct goods
+4. **Depth of profit engines**: The dual profit engines of AWS and advertising give Amazon nearly unlimited "ammunition"
+5. **High-value categories**: Electronics, branded goods, and other high-order-value segments are Amazon's moat
+6. **Policy resilience**: Under the tariff shock, Temu's daily active users plunged 58%, while Amazon was barely affected
 
-### 5.3 结论
+### 5.3 Conclusion
 
-Temu和Amazon与其说是直接竞争对手，不如说是在电商市场的**不同层级**运营：
+Temu and Amazon are less direct competitors than they are operators at **different tiers** of the e-commerce market:
 
-- **Amazon**是全品类、全价格带、全链路的电商基础设施，附加云计算和数字媒体的科技巨头
-- **Temu**是聚焦低价白牌商品的跨境电商平台，正在从"价格屠夫"向"品牌孵化器"转型
+- **Amazon** is a full-category, full-price-range, full-chain e-commerce infrastructure — a tech giant with cloud computing and digital media layered on top
+- **Temu** is a cross-border e-commerce platform focused on low-price white-label goods, transitioning from "price butcher" to "brand incubator"
 
-两者的竞争主要集中在**低价日用品这个细分战场**。在这个战场上，Temu有价格优势但缺乏时效和信任；Amazon有生态优势但Haul目前进展缓慢。短期内，两者更可能是共存关系而非零和博弈——毕竟Prime会员反而更爱逛Temu，说明消费者把两个平台当作不同场景的购物选择。
+The two mainly compete on **the low-price daily necessities battlefield**. On this battlefield, Temu has a price advantage but lacks speed and trust; Amazon has an ecosystem advantage, but Haul's progress has so far been slow. In the near term, the two are more likely to coexist than engage in zero-sum competition — after all, Prime members are actually more fond of browsing Temu, suggesting consumers treat the two platforms as shopping choices for different occasions.
 
-真正的变数是**政策风险**：de minimis取消已经证明，Temu的商业模式对贸易政策高度敏感。如果中美贸易摩擦持续升级，Temu在美国市场的前景将面临结构性挑战，而Amazon几乎不受影响。
+The real variable is **policy risk**: the elimination of de minimis has already proven that Temu's business model is highly sensitive to trade policy. If U.S.-China trade friction continues to escalate, Temu's prospects in the U.S. market will face structural challenges, while Amazon will be barely affected.
 
 ---
 
@@ -316,8 +316,8 @@ Temu和Amazon与其说是直接竞争对手，不如说是在电商市场的**�
 - [Amazon Average Order Value 2026 - Red Stag Fulfillment](https://redstagfulfillment.com/average-order-value-for-purchases-on-amazon/)
 - [Temu and Shein's Impact on Amazon - Consumer Edge](https://www.consumeredge.com/resources/insights/temu-and-sheins-impact-on-amazon/)
 - [Temu Watch 10: Logistics in Times of Tariffs](https://techbuzzchina.substack.com/p/temu-watch-10-logistics-in-times)
-- [新拼姆：出手先花150亿做自营 - 腾讯新闻](https://news.qq.com/rain/a/20260326A08MIG00)
-- [三年走完十年路的Temu - 36氪](https://news.qq.com/rain/a/20260402A01RY100)
+- [New "Pinm" brand: RMB 15 billion committed upfront for self-owned operations - Tencent News](https://news.qq.com/rain/a/20260326A08MIG00)
+- [Ten Years of Progress in Three Years: Temu's Journey - 36Kr](https://news.qq.com/rain/a/20260402A01RY100)
 - [How Many Amazon Sellers Use FBA - Red Stag Fulfillment](https://redstagfulfillment.com/how-many-amazon-sellers-use-fba/)
 - [Temu Business Model Explained - European Business Magazine](https://europeanbusinessmagazine.com/business-temu-business-model-pdd-holdings-revenue-profits-2026/)
 - [2025 Tariff Impact on Temu - Modern Retail](https://www.modernretail.co/operations/the-winners-and-losers-of-tariffs/)

@@ -1,197 +1,197 @@
-# 英伟达（NVDA）深度估值报告
+# NVIDIA (NVDA) In-Depth Valuation Report
 
-**日期：2026-04-13**
-**当前股价：$185.95 USD**（Yahoo Finance）
-**市值：~$4.64万亿 USD**
+**Date: 2026-04-13**
+**Current share price: $185.95 USD** (Yahoo Finance)
+**Market cap: ~$4.64 trillion USD**
 
-> **核心前置说明**：用户决策标准是"能看懂5-10年后的利润"。NVDA的5-10年利润预测性低（AI capex周期、自研芯片替代、中国禁售三大黑箱），本报告估值结论**置信度低**，主要用于论证"为什么不适合作为6选1重仓"，而非给出精确买卖价。
+> **Core caveat up front**: the user's decision standard is "can you understand the profits 5-10 years out." NVDA's 5-10-year profit predictability is low (three black boxes: the AI capex cycle, in-house chip substitution, and the China sales ban), so this report's valuation conclusion carries **low confidence** and is used mainly to argue "why NVDA doesn't fit as one of a concentrated 6-stock portfolio," rather than to hand down a precise buy/sell price.
 
 ---
 
-## 一、事实基础（一手SEC数据）
+## I. Factual Basis (Primary SEC Data)
 
-### 1.1 财务概览
+### 1.1 Financial Overview
 
-| 指标 | FY2024 | FY2025 | FY2026 YTD | 来源 |
+| Metric | FY2024 | FY2025 | FY2026 YTD | Source |
 |------|--------|--------|-----------|------|
-| 总营收 | $60.9B | $130.5B (+114%) | 运行率+94% | [SEC 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm) |
-| Data Center | $47.0B | $115.2B (+145%) | $51.2B单Q | [Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm) |
-| 毛利率 | 64.7% | 65.1% | 73.4-73.6% | — |
-| GAAP EPS | $1.19 | $2.94 (+147%) | ~$4.9 YTD预计 | — |
-| 自由现金流 | $27.4B | $62.1B | 爆发性增长 | — |
+| Total revenue | $60.9B | $130.5B (+114%) | Run-rate +94% | [SEC 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm) |
+| Data Center | $47.0B | $115.2B (+145%) | $51.2B single quarter | [Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm) |
+| Gross margin | 64.7% | 65.1% | 73.4-73.6% | — |
+| GAAP EPS | $1.19 | $2.94 (+147%) | ~$4.9 YTD estimate | — |
+| Free cash flow | $27.4B | $62.1B | Explosive growth | — |
 
-### 1.2 当前估值水位
+### 1.2 Current Valuation Level
 
-| 指标 | 数值 | 历史对比 |
+| Metric | Value | Historical comparison |
 |------|------|---------|
-| PE（基于FY2025 EPS $2.94） | **63.2x** | = Cisco 2000年顶部 |
-| EV/Sales | **35.6x** | > Cisco 2000年（31x） |
-| PEG | 0.57 | 看似便宜，隐含增速70%+永续 |
+| PE (based on FY2025 EPS of $2.94) | **63.2x** | = Cisco's 2000 peak |
+| EV/Sales | **35.6x** | > Cisco's 2000 peak (31x) |
+| PEG | 0.57 | Looks cheap, but implies 70%+ growth in perpetuity |
 
-### 1.3 客户集中度（Q3 FY26）
+### 1.3 Customer Concentration (Q3 FY26)
 
-- 前4大客户占营收 **61%**
-- Customer A单一占比 **22%**
-- 四家实际是AWS/Azure/GCP/Meta（通过OEM）
+- Top 4 customers account for **61%** of revenue
+- Customer A alone accounts for **22%**
+- The four are actually AWS/Azure/GCP/Meta (via OEM)
 
 ---
 
-## 二、三大不可预测变量
+## II. Three Unpredictable Variables
 
-### 2.1 AI CapEx周期
+### 2.1 The AI CapEx Cycle
 
-**2026E hyperscaler CapEx合计**：$6,200-7,000B（同比+58-78%）
+**2026E combined hyperscaler CapEx**: $6,200-7,000B (up 58-78% YoY)
 - Amazon $2,000B (+67%)
 - Google $1,850B (+71%)
 - Meta $1,150-1,350B (+53-80%)
 - Microsoft $1,200B+ (+33%+)
 
-**历史规律**：hyperscaler CapEx从未连续3年保持+50%增速。
-**当前股价隐含**：2026-2028年CapEx保持+50%。**2027年回落概率高**。
+**Historical pattern**: hyperscaler CapEx has never sustained +50% growth for three consecutive years.
+**What the current share price implies**: CapEx keeps growing at +50% through 2026-2028. **A pullback in 2027 is highly likely.**
 
-### 2.2 自研芯片替代（已发生，非推测）
+### 2.2 In-House Chip Substitution (already happening, not speculation)
 
-| 厂商 | 进展 | NVDA威胁 |
+| Vendor | Progress | Threat to NVDA |
 |------|------|---------|
-| AWS Trainium2 | 50万颗在线，年底100万 | 高（Anthropic已离开NVDA） |
-| Google Ironwood | Anthropic $100B机柜合同 | 高（2027启动） |
-| Microsoft Maia | 已部署服务GPT-5.2 | 中（推理） |
-| Meta MTIA | 数十万颗自用 | 中（内部） |
+| AWS Trainium2 | 500k units online, 1 million by year-end | High (Anthropic has already moved off NVDA) |
+| Google Ironwood | Anthropic's $100B rack contract | High (starts 2027) |
+| Microsoft Maia | Already deployed serving GPT-5.2 | Medium (inference) |
+| Meta MTIA | Hundreds of thousands of units for internal use | Medium (internal) |
 
-**来源**：[Bloomberg 2026-04-06](https://www.bloomberg.com/news/articles/2026-04-06-broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic)、[AWS官方](https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster)
+**Sources**: [Bloomberg, 2026-04-06](https://www.bloomberg.com/news/articles/2026-04-06-broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic), [AWS official](https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster)
 
-### 2.3 毛利率可持续性
+### 2.3 Gross Margin Sustainability
 
-- 当前73.4%是Blackwell供不应求下的高位
-- 正常水位应在60-65%
-- 若回落至65%，净利润**打8.6折**
+- The current 73.4% reflects the high point of Blackwell supply shortage
+- The normal level should be 60-65%
+- If it falls back to 65%, net profit drops to **86% of its current level**
 
 ---
 
-## 三、CUDA护城河状态
+## III. Status of the CUDA Moat
 
-| 护城河层次 | 2020 | 2026 | 变化 |
+| Moat layer | 2020 | 2026 | Change |
 |-----------|------|------|------|
-| 代码锁定 | 坚固 | 破损（AI工具自动迁移） | ⚠️ |
-| 性能领先 | 2-3倍 | 10-30%（推理端） | ⚠️ |
-| 生态网络 | 垄断 | 多家并行 | ⚠️ |
-| 10万卡系统规模 | 无敌 | 仍强 | ✅ |
+| Code lock-in | Solid | Broken (AI tools auto-migrate code) | Warning |
+| Performance lead | 2-3x | 10-30% (on the inference side) | Warning |
+| Ecosystem network | Monopoly | Multiple players running in parallel | Warning |
+| 100k-GPU-scale systems | Unrivaled | Still strong | OK |
 
-- Claude Code实现CUDA→ROCm 30分钟端到端迁移，性能损失<10%
-- ROCm 7.0战略："与CUDA语义更紧密对齐"
-- Triton编译器支持AMD后端抽象
+- Claude Code achieved an end-to-end CUDA→ROCm migration in 30 minutes with <10% performance loss
+- ROCm 7.0's strategy: "align more tightly with CUDA semantics"
+- The Triton compiler supports an AMD-backend abstraction
 
 ---
 
-## 四、三情景估值
+## IV. Three-Scenario Valuation
 
-### Agent原始算法
+### The agent's original methodology
 
-| 情景 | 概率 | FY28E EPS | 倒推FY26 EPS | PE | 目标价 |
+| Scenario | Probability | FY28E EPS | Discounted back to FY26 EPS | PE | Target price |
 |------|-----|----------|-------------|-----|--------|
-| 牛 | 20% | $11 | $2.67 | 40x | **$107** |
-| 中 | 50% | $6.2 | $2.76 | 32x | **$88** |
-| 熊 | 30% | $3.0 | $1.77 | 20x | **$35** |
+| Bull | 20% | $11 | $2.67 | 40x | **$107** |
+| Base | 50% | $6.2 | $2.76 | 32x | **$88** |
+| Bear | 30% | $3.0 | $1.77 | 20x | **$35** |
 
-**Agent加权目标：$75.9**
+**Agent-weighted target: $75.9**
 
-### ⚠️ 方法客观修正
+### Methodological correction
 
-Agent把FY28 EPS折回到FY26水平再乘PE，这是**双重贴现**（既压缩了增长又压缩了倍数），偏保守。
+The agent's approach discounts FY28 EPS back to the FY26 level and then applies a PE multiple, which is **double discounting** — it compresses both the growth and the multiple, biasing the result low.
 
-**更标准的算法**：直接用FY28E EPS × 远期PE，再贴现回今天。
+**The more standard approach**: apply the forward PE directly to FY28E EPS, then discount that target back to today.
 
-| 情景 | FY28E EPS | 合理远期PE | FY28目标 | 贴现回今（10%，2年） |
+| Scenario | FY28E EPS | Reasonable forward PE | FY28 target | Discounted to today (10%, 2 years) |
 |------|----------|----------|---------|-----------------|
-| 牛 | $11 | 30x | $330 | **$273** |
-| 中 | $6.2 | 22x | $136 | **$112** |
-| 熊 | $3.0 | 18x | $54 | **$45** |
+| Bull | $11 | 30x | $330 | **$273** |
+| Base | $6.2 | 22x | $136 | **$112** |
+| Bear | $3.0 | 18x | $54 | **$45** |
 
-**修正加权（20/50/30）**：**$128**
+**Corrected weighted average (20/50/30): $128**
 
-两种算法的共同结论：**当前$186在任何合理口径下都偏高**。
-- Agent法：上升空间-59%
-- 修正法：上升空间-31%
+Both methods reach the same conclusion: **the current $186 price is high under any reasonable framing.**
+- Agent's method: -59% upside
+- Corrected method: -31% upside
 
 ---
 
-## 五、历史对标：Cisco 2000
+## V. Historical Comparison: Cisco, 2000
 
-| 维度 | Cisco 2000 | NVDA 2026-04 |
+| Dimension | Cisco 2000 | NVDA 2026-04 |
 |------|-----------|-------------|
 | PE | 63x | 63.2x |
 | EV/Sales | 31x | 35.6x |
-| 市值 | $569B | $4,640B（8倍） |
+| Market cap | $569B | $4,640B (8x larger) |
 
-**Cisco结局**：2000-03高点$79 → 2002-10低点$8.12（-89.7%）→ 22年未回高点
+**How Cisco's story ended**: peaked at $79 in March 2000 → bottomed at $8.12 in October 2002 (-89.7%) → had not reclaimed its high 22 years later
 
-**警示**：即使伟大公司，在泡沫价买入也付出惨重代价。
-（免责：历史不必然重演，但值得警觉）
-
----
-
-## 六、五个反面论据
-
-1. **毛利率75%不可持续**——回落至65%即净利-14%
-2. **CUDA护城河被填浅**——AI编码工具使迁移成本从"数月"→"数小时"
-3. **客户集中风险**——22%来自单一客户，客户正加速自研
-4. **AI CapEx周期性是铁律**——+70%连续3年历史上从未有过
-5. **中国市场永久损失**——$17B（30%）已消失不再回来
+**Warning**: even a great company can extract a heavy price from investors who buy at a bubble valuation.
+(Disclaimer: history does not necessarily repeat, but it's worth taking seriously.)
 
 ---
 
-## 七、巴菲特/段永平视角
+## VI. Five Counter-Arguments
 
-### 巴菲特为什么不投（多次公开发言意思）
-> "只投资能估算5年以上盈利的公司。NVDA无法合理估计，直接跳过。"
-
-### 段永平（推断，基于雪球发言）
-> "产品好，价格离谱。不敢空，但更不会用这个价格重仓。"
+1. **A 75% gross margin is not sustainable** — falling back to 65% alone cuts net profit by 14%
+2. **The CUDA moat has been eroded** — AI coding tools have compressed migration cost from "months" to "hours"
+3. **Customer concentration risk** — 22% comes from a single customer, and that customer is accelerating its own in-house chip program
+4. **The AI CapEx cycle is subject to an iron law of periodicity** — +70% growth sustained for three straight years has never happened historically
+5. **The China market is a permanent loss** — the $17B (30%) already gone is not coming back
 
 ---
 
-## 八、可预测性排序（6选1标准下）
+## VII. Buffett / Duan Yongping Perspective
 
-| 排名 | 公司 | 看懂5-10年利润 |
+### Why Buffett wouldn't invest (paraphrasing multiple public remarks)
+> "I only invest in businesses whose earnings I can estimate five years out or more. NVDA can't be reasonably estimated, so I pass."
+
+### Duan Yongping (inferred, based on remarks on Xueqiu)
+> "Great product, absurd price. I wouldn't short it, but I definitely wouldn't take a big position at this price either."
+
+---
+
+## VIII. Predictability Ranking (Under the "Pick One of Six" Standard)
+
+| Rank | Company | Can you understand its 5-10-year profit? |
 |-----|------|-------------|
-| 1 | 茅台 | ⭐⭐⭐⭐⭐ |
-| 2 | 腾讯 | ⭐⭐⭐⭐ |
-| 3 | 美团 | ⭐⭐⭐ |
-| 4 | 拼多多 | ⭐⭐⭐ |
-| 5 | 泡泡玛特 | ⭐⭐ |
-| 6 | **英伟达** | **⭐** |
+| 1 | Moutai | ★★★★★ |
+| 2 | Tencent | ★★★★ |
+| 3 | Meituan | ★★★ |
+| 4 | Pinduoduo | ★★★ |
+| 5 | Pop Mart | ★★ |
+| 6 | **NVIDIA** | **★** |
 
 ---
 
-## 九、结论
+## IX. Conclusion
 
-### 估值区间（低置信度）
+### Valuation Range (Low Confidence)
 
-| 口径 | 合理价 |
+| Basis | Fair price |
 |------|-------|
-| 严格保守（Agent法） | $76 |
-| 标准DCF法 | $128 |
-| 乐观 | $200-270 |
+| Strictly conservative (agent's method) | $76 |
+| Standard DCF method | $128 |
+| Optimistic | $200-270 |
 
-### 6选1重仓建议
+### "Pick One of Six" Recommendation
 
-**❌ 不适合重仓**，理由：
-1. 5-10年利润不可预测（违反用户第一标准）
-2. 当前价已包含极度乐观假设
-3. 下行风险远大于上行空间
-4. 巴菲特/段永平都不投有其道理
+**Not suitable for a concentrated position**, for these reasons:
+1. 5-10-year profits are unpredictable (violates the user's first-priority standard)
+2. The current price already bakes in extremely optimistic assumptions
+3. Downside risk far exceeds upside potential
+4. Both Buffett and Duan Yongping have good reasons for staying away
 
-### 如果一定要配置
-- 仓位：<10%
-- 持有期：3-5年（不是永久）
-- 买入价：<$120（可能永不触及）
-- 止损：$120以下要重新评估
+### If a position must be taken
+- Position size: <10%
+- Holding period: 3-5 years (not permanent)
+- Buy price: <$120 (may never be reached)
+- Stop-loss: reassess if it falls below $120
 
 ---
 
-## 附：数据来源
+## Appendix: Data Sources
 - [NVDA SEC 10-K FY2025](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm)
 - [NVDA Q3 FY26 10-Q](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm)
 - [Yahoo Finance NVDA](https://finance.yahoo.com/quote/NVDA/)
 - [Bloomberg 2026-04-06 Ironwood](https://www.bloomberg.com/news/articles/2026-04-06-broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic)
-- [TechStrong - CUDA ROCm迁移](https://techstrong.ai/features/claude-code-ports-nvidia-cuda-to-amd-rocm-in-30-minutes/)
+- [TechStrong - CUDA/ROCm migration](https://techstrong.ai/features/claude-code-ports-nvidia-cuda-to-amd-rocm-in-30-minutes/)

@@ -1,70 +1,70 @@
-# 蚂蚁数科估值聚焦研究（2026-04-28）
+# Ant Digital Technologies Valuation-Focused Research (2026-04-28)
 
-> 4 Agent 并行的聚焦研究，回答关于蚂蚁数科估值的 4 个核心问题。
+> A focused research effort run by 4 agents in parallel, answering 4 core questions about Ant Digital Technologies' valuation.
 
-## 研究背景
+## Research Background
 
-[2026-04-17 已有 5 人团队完整研究](../../蚂蚁数科-team-20260417/)（10 份子报告，2,604 行）。本次聚焦四问：
+[A full research effort by a 5-person team was already completed on 2026-04-17](../../蚂蚁数科-team-20260417/) (10 sub-reports, 2,604 lines). This round focuses on four questions:
 
-1. 合理估值多少？
-2. 何时上市？
-3. 总股本多少？
-4. 每股价值如何？
+1. What is the fair valuation?
+2. When will it go public?
+3. What is the total share count?
+4. What is the value per share?
 
-后两个问题在 4/17 研究中未专门拆解，本次为新增。前两个问题做"11 天 update"。
+The latter two questions were not specifically addressed in the 4/17 research and are new additions this round. The first two questions receive an "11-day update."
 
-## 文件结构
+## File Structure
 
 ```
 估值聚焦-20260428/
-├── README.md                — 本文件，研究框架概览
-├── 最终报告.md              — 综合最终报告（4 个核心问题 + 综合判断）
-├── 01-合理估值.md           — Agent 1：财务侦探视角，多方法估值交叉
-├── 02-上市时间.md           — Agent 2：IPO 时间窗口分析师视角
-├── 03-总股本.md             — Agent 3：股权结构分析师视角
-└── 04-每股价值.md           — Agent 4：估值分析师视角
+├── README.md                — this file, research framework overview
+├── 最终报告.md              — consolidated final report (4 core questions + overall judgment)
+├── 01-合理估值.md           — Agent 1: financial-detective perspective, cross-checking multiple valuation methods
+├── 02-上市时间.md           — Agent 2: IPO timing-window analyst perspective
+├── 03-总股本.md             — Agent 3: equity-structure analyst perspective
+└── 04-每股价值.md           — Agent 4: valuation analyst perspective
 ```
 
-## 核心结论速览
+## Core Conclusions at a Glance
 
-| 问题 | 结论 | 置信度 |
+| Question | Conclusion | Confidence |
 |---|---|:----:|
-| 合理估值 | **400-680 亿 RMB**（中位 520 亿） | 🟡 |
-| 上市时间 | 基线 **2028 H2 递表 / 2029 Q2-Q4 挂牌**，5 年内独立 IPO 概率 50% | 🟡 |
-| 总股本 | 当前不存在（注册资本 21.07 亿元）；IPO 后中性估 **80-120 亿股** | 🟡 |
-| 每股价值 | 港币 **6-30 元**招股价区间（中性）；当下 SER 含数科部分会计 1.62 元 / 市场化 10.5 元 | 🟡 |
+| Fair valuation | **RMB 40–68 billion** (median RMB 52 billion) | 🟡 |
+| IPO timing | Baseline case: **file in H2 2028 / list in Q2–Q4 2029**; 50% probability of an independent IPO within 5 years | 🟡 |
+| Total share count | Does not currently exist (registered capital: RMB 2.107 billion); neutral post-IPO estimate: **8.0–12.0 billion shares** | 🟡 |
+| Value per share | HK$ **6–30** IPO price range (neutral case); current SER value attributable to the Ant Digital Technologies stake: HK$1.62 (accounting basis) / HK$10.5 (market basis) | 🟡 |
 
-## 与 4/17 研究的对比
+## Comparison with the 4/17 Research
 
-| 维度 | 4/17 | 4/28 | 修订 |
+| Dimension | 4/17 | 4/28 | Revision |
 |---|---|---|---|
-| 中性估值 | 550 亿 | 520 亿 | ↓ 5.5% |
-| 估值区间 | 450-750 亿 | 400-680 亿 | 区间整体下移 |
-| 港股 IPO 概率 | 52% | 50% | -2pp |
-| IPO 挂牌基线 | 2027H2-2028 | 2029 | 推迟 1 年 |
-| 总股本 | 未做 | 新增 | — |
-| 每股价值 | 未做 | 新增 | — |
+| Neutral valuation | RMB 55 billion | RMB 52 billion | ↓ 5.5% |
+| Valuation range | RMB 45–75 billion | RMB 40–68 billion | Range shifted down overall |
+| Hong Kong IPO probability | 52% | 50% | -2pp |
+| IPO listing baseline | 2027H2-2028 | 2029 | Delayed by 1 year |
+| Total share count | Not covered | Newly added | — |
+| Value per share | Not covered | Newly added | — |
 
-## 11 天关键变化
+## Key Changes Over the 11 Days
 
-- **利空**：香港首批稳定币牌照仅 2 张（汇丰+碇点），蚂蚁未入选 → 乐观因子直接落空
-- **利好**：恒生科技指数 +8.85% 重返 5,000 点；蚂蚁数科成立大模型技术创新部
-- **中性**：母公司"3 年实控人未变"门槛达成，但港股 19 起大型 IPO 名单全部缺席蚂蚁系
+- **Bearish**: Hong Kong's first batch of stablecoin licenses went to only 2 firms (HSBC + Anchor Point); Ant was not among them → the bullish catalyst evaporated outright
+- **Bullish**: The Hang Seng Tech Index rose +8.85%, moving back above the 5,000-point mark; Ant Digital Technologies established a Large Model Technology Innovation Department
+- **Neutral**: The parent company met the "3-year unchanged actual controller" threshold, but Ant-affiliated entities were absent from all 19 major Hong Kong IPOs on the list
 
-## 研究原则
+## Research Principles
 
-严格遵循 [`/CLAUDE.md`](../../../CLAUDE.md) 投研分析核心原则：
-- 客观、不预设立场
-- 数据标注来源
-- 估算明确标注
-- 正反两面呈现
+Strictly follows the core investment-research principles in [`/CLAUDE.md`](../../../CLAUDE.md):
+- Objective; no preset stance
+- Data sourced and cited
+- Estimates clearly labeled
+- Both sides presented
 
-## 研究边界
+## Research Boundaries
 
-- 纯公开信息分析
-- 不含任何内部视角
-- 不构成任何投资建议
+- Analysis based purely on public information
+- Contains no insider perspective
+- Does not constitute investment advice
 
 ---
 
-*4 Agent 并行 · 总字数约 16,000 字 · 60+ 引用源*
+*4 agents in parallel · approximately 16,000 words total · 60+ cited sources*

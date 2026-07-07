@@ -1,175 +1,175 @@
-# 段永平关于拼多多的公开发言合集
+# Compilation of Duan Yongping's Public Remarks on Pinduoduo
 
-> 整理日期：2026-04-13
-> 来源说明：雪球全站有WAF保护，无法直接抓取。本文所有内容来自媒体对其雪球帖子的转载，以及段永平本人参与的线下活动文字实录。每条发言均标注原始来源URL。
-> 段永平雪球ID：大道无形我有型（用户编号：1247347556）
+> Compiled: 2026-04-13
+> Note on sources: Xueqiu (Snowball)'s entire site is protected by a WAF and cannot be scraped directly. All content in this document comes from media reposts of his Xueqiu posts, as well as transcripts of offline events in which Duan Yongping personally participated. Each remark is tagged with its original source URL.
+> Duan Yongping's Xueqiu ID: "Da Dao Wu Xing Wo You Xing" (user number: 1247347556)
 
 ---
 
-## 一、2015年（天使投资时期）
+## I. 2015 (Angel Investment Period)
 
-**来源：2025年1月5日段永平浙大交流会上回忆，新浪财经实录**
+**Source: recollections shared by Duan Yongping at a Zhejiang University exchange event on January 5, 2025, transcript by Sina Finance**
 https://finance.sina.com.cn/roll/2025-01-05/doc-inecxqhr2576638.shtml
 
-> "他（黄峥）希望我能投他们，我就问他能挣钱吗？他说不知道，但用户成长非常快，很多人喜欢用，供应商也很开心，原来不好卖的东西卖出去了。尤其是农产品，他们最早是农产品起步的。"
+> "He [Colin Huang] wanted me to invest in them, so I asked him: can you make money? He said he didn't know, but user growth was very fast, a lot of people liked using it, and the suppliers were happy too — things that hadn't sold well before were now selling. Agricultural products especially — that's what they started with."
 
-> "我听了成长的速度后说，好吧，我就把它当公益做吧，因为那么快的成长速度表示是在做好事。如果赚钱了，我就把它捐到我的基金里，当公益了。如果我不赚钱，但是帮了那么多人，那也算是做了公益。"
+> "After hearing how fast it was growing, I said, fine, I'll treat it as charity. Because growing that fast means you're doing something good. If it makes money, I'll donate it to my foundation and count it as charity. If I don't make money, but I've helped that many people, that's also a form of charity."
 
-> "然后我给他提了个条件，说你想让我投多少，你就再投多少。他其实并不是因为缺钱找我，而是为了把我拉进去做投资人。"
+> "Then I gave him a condition: I said, however much you want me to invest, you invest the same amount yourself. He wasn't actually short of money looking for me — he wanted to pull me in as an investor."
 
-> "拼多多我在其初创阶段就投了，比重很少但赚得很多。严格意义上不算重仓，因为我是稀里糊涂投的。"
+> "I invested in Pinduoduo at its earliest stage — a small position, but it made a lot of money. Strictly speaking it doesn't count as a major holding, because I invested in it somewhat by accident."
 
 ---
 
-## 二、2019年（拼多多上市后，雪球评论）
+## II. 2019 (After Pinduoduo's IPO, Xueqiu Comments)
 
-**来源：电商派对段永平雪球帖子的转载整理**
+**Source: repost and compilation of Duan Yongping's Xueqiu posts by E-commerce Party**
 https://www.pai.com.cn/p/01jd3jb3kkn7zf7xk162dc3ffg
 
-> "我不了解拼多多，也没花时间看过，我只是相信黄峥说的东西。"
+> "I don't understand Pinduoduo, and I haven't spent time looking into it — I just trust what Colin Huang says."
 
-> "我还没认真看过拼多多，但回国的时候体验了一下，感觉蛮好的。这么多人用可能是有道理的。"
+> "I still haven't studied Pinduoduo carefully, but when I was back in China I tried it out and it felt pretty good. If that many people are using it, there's probably a reason."
 
-> "拼多多我是因为跟黄峥多年朋友的关系投了一些，上市后象征性买了一点。"
+> "I invested some in Pinduoduo because of my many years of friendship with Colin Huang, and bought a token amount after the IPO."
 
 ---
 
-## 三、2021年12月（拼多多股价从200美元跌至60美元后）
+## III. December 2021 (After Pinduoduo's Share Price Fell From $200 to $60)
 
-**来源：36氪、163新闻对其雪球帖子的转载**
+**Source: reposts of his Xueqiu posts by 36Kr and 163.com**
 https://36kr.com/p/1517106522019842
 https://www.163.com/dy/article/GQJ2F78S0530NLC9.html
 
-**2021年12月6日，雪球发文：**
-> "虽然还是看不懂其商业模式，但觉得他们对农产品的支持还是非常有意义的。准备再次风投一下！"
+**Posted on Xueqiu, December 6, 2021:**
+> "Even though I still don't understand its business model, I feel their support for agricultural products is still very meaningful. Getting ready to venture-bet on it again!"
 
-附：此时段永平卖出约7,000张看跌期权（put），行权价50美元，行权日2022年1月22日，潜在交易额约3,500万美元。
+Note: at this point Duan Yongping sold approximately 7,000 put option contracts, strike price $50, expiring January 22, 2022, with a potential transaction value of approximately $35 million.
 
 ---
 
-## 四、2023年11月（拼多多市值首次超越阿里）
+## IV. November 2023 (Pinduoduo's Market Cap Surpasses Alibaba's for the First Time)
 
-**来源：界面新闻对其雪球评论的转载**
+**Source: repost of his Xueqiu comments by Jiemian News**
 https://www.jiemian.com/article/10838838.html
 
-> "我搞不懂拼多多，可能有点像巴菲特搞不懂微软一样。"
+> "I can't figure Pinduoduo out — maybe a bit like Buffett not understanding Microsoft."
 
-> "其实我管的账号里有一个账号里拼多多是第二大持股。"
+> "Actually, in one of the accounts I manage, Pinduoduo is the second-largest holding."
 
 ---
 
-## 五、2024年8月27日（拼多多二季报发布后股价单日暴跌约30%）
+## V. August 27, 2024 (Pinduoduo's Share Price Plunges About 30% in a Single Day After Q2 Earnings)
 
-**来源：腾讯新闻、华盛通对其雪球帖子的转载**
+**Source: reposts of his Xueqiu posts by Tencent News and Huasheng Tong**
 https://news.qq.com/rain/a/20240828A0865000
 https://www.hstong.com/news/detail/21120817044986877
 
-> "开始卖点put（看跌期权）。虽然对PDD的商业模式还不是完全懂，但这些年看来看去还是觉得蛮有意思的。"
+> "Starting to sell some puts. Even though I still don't fully understand PDD's business model, after all these years of looking at it on and off, I still find it quite interesting."
 
-> "拼多多是赚了但赚少了的典型例子。"
+> "Pinduoduo is a classic example of making money but not making enough."
 
 ---
 
-## 六、2024年9月27日（市场大幅反弹后）
+## VI. September 27, 2024 (After a Sharp Market Rebound)
 
-**来源：证券之星、电商派对其雪球帖子的转载**
+**Source: reposts of his Xueqiu posts by Stockstar and E-commerce Party**
 https://focus.stockstar.com/SS2024100900026417.shtml
 
-> "最近确实涨得有点邪乎。本来花了很多时间去思考拼多多、腾讯，觉得是个大好的机会，想着先多卖点put，结果看上去要少赚不少了。"
+> "It's really rallied oddly hard lately. I spent a lot of time thinking about Pinduoduo and Tencent, and felt they were a great opportunity, planning to sell more puts — turns out I'm going to end up making a lot less than I'd hoped."
 
 ---
 
-## 七、2024年10月18日
+## VII. October 18, 2024
 
-**来源：同上，多处媒体转载**
+**Source: same as above, reposted by multiple outlets**
 
-> "这两天开始继续卖点腾讯和拼多多的put。前段时间突然涨太多了。"
+> "The past couple of days I've started selling more Tencent and Pinduoduo puts. It had suddenly jumped up too much a while back."
 
 ---
 
-## 八、2025年1月5日（浙大交流会，线下问答）
+## VIII. January 5, 2025 (Zhejiang University Exchange Event, Offline Q&A)
 
-**来源：新浪财经2万字实录、腾讯新闻整理版、虎嗅整理版**
+**Source: 20,000-word transcript by Sina Finance, compiled versions by Tencent News and Huxiu**
 https://finance.sina.com.cn/roll/2025-01-05/doc-inecxqhr2576638.shtml
 https://news.qq.com/rain/a/20250106A071I900
 https://m.huxiu.com/article/3875526.html
 
-**关于商业模式与用户认可：**
-> "人家的用户越来越多，那么多人喜欢用它，你非说它不对，到底是啥意思？"
+**On the business model and user acceptance:**
+> "Their users just keep growing, and that many people like using it — you insisting it's wrong, what does that even mean?"
 
-**关于黄峥的初心：**
-> "像黄峥最早开始商业的时候，你比如说他做拼好货的时候，他是非常关心农业的这个东西，他就是想把农产品发出去。他真的做了很多事情，包括他现在做的很多基础建设都是跟这个有关的。"
+**On Colin Huang's original intent:**
+> "Take Colin Huang — when he first started in business, for instance with Pinhaohuo, he genuinely cared a lot about agriculture — he wanted to get agricultural products out to market. He really did a lot of things, including a lot of the infrastructure work he's doing now, which is all related to that."
 
-**关于黄峥的品质：**
-> "我觉得黄峥不是一个趋利的人，很多人不理解这一点，我非常理解。他不是为了挣钱，他也不会蒙你。"
+**On Colin Huang's character:**
+> "I don't think Colin Huang is someone driven by profit — a lot of people don't understand this, but I understand it very well. He's not doing it to make money, and he wouldn't deceive you."
 
-> "前段时间拼多多股价狂掉的时候，很多人质疑这是不是一个骗局，我说别的我不知道，但这一点我很确定，他不是骗人的。"
+> "A while back, when Pinduoduo's stock price was crashing hard, a lot of people questioned whether this was some kind of scam. I said, I don't know about anything else, but of this I'm certain: he's not a fraud."
 
-**关于Temu全球化：**
-> "现在我在美国问所有的人，我说你们知道Temu吗？知道啊，几乎所有的人。"
+**On Temu's globalization:**
+> "Right now, when I ask everyone in the U.S., I say, do you know Temu? Yes, almost everyone does."
 
-> "黄峥做到了，黄峥那次问我说，你觉得'超级碗'广告效果怎么样，我说我看见了……他说效果还可以。我说还可以，你才打两条，他说第二年打了四条还是五条……所以他就是一下子get the point。"
+> "Colin Huang pulled it off. He once asked me what I thought of the Super Bowl ad, and I said I saw it... he said the results were pretty good. I said, pretty good, and you only ran two spots — he said the next year they ran four or five spots... so he just got the point right away."
 
-> "现在中国算是做好了全球化的，可能就一个拼多多，一个抖音，其他的好像都是局部的全球化。"
+> "Right now, in terms of who in China has truly gone global, maybe it's just Pinduoduo and Douyin — everyone else seems only partially globalized."
 
-**关于商家问题：**
-> "我听说了，我觉得首先我不好评价啊，因为我不了解具体的情况。大部分供应商还是（在平台上）认真的，可能它们的竞争环境更恶劣一些。"
+**On merchant issues:**
+> "I've heard about it. I don't think I'm in a position to comment, honestly, because I don't understand the specific details. Most suppliers on the platform are still doing things properly — it's just that their competitive environment might be harsher."
 
 ---
 
-## 九、2025年7月25日（雪球评论拼多多相关帖子）
+## IX. July 25, 2025 (Xueqiu Comment on a Pinduoduo-Related Post)
 
-**背景：一篇帖子指出拼多多总资产5300亿，固定资产只有8亿，办公楼、桌椅、服务器全是租的**
-**来源：新浪财经**
+**Context: a post pointed out that Pinduoduo has total assets of RMB 530 billion but only RMB 800 million in fixed assets — its office buildings, furniture, and servers are all leased**
+**Source: Sina Finance**
 https://finance.sina.com.cn/tech/roll/2025-07-25/doc-infhrzcx1962262.shtml
 
-> "租办公楼这点让我惊讶！租办公室绝对省老钱了，尤其是现在！"
+> "The fact that they lease their office building surprised me! Leasing office space really saves a ton of money, especially these days!"
 
 ---
 
-## 十、2025年11月11日（雪球《方略》对话，与方三文访谈）
+## X. November 11, 2025 (Xueqiu "Fanglüe" Dialogue, Interview with Fang Sanwen)
 
-**发言性质：雪球官方对话节目，2025年10月16日录制，11月11日发布**
-**来源：澎湃新闻2万字实录、新浪财经整理版**
+**Nature of the remarks: an official Xueqiu dialogue program, recorded October 16, 2025, published November 11**
+**Source: 20,000-word transcript by The Paper, compiled version by Sina Finance**
 https://m.thepaper.cn/newsDetail_forward_31947522
 https://finance.sina.com.cn/stock/t/2025-11-12/doc-infxcywv3357540.shtml
 
-**关于持仓和操作：**
+**On his position and actions:**
 
-（方三文问：你之前说对它是有风险投资的，最新其实你也是有增仓的，现在还是风险投资吗？）
+(Fang Sanwen asked: You previously said it was a venture-style investment for you, but recently you've actually added to your position — is it still a venture-style investment now?)
 
-> "还是，但我懂得多一点了。我其实曾经卖掉过很大的部位，又差不多都买回来了，我觉得这公司还是有点意思，但是有风险的，我不推荐别人买。"
+> "Still is, but I understand it a bit more now. I actually sold off a big chunk of my position at one point and have bought most of it back. I think this company is still somewhat interesting, but it carries risk — I wouldn't recommend others buy it."
 
-（方三文问：你说你又买回来，你觉得更懂了一点，你觉得懂了的是什么部分？）
+(Fang Sanwen asked: You said you bought it back and feel you understand it a bit better now — what part do you feel you now understand?)
 
-> "人家赚的钱摆在那儿了，财报你都能看见了，如果它能够维持这个生意，它是很便宜的。问题是我不知道它是不是真的能够维持，有什么样的东西会影响到它，但是我对他们整个文化、整个团队，我是信任的，但是大环境我不知道。"
+> "The money they've made is right there — you can see it in the financial reports. If they can sustain this business, it's very cheap. The problem is I don't know whether they can really sustain it, or what could affect it. But I do trust their overall culture and team — it's the broader environment I'm not sure about."
 
-（方三文问：5到10年之后的拼多多，你现在没有办法建立一个清晰的预期？）
+(Fang Sanwen asked: For Pinduoduo five to ten years from now, are you unable to form a clear expectation?)
 
-> "我觉得大概率他们应该活得还不错，但是不是百分之一百。我觉得苹果我可以说，我很肯定地知道苹果还会活得很好，拼多多我没有那么清晰。"
-
----
-
-## 附：未能核实的说法
-
-以下说法在网络上流传，但**未找到段永平本人在雪球发帖的原始出处**，暂不收入正文：
-
-- "拼多多像Costco和Disney的结合"——此说法源头更接近黄峥本人的表述，段永平是否原话说过未经核实
-- 部分2022年的评论——原始帖子因平台规则已无法检索
+> "I think there's a good chance they'll be doing fine, but it's not 100%. With Apple, I can say I'm very confident it will keep doing well — with Pinduoduo, I don't have that same clarity."
 
 ---
 
-## 来源汇总
+## Appendix: Unverified Claims
 
-| 日期 | 核心内容 | 来源 |
+The following claims circulate online, but **no original Xueqiu post by Duan Yongping himself has been found as their source**, so they are not included in the main text for now:
+
+- "Pinduoduo is like a combination of Costco and Disney" — this phrasing appears to trace back more to Colin Huang himself; whether Duan Yongping actually said these exact words has not been verified
+- Some comments from 2022 — the original posts can no longer be retrieved due to platform policy
+
+---
+
+## Source Summary
+
+| Date | Core content | Source |
 |------|---------|------|
-| 2015年 | 天使投资决策 | 新浪财经浙大实录（2025-01-05转述） |
-| 2019年 | "不了解但相信黄峥" | 电商派转载 |
-| 2021-12-06 | "再次风投一下"，卖put行权价$50 | 36氪、163转载 |
-| 2023-11 | "管的账号里PDD是第二大持股" | 界面新闻转载 |
-| 2024-08-27 | "开始卖点put" | 腾讯新闻、华盛通转载 |
-| 2024-09-27 | "涨得有点邪乎，少赚不少了" | 证券之星转载 |
-| 2024-10-18 | "继续卖腾讯和拼多多的put" | 多媒体转载 |
-| 2025-01-05 | 浙大交流会，谈黄峥、Temu全球化 | 新浪财经实录 |
-| 2025-07-25 | "租办公室省老钱了" | 新浪财经转载 |
-| 2025-11-11 | "卖掉又买回来，对文化团队信任，大环境不确定" | 澎湃新闻实录 |
+| 2015 | Angel investment decision | Sina Finance, Zhejiang University transcript (recounted 2025-01-05) |
+| 2019 | "Don't understand it but trust Colin Huang" | E-commerce Party repost |
+| 2021-12-06 | "Venture-betting again," sold puts at $50 strike | 36Kr, 163.com reposts |
+| 2023-11 | "PDD is the second-largest holding in one of the accounts I manage" | Jiemian News repost |
+| 2024-08-27 | "Starting to sell some puts" | Tencent News, Huasheng Tong reposts |
+| 2024-09-27 | "Rallied oddly hard, going to make a lot less" | Stockstar repost |
+| 2024-10-18 | "Continuing to sell Tencent and Pinduoduo puts" | Multiple media reposts |
+| 2025-01-05 | Zhejiang University exchange event, discussing Colin Huang and Temu's globalization | Sina Finance transcript |
+| 2025-07-25 | "Leasing office space saves a ton of money" | Sina Finance repost |
+| 2025-11-11 | "Sold and bought back, trust the culture and team, uncertain about the broader environment" | The Paper transcript |

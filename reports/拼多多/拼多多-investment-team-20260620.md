@@ -1,189 +1,189 @@
-# 拼多多（PDD Holdings, NASDAQ: PDD）投研团队最终报告
+# PDD Holdings (NASDAQ: PDD) Investment Team Final Report
 
-**信息丰富度评级：A级** | **研究团队：4 Agent并行** | **报告日期：2026年6月20日**
+**Information Richness Rating: Grade A** | **Research Team: 4 Agents in parallel** | **Report Date: June 20, 2026**
 
-**AI研究局限性声明**：拼多多属于A级标的（覆盖密集、数据充裕），AI分析可能与市场共识趋同。本报告核心价值在于：(1) 拼多多不披露Temu独立数据，各Agent对这一"黑箱"的交叉推断；(2) 四个不同视角对"便宜是否有道理"这一核心分歧的独立判断。
-
----
-
-## 1. 一句话结论
-
-> **拼多多是全球估值最低的千亿级互联网公司——净现金598亿美元占市值近50%，核心业务隐含PE仅4-5倍。生意模型强劲（年利润近千亿、零负债、FCF收益率13%），但护城河偏窄（无定价权、低转换成本）、治理有硬伤（零分红回购、信息不透明、"暴力抗法"）。当前价格已极度悲观定价，但兑现需要一个信仰：管理层最终会改变。**
+**AI Analysis Limitations Disclaimer**: PDD is a Grade-A name (dense coverage, abundant data), so AI analysis may converge with market consensus. This report's core value lies in: (1) cross-agent inference on the "black box" created by Temu's undisclosed standalone data; (2) four independent perspectives' judgment on the core disagreement of whether "cheap is justified."
 
 ---
 
-## 2. 四维评分总表
+## 1. One-line conclusion
 
-| 维度 | 框架 | 评分 | 核心判断 |
+> **PDD Holdings is the cheapest hundred-billion-dollar-class internet company in the world by valuation — net cash of $59.8 billion equals nearly 50% of its market cap, and the core business implies a PE of just 4-5x. The business model is strong (nearly RMB 100 billion in annual profit, zero debt, a 13% FCF yield), but the moat is narrow (no pricing power, low switching costs) and governance has real flaws (no dividends or buybacks, opaque disclosure, "violent resistance to law enforcement"). The current price is already extremely pessimistically priced, but cashing in requires one article of faith: that management will eventually change.**
+
+---
+
+## 2. Four-dimension scoring summary
+
+| Dimension | Framework | Rating | Core judgment |
 |------|------|------|---------|
-| 生意质量 | 段永平 | ★★★☆☆ | 好生意但不伟大：毛利60%+、FCF≈净利润、零负债。但无定价权——靠"最低价"驱动，护城河偏窄（2.3/5），规模效应是唯一强维度 |
-| 财务与估值 | 巴菲特 | ★★★★☆ | 显著低估：TTM PE~9x，扣除净现金后核心PE仅4-5x，反向DCF隐含FCF年降11%的极端悲观。概率加权目标价$146（+59%） |
-| 行业竞争 | 芒格 | ★★★☆☆ | 竞争白热化：抖音GMV逼近拼多多，淘宝500亿补贴反击。Temu美国MAU-28%，de minimis永久取消。"三重压缩"进行中 |
-| 风险与管理层 | 李录 | ★★★☆☆ | 管理层坦诚但治理差：利润高点主动降预期（罕见）；但4,300亿不分配、信息不透明、"暴力抗法"罚款15亿。赔率高，胜率要信仰 |
+| Business quality | Duan Yongping | ★★★☆☆ | A good but not great business: gross margin 60%+, FCF ≈ net profit, zero debt. But no pricing power — driven by "the lowest price" — moat is narrow (2.3/5), with scale effect the only strong dimension |
+| Financials & valuation | Buffett | ★★★★☆ | Significantly undervalued: TTM PE ~9x, core PE after excluding net cash only 4-5x, reverse DCF implies an extreme pessimistic scenario of FCF declining 11% a year. Probability-weighted target price $146 (+59%) |
+| Industry competition | Munger | ★★★☆☆ | Competition is white-hot: Douyin's GMV is closing in on PDD's, Taobao is counterattacking with an RMB 50 billion subsidy. Temu's US MAU is down 28%, and de minimis has been permanently eliminated. A "triple compression" is underway |
+| Risk & management | Li Lu | ★★★☆☆ | Management is candid but governance is poor: guidance was proactively lowered at a profit peak (rare); yet RMB 430 billion sits undistributed, disclosure is opaque, and a "violent resistance to law enforcement" incident drew a RMB 1.5 billion fine. The odds are high, but believing in the win probability takes faith |
 
-**综合评分：3.25 / 5** — 价格很好、生意不差、但确定性不够高
+**Composite score: 3.25/5** — good price, decent business, but not enough certainty
 
 ---
 
-## 3. 核心数据速览
+## 3. Core data at a glance
 
-| 指标 | FY2024 | FY2025 | 变化 |
+| Metric | FY2024 | FY2025 | Change |
 |------|--------|--------|------|
-| 营收 | 3,938亿元 | 4,318亿元 | +10%（前年+59%） |
-| 净利润 | 1,124亿元 | 994亿元 | **-12%**（IPO以来首降） |
-| 营业利润率 | ~28% | 21.9% | -6pp |
-| 经营现金流 | — | 1,069亿元 | — |
-| 净现金 | — | 4,361亿元（$598亿） | 占市值~48% |
+| Revenue | RMB 393.8 billion | RMB 431.8 billion | +10% (prior year +59%) |
+| Net profit | RMB 112.4 billion | RMB 99.4 billion | **-12%** (first decline since IPO) |
+| Operating margin | ~28% | 21.9% | -6pp |
+| Operating cash flow | — | RMB 106.9 billion | — |
+| Net cash | — | RMB 436.1 billion ($59.8 billion) | ~48% of market cap |
 
-| 估值指标 | 数值 | 同业对比 |
+| Valuation metric | Value | Peer comparison |
 |---------|------|---------|
-| 股价 | ~$92 | — |
-| 市值 | $1,255亿 | — |
-| TTM PE | ~9x | 阿里18x、京东22x、美团20x、Sea 35x |
-| EV/EBITDA | ~3.6x | 阿里15x、京东17x |
-| 核心PE（扣除净现金） | ~4-5x | 全球电商最低 |
-| FCF收益率 | 13% | — |
-| 股息率 | **0%** | 从未分红 |
+| Share price | ~$92 | — |
+| Market cap | $125.5 billion | — |
+| TTM PE | ~9x | Alibaba 18x, JD 22x, Meituan 20x, Sea 35x |
+| EV/EBITDA | ~3.6x | Alibaba 15x, JD 17x |
+| Core PE (ex-net cash) | ~4-5x | Lowest among global e-commerce peers |
+| FCF yield | 13% | — |
+| Dividend yield | **0%** | Has never paid a dividend |
 
 ---
 
-## 4. 各维度分析摘要
+## 4. Summary of analysis by dimension
 
-### 商业模式（段永平视角）
+### Business model (Duan Yongping's perspective)
 
-- **一句话**：通过极致压缩流通环节、聚合海量价格敏感需求，为制造端和消费端搭建"去中间商"平台，以低价为唯一信仰
-- **护城河综合评分2.3/5**：规模效应（3.5/5）是最强维度；品牌定价权（1.5/5）和转换成本（1.5/5）是最弱维度
-- **Temu飞轮正在重构**：从"中国直邮超低价"轻资产模式向"本地仓储半托管"重资产模式转变，利润率结构将根本改变
-- **"新拼姆"是一场豪赌**：首期150亿、三年1,000亿投入自营品牌，改变了轻资产平台基因，高风险高回报
-- **段永平本人的判断**："如果拼多多能维持这个生意，它很便宜，但我不知道它能否真的维持"
+- **One line**: by radically compressing distribution links and aggregating massive price-sensitive demand, PDD has built a "disintermediated" platform connecting manufacturers and consumers, with low price as its sole article of faith
+- **Composite moat score 2.3/5**: scale effect (3.5/5) is the strongest dimension; brand pricing power (1.5/5) and switching costs (1.5/5) are the weakest
+- **The Temu flywheel is being rebuilt**: shifting from the asset-light "China direct-mail, ultra-low-price" model toward an asset-heavy "local warehousing, semi-managed" model, which will fundamentally change the margin structure
+- **"New Pinmm" is a huge bet**: an initial RMB 15 billion, with RMB 100 billion planned over three years for in-house brands — a shift that alters the platform's asset-light genetic code, high risk and high reward
+- **Duan Yongping's own judgment**: "If PDD can sustain this business, it's very cheap — but I don't know whether it can really sustain it"
 
-### 财务与估值（巴菲特视角）
+### Financials and valuation (Buffett's perspective)
 
-- **盈利能力同业最强**：净利率23%、ROE 27%——远超阿里（净利率8%）、京东（净利率3%）
-- **现金堡垒**：4,361亿元净现金，零有息负债，财务安全性极高
-- **反向DCF**：当前股价隐含FCF未来5年每年下降11%——如果FCF仅维持不变，合理估值约$180，是当前2倍
-- **三情景估值**（工具验算✅）：乐观$211（+129%）、中性$139（+51%）、悲观$69（-25%）
-- **概率加权目标价**：$211×25% + $139×50% + $69×25% = **~$139**（+51%）
+- **Strongest profitability among peers**: net margin 23%, ROE 27% — far ahead of Alibaba (net margin 8%) and JD (net margin 3%)
+- **Cash fortress**: RMB 436.1 billion in net cash, zero interest-bearing debt, extremely high financial safety
+- **Reverse DCF**: the current share price implies FCF declining 11% a year over the next 5 years — if FCF simply held flat, fair value would be about $180, roughly double the current price
+- **Three-scenario valuation** (tool-verified ✅): bull case $211 (+129%), base case $139 (+51%), bear case $69 (-25%)
+- **Probability-weighted target price**: $211×25% + $139×50% + $69×25% = **~$139** (+51%)
 
-### 行业竞争（芒格视角）
+### Industry competition (Munger's perspective)
 
-- **国内格局已变**：淘天31%、抖音24%、拼多多19%、京东16%。抖音用5年做到淘宝19年的事，是最大增量威胁
-- **Temu全球份额24%**：三年从0逼近Amazon（25%），执行力惊人——但美国MAU已同比下降28%
-- **de minimis永久取消**：2027年7月美国立法废除小额免税，Temu中国直邮模式的制度性红利消失
-- **"三重压缩"**：收入增速（59%→10%）+ 利润率（28%→22%）+ 估值倍数（19x→9x）同时发生
-- **芒格式类比**：Wish（美国先驱）从$140亿估值跌至$1.7亿被贱卖。拼多多远比Wish强大，但"极致低价"模式的脆弱性值得警惕
+- **The domestic landscape has shifted**: Taobao/Tmall 31%, Douyin 24%, PDD 19%, JD 16%. Douyin achieved in 5 years what took Taobao 19 years — the biggest incremental threat
+- **Temu's global share stands at 24%**: from zero to nearly matching Amazon (25%) in three years — astonishing execution — but US MAU is already down 28% year over year
+- **De minimis permanently eliminated**: US legislation abolishing the small-value tax exemption takes effect in July 2027, removing the institutional dividend behind Temu's China-direct-mail model
+- **"Triple compression"**: revenue growth (59% → 10%), margin (28% → 22%), and valuation multiple (19x → 9x) are all compressing at once
+- **A Munger-style analogy**: Wish (an earlier US pioneer) fell from a $14 billion valuation to being sold off for $170 million. PDD is far stronger than Wish, but the fragility of the "extreme low price" model deserves attention
 
-### 风险与管理层（李录视角）
+### Risk and management (Li Lu's perspective)
 
-- **管理层坦诚度罕见**：2024年8月在利润同比+125%时八次主动说"利润将不可避免下降"，股价当日-28%。愿意牺牲短期股价说真话
-- **但治理硬伤明显**：4,361亿现金零分红零回购、不拆分Temu数据、"暴力抗法"被罚15亿、员工致执法人员骨折
-- **黄峥超级投票权已失效**（2021年3月），一股一票是正面信号
-- **港股上市信号**：更换审计师为安永香港，若落地将显著缓解退市焦虑
-- **10年判断**：更接近"中国版沃尔玛"而非"昙花一现的Groupon"——前提是Temu找到可持续盈利模式、管理层最终回报股东
-
----
-
-## 5. 投资论点
-
-### 看多逻辑
-
-1. **极度低估**：扣除净现金后核心PE仅4-5x，反向DCF隐含FCF年降11%——历史上这种定价几乎只出现在濒临破产的公司，而拼多多年赚近千亿
-2. **国内基本盘稳固**：7亿MAU、月均422分钟使用时长、"确定性最低价"心智短期难以撼动
-3. **Temu全球增长仍在**：欧洲MAU同比+74%，全球跨境电商份额24%，半托管转型推进快于预期
-4. **消费降级/分级持续利好**：中国经济放缓环境下，价格敏感型消费需求是结构性的
-5. **"新拼姆"+千亿扶持**：从"压榨型低价"转向"效率型低价"，方向正确
-6. **催化剂明确**：港股上市、启动分红/回购、Temu盈亏平衡——任何一个都可能触发估值重估
-
-### 看空逻辑
-
-1. **Temu模式基石被拆**：de minimis永久取消，中国直邮关税从0升至35-40%，美国DAU一度下降58%
-2. **增收不增利已成现实**：FY2025营收+10%但净利-12%，Q1 2026 EPS低于预期43%
-3. **治理是结构性问题**：4,300亿不分配、信息不透明、"暴力抗法"——不是换个CEO能解决的
-4. **竞争四面受敌**：抖音国内追赶、淘宝500亿补贴、Amazon全球防守、各国关税围剿
-5. **商家生态脆弱**：投诉量占电商84.2%，"仅退款"引发大规模抗议，供给侧随时可能反噬
-6. **"价值陷阱"风险**：如果管理层永远不改变资本配置，低估值可能永远持续
-7. **VIE+退市尾部风险**：尚无港股上市退路，地缘政治恶化可能重新激活风险
+- **Rare candor from management**: in August 2024, with profit up 125% year over year, management said eight separate times that "profit will inevitably decline" — the stock fell 28% that day. Willing to sacrifice the short-term share price to tell the truth
+- **But governance flaws are clear**: RMB 436.1 billion in cash, zero dividends, zero buybacks, no breakout of Temu data, a RMB 1.5 billion fine for "violent resistance to law enforcement," and an incident in which an employee caused a law enforcement officer's bone fracture
+- **Colin Huang's super-voting rights have already lapsed** (March 2021) — one-share-one-vote is a positive signal
+- **Hong Kong listing signal**: the auditor was switched to Ernst & Young Hong Kong; if this materializes, it would significantly ease delisting anxiety
+- **10-year judgment**: closer to "China's Walmart" than a "flash-in-the-pan Groupon" — provided Temu finds a sustainable profit model and management eventually returns capital to shareholders
 
 ---
 
-## 6. 巴菲特买入前Checklist
+## 5. Investment thesis
 
-| # | 检查项 | 通过? | 说明 |
+### Bull case
+
+1. **Extremely undervalued**: core PE after excluding net cash is only 4-5x, and the reverse DCF implies FCF declining 11% a year — historically this kind of pricing has appeared almost exclusively in companies on the brink of bankruptcy, yet PDD earns nearly RMB 100 billion a year
+2. **The domestic base is solid**: 700 million MAU, an average of 422 minutes of monthly usage time, and the "guaranteed lowest price" mindshare will be hard to dislodge in the short term
+3. **Temu's global growth continues**: Europe MAU +74% year over year, a 24% share of global cross-border e-commerce, and the semi-managed transition is progressing faster than expected
+4. **Consumption downgrade/segmentation is a persistent tailwind**: price-sensitive consumer demand is structural amid China's economic slowdown
+5. **"New Pinmm" plus the RMB 100 billion support program**: a shift from "extractive low price" to "efficiency-driven low price" — the right direction
+6. **Clear catalysts**: a Hong Kong listing, the start of dividends/buybacks, or Temu reaching breakeven — any one could trigger a valuation re-rating
+
+### Bear case
+
+1. **The foundation of the Temu model has been dismantled**: de minimis has been permanently eliminated, China direct-mail tariffs have risen from 0 to 35-40%, and US DAU fell as much as 58% at one point
+2. **Revenue growth without profit growth has become reality**: FY2025 revenue +10% but net profit -12%, and Q1 2026 EPS missed expectations by 43%
+3. **Governance is a structural problem**: RMB 430 billion sits undistributed, disclosure is opaque, and "violent resistance to law enforcement" is not something a change of CEO can fix
+4. **Under attack on every competitive front**: Douyin is catching up domestically, Taobao is deploying an RMB 50 billion subsidy, Amazon is defending globally, and multiple countries are mounting tariff sieges
+5. **The merchant ecosystem is fragile**: complaints account for 84.2% of all e-commerce complaints, the "refund-only" policy sparked large-scale merchant protests, and the supply side could turn on the platform at any time
+6. **"Value trap" risk**: if management never changes its capital allocation, the low valuation could persist indefinitely
+7. **VIE plus delisting tail risk**: there is no Hong Kong listing escape route yet, and a worsening geopolitical environment could reactivate this risk
+
+---
+
+## 6. Buffett pre-purchase checklist
+
+| # | Check item | Pass? | Note |
 |---|--------|-------|------|
-| 1 | 能看懂这门生意吗？ | ✅ | 商业模式清晰：低价电商平台+跨境电商 |
-| 2 | 有持久的竞争优势吗？ | ⚠️ | 规模效应和C2M供应链有壁垒，但无品牌定价权、低转换成本 |
-| 3 | 管理层诚实且有能力吗？ | ⚠️ | 坦诚度出色，但不回报股东、信息不透明、治理粗暴 |
-| 4 | 价格合理吗？ | ✅ | 扣除净现金后4-5x PE，即使零增长也有安全边际 |
-| 5 | 资产负债表健康吗？ | ✅ | 零有息负债、净现金598亿美元 |
-| 6 | 自由现金流充沛吗？ | ✅ | FCF收益率13%，FCF≈净利润 |
-| 7 | ROE持续高于15%吗？ | ✅ | ROE 27%，远超门槛 |
-| 8 | 10年后确定还在吗？ | ⚠️ | 国内大概率在，Temu存在不确定性 |
-| 9 | 股东利益一致吗？ | ❌ | 黄峥持股24.8%利益绑定，但零分红零回购、现金不分配 |
-| 10 | 宏观/监管风险可控吗？ | ⚠️ | 美国关税+欧盟罚款+中概退市风险+VIE结构 |
+| 1 | Can you understand this business? | ✅ | The business model is clear: a low-price e-commerce platform plus cross-border e-commerce |
+| 2 | Does it have a durable competitive advantage? | ⚠️ | Scale effect and the C2M supply chain provide some moat, but there is no brand pricing power and switching costs are low |
+| 3 | Is management honest and capable? | ⚠️ | Outstanding candor, but management does not return capital to shareholders, disclosure is opaque, and governance is blunt |
+| 4 | Is the price reasonable? | ✅ | 4-5x PE after excluding net cash, with a margin of safety even at zero growth |
+| 5 | Is the balance sheet healthy? | ✅ | Zero interest-bearing debt, net cash of $59.8 billion |
+| 6 | Is free cash flow abundant? | ✅ | FCF yield 13%, FCF ≈ net profit |
+| 7 | Is ROE consistently above 15%? | ✅ | ROE 27%, well above the threshold |
+| 8 | Will it certainly still be around in 10 years? | ⚠️ | The domestic business likely will be; Temu carries uncertainty |
+| 9 | Are shareholder interests aligned? | ❌ | Colin Huang holds 24.8%, which aligns his interest, but zero dividends, zero buybacks, and cash sits undistributed |
+| 10 | Is macro/regulatory risk manageable? | ⚠️ | US tariffs, EU fines, China-concept-stock delisting risk, and the VIE structure |
 
-**Checklist结果：4通过、4警告、1未通过、1强通过**——非典型的巴菲特标的（治理和确定性不达标），但价格便宜到足以补偿部分缺陷。
+**Checklist result: 4 passes, 4 warnings, 1 fail, 1 strong pass** — an atypical Buffett name (governance and certainty fall short), but the price is cheap enough to compensate for some of the flaws.
 
 ---
 
-## 7. 最终投资建议
+## 7. Final investment recommendation
 
-### 定性判断
+### Qualitative judgment
 
-| 维度 | 判断 |
+| Dimension | Judgment |
 |------|------|
-| 生意质量 | 好（非伟大）——高盈利、强现金流，但缺乏定价权和宽护城河 |
-| 管理层 | 中——坦诚有能力，但治理差、不回报股东 |
-| 估值 | 显著低估——扣除现金后全球电商最便宜 |
-| 时机 | 偏早——Temu关税冲击仍在消化，Q1 EPS大幅低于预期，短期可能继续承压 |
+| Business quality | Good (not great) — highly profitable and strong on cash flow, but lacking pricing power and a wide moat |
+| Management | Medium — candid and capable, but governance is poor and capital is not returned to shareholders |
+| Valuation | Significantly undervalued — the cheapest global e-commerce name once cash is excluded |
+| Timing | Somewhat early — the Temu tariff shock is still being digested, Q1 EPS missed sharply, and near-term pressure may continue |
 
-### 分层操作建议
+### Tiered action recommendations
 
-| 投资风格 | 建议 | 价格区间 |
+| Investment style | Recommendation | Price range |
 |---------|------|---------|
-| **激进型** | 当前价位建仓10-15%，分批买入 | $80-95入场 |
-| **稳健型** | 等待港股上市确认或Temu季度盈亏平衡后建仓5-10% | $85-100入场 |
-| **保守型** | 观望，等待分红/回购政策出台后再考虑 | 催化剂驱动，不设价格锚 |
+| **Aggressive** | Build a 10-15% position at current levels, in tranches | Enter at $80-95 |
+| **Moderate** | Wait for confirmation of a Hong Kong listing or for Temu to reach quarterly breakeven before building a 5-10% position | Enter at $85-100 |
+| **Conservative** | Stay on the sidelines and wait for a dividend/buyback policy before considering an entry | Catalyst-driven, no fixed price anchor |
 
-### 关键催化剂
+### Key catalysts
 
-**加仓信号：**
-1. 港股上市正式公告
-2. 宣布首次分红或大规模回购计划（>$50亿）
-3. Temu单季度盈亏平衡或盈利
-4. 美国关税政策出现缓和信号
-5. "新拼姆"自营品牌首批产品数据超预期
+**Signals to add:**
+1. A formal announcement of a Hong Kong listing
+2. Announcement of a first-ever dividend or a large-scale buyback program (>$5 billion)
+3. Temu reaching quarterly breakeven or profitability
+4. Signs of easing in US tariff policy
+5. "New Pinmm" in-house brand's first batch of products exceeding expectations
 
-**减仓/卖出信号：**
-1. Temu年度亏损继续扩大（而非收窄）
-2. 国内主站MAU连续两季度下降
-3. 管理层进一步加大资本投入但不提高股东回报
-4. VIE结构遭遇实质性法律挑战
-5. 美国对中概股实施强制退市或交易限制
-
----
-
-## 8. 总结
-
-拼多多是一个**"赔率极高、胜率需要判断"**的标的。扣除598亿美元净现金后，你用不到700亿美元买一个年赚近千亿人民币、零负债、全球5亿+用户的电商平台——这个价格无论怎么看都便宜。但"便宜"和"好投资"之间隔着三个问号：Temu能否在关税围剿下找到可持续模式？管理层何时愿意把4,300亿现金还给股东？国内增速放缓后利润能否企稳？如果三个问题中有两个得到正面回答，当前价格回看会是历史性低点。如果三个都得不到回答，这就是一个"永远便宜"的价值陷阱。
+**Signals to reduce/sell:**
+1. Temu's annual loss continues to widen rather than narrow
+2. Domestic flagship-platform MAU declines for two consecutive quarters
+3. Management further increases capital investment without improving shareholder returns
+4. The VIE structure faces a substantive legal challenge
+5. The US imposes forced delisting or trading restrictions on China-concept stocks
 
 ---
 
-## 附录：关键数据交叉验证
+## 8. Summary
 
-| 数据项 | 验证结果 |
+PDD Holdings is a name with **"extremely high odds, but a win probability that requires judgment."** After excluding $59.8 billion in net cash, you're paying under $70 billion for an e-commerce platform that earns nearly RMB 100 billion a year, carries zero debt, and serves 500 million-plus users globally — however you look at it, that price is cheap. But between "cheap" and "a good investment" sit three question marks: can Temu find a sustainable model under the tariff siege? When will management be willing to return the RMB 430 billion in cash to shareholders? Can profit stabilize once domestic growth slows? If two of these three questions are answered positively, today's price will look, in hindsight, like a historic low. If none of them are answered, this is an "always cheap" value trap.
+
+---
+
+## Appendix: Cross-validation of key data
+
+| Data point | Validation result |
 |--------|---------|
-| 市值（$92 × 13.64亿ADS） | $1,255亿 ✅ |
-| FY2025净利润 | 993.6亿元（SEC文件+多源确认）✅ |
-| 净现金 | 4,361亿元/$598亿（现金+短投-总负债）✅ |
-| 三情景估值 | 工具验算 ✅ |
+| Market cap ($92 × 1.364 billion ADS) | $125.5 billion ✅ |
+| FY2025 net profit | RMB 99.36 billion (SEC filings plus multiple sources confirmed) ✅ |
+| Net cash | RMB 436.1 billion / $59.8 billion (cash + short-term investments - total liabilities) ✅ |
+| Three-scenario valuation | Tool-verified ✅ |
 
-### AI分析置信度 vs 投资确定性
+### AI analysis confidence vs. investment certainty
 
-- **AI分析置信度：中高**。财务数据完整可验证，但Temu独立数据缺失是重大信息盲区——所有关于Temu盈利能力的分析都基于第三方估算
-- **投资确定性：中等偏低**。价格便宜是确定的，但"便宜能否兑现"取决于管理层决策和监管走向——这两者都不可控
-- **最大的认知风险**：把"价格便宜"等同于"低风险"。拼多多可能同时是最便宜和最不确定的中国互联网公司
+- **AI analysis confidence: medium-high**. Financial data is complete and verifiable, but the absence of standalone Temu data is a major information blind spot — all analysis of Temu's profitability is based on third-party estimates
+- **Investment certainty: medium-low**. That the price is cheap is certain, but whether "cheap" can be cashed in depends on management decisions and regulatory direction — neither of which is controllable
+- **The biggest cognitive risk**: equating "cheap price" with "low risk." PDD may simultaneously be the cheapest and the most uncertain Chinese internet company
 
 ---
 
-*数据来源：PDD Holdings SEC文件（20-F/6-K）、StockAnalysis、Yahoo Finance、QuestMobile、新浪财经、虎嗅、36氪、21经济网、高盛研报*
-*免责声明：本报告为AI辅助研究，不构成投资建议。*
+*Data sources: PDD Holdings SEC filings (20-F/6-K), StockAnalysis, Yahoo Finance, QuestMobile, Sina Finance, Huxiu, 36Kr, 21jingji.com, Goldman Sachs research*
+*Disclaimer: this report is AI-assisted research and does not constitute investment advice.*

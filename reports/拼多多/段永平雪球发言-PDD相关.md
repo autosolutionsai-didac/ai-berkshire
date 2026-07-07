@@ -1,1423 +1,1419 @@
-# 段永平雪球发言整理：关于拼多多（PDD）
+# Compilation of Duan Yongping's Xueqiu Posts: On Pinduoduo (PDD)
 
-> **信息来源**：雪球 @大道无形我有型（段永平，用户ID: 1247347556，https://xueqiu.com/u/1247347556）
-> **整理时间**：2026-04-13
-> **收录条数**：144 条
-> **关键词筛选**：拼多多、PDD、黄峥、Temu
-> **采集方式**：Playwright 登录态 + 浏览器内调用 user_timeline.json 全量遍历
+> **Source**: Xueqiu @Dada (Duan Yongping, User ID: 1247347556, https://xueqiu.com/u/1247347556)
+> **Compiled on**: 2026-04-13
+> **Entries included**: 144
+> **Keyword filter**: Pinduoduo, PDD, Huang Zheng, Temu
+> **Collection method**: Authenticated Playwright session + full traversal of user_timeline.json via in-browser calls
 
 ---
 
 ## 1. 2018-07-26 22:10
 
-> 转发原文：@全天候科技: 
+> Reposted original: @All-Weather Technology:
 
-看看黄峥讲的东西，去想想10年后的拼多多吧。
+Look at what Huang Zheng has been saying, and think about what Pinduoduo will look like in 10 years.
 
-来源：https://xueqiu.com/1247347556/111129220
+Source: https://xueqiu.com/1247347556/111129220
 
 ---
 
 ## 2. 2018-07-28 04:54
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-这篇文章演绎的成分有多少我不知道，只能说点事实。我认识黄峥时黄峥已经决定去Google了，我从来没有建议过他应该去Google，虽然如果当时他问我的话，我可能确实很可能说Google可能更合适他。
+I don't know how much of this article is embellishment — I can only speak to the facts. By the time I got to know Huang Zheng, he had already decided to go to Google. I never suggested he should go to Google, though if he had asked me at the time, I might well have said Google could be a better fit for him.
 
-来源：https://xueqiu.com/1247347556/111195704
+Source: https://xueqiu.com/1247347556/111195704
 
 ---
 
 ## 3. 2018-07-28 11:51
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-回复@竹帛: 你身边人太少，等10年你就明白了。//@竹帛:大道您好，我身边有不少人使用过拼多多，东西经砍价后确实便宜，但是需要麻烦很多人帮忙砍价后才能实现，而且收到后基本上都后悔了，东西很差，之后大多放弃使用拼多多。我觉得这并不“本分”，您怎么看？@大道无形我有型
+Reply to @Bamboo and Silk: You don't know enough people around you — give it 10 years and you'll understand. //@Bamboo and Silk: Hello Dada, quite a few people around me have used Pinduoduo. Items are indeed cheaper after haggling, but it takes bothering a lot of people to help haggle before you can get the discount, and after receiving the goods people mostly end up regretting it — the quality is poor, and most give up on Pinduoduo afterward. I don't think that's very "honest and modest" — what's your view? @Dada
 
-来源：https://xueqiu.com/1247347556/111202987
+Source: https://xueqiu.com/1247347556/111202987
 
 ---
 
 ## 4. 2018-08-31 12:54
 
-”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+"Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-来源：https://xueqiu.com/1247347556/113094046
+Source: https://xueqiu.com/1247347556/113094046
 
 ---
 
 ## 5. 2018-08-31 22:08
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@本分做事: 你厉害，但不是学我的。我不是这么算的，这种情况我根本就不会算！目前这种情况，根本还无从算起。唯一我觉得可以做风投的理由就是，在目前这种成长情况下，我相信他们的好文化最终会有不错的概率会带来好结果。//@本分做事:回复@大道无形我有型:最近对拼多多一直在关注. 也下载了拼多多的App, 做了些用户体验. 自己有一些初浅的看法, 还望段大哥和诸位球友指正.拼多多现在主要是通过拼团+社交+营销来吸引买家. 未来想做到costco+disney, 做到C2M (消费者与厂家直接联系). 那它的生意模式有多大的护城河呢? 拼团现在巴巴和京东已经开始模仿,并实施了. 但基于微信的社交电商, 巴巴和京东应该学不了.  而未来, costco+disney, C2M, 大家都可以学, 但谁做的更好, 就要看企业文化和企业领导人了.  黄峥是段大哥的徒弟, 坚守本分和以消费者为导向的经营理念. 我看好.             学段大哥, 我对拼多多未来的股价也做了个粗略的毛估估. 拼多多现在有3.44亿活跃买家, 未来十年, 到5亿活跃买家应该问题不大. 拼多多现在年GMV是2600亿, 未来十年到2万亿应该是大概事件. 如果给个2% 货币化率, 那么营收是400亿. 给个50% 的成本支出, 那么净利润是200亿(相当从每人身上一年挣40 人民币), 约等于30亿美元. 现在拼多多有11亿总股数, 阿里巴巴的P/E=47, 亚玛逊的P/E=384, 京东P/E=271. 如果我们取保守P/E=20, 那么拼多多未来的股价= ($30/11)*20=$55.
+Reply to @Doing Things Honestly: You're good at this, but you didn't learn it from me. That's not how I calculate things — in this situation, I wouldn't even try to calculate it! Under the current circumstances, there's simply no basis for calculation yet. The only reason I think it might be worth treating as venture capital is that, given this kind of growth, I believe their good culture will most likely lead to good results with decent probability. //@Doing Things Honestly: Reply to @Dada: I've been following Pinduoduo closely lately. I downloaded the Pinduoduo app and tried the user experience myself. I have some preliminary thoughts, and I'd like Brother Duan and fellow investors to correct me if I'm wrong. Pinduoduo currently attracts buyers mainly through group-buying + social + marketing. In the future it wants to become Costco + Disney, achieving C2M (consumers connecting directly with manufacturers). So how wide a moat does this business model have? Alibaba and JD have already started imitating group-buying and rolling it out. But WeChat-based social commerce is probably something Alibaba and JD can't learn. As for the future — Costco + Disney, C2M — everyone can learn that, but who executes better depends on corporate culture and company leadership. Huang Zheng is Brother Duan's protégé, sticking to the "doing things honestly" principle and a consumer-oriented business philosophy. I'm bullish. Following Brother Duan's approach, I did a rough back-of-envelope estimate of Pinduoduo's future share price. Pinduoduo currently has 344 million active buyers; over the next ten years, reaching 500 million active buyers shouldn't be a problem. Pinduoduo's current annual GMV is RMB 260 billion; reaching RMB 2 trillion within ten years should be roughly likely. If we apply a 2% monetization rate, that gives revenue of RMB 40 billion. Applying a 50% cost ratio, net profit would be RMB 20 billion (equivalent to earning RMB 40 per person per year), roughly $3 billion. Pinduoduo currently has 1.1 billion total shares outstanding; Alibaba's P/E = 47, Amazon's P/E = 384, JD's P/E = 271. If we conservatively take a P/E of 20, then Pinduoduo's future share price = ($30/11) × 20 = $55.
 
-来源：https://xueqiu.com/1247347556/113126606
+Source: https://xueqiu.com/1247347556/113126606
 
 ---
 
 ## 6. 2018-09-01 09:45
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@自强笑长: 网易不同，我非常懂游戏，当时非常确定他们将来会赚很多钱，不知道的只是到底能赚多少。对拼多多来说我目前的水平依然不知道他们未来能不能赚到符合目前市值的利润。三年前我投拼多多时就不知道最终他们能不能赚钱，现在看了一下数据后依然还是不知道，但显然他们的影响力已经大了非常非常多了。我现在觉得他们能做出来的机会比三年前大了许多。//@自强笑长:回复@大道无形我有型:现在感觉段师兄当年投网易也是风投了一把吗？
+Reply to @The Self-Reliant Principal: NetEase was different — I understood gaming extremely well, and back then I was quite certain they'd eventually make a lot of money; the only unknown was how much. With Pinduoduo, at my current level of understanding I still don't know whether they can earn profits that match today's market cap. Three years ago when I invested in Pinduoduo I didn't know whether they'd end up making money either, and having looked at the data now I still don't know, but clearly their influence has grown far, far more than it had. I now feel the odds of them pulling it off are a lot better than three years ago. //@The Self-Reliant Principal: Reply to @Dada: It feels like Brother Duan's NetEase investment back then was also a venture bet?
 
-来源：https://xueqiu.com/1247347556/113136496
+Source: https://xueqiu.com/1247347556/113136496
 
 ---
 
 ## 7. 2018-09-02 23:44
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@每天学点巴菲特: 从财报看，拼多多要赚钱似乎不难，只是没必要急着赚钱而已吧？//@每天学点巴菲特:回复@大道无形我有型:京东没有赚到钱，亚马逊没有赚到钱，淘宝赚到钱了，pdd？
+Reply to @Learn a Bit of Buffett Every Day: Looking at the financials, it doesn't seem hard for Pinduoduo to make money — they just don't feel any need to rush into it, do they? //@Learn a Bit of Buffett Every Day: Reply to @Dada: JD hasn't made money, Amazon hasn't made money, Taobao has made money — what about PDD?
 
-来源：https://xueqiu.com/1247347556/113174863
+Source: https://xueqiu.com/1247347556/113174863
 
 ---
 
 ## 8. 2018-09-05 05:50
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@本分做事: 是猜测不是预测，把握性不一样。//@本分做事:回复@大道无形我有型:段大哥曾经预测拼多多未来每年可以挣200-300亿人民币. 以拼多多的团队,企业文化, 和生意模式, 我相信这一目标是水到渠成的事.
+Reply to @Doing Things Honestly: That's a guess, not a forecast — the confidence level is different. //@Doing Things Honestly: Reply to @Dada: Brother Duan once predicted Pinduoduo could earn RMB 20-30 billion a year in the future. Given Pinduoduo's team, corporate culture, and business model, I believe hitting that target is a natural outcome that will happen in due course.
 
-来源：https://xueqiu.com/1247347556/113291246
+Source: https://xueqiu.com/1247347556/113291246
 
 ---
 
 ## 9. 2018-09-05 07:13
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@本手不笨: 我懂得不多，但知道流量经常是很值钱的。他们流量很大，而且都来源于看得见的生意，所以变现不是问题。我相信他们本分的文化会让他们找到非急功近利的办法的。//@本手不笨:回复@大道无形我有型:有些生意可以想象出它怎么赚钱，比如“拼多多”；有些生意很难想象出来它怎么能挣钱，比如“共享单车”。段总的“猜”，是在“懂”的前提下的“猜”。
+Reply to @The Right Move Isn't Dumb: I don't know much, but I do know traffic is often very valuable. They have huge traffic, and it all comes from a visible, tangible business, so monetizing it isn't the problem. I believe their honest culture will let them find a way that doesn't just chase quick profits. //@The Right Move Isn't Dumb: Reply to @Dada: Some businesses let you picture exactly how they'll make money — "Pinduoduo," for instance. Some businesses are very hard to picture making money at all — "bike-sharing," for instance. Brother Duan's "guessing" is a "guess" made on the foundation of "understanding."
 
-来源：https://xueqiu.com/1247347556/113292308
+Source: https://xueqiu.com/1247347556/113292308
 
 ---
 
 ## 10. 2018-09-12 09:21
 
-> 转发原文：@刘志超: @不明真相的群众[¥6.00] 近期芒格接受采访时表示，伯克希尔在投资中更看重人性博弈，情绪博弈。这似乎跟之前对巴芒的认知，投资应从商业前景和估值两方面更关注公司本身的观点有偏差。请教您对这点的看法。原文——《红周刊》：伯克希尔选接班人的条件是：第一，独立思考；第二，情绪稳定；第三，对人性和机构的行为特点有敏锐的洞察力。请教芒格先生，在这三个条件中，我们自然地得出一种认知，在伯克希尔看来投资最重要的是人性博弈，是情绪博弈，而不是估值，不是预判企业未来。这种理解对吗？芒格：绝对是这样。人性在一个大型官僚体系中会做出糟糕的决定。如果你和一个大型官僚体系打交道，将是一个非常困难的任务。你能够越早明白如何与其打交道，你的情况就会变得越好。在任何事情上你都应这么做。预测现实，适应现实。核心的观念就是理解这个世界本来是什么，而不是去理解成你想要看到的世界。
+> Reposted original: @Liu Zhichao: @The Unenlightened Masses [¥6.00] Munger recently said in an interview that Berkshire places more weight on human-nature dynamics and emotional dynamics when investing. That seems to conflict with the earlier understanding of Buffett and Munger — that investing should focus more on a company's business prospects and valuation. Please share your view on this. Original quote — Red Weekly Magazine: "Berkshire's conditions for choosing a successor are: first, independent thinking; second, emotional stability; third, keen insight into human nature and institutional behavior patterns." We ask Mr. Munger: given these three conditions, we naturally draw the conclusion that at Berkshire, what matters most in investing is the dynamics of human nature, the dynamics of emotion — not valuation, not forecasting a company's future. Is that understanding correct? Munger: Absolutely correct. Human nature, inside a large bureaucratic system, will produce terrible decisions. If you're dealing with a large bureaucracy, it will be an extremely difficult task. The sooner you understand how to deal with it, the better off you'll be. You should do this in everything. Predict reality, and adapt to reality. The core idea is understanding what the world actually is, not understanding it as the world you wish to see.
 
-回复@sharonW: 黄峥是实在人，拼多多起来也确实有运气成分，但绝对不只是运气哈。//@sharonW:回复@大道无形我有型:大道此言想起黄峥。访谈中他说拼多多也不能叫新的开创，那是往自己脸上贴金，说拼多多是撞上了好运。跟大道学习本分能领悟到越深的越是造化。每每以为懂了，却随时间流逝回头看逐年不断在加深和修正。
+Reply to @sharonW: Huang Zheng is a straightforward, honest guy, and Pinduoduo's rise did have an element of luck, but it's absolutely not just luck. //@sharonW: Reply to @Dada: Dada's comment brings Huang Zheng to mind. In an interview he said Pinduoduo can't really be called a new innovation either — that would be tooting his own horn — he said Pinduoduo just stumbled into good fortune. Learning "doing things honestly" from Dada, the deeper you go the more you realize it's about cultivation over time. Every time you think you've understood it, looking back later you find you keep deepening and revising your understanding year after year.
 
-来源：https://xueqiu.com/1247347556/113637355
+Source: https://xueqiu.com/1247347556/113637355
 
 ---
 
 ## 11. 2018-09-15 11:04
 
-> 转发原文：@拖尼尼: 
+> Reposted original: @Tuo Nini:
 
-最早黄峥还在Google时是有过打算想和我一起做投资的想法的。但后来他总是觉得自己没有经营过企业，老是觉得自己在某个地方差点啥，最后就坚决滴回去了。当时给了我一个无懈可击的理由：美国的中餐不好吃。我当时觉得作为独子的他内心真实的理由可能是因为他其实就是个孝子，不想离爸爸妈妈太远而已。
+Back when Huang Zheng was still at Google, there was a time he wanted to go into investing together with me. But he kept feeling he'd never run a business himself, kept feeling he was missing something somewhere, and in the end he firmly went back [to China]. At the time he gave me an airtight reason: Chinese food in America isn't good. I felt that the real reason, deep down, for this only child, was probably that he's simply a filial son who didn't want to be too far from his parents.
 
-来源：https://xueqiu.com/1247347556/113819967
+Source: https://xueqiu.com/1247347556/113819967
 
 ---
 
 ## 12. 2018-09-15 11:07
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-回复@浙江畅歌: 在我心里，像陈明永，沈炜或黄峥他们最后有啥成就我都不会太意外的，啥都成不了我才会觉得意外！//@浙江畅歌:回复@大道无形我有型:想不到来的这么快
+Reply to @Zhejiang Sings Freely: In my mind, whatever Chen Mingyong, Shen Wei, or Huang Zheng end up achieving, none of it would surprise me — the only thing that would surprise me is if they achieved nothing at all! //@Zhejiang Sings Freely: Reply to @Dada: Didn't expect it to come this fast
 
-来源：https://xueqiu.com/1247347556/113820069
+Source: https://xueqiu.com/1247347556/113820069
 
 ---
 
 ## 13. 2018-11-10 11:25
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-回复@本分做事: 他确实有。//@本分做事:回复@大道无形我有型:每次听黄峥的访谈, 都感受到他有段大哥常常提到的那种利益之上的追求,那份平常心.
+Reply to @Doing Things Honestly: He truly does have it. //@Doing Things Honestly: Reply to @Dada: Every time I listen to Huang Zheng's interviews, I can feel that quality Brother Duan often talks about — a pursuit that transcends mere profit, that sense of an even keel.
 
-来源：https://xueqiu.com/1247347556/116585833
+Source: https://xueqiu.com/1247347556/116585833
 
 ---
 
 ## 14. 2018-11-15 00:18
 
-> 转发原文：@大道无形我有型: ”拼多多第二季度在线营销服务营收为人民币23.710亿元，高于去年同期的人民币3210万元；较上一季度的人民币11.081亿元增长114%。　　拼多多第二季度佣金营收为人民币3.381亿元，较去年同期的人民币7250万元增长366%，较上一季度的人民币2.765亿元增长22%。　　而拼多多第二季度总营收成本为人民币3.878亿元，较去年同期的人民币1.076亿元增长260%。　　用户方面，截至2018年6月30日的前12个月，平台GMV为2621亿元，较去年同期增长583%。活跃买家数为3.436亿，较去年同期增长245%。2018年Q2平均月活用户数为1.95亿，较去年同期的3280万增长495%。活跃买家平均年消费额为762.8元，较去年同期的385.0元增长98%。”这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。不过，三年时间做成这样，绝对值得关注！
+> Reposted original: @Dada: "Pinduoduo's online marketing services revenue in Q2 was RMB 2.371 billion, up from RMB 32.1 million in the same period last year, and up 114% from RMB 1.1081 billion in the previous quarter. Pinduoduo's commission revenue in Q2 was RMB 338.1 million, up 366% from RMB 72.5 million in the same period last year, and up 22% from RMB 276.5 million in the previous quarter. Pinduoduo's total revenue cost in Q2 was RMB 387.8 million, up 260% from RMB 107.6 million in the same period last year. On the user side, in the 12 months through June 30, 2018, platform GMV was RMB 262.1 billion, up 583% year over year. Active buyers numbered 343.6 million, up 245% year over year. Average monthly active users in Q2 2018 were 195 million, up 495% from 32.8 million in the same period last year. Average annual spending per active buyer was RMB 762.8, up 98% from RMB 385.0 in the same period last year." This is the first time I've seen relatively complete data on Pinduoduo — the growth is really impressive! But from an investment standpoint, it's still impossible to judge their future profitability, so it's hard to put a valuation on it. If you had to invest, it could only be treated as venture capital, so a large allocation to Pinduoduo doesn't seem quite right. Still, achieving this in three years is absolutely worth watching!
 
-回复@王坤亮: 这确实是我目前的观点，所以一直不建议大比例投入。//@王坤亮:回复@大道无形我有型:1，拼多多现在只适合以风投的眼光看。 2，买进拼多多相当于押注于黄的进化。
+Reply to @Wang Kunliang: That's indeed my current view, so I've always advised against putting in a large allocation. //@Wang Kunliang: Reply to @Dada: 1. Right now Pinduoduo can only be looked at through a venture-capital lens. 2. Buying Pinduoduo is essentially a bet on Huang's evolution.
 
-来源：https://xueqiu.com/1247347556/116806924
+Source: https://xueqiu.com/1247347556/116806924
 
 ---
 
 ## 15. 2018-11-25 12:40
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-回复@本分做事: 还没看呢。//@本分做事:回复@大道无形我有型:段大哥, 对拼多多这一季度的财报有何评价呢? 自己感觉拼多多护城河在加深, 生意模式在优化,赢利应该是迟早的事哈.
+Reply to @Doing Things Honestly: Haven't looked at it yet. //@Doing Things Honestly: Reply to @Dada: Brother Duan, what's your take on Pinduoduo's earnings this quarter? I feel their moat is deepening and their business model is being refined — profitability should just be a matter of time.
 
-来源：https://xueqiu.com/1247347556/117315271
+Source: https://xueqiu.com/1247347556/117315271
 
 ---
 
 ## 16. 2018-12-02 02:50
 
-> 转发原文：@香飘两岸: 在整理段总的博客，看到当年讨论巨人游戏时你的看法。8年过去了，社会上对游戏公司的批判还是没变，只是现在主要目标是腾讯。对于这类无妄风险，投资的时候如何避开，要先扣除么，可是腾讯很大一部分价值就是游戏了。国内政策就是会这么抽风不讲道理啊。@大道无形我有型 ==========2010-03-28 07:57. 段永平 回复 泛舟池我就很喜欢玩游戏，要不写博客的话，平时我会花时间玩游戏的。我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？$腾讯控股(00700)$
+> Reposted original: @Fragrance Across Both Shores: While going through Brother Duan's old blog posts, I saw your view back then on the discussion about Giant Interactive games. Eight years have passed, and society's criticism of gaming companies hasn't changed — it's just that the main target is now Tencent. How should one avoid this kind of groundless risk when investing — should it be deducted upfront? But a large part of Tencent's value is games. Domestic policy really can act unpredictably and unreasonably like this. @Dada ========== 2010-03-28 07:57. Duan Yongping replying to Fan Zhouchi: I really like playing games — if I weren't writing this blog, I'd spend my time playing games. I think a game company providing consumers with good games is no different from any other company providing good products — there's no issue of conscience involved. We wouldn't say someone getting addicted to mahjong is mahjong's fault, would we? We wouldn't say someone getting drunk is alcohol's fault, would we? We wouldn't say someone losing their whole fortune at a casino is the casino's fault, would we? So why would we think someone getting addicted to a game is the game's fault? $Tencent Holdings(00700)$
 
-回复@风沙-星辰: 印象中好像只有网易不需要收，以前的CEO Ted干了一件很漂亮的事情，几十年下来会为股东省很多钱。//@风沙-星辰:回复@大道无形我有型:多谢段老师的回复，这样说能在香港买还是尽量在香港买吧. 另外因为我买了一些pdd，前几天这个股票也收取了一些ADR费用（大概每股收了1.3美分），再后来听说阿里巴巴 等一些中国公司的股票在美国都是以ADR的形式托管上市的，应该都要收取一点ADR的费用，难道网易也一样吗？
+Reply to @Windsand-Star: As far as I recall, only NetEase doesn't need to charge that fee — their former CEO Ted did something quite elegant, and over the decades it will save shareholders a lot of money. //@Windsand-Star: Reply to @Dada: Thanks so much for your reply — in that case I'll try to buy in Hong Kong as much as possible. Separately, because I bought some PDD, this stock also charged some ADR fees a few days ago (roughly 1.3 cents per share), and I later heard that Alibaba and some other Chinese companies' stocks are all held in the US in ADR form, so presumably they'd all charge some ADR fee too — does NetEase charge the same?
 
-来源：https://xueqiu.com/1247347556/117652275
+Source: https://xueqiu.com/1247347556/117652275
 
 ---
 
 ## 17. 2019-01-19 04:44
 
-2011年的今天突然想明白并开始买苹果，那时苹果股价大概是310/7=44.3加上这些年的分红。回想起来，我还是非常满意当时这个决定的。这些年大概认真买了不少苹果和茅台以及最近增加了一些腾讯和fb以及不太多的goog, 如果pdd不算的话。今天又买了苹果，纪念一下8年前的决定。不管怎么说，我觉得我这八年虽然没太用功，但投资的功夫似乎涨了一点!
+Today marks the anniversary of 2011, when it suddenly clicked for me and I started buying Apple — Apple's share price then was roughly 310/7 = 44.3, plus all the dividends paid out over the years since. Looking back, I'm still very satisfied with that decision. Over the years I've seriously bought quite a lot of Apple and Moutai, and recently added a bit of Tencent and FB, plus not that much Google — not counting PDD. Today I bought more Apple again, to mark this 8-year-old decision. However you look at it, I feel that over these eight years, even though I haven't worked all that hard, my investing skill seems to have improved a little!
 
-来源：https://xueqiu.com/1247347556/120013043
+Source: https://xueqiu.com/1247347556/120013043
 
 ---
 
 ## 18. 2019-02-14 04:53
 
-> 转发原文：@旷怡投资: 
+> Reposted original: @Kuangyi Investing:
 
-这个像黄峥说的！//@neng:回复@旷怡投资:《财经》：你认为作为CEO的本分是什么？黄峥：我不是一个典型意义的CEO，我一负责给公司输入价值观和文化，以及为员工树立人生理想。二是我管那些突然冒出来以前没遇到过，也不知道分配给谁的问题。《财经》：你的员工说你说过的话、做过的决定说一不二，你是不是觉得多数人都很蠢？自己的决策和判断要明显优于其他人。黄峥：这和我对自己的认知是很不一样的。在我的脑子里，绝大多数人在绝大多数方面都是比我强的，我只在很少的方面比很少的人强。
+This sounds just like something Huang Zheng said! //@neng: Reply to @Kuangyi Investing: Caijing magazine: "What do you think a CEO's core duty is?" Huang Zheng: "I'm not a typical CEO. First, my job is to instill values and culture into the company, and to establish a life ideal for employees. Second, I handle the problems that suddenly come up out of nowhere, that no one has run into before and that aren't clearly anyone's job to handle." Caijing: "Your employees say that once you've said something or made a decision, that's final — do you think most people are pretty dumb? That your own judgment and decisions are clearly superior to everyone else's?" Huang Zheng: "That's very different from how I see myself. In my mind, the vast majority of people are better than me in the vast majority of ways — I'm only better than a small number of people in a small number of areas."
 
-来源：https://xueqiu.com/1247347556/121051044
+Source: https://xueqiu.com/1247347556/121051044
 
 ---
 
 ## 19. 2019-02-15 19:27
 
-> 转发原文：@道法自然自然而然: @不明真相的群众[¥6.00] 请问方丈，89年段总进入中山怡华电子，当时企业账上只要几千块，工人二十个，欠债200万。91年开始更名小霸王生产游戏机，95年年销售额达到10个亿。起码为小霸王赚了好几个亿。2000年后到美国开始投资股市，获得极大成功。他创立的步步高电子，他的弟子创立的OPPO\VIVO，虽然没上市但每年获取上百亿的利润，然后再把利润交给段总投资苹果公司（我推测的）。他的四弟子黄峥创立拼多多，虽然还没赚钱，但通过上市把股票卖给大众，立刻变成了亿万富豪。当然还有金志江掌控的小天才，还有一加手机。在这个过程中，究竟是段总所传递的价值观最重要呢？还是这些人的聪明才智最重要？如果说价值观最重要，那是否一般智力的人只要遵循段总的价值观就可以获得相同的成就？如果说是这些人的聪明才智最重要，那么社会上和他们一样聪明的人一定有很多，但为什么他们做不到这个程度？
+> Reposted original: @The Way Follows Nature, Naturally So: @The Unenlightened Masses [¥6.00] May I ask, Abbot: in 1989, Brother Duan joined Zhongshan Yihua Electronics, when the company's account held only a few thousand yuan, had twenty workers, and owed debts of 2 million yuan. In 1991 it was renamed Subor and began making game consoles, and by 1995 annual sales reached 1 billion yuan. That alone probably earned Subor several hundred million yuan. After 2000, he went to the US and began investing in stocks, achieving huge success. The company he founded, BBK, and his disciples who founded OPPO and vivo, though not publicly listed, generate over ten billion yuan in profit every year, and then hand those profits to Brother Duan to invest in Apple (my guess). His fourth-generation disciple Huang Zheng founded Pinduoduo, and although it isn't profitable yet, by going public he sold shares to the public and instantly became a billionaire. There's also Jin Zhijiang who runs Xiaotiancai [Little Genius kids' watches], and also OnePlus. In all this, which mattered more — the values Brother Duan passed down, or these people's own intelligence and talent? If values mattered most, does that mean an ordinary-intelligence person who just follows Brother Duan's values could achieve the same things? And if it's these people's own intelligence and talent that mattered most, then society surely has plenty of people just as smart as them — so why haven't they achieved this level of success?
 
-大家是同道中人，有着共同的价值观（改变人的价值观几乎不可能）。但凡几十年如一日坚持做对的事情（或者叫坚持不做不对的事情）同时一直努力把事情做对，有个不错的结果是大概率事件。价值观是道不是术，很难学的。假装一下的人坚持不了很久。黄峥的公司看起来似乎运气更好点，才三年就这么厉害，但实际上黄峥十几年前对企业理解也已经很好，且这个公司之前的公司就做得不错。其实黄峥十几年前问过类似的问题，看来当时他确实明白了。大道无形...
+We're all cut from the same cloth, sharing common values (changing a person's values is nearly impossible). As long as you persist, decade after decade, in doing the right thing (or, put another way, persist in not doing the wrong thing) while constantly trying to do things right, getting a good result is a high-probability event. Values are the Way [Dao], not technique — very hard to learn. People who merely fake it can't keep it up for long. Huang Zheng's company looks like it's had better luck — becoming this formidable in just three years — but actually Huang Zheng already had a very good understanding of business more than a decade ago, and the company he worked at before this one was already doing well. In fact Huang Zheng asked a similar question over a decade ago — it seems he really did understand it back then. Dada...
 
-来源：https://xueqiu.com/1247347556/121165022
+Source: https://xueqiu.com/1247347556/121165022
 
 ---
 
 ## 20. 2019-02-24 15:02
 
-> 转发原文：@旷怡投资: 
+> Reposted original: @Kuangyi Investing:
 
-回复@茶水铺: 该有的都会有的！//@茶水铺:回复@大道无形我有型:我在拼多多目前主要就是吃的和小商品，期待开多些品牌旗舰店会消费更多！
+Reply to @Teahouse: Whatever should be there eventually will be! //@Teahouse: Reply to @Dada: For me right now, Pinduoduo is mainly for food and small everyday items — I'm hoping they open more branded flagship stores, so I'll spend more.
 
-来源：https://xueqiu.com/1247347556/121621737
+Source: https://xueqiu.com/1247347556/121621737
 
 ---
 
 ## 21. 2019-03-15 02:22
 
-> 转发原文：@2021年: @大道无形我有型[¥200.00] 阿段你好，记得你说过买股票就是买公司，跟上不上市没有任何关系。在2017年底我极度看好拼多多（当时不知道您投了拼多多），认为其具有right business & right people，于是在其上市时投入了相当大比例的个人身家买了拼多多股票，在其股价剧烈波动时，一股没卖过。但让我不明白的是，我无法确定什么是不贵的价格。在这个投资案例上，我是不是不够本分？（因为投入了大部分身家）
+> Reposted original: @Year 2021: @Dada [¥200.00] Hi Dada, I recall you once said buying a stock means buying the company, and it has nothing to do with whether it's publicly listed or not. At the end of 2017 I was extremely bullish on Pinduoduo (before I knew you'd invested in it), believing it had the right business and the right people, so when it IPO'd I invested a very large share of my personal net worth into Pinduoduo stock, and through its sharp price swings, I never sold a single share. But what I don't understand is: I can't tell what counts as "not expensive" for this stock. On this particular investment, was I not being disciplined enough — not "honest and measured" — by putting in such a large share of my net worth?
 
-回复@思享123: 我不了解拼多多，也没花时间看过。我只是相信黄峥说的东西。//@思享123:回复@大道无形我有型:PDD还是一家AI公司，请教大道：PDD是否会借鉴亚马逊的模式，把能力对外开放？@大道无形我有型
+Reply to @ThoughtShare123: I don't understand Pinduoduo, and I haven't spent time studying it. I simply believe what Huang Zheng says. //@ThoughtShare123: Reply to @Dada: PDD is also an AI company — Dada, do you think PDD will follow Amazon's model and open up its capabilities to outside parties? @Dada
 
-来源：https://xueqiu.com/1247347556/123009585
+Source: https://xueqiu.com/1247347556/123009585
 
 ---
 
 ## 22. 2019-03-15 09:00
 
-> 转发原文：@老张窝在深圳: @大道无形我有型[¥200.00] 大道，请问一个问题。请问您怎么看拼多多的商业模式？我看现在拼多多才推出了c2m的模式，那他现在做这么大是靠的什么？
+> Reposted original: @Old Zhang Nesting in Shenzhen: @Dada [¥200.00] Dada, may I ask a question. How do you view Pinduoduo's business model? I see that Pinduoduo has only just rolled out its C2M model — what's driving it to be this big already?
 
-我还没认真看过拼多多，但过年回国时体验了一下，感觉蛮好的。这么多人用可能是有道理的。
+I haven't seriously looked at Pinduoduo, but when I went back to China over the New Year I tried it out and it felt pretty good. So many people using it probably means there's something to it.
 
-来源：https://xueqiu.com/1247347556/123017203
+Source: https://xueqiu.com/1247347556/123017203
 
 ---
 
 ## 23. 2019-03-16 01:31
 
-> 转发原文：@AnthonyFF: @大道无形我有型[¥200.00] 不知道方不方便，大道能大概谈一下您的仓位么？按目前市值的话苹果还是大部分， 我猜然后是拼多多>茅台>腾讯>FB>google，可能还有一点其他？
+> Reposted original: @AnthonyFF: @Dada [¥200.00] If it's not too inconvenient, could Dada roughly share your portfolio weightings? Going by current market values, I'd guess Apple is still the largest, and then I'd guess Pinduoduo > Moutai > Tencent > FB > Google, maybe with a little bit of something else too?
 
-我自己其实没算过具体比例。拼多多我是因为跟黄峥多年朋友的关系投了一些，上市后象征性买了一点，就算按现在市值算比重也不高哈。别人怎么分配投资和你自己没啥关系的，你投自己能理解的好公司就好。
+I've actually never calculated the exact proportions. I invested some in Pinduoduo because of my many years of friendship with Huang Zheng; after the IPO I bought just a symbolic amount, so even at today's market value the weighting isn't high. How other people allocate their investments has nothing to do with you — you should just invest in good companies you yourself understand.
 
-来源：https://xueqiu.com/1247347556/123089890
+Source: https://xueqiu.com/1247347556/123089890
 
 ---
 
 ## 24. 2019-03-21 01:44
 
-> 转发原文：@船长x7u: @大道无形我有型[¥200.00] 国内现在都在讨论，并且有很多企业都在搞的新零售，您怎么看？
+> Reposted original: @Captain x7u: @Dada [¥200.00] There's a lot of discussion in China right now, with many companies pursuing "new retail" — what's your view?
 
-没太关注过这个名词，你是说像拼多多这种电商吗？目前74%的美国人民的买东西的首选已经是亚马逊了（今天网上看到的），所以说新零售确实很恐怖。不过这个行业非常有可能会变的赢家通吃，或者是几个大头垄断，很多企业搞的现象也许持续不了太久。
+I haven't paid much attention to that term — do you mean e-commerce like Pinduoduo? Right now 74% of Americans' first choice for shopping is already Amazon (I saw that online today), so "new retail" really is quite something. That said, this industry is very likely to become winner-take-all, or dominated by a few giants — many of the businesses jumping on this trend probably won't last very long.
 
-来源：https://xueqiu.com/1247347556/123418921
+Source: https://xueqiu.com/1247347556/123418921
 
 ---
 
 ## 25. 2019-04-25 08:22
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-该说的黄峥都说了!
+Huang Zheng has already said everything that needs to be said!
 
-来源：https://xueqiu.com/1247347556/125533706
+Source: https://xueqiu.com/1247347556/125533706
 
 ---
 
 ## 26. 2019-04-27 08:07
 
-> 转发原文：@Hkman2018: @大道无形我有型[¥200.00] 感谢大道回复之前提问。大道认识黄峥超过十年了，请问：黄峥是否具备把事情做对的能力和学习能力？黄峥是否也具备品行端正，本分，不占别人便宜，专注本业和聚焦，稳健求发展（慢就是快），结果导向，消费者导向，为社会创造价值（这些在李嘉诚身上可以找到）这些你身上也具备的特征？大道早年说抽烟是自己最奢侈的事，是早年抽烟后来戒了吗？什么原因或想法让您戒烟？什么方法戒烟？
+> Reposted original: @Hkman2018: @Dada [¥200.00] Thanks Dada for your previous reply. Dada, you've known Huang Zheng for over ten years — does Huang Zheng have the ability to do things right, and the ability to learn? Does he also have the traits you yourself have — integrity, being honest and modest, not taking advantage of others, staying focused on the core business, steady growth ("slow is fast"), being results-oriented, consumer-oriented, creating value for society (traits you can also find in Li Ka-shing)? You once said smoking was your biggest indulgence in your younger years — did you smoke back then and quit later? What made you quit, or what method did you use?
 
-黄峥的学习能力和把事情做对的能力显然是比我强的。黄峥对什么是对的事情也有很清醒的认识。
+Huang Zheng's learning ability and his ability to do things right are clearly stronger than mine. Huang Zheng also has a very clear-eyed understanding of what the right thing to do is.
 
-来源：https://xueqiu.com/1247347556/125730360
+Source: https://xueqiu.com/1247347556/125730360
 
 ---
 
 ## 27. 2019-05-15 11:56
 
-> 转发原文：@idnone: 原帖已被作者删除
+> Reposted original: @idnone: Original post deleted by the author
 
-能做多久应该取决于你自己的。如果你一直想着你的用户的需求，10年或更久为什么会是问题？难道10年后大家就不穿衣服了？很久以前黄峥曾经问过我一个问题：用户导向是放之四海而皆准的吗？我说，I believe so! I think he got the point!
+Whether it can last depends on you yourself. If you always keep your users' needs in mind, why would 10 years or longer be a problem? Will people just stop wearing clothes in 10 years? A long time ago Huang Zheng once asked me a question: is being user-oriented a universal truth that applies everywhere? I said, I believe so! I think he got the point!
 
-来源：https://xueqiu.com/1247347556/126692567
+Source: https://xueqiu.com/1247347556/126692567
 
 ---
 
 ## 28. 2019-05-28 10:27
 
-> 转发原文：@我来自K77: 原帖已被作者删除
+> Reposted original: @I'm from K77: Original post deleted by the author
 
-我投拼多多确实是因为喜欢黄峥，但你这么看拼多多表示你大概是个人云亦云的人，没有理性看待问题的态度。我今年春节回国专门买过接近100单拼多多上的东西，你肯定没有试过。。拼多多有这么多用户，绝对是有道理的。不过，我从来没推荐过大家投资拼多多，目前也不会推荐，因为我不清楚拼多多到底最后会如何，所以觉得顶多只能按风投的标准去看拼多多。
+I did invest in Pinduoduo because I like Huang Zheng, but the way you're looking at Pinduoduo shows you're probably just parroting what others say, without a rational attitude toward the issue. This past Chinese New Year when I went back to China, I specifically placed close to 100 orders on Pinduoduo — you clearly haven't tried that. Pinduoduo having this many users absolutely means something. That said, I've never recommended anyone invest in Pinduoduo, and I still won't now, because I'm not sure how things will ultimately turn out for Pinduoduo, so I feel it can only be viewed by venture-capital standards at best.
 
-来源：https://xueqiu.com/1247347556/127362642
+Source: https://xueqiu.com/1247347556/127362642
 
 ---
 
 ## 29. 2019-05-28 12:21
 
-> 转发原文：@我来自K77: 原帖已被作者删除
+> Reposted original: @I'm from K77: Original post deleted by the author
 
-回复@我来自井冈山: 我买的大多数都是农产品，大多数都还不错哈。有时候会让人觉得便宜没好货也不总是对的。//@我来自井冈山:回复@大道无形我有型:哈哈，不要轻易对我下结论嘛我就想知道下师兄对于拼多多的态度和逻辑而已。我买了几单，有些东西确实不理想。可能用拼多多的都是沉默的大多数吧。谢谢解惑。
+Reply to @I'm from Jinggangshan: Most of what I've bought is farm produce, and most of it has been quite good. Sometimes people assume "cheap means bad" but that's not always true either. //@I'm from Jinggangshan: Reply to @Dada: Haha, don't jump to conclusions about me — I just wanted to know Brother Duan's attitude and reasoning on Pinduoduo. I bought a few orders, and some items weren't ideal. Maybe those of us using Pinduoduo are just the silent majority. Thanks for clearing that up.
 
-来源：https://xueqiu.com/1247347556/127370780
+Source: https://xueqiu.com/1247347556/127370780
 
 ---
 
 ## 30. 2019-06-11 07:51
 
-> 转发原文：@朋克民族: 原帖已被作者删除
+> Reposted original: @Punk Nation: Original post deleted by the author
 
-回复@文东会三眼: 不是！是因为失望。//@文东会三眼:回复@大道无形我有型:是不是投了拼多多的缘故？当年3Q大战，腾讯也是逼着大家二选一，后来你也投了腾讯
+Reply to @Wendong the Three-Eyed: No! It's because of disappointment. //@Wendong the Three-Eyed: Reply to @Dada: Is it because of your investment in Pinduoduo? Back during the 3Q War, Tencent also forced people to pick sides between it and Qihoo 360, and later you invested in Tencent too.
 
-来源：https://xueqiu.com/1247347556/128003659
+Source: https://xueqiu.com/1247347556/128003659
 
 ---
 
 ## 31. 2019-08-22 10:09
 
-> 转发原文：@Thinkdifferentwbl: 高盛投资分析师：我有一个问题。我看到拼多多占到了中国二季度成交总额（GMV）增长的31%，之前几个季度一直是21%、22%左右。到今年年底的时候，拼多多的市场占有率就会非常大了。我想请问管理层，如何看到目前的竞争局势？到年底会有怎样的变化？对于拼多多来说，接下来几个季度面临的主要挑战有哪些？黄峥：很多人都问过我竞争的问题，中国电商领域的确是竞争非常激烈。我想借此机会重申，我们一直关注的是经营以及如何更好地服务于我们的用户，而不是去关注竞争对手在做什么。这个行业的竞争一向非常激烈，但是我们依然在这样的局势中做到了如今的规模。其实，我觉得我们应该要感谢竞争，因为竞争让我们速度更快，更快地给用户提供服务。我们在过去这个季度取得了这样好的结果，其实竞争也是一个重要的因素。就比如“618”的成功表明了我们走在正确的道路上，我们更关注的是用户而非竞争对手。在行业内采用的竞争策略方面，商家一侧的竞争局势尤其激烈。有些竞争策略甚至违反了电商法。商家被迫要选择平台，只能在某个平台上在进行专卖，这其实违反了拼多多所奉行的建立开放和公平的电商平台的准则。虽然某些竞争对手采取的专卖策略也产生了影响，但是这是不长久的，这促进了我们平台内部的自主创新。长期来看，这种独断的策略伤害的是品牌和用户们的根本利益，所以这种策略是不能走长久的。如果我们再看的远一些，我认为今天的中国电商市场还不是一个“零和”的局势，电商还处于发展的早中期阶段。我们面向的是一个价值30万亿的零售市场，而且这个市场还在不断扩大。我们应该在资源、活力和创新方面努力， 而不是关注竞争对手，争夺市场份额。中国有巨大的零售市场，所以我认为电商行业所占的市场份额还可以进一步增加。因此，面对这个不断成长的电商市场，即便竞争非常激烈，但是所有的行业内的公司都有进一步发展的空间。杰弗瑞投资银行分析师：祝贺拼多多二季度所取得的成就。我看到拼多多二季度的营销支出要高于预期，但是因为变现比较成功，所以营销支出占营收比例好于预期。为什么会产生这种差异呢？接下来两个季度会有怎样的变化呢？九鼎：我知道营销支出是投资者的关注重点。我想在此重申我们的营销支出投资的战略重点一直都没有变，那就是加强用户的认可度、用户粘性和信任度。因为这推动营收、GMV的增长，最终增加我们的利润，巩固我们的内在价值。二季度的表现就是我们的营销能力的成果。我们二季度的营销支出并不是一个精打细算后制定的目标，我们也没有固定的预算，因为我们认为，在如今瞬息万变的市场环境中，制定这样一个预算会让我们错失一些很好的机会。将来，只要达到了ROI（投资回报率）的目标，我们会继续加强在营销方面的支出。我们认为二季度所取得的成就就说明了我们采取了正确的营销策略，我们现在不能说明营销支出以后会增加还是减少，但是我相信我们的投资人认可拼多多有能力通过进行谨慎的营销支出抓住市场中的机会。花旗集团分析师：我的问题有关于拼多多新用户的增长。二季度的活跃买家数量继续增长，在过去拼多多采取的所有获取新用户的策略中，哪一种是最为有效的？现在业内有很多企业开始向低线城市渗透，拼多多有没有在新用户获取成本上和用户留存成本上看到了变化？长期来看，如果拼多多能够达到业内最大的企业一样的用户规模，拼多多在竞争局势中有怎样的优势能够吸引用户在拼多多上进行消费？黄峥：我理解你很好奇拼多多吸引用户的策略，但是我很遗憾地告诉你，这其中并没有什么秘密武器。我们只是一直在坚持做同一件事，那就是关注我们的用户。用户获取实际上是用户满意度的成果。有时候用户数量高，有时候低。如果你不看环比的变化，而是看看同比变化或者是几年来的变化趋势，你会相信一个非常简单的道理，那就是如果你坚持做一件正确的事，你就会看到积累的力量。二季度对于我们来说其实是很正常的。我们的经营模式的迷人之处就在于它非常简单，没什么特别之处。九鼎：我来补充几点。我们二季度取得这样的成果，其实就是得益于我们看重用户以及他们的需求并且不断地为之付出努力。拼多多6月的GMV有一半都来自于一二线城市。这说明了我们的品牌认可战略已经发挥了作用。我们在低线城市也看到了用户数量的增长。拼多多面向的是整个中国的人口，所以在各个层面都出现了用户数量的增长。我们能够更好地理解用户的喜好和他们是如何与自己的圈子进行互动并施加影响力的，这帮助我们优化了商品推荐。我们现在提供的商品种类越来越多了，加上新的特性能够更好地给出商品推荐。这使得我们的AOV（客单价）增长到了50元。CICC分析师：10月微信对京东开放入口，这会更加关注于下沉市场，这对于拼多多会造成怎样的影响呢？黄峥：我通常不对同行的行动做评价的，我来简单说一下吧。京东已经着手做了很长时间的准备了。拼多多也在做自己的事情，关注自己的用户，而不是其他对手。而我们这种简单的想法事实上也带给了我们回报。HSBC分析师：物流一直都是电商行业的企业非常关注的一个投资领域。这不仅能提高订单效率，而且能够提高配送效率，所以物流非常重要，尤其是拼多多逐步走向一线城市，那里的用户需求会更多。所以，拼多多物流方面是怎样的模式呢？今年早些时候，拼多多也推出了一些物流软件，并且积极与商家合作，大概需要给物流进行多少的投资呢？如何看待拼多多在物流方面和那些物流已经比较完善的企业之间的竞争？九鼎：我们一直在问自己还能为用户做哪些事来加强他们的用户体验和对于我们平台的信任度，物流就是其中的一个重点。今年年初我们推出了电子面单，这个系统让运输信息更加透明，并且更加及时地更新。今年前半年，拼多多上承接了70亿件订单，快递件数占到中国快递总件数的25%。而这些快递中绝大多数都是电子面单系统处理的。目前物流产业的发展是受规模经济的推动。我们相信我们还可以利用技术探索更大的成长空间。我们的策略是比较简单的，我们不会去投资建设大型仓储建筑或者是配送团队，我们只会把行业内部可用的资源进行综合和利用，提高服务质量和效率，进而降低每单位成本，这也是我们在农业业务方面正在推行的。我们会利用这个平台处理不同的供应链，通过与工厂和农产品生产厂家紧密合作创造机会。我们会努力重构价值链，对价值链上的经济利益进行再分配，让生产厂家和消费者获益。瑞士信贷分析师：我的问题有关于转化率，我得知拼多多给那些优质客户一定的优惠，本季度的转化率开始上升，在今年后半年这个趋势是怎样的？第二个问题有关于营销支出，“618”购物节有一个十亿津贴计划，但是现在六月已经过去了，我还是能在平台上看到这个标志，这是否意味着这个计划会一直延续到7月和8月呢？这对营销支出有怎样的影响？九鼎：用户体验和满意度一直都是我们的工作重点。所以我们会坚持给予优质商家补贴。至于交易服务转化率方面，我们是从上个季度开始这项计划的，我们一直在努力维持它与营收增长之间的平衡。本季度开始会降低交易服务津贴，所以这个比例会有一定的波动，但是正如我之前所说的，我们并没有在营销支出方面设定目标。黄峥：转化率的波动是不可避免的。我建议您不要太过关注于转化率的变化。在我看来在较长的一段时间之内，转化率是趋于稳定的。至于十亿津贴计划。别的电商平台可能更加看重购物节或者促销活动，我们不是这样的。“618”购物节对于我们来说只是一个试验，让我们参与这个浪潮，训练我们的员工。我们在“618”之前、期间和之后所举办的活动的持续时间可长可短。我认为这些促销活动不应与某个特殊节日联系起来，我的同事会一起决定它的持续时间。华兴资本分析师：我的问题有关于拼多多的C2M业务，目前发展现状如何？它是怎样定位的？是提供更加便宜的产品还是对于非品牌产品的升级？黄峥：我们的新品牌计划非常受欢迎，我们已经收到了4千多份申请，已经有500多家企业参与了试验计划。新品牌计划的合作模式是开放的。我们没有设立有约束力的目标，这是一种双向的过程，我们和商家都在探索能给我们的用户带来怎样的价值。我们不断地与生产商加强合作。我来举一个例子。深圳MTC为飞利浦和GVC这样的品牌每年生产1000万台电视机。MTC为我们提供产品设计和成本结构信息，我们和MTC共同分享消费者数据，让他们能改进产品开发和定价策略。这样一来，MTC就能够优化自己的供应链并且生产更加优质的产品，创造更大的价值。几天前，MTC生产的GVC定制电视机一上市便被抢购一空。他们售出了1000台65英寸的4K电视和1500台62英寸的4K电视。我们以后会通过继续与不同商家进行合作发现并且释放各个行业的价值。通过我们的物流平台的加持，我们能够提高供应链和物流效率，就比如包装和仓储系统。我们可以通过对合作方进行全盘优化，改变各种行业的垂直价值链。但是这一切还需要很长的路要走，绝对不是一夜间就能发生的。但是现在我们所做的努力已经收到了非常积极的反馈。我们给商家和用户都带来了价值。我们也认为这种模式会继续成长，不仅是在拼多多成长，而是会成为一种潮流，成为别的电商平台的模式。美银美林分析师：我的问题有关于拼多多的商品种类。那些关键品类促进了本季度GMV的增长？标志性的品类，比如农业占整体GMV的百分比是多少？将来会采取哪些策略来继续巩固这些品类呢？黄峥：我们关注的不是品类，而是用户。我们尽己所能不断地丰富品类满足用户的需求。只要是用户想要的，我们就会努力在平台上上线这种商品供用户选取，并且尽可能给出优惠的价格。农产品的确对我们来说很特别，但并不是说GMV主要是靠农产品拉动的，而是说拼多多一开始是做农产品起步的。在我之前的致股东的信中和其他的场合所说明的，中国的农业和世界上别的国家是很不一样的。所以我们必须要采取不一样的方法。中国的农产品非常分散并且规模比较小，整合起来的话，这其实是一个巨大的市场，覆盖几亿人口。所以我们就要优化物流系统，营销策略和供应体系，让农民从中受益。2018年我们卖出了价值650亿的农产品，直接从农民手里销售给消费者。今年这个板块也会继续增长，“618”购物节，一二线城市的用户包揽了接近70%的农产品订单。2019年我们认为也会持续增长。我们也在不断释放潜力，提高行业效率。在供应方面，我们也在和农民以及当地政府开展合作，做出改变。比如，我们就与云南省签订协议，帮助74个贫困县改变经济价值链。就比如说我们教当地农民如何直接在拼多多上卖产品，我们还提供营销培训课程。我们还提供了基于AI的种植建议，可预测的购买模式和交付计划，这样一来农民就能够科学地种植，避免损失。我们也和地方政府和农业大学合作，培养农业方面的人才。我们真诚希望如今在云南学到的经验可以运用到中国其他省份。我们刚刚也说到了物流能给农业带来的变革。这样一来，中国各地的新鲜农产品就能够为消费者享用，不仅种类繁多，并且物美价廉。我们如此关注农业，不仅仅是因为这是一个重要的品类，一个巨大的市场，并且能贡献GMV的增长，更因为农业对于中国来说有着特殊的意义，不仅影响着在山野间劳作的农民，来影响一二线城市人们的日常生活。所以我们认为农业这个领域，不仅需要长期的投资，需要我们进行持续的创新，更需要我们承担起责任，为社会谋福利。
+> Reposted original: @Thinkdifferentwbl: Goldman Sachs analyst: I have a question. I saw Pinduoduo accounted for 31% of China's Q2 GMV growth, versus roughly 21%-22% in the prior few quarters. By year-end, Pinduoduo's market share will be very large. Could management talk about how you see the current competitive landscape? What changes do you expect by year-end? What are the main challenges Pinduoduo will face in the coming quarters? Huang Zheng: Many people have asked me about competition. China's e-commerce space is indeed intensely competitive. I want to take this opportunity to reiterate that we always focus on our own operations and on serving our users better, rather than watching what competitors are doing. Competition in this industry has always been fierce, and yet we've still managed to reach this scale amid that landscape. Actually, I think we should thank competition, because it makes us faster and lets us serve users more quickly. The strong results we achieved this past quarter were in part due to competition. For instance, the success of "618" [June 18 shopping festival] shows we're on the right track — our focus is on users, not competitors. In terms of competitive tactics used across the industry, competition on the merchant side is especially intense. Some competitive tactics even violate e-commerce law. Merchants are forced to pick a single platform and sell exclusively there, which actually violates the principle Pinduoduo follows of building an open and fair e-commerce platform. Although some competitors' exclusivity tactics have had an effect, that isn't sustainable, and it has spurred more independent innovation within our own platform. Long term, this kind of heavy-handed tactic ultimately hurts the fundamental interests of brands and users, so it can't last. Zooming out further, I believe today's Chinese e-commerce market still isn't a "zero-sum" game — e-commerce is still in its early-to-middle stage of development. We're addressing a retail market worth RMB 30 trillion, and that market keeps expanding. We should be putting effort into resources, vitality, and innovation, rather than fixating on competitors and fighting over market share. China has an enormous retail market, so I believe e-commerce's overall share of that market still has room to keep rising. So even with fierce competition, given this growing e-commerce market, every company in the industry still has room to develop further. Jefferies analyst: Congratulations to Pinduoduo on its Q2 results. I noticed Pinduoduo's Q2 marketing spend came in higher than expected, but because monetization was more successful, marketing spend as a percentage of revenue came in better than expected. Why did that gap occur? What changes do you expect over the next two quarters? Jiuding: I know marketing spend is a key focus for investors. I want to reiterate that our strategic priority for marketing spend has never changed — it's about strengthening user recognition, stickiness, and trust. That drives revenue and GMV growth, which ultimately increases our profit and reinforces our intrinsic value. Q2's performance is the fruit of our marketing capability. Our Q2 marketing spend wasn't some carefully calculated target, nor do we have a fixed budget, because we believe that in today's fast-changing market environment, setting such a budget would cause us to miss good opportunities. Going forward, as long as we hit our ROI targets, we'll keep increasing marketing spend where warranted. We think our Q2 results show we adopted the right marketing strategy; we can't say right now whether marketing spend will rise or fall going forward, but I believe our investors recognize Pinduoduo's ability to capture market opportunities through prudent marketing spend. Citigroup analyst: My question is about Pinduoduo's new-user growth. Active buyer numbers kept growing in Q2 — among all the strategies Pinduoduo has used to acquire new users, which has been most effective? A lot of companies are now pushing into lower-tier cities — has Pinduoduo seen any change in new-user acquisition cost and user-retention cost? Long term, if Pinduoduo reaches the same user scale as the largest players in the industry, what advantage would Pinduoduo have in the competitive landscape to keep attracting users to spend on Pinduoduo? Huang Zheng: I understand you're curious about our user-acquisition strategy, but I'm sorry to tell you there's no secret weapon here. We just keep doing the same thing — focusing on our users. User acquisition is really the fruit of user satisfaction. Sometimes user numbers are high, sometimes low. If you don't look at quarter-over-quarter swings but instead look at year-over-year change or the multi-year trend, you'll come to believe a very simple truth: if you keep doing the right thing, you'll see the power of accumulation. Q2 was actually quite normal for us. What's charming about our business model is precisely that it's very simple, with nothing special about it. Jiuding: Let me add a few points. The results we achieved in Q2 really came from valuing our users and their needs and continually working hard for them. Half of Pinduoduo's June GMV came from tier-1 and tier-2 cities, which shows our brand-recognition strategy is working. We've also seen user growth in lower-tier cities. Pinduoduo serves the entire Chinese population, so we're seeing user growth across every tier. We're better able to understand user preferences and how they interact with and influence their social circles, which has helped us optimize product recommendations. We now offer an ever-wider range of product categories, and combined with new features we can give better recommendations. That's pushed our AOV (average order value) up to RMB 50. CICC analyst: In October, WeChat opened up an entry point to JD, which will further focus on lower-tier markets — what impact will this have on Pinduoduo? Huang Zheng: I generally don't comment on what peers are doing, so let me just say a little. JD has been preparing this move for a long time. Pinduoduo is also doing its own thing, focusing on our own users rather than on other competitors. And this simple mindset has actually paid off for us. HSBC analyst: Logistics has always been a key investment area for e-commerce companies — it not only improves order efficiency but also delivery efficiency, so it's very important, especially as Pinduoduo gradually moves into tier-1 cities, where user demands will be higher. So what's Pinduoduo's logistics model? Earlier this year Pinduoduo also rolled out some logistics software and is actively partnering with merchants — roughly how much investment will go into logistics? How do you view competition between Pinduoduo in logistics and companies whose logistics networks are already quite mature? Jiuding: We're always asking ourselves what more we can do for users to strengthen their experience and trust in our platform, and logistics is one key focus. Earlier this year we rolled out electronic waybills, a system that makes shipping information more transparent and updated more promptly. In the first half of this year, Pinduoduo processed 7 billion orders, and Pinduoduo-related parcels accounted for 25% of China's total courier parcel volume — and the vast majority of those parcels were handled through the electronic waybill system. The logistics industry currently runs on economies of scale. We believe we can still use technology to unlock more growth space. Our strategy is fairly simple: we won't invest in building large warehousing facilities or delivery teams ourselves; we'll simply integrate and make use of resources already available across the industry, improving service quality and efficiency, and thereby lowering the cost per unit — which is also what we're doing in agriculture. We'll use this platform to handle different supply chains, creating opportunities through close cooperation with factories and agricultural producers. We'll work to restructure the value chain, redistributing the economic benefits along that chain so that producers and consumers both benefit. Credit Suisse analyst: My question is about conversion rate. I understand Pinduoduo gives certain discounts to premium customers, and this quarter's conversion rate started rising — what's the trend for the second half of this year? Second question, about marketing spend: the "618" shopping festival had a RMB 10 billion subsidy program, but June has already passed and I can still see this label on the platform — does this mean the program will continue into July and August? What impact will that have on marketing spend? Jiuding: User experience and satisfaction have always been our focus, so we'll keep subsidizing quality merchants. As for the transaction-service conversion rate, we started this program last quarter and have been working to balance it against revenue growth. Starting this quarter we'll lower the transaction-service subsidy, so this ratio will fluctuate somewhat, but as I said before, we haven't set any target for marketing spend. Huang Zheng: Fluctuation in conversion rate is unavoidable. I'd suggest you not focus too much on changes in conversion rate. In my view, over a longer time horizon, conversion rate tends to stabilize. As for the RMB 10 billion subsidy program — other e-commerce platforms may place more weight on shopping festivals or promotional events; we don't. "618" is really just an experiment for us, a way to get in on the wave and train our staff. The length of the activities we run before, during, and after "618" can be long or short. I don't think these promotions should be tied to any particular holiday — my colleagues and I will jointly decide how long they run. China Renaissance analyst: My question is about Pinduoduo's C2M business — what's the current state of development? How is it positioned — is it about providing cheaper products, or about upgrading non-branded products? Huang Zheng: Our new-brand program has been very well received — we've already received over 4,000 applications, and more than 500 companies have joined the pilot program. The new-brand cooperation model is open. We haven't set binding targets — it's a two-way process where we and merchants are both exploring what value we can bring to our users. We keep strengthening cooperation with manufacturers. Let me give an example. Shenzhen-based MTC produces 10 million TVs a year for brands like Philips and GVC. MTC gives us product-design and cost-structure information, and we share consumer data with MTC so they can improve product development and pricing strategy. This lets MTC optimize its own supply chain and produce better products, creating more value. A few days ago, a customized GVC TV made by MTC sold out immediately after launch — they sold 1,000 65-inch 4K TVs and 1,500 62-inch 4K TVs. Going forward we'll keep discovering and unlocking value across industries by partnering with different merchants. Backed by our logistics platform, we can improve supply-chain and logistics efficiency — for instance packaging and warehousing systems. Through end-to-end optimization of our partners, we can transform the vertical value chains of various industries. But there's still a long way to go on this — it absolutely won't happen overnight. But the efforts we're making now have already gotten very positive feedback. We're creating value for both merchants and users. We also believe this model will keep growing — not just at Pinduoduo, but as a trend that other e-commerce platforms will adopt too. Bank of America Merrill Lynch analyst: My question is about Pinduoduo's product categories. Which key categories drove this quarter's GMV growth? What percentage of overall GMV do signature categories like agriculture represent? What strategies will you use to keep strengthening these categories going forward? Huang Zheng: We don't focus on categories — we focus on users. We do everything we can to keep enriching our categories to meet user needs. Whatever users want, we work to get that product listed on the platform for users to choose, and to offer as good a price as possible. Agricultural products are indeed special to us, but that's not to say GMV is mainly driven by agriculture — rather, Pinduoduo started out with agricultural products. As I've explained in past shareholder letters and elsewhere, China's agriculture sector is very different from other countries'. So we have to take a different approach. China's agricultural production is highly fragmented and small-scale; put together, though, it's a massive market covering hundreds of millions of people. So we have to optimize logistics, marketing strategy, and the supply system, so that farmers benefit. In 2018 we sold RMB 65 billion worth of agricultural products directly from farmers to consumers. This segment will keep growing this year too — during "618," users in tier-1 and tier-2 cities accounted for nearly 70% of agricultural-product orders. We also expect continued growth in 2019. We keep unlocking potential and improving industry efficiency. On the supply side, we're also partnering with farmers and local governments to make changes. For example, we signed an agreement with Yunnan Province to help 74 impoverished counties transform their economic value chains. For instance, we teach local farmers how to sell products directly on Pinduoduo, and we provide marketing training courses. We also provide AI-based planting advice, predictable buying patterns and delivery schedules, so farmers can plant scientifically and avoid losses. We're also partnering with local governments and agricultural universities to cultivate agricultural talent. We sincerely hope the experience gained in Yunnan can be applied to other provinces in China. We just mentioned the transformation logistics can bring to agriculture — this way, fresh agricultural products from across China can reach consumers, offering not just a wide variety but also good value at low prices. We focus so much on agriculture not just because it's an important category, a huge market, and a contributor to GMV growth, but because agriculture has special significance for China — it affects not only the farmers laboring in the countryside, but also the daily lives of people in tier-1 and tier-2 cities. So we believe agriculture deserves not just long-term investment and ongoing innovation from us, but also a responsibility to contribute to social welfare.
 
-回复@快即慢-少即多: 我更愿意以朋友互称，我觉得我们都从对方学到了一些东西。//@快即慢-少即多:回复@Thinkdifferentzrq:黄峥确实是大道的好学生。本分，简单，却直达问题本质。
+Reply to @Faster-Is-Slower, Less-Is-More: I'd rather think of us as friends — I feel we've both learned things from each other. //@Faster-Is-Slower, Less-Is-More: Reply to @Thinkdifferentzrq: Huang Zheng really is Dada's good student. Honest and modest, simple, yet gets straight to the heart of the matter.
 
-来源：https://xueqiu.com/1247347556/131550561
+Source: https://xueqiu.com/1247347556/131550561
 
 ---
 
 ## 32. 2019-08-23 07:53
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-前段时间回国时在pdd上买了些东西，没经历不好的体验。举个例子，这次回去忘了带冲鼻子的瓶子和盐（对付过敏用的），去商店也没找到，在pdd和另一家电商上找到了，pdd只要两天就到货，还稍微便宜些，就买了，东西和我原来用的是一样一样的。我还没空去自己体验过迪斯尼的感觉，但Costco的感觉有了。
+When I was back in China a while ago I bought some things on PDD and had no bad experiences. Here's an example: on this trip I forgot to bring the little bottle and saline solution I use to rinse my nose (for allergies), and I couldn't find it at any store, but I found it on PDD and another e-commerce site — PDD only took two days to arrive and was a bit cheaper too, so I bought it, and it was exactly the same as what I usually use. I still haven't had the chance to experience the "Disney" feel myself, but the "Costco" feel is already there.
 
-来源：https://xueqiu.com/1247347556/131610866
+Source: https://xueqiu.com/1247347556/131610866
 
 ---
 
 ## 33. 2019-08-30 13:24
 
-> 转发原文：@持股10年不折腾: @大道无形我有型[¥200.00] 能赞助一杯红酒吗？美股全仓了拼多多，涨了不少，没有余粮了。段总，有没有觉得拼多多护城河宽一些了，不那么容易打到倒了。
+> Reposted original: @Holding-for-10-Years-No-Fidgeting: @Dada [¥200.00] Could you sponsor a glass of red wine? I've gone all-in on Pinduoduo in my US account and it's up quite a lot — no more spare cash left. Dada, do you feel Pinduoduo's moat has widened, so it's not so easy to knock over anymore?
 
-红酒比较复杂，一杯红酒可以远贵过一瓶茅台的。你其实就是想炫耀一下你买了很多拼多多？好吧，恭喜你赌对了哈。基本上拼多多从一开始就如此，不会因为股价涨了而感觉有啥变化。
+Red wine is complicated — a single glass of red wine can easily cost far more than a whole bottle of Moutai. So are you really just trying to show off that you bought a lot of Pinduoduo? Well, congratulations, you guessed right. Basically Pinduoduo has been like this since day one — the share price going up doesn't change how I feel about it.
 
-来源：https://xueqiu.com/1247347556/132063973
+Source: https://xueqiu.com/1247347556/132063973
 
 ---
 
 ## 34. 2019-09-07 03:56
 
-> 转发原文：@Peterlee2018: @大道无形我有型[¥200.00]  我没什么提问的，我经历了2次失败，32岁，去年失败后亏了一些钱，去年下半年陆续看到你的以前一些文章，还有哈佛的一些交流文章，我顿时感觉醒悟了，无论是做人还是做事，我觉得我算是开悟了，谢谢你，在我人生迷茫失落的时候指引我！本分加平常心做事，我现在做事一点不慌，当然我可能是领悟到一些，我会继续关注你的观点深刻学习，刚看了财经对黄峥的采访，价格和价值的理念干货，一般人是不会讲述的！
+> Reposted original: @Peterlee2018: @Dada [¥200.00] I don't really have a question — I've been through 2 failures, I'm 32, I lost some money after last year's failure, and in the second half of last year I gradually came across your old writings, as well as some Harvard exchange articles, and it suddenly felt like an awakening — whether in how to be a person or how to do things, I feel I've had some enlightenment. Thank you for guiding me through a lost and dispirited period of my life! Being honest and modest plus keeping an even keel while doing things — I now go about things without any panic. Of course maybe I've just grasped a little bit, and I'll keep following your views and studying them deeply. I just read Caijing's interview with Huang Zheng — the substance on price versus value is something an ordinary person wouldn't be able to articulate!
 
-黄峥的东西值得花时间好好看。
+Huang Zheng's writing is worth spending time reading carefully.
 
-来源：https://xueqiu.com/1247347556/132467277
+Source: https://xueqiu.com/1247347556/132467277
 
 ---
 
 ## 35. 2019-09-08 13:12
 
-> 转发原文：@Peterlee2018: @大道无形我有型[¥200.00]  我没什么提问的，我经历了2次失败，32岁，去年失败后亏了一些钱，去年下半年陆续看到你的以前一些文章，还有哈佛的一些交流文章，我顿时感觉醒悟了，无论是做人还是做事，我觉得我算是开悟了，谢谢你，在我人生迷茫失落的时候指引我！本分加平常心做事，我现在做事一点不慌，当然我可能是领悟到一些，我会继续关注你的观点深刻学习，刚看了财经对黄峥的采访，价格和价值的理念干货，一般人是不会讲述的！
+> Reposted original: @Peterlee2018: @Dada [¥200.00] I don't really have a question — I've been through 2 failures, I'm 32, I lost some money after last year's failure, and in the second half of last year I gradually came across your old writings, as well as some Harvard exchange articles, and it suddenly felt like an awakening — whether in how to be a person or how to do things, I feel I've had some enlightenment. Thank you for guiding me through a lost and dispirited period of my life! Being honest and modest plus keeping an even keel while doing things — I now go about things without any panic. Of course maybe I've just grasped a little bit, and I'll keep following your views and studying them deeply. I just read Caijing's interview with Huang Zheng — the substance on price versus value is something an ordinary person wouldn't be able to articulate!
 
-网页链接黄峥几年前写的东西。//@大道无形我有型:回复@Chucklee333:黄峥的东西值得花时间好好看。
+Web link — something Huang Zheng wrote years ago. //@Dada: Reply to @Chucklee333: Huang Zheng's writing is worth spending time reading carefully.
 
-来源：https://xueqiu.com/1247347556/132499403
+Source: https://xueqiu.com/1247347556/132499403
 
 ---
 
 ## 36. 2019-09-09 01:33
 
-> 转发原文：@Peterlee2018: @大道无形我有型[¥200.00]  我没什么提问的，我经历了2次失败，32岁，去年失败后亏了一些钱，去年下半年陆续看到你的以前一些文章，还有哈佛的一些交流文章，我顿时感觉醒悟了，无论是做人还是做事，我觉得我算是开悟了，谢谢你，在我人生迷茫失落的时候指引我！本分加平常心做事，我现在做事一点不慌，当然我可能是领悟到一些，我会继续关注你的观点深刻学习，刚看了财经对黄峥的采访，价格和价值的理念干货，一般人是不会讲述的！
+> Reposted original: @Peterlee2018: @Dada [¥200.00] I don't really have a question — I've been through 2 failures, I'm 32, I lost some money after last year's failure, and in the second half of last year I gradually came across your old writings, as well as some Harvard exchange articles, and it suddenly felt like an awakening — whether in how to be a person or how to do things, I feel I've had some enlightenment. Thank you for guiding me through a lost and dispirited period of my life! Being honest and modest plus keeping an even keel while doing things — I now go about things without any panic. Of course maybe I've just grasped a little bit, and I'll keep following your views and studying them deeply. I just read Caijing's interview with Huang Zheng — the substance on price versus value is something an ordinary person wouldn't be able to articulate!
 
-确实有些企业家对投资的理解并不比常人好。//@大道无形我有型:回复@大道无形我有型:网页链接黄峥几年前写的东西。
+Indeed, some entrepreneurs don't have a better grasp of investing than ordinary people. //@Dada: Reply to @Dada: Web link — something Huang Zheng wrote years ago.
 
-来源：https://xueqiu.com/1247347556/132515522
+Source: https://xueqiu.com/1247347556/132515522
 
 ---
 
 ## 37. 2019-09-09 22:55
 
-> 转发原文：@一万年太久_: 原帖已被作者删除
+> Reposted original: @Ten Thousand Years Is Too Long_: Original post deleted by the author
 
-黄峥是特别难得一见的一直关注事物本质的人，有悟性，又聪明，未来有任何成就我都不意外。
+Huang Zheng is a rare person who is always focused on the essence of things — he has real insight and is smart. Whatever he ends up achieving in the future wouldn't surprise me at all.
 
-来源：https://xueqiu.com/1247347556/132573795
+Source: https://xueqiu.com/1247347556/132573795
 
 ---
 
 ## 38. 2019-09-17 08:42
 
-> 转发原文：@人性的总和: @大道无形我有型[¥200.00]  段总您好，同为中国最顶级的企业家，您觉得您与任正非的共同点和区别在哪里？
+> Reposted original: @The Sum of Human Nature: @Dada [¥200.00] Dada, as fellow top-tier Chinese entrepreneurs, what do you think you and Ren Zhengfei have in common, and where do you differ?
 
-回复@第七军团: 简单说三点：1，没有靠营销起来并能持久的公司，能够让公司长久的唯一办法就是能够不断有好产品。2，大道从来就没有遥控过OPPO和vivo，大道对公司情况的了解和大家一样，基本上都是通过网上看到的，唯一的差别是我可以打电话核实一下网上看到的东西，这种情况大概每两三年可能会发生一次。3. 黄峥和我确实是很熟的朋友，以前他在Google上班时也确实经常在一起聊天，但总觉得弟子的说法不合适。//@第七军团:回复@怒马奔腾:大道做营销绝对是顶级的，从亲自操刀的小霸王步步高，到遥控的oppo vivo，到亲传弟子黄铮的PDD。营销路数都是一样的，魔性的广告铺天盖地，一招鲜吃遍天。
+Reply to @The Seventh Legion: Simply put, three points: 1. No company can build lasting success purely on marketing — the only way to make a company last is to keep having good products. 2. Dada has never remote-controlled OPPO and vivo — Dada's understanding of the companies' situation is the same as everyone else's, basically all from what's visible online. The one difference is I can make a phone call to verify something I saw online — that probably happens once every two or three years at most. 3. Huang Zheng and I really are very close friends — back when he was at Google we really did chat often, but "disciple" has just never felt like the right word for it. //@The Seventh Legion: Reply to @Galloping Furious Horse: Dada is absolutely top-tier at marketing — from personally running the show at Subor and BBK, to remote-directing OPPO and vivo, to his own protégé Huang Zheng's PDD. The marketing playbook is the same throughout — catchy, ubiquitous ads, one trick used everywhere.
 
-来源：https://xueqiu.com/1247347556/132890520
+Source: https://xueqiu.com/1247347556/132890520
 
 ---
 
 ## 39. 2019-09-17 09:39
 
-> 转发原文：@人性的总和: @大道无形我有型[¥200.00]  段总您好，同为中国最顶级的企业家，您觉得您与任正非的共同点和区别在哪里？
+> Reposted original: @The Sum of Human Nature: @Dada [¥200.00] Dada, as fellow top-tier Chinese entrepreneurs, what do you think you and Ren Zhengfei have in common, and where do you differ?
 
-回复@鸡羞工: 导师的说法可以接受，弟子的说法总有点怪。导师类似于顾问，和老师的感觉不完全一样呢。//@鸡羞工:回复@大道无形我有型:黄峥在他的公众号的一篇文章说您是他的“人生导师”，
+Reply to @Jixiugong: "Mentor" I can accept, but "disciple" always feels a bit off. A mentor is more like an advisor — the feel isn't quite the same as a teacher. //@Jixiugong: Reply to @Dada: In one of his public-account articles, Huang Zheng said you're his "life mentor."
 
-来源：https://xueqiu.com/1247347556/132894699
+Source: https://xueqiu.com/1247347556/132894699
 
 ---
 
 ## 40. 2019-09-17 10:41
 
-> 转发原文：@人性的总和: @大道无形我有型[¥200.00]  段总您好，同为中国最顶级的企业家，您觉得您与任正非的共同点和区别在哪里？
+> Reposted original: @The Sum of Human Nature: @Dada [¥200.00] Dada, as fellow top-tier Chinese entrepreneurs, what do you think you and Ren Zhengfei have in common, and where do you differ?
 
-回复@babygirl: 哈，好吧，黄峥自认弟子我当然可以接受哈。有黄峥这样的弟子我是很开心的。//@babygirl:回复@大道无形我有型:导师是更亲密和重要的老师，硕导，博导，导师在现实中，可不同于顾问的。现实生活中，大道承认是导师，黄峥就有资格说是大道的弟子呀。而且黄峥要当你的弟子，你不肯接受的话，黄峥是不是也会觉得怪。就像武侠江湖，自以为入了师门，确得不到名分，大师兄、二师兄、三师兄已经都认了一遍，师父却突然说要想想，这个徒弟命苦 @大道无形我有型
+Reply to @babygirl: Haha, fine — of course I can accept Huang Zheng calling himself a disciple. Having a disciple like Huang Zheng makes me very happy. //@babygirl: Reply to @Dada: A mentor is a closer and more important kind of teacher — a master's or doctoral advisor. A mentor in real life isn't the same as an advisor/consultant. In real life, if Dada admits to being a mentor, then Huang Zheng has every right to say he's Dada's disciple. And besides, if Huang Zheng wants to be your disciple and you won't accept it, wouldn't Huang Zheng also find that strange? It's like in the wuxia world — you think you've joined the sect, but you don't get the recognition; senior brother number one, two, three have all already been acknowledged, but then the master suddenly says he needs to think about it — that disciple would have such a hard lot @Dada
 
-来源：https://xueqiu.com/1247347556/132900769
+Source: https://xueqiu.com/1247347556/132900769
 
 ---
 
 ## 41. 2019-09-17 11:29
 
-> 转发原文：@人性的总和: @大道无形我有型[¥200.00]  段总您好，同为中国最顶级的企业家，您觉得您与任正非的共同点和区别在哪里？
+> Reposted original: @The Sum of Human Nature: @Dada [¥200.00] Dada, as fellow top-tier Chinese entrepreneurs, what do you think you and Ren Zhengfei have in common, and where do you differ?
 
-回复@poor曹: 都一样不容易但都一样简单。//@poor曹:回复@大道无形我有型:黄峥走的路线和大道有点不一样，毕竟他做的不是产品，而是平台了。按理来说做产品应该比做平台容易，这是为什么？
+Reply to @poorCao: Both aren't easy, but both are equally simple. //@poorCao: Reply to @Dada: Huang Zheng's path is a bit different from Dada's — after all, he's not making products, he's building a platform. Logically, making products should be easier than building a platform — why is that?
 
-来源：https://xueqiu.com/1247347556/132904775
+Source: https://xueqiu.com/1247347556/132904775
 
 ---
 
 ## 42. 2019-10-04 12:23
 
-> 转发原文：@华疯癫: @大道无形我有型[¥200.00] 大道您好！请问根据目前的情况，请问您认为$拼多多(PDD)$ 三年后会发展成怎样呢？记得您曾说十年后它可能会很厉害，若是它还在的话。现在看，$拼多多(PDD)$ 似乎进步挺大的，品牌慢慢入住，看未来两三年似乎还行。
+> Reposted original: @Mad Hua: @Dada [¥200.00] Hi Dada! Based on the current situation, where do you think $Pinduoduo(PDD)$ will be in three years? I recall you once said in 10 years it might be quite formidable, if it's still around. Looking at it now, $Pinduoduo(PDD)$ seems to have made a lot of progress, with brands gradually moving in — the next two or three years look decent too.
 
-拼多多还是不要问我的好。
+Better not ask me about Pinduoduo.
 
-来源：https://xueqiu.com/1247347556/133636040
+Source: https://xueqiu.com/1247347556/133636040
 
 ---
 
 ## 43. 2019-10-12 22:31
 
-> 转发原文：@EEEE1113: @大道无形我有型[¥200.00] 请问大道，拼多多最近在非常大力度的补贴。您是怎么看补贴这一看起来有点短期的方式去获客呢？是不是作为平台其实并没有太多靠品牌靠口碑去获取用户，只能去推动买方卖方一起上来，多多益善。所以用补贴去拿流量是眼下比较合理的策略？谢谢您的商业见解。
+> Reposted original: @EEEE1113: @Dada [¥200.00] Dada, Pinduoduo has recently been running very heavy subsidies. How do you view subsidies as a somewhat short-term way of acquiring users? Is it that as a platform they don't really have enough brand or word-of-mouth pull to acquire users, so they can only push both buyers and sellers on with subsidies? So using subsidies to grab traffic is a reasonably sound strategy for now? Thanks for your business insight.
 
-你去看黄峥怎么回答的吧。你也可以看看他们的现金流，然后想想补贴是什么意思，不要人云亦云哈。
+Go look at how Huang Zheng answers this. You could also look at their cash flow, and then think about what "subsidy" really means — don't just parrot what others say.
 
-来源：https://xueqiu.com/1247347556/133943710
+Source: https://xueqiu.com/1247347556/133943710
 
 ---
 
 ## 44. 2019-10-14 08:14
 
-> 转发原文：@gogo169: 原帖已被作者删除
+> Reposted original: @gogo169: Original post deleted by the author
 
-关于拼多多我能说的都说了，以后不希望再讨论拼多多哈。
+I've said everything I can say about Pinduoduo — going forward I'd rather not discuss Pinduoduo anymore.
 
-来源：https://xueqiu.com/1247347556/133971720
+Source: https://xueqiu.com/1247347556/133971720
 
 ---
 
 ## 45. 2020-04-16 23:09
 
-> 转发原文：@拼多多(PDD): 原帖已删除
+> Reposted original: @Pinduoduo(PDD): Original post deleted
 
-回复@本分-_平常心: 你赌对了而已，不用谢我。我从来没推荐过买拼多多。看懂拼多多商业模式不容易，我目前也没懂。//@本分-_平常心:回复@大道无形我有型:现在投资对我来说就是，有美元就买@拼多多，没美元就买@茅台，其他时间就是好好做好自己的公司，不断产生现金流。简单，但不容易，谢谢 @大道无形我有型
+Reply to @HonestDuty-_CalmHeart: You just guessed right, no need to thank me. I've never recommended buying Pinduoduo. Understanding Pinduoduo's business model isn't easy — I still haven't figured it out myself. //@HonestDuty-_CalmHeart: Reply to @Dada: These days, investing for me just means: if I have dollars, I buy $Pinduoduo, if I don't have dollars, I buy $Moutai, and the rest of the time I focus on running my own business well and steadily generating cash flow. Simple, but not easy — thanks @Dada
 
-来源：https://xueqiu.com/1247347556/147058599
+Source: https://xueqiu.com/1247347556/147058599
 
 ---
 
 ## 46. 2020-10-09 12:17
 
-> 转发原文：@重庆小旋风: @大道无形我有型[¥199.99]  默默学习大道的理念，想听听大道谈谈拼多多黄铮和理想汽车的李想，我认为他们都是以用户为中心的商业思维。想听听大道的评价。
+> Reposted original: @Little Chongqing Whirlwind: @Dada [¥199.99] Quietly studying Dada's philosophy — I'd love to hear Dada's thoughts on Pinduoduo's Huang Zheng and Li Auto's Li Xiang. I think they're both user-centric in their business thinking. I'd love to hear Dada's assessment.
 
-黄铮是个非常有悟性的人，但我对拼多多不是太了解，虽然我是早期投资者。我对李想汽车了解度是0，毕竟我早就是有车族了，了解其他车不容易哈。
+Huang Zheng is a person with real insight, but I'm not that familiar with Pinduoduo, even though I was an early investor. My familiarity with Li Xiang's cars is zero — I've long since owned a car, so it's hard to get familiar with other cars.
 
-来源：https://xueqiu.com/1247347556/160568966
+Source: https://xueqiu.com/1247347556/160568966
 
 ---
 
 ## 47. 2020-10-10 04:19
 
-> 转发原文：@仓又佳措在今天: @大道无形我有型[¥199.99]  感谢段总，在雪球关注到您后，改造了自己的买股思路，真的一直能睡安稳觉了！请问能您能谈一句对拼多多看法吗？祝您身体健康.
+> Reposted original: @Cangyoujiacuo Today: @Dada [¥199.99] Thanks Duan-laoshi, ever since discovering you on Xueqiu I've reshaped my whole approach to buying stocks, and I've really been able to sleep soundly ever since! Could you share a sentence on your view of Pinduoduo? Wishing you good health.
 
-不了解pdd的商业模式。
+I don't understand PDD's business model.
 
-来源：https://xueqiu.com/1247347556/160617382
+Source: https://xueqiu.com/1247347556/160617382
 
 ---
 
 ## 48. 2020-10-17 13:08
 
-> 转发原文：@讲股人ALEX: @大道无形我有型[¥199.99]  段总，我在雪球网友整理的一份对答录看到：“网友问：据了解，2010年京东商城营业额预计108亿元，现已完成超过80亿元。分析称开放平台可为其带来较高毛利率，为上市做准备。段永平：不赚钱的生意多少营业额都是没用的。 2010-09-16”不知道您现在是否依然坚持这个观点，您怎么看拼多多依然没有盈利这个问题。谢谢
+> Reposted original: @Alex the Stock Talker: @Dada [¥199.99] Duan-laoshi, I saw a Q&A compiled by Xueqiu users where: "A user asked: We understand that JD.com's 2010 GMV was projected at RMB 10.8 billion, and it has now already surpassed RMB 8 billion. Analysts say an open platform can bring it higher gross margin, in preparation for an IPO. Duan Yongping: no matter how much revenue a business generates, it's useless if it doesn't make money. 2010-09-16" I'm not sure whether you still hold that view today — how do you view the fact that Pinduoduo still isn't profitable? Thanks.
 
-“不赚钱的生意多少营业额都是没用的。” 这个观点有啥问题吗？如果你打算买下整个公司你就会明白的。当然，这个指的是公司的整个生命周期，和某个公司没有关系。比如，如果pdd最后无法盈利，那这个公司的价值最后就会是零。
+"No matter how much revenue a business generates, it's useless if it doesn't make money" — what's wrong with that view? If you were planning to buy the entire company, you'd understand it. Of course, this refers to a company's entire life cycle, and isn't about any specific company. For example, if PDD ultimately can't turn a profit, then in the end that company's value will be zero.
 
-来源：https://xueqiu.com/1247347556/161119669
+Source: https://xueqiu.com/1247347556/161119669
 
 ---
 
 ## 49. 2020-10-17 22:37
 
-> 转发原文：@且借纸遁: 原帖已被作者删除
+> Reposted original: @Paper Escape Artist: Original post deleted by the author
 
-是太长了，也不知道问题是什么。理论上，问问题是要有？的。另外， 我说过很多次了，我不了解pdd的商业模式。
+It's too long, and I don't even know what the question is. In theory, a question should end with a question mark. Also, I've said many times, I don't understand PDD's business model.
 
-来源：https://xueqiu.com/1247347556/161134892
+Source: https://xueqiu.com/1247347556/161134892
 
 ---
 
 ## 50. 2020-11-03 00:58
 
-> 转发原文：@复利-力量和回撤: @大道无形我有型[¥199.99] 大道哥近来除了腾讯苹果茅台外，还持仓了什么股票，不介意分享下的嘛？还是说过去3-4年，您的一些新cash也都主要买这3个票么？
+> Reposted original: @Compound Interest - Power and Drawdown: @Dada [¥199.99] Aside from Tencent, Apple, and Moutai, what other stocks does Dada currently hold, if you don't mind sharing? Or has most of the new cash you've put to work over the past 3-4 years mostly gone into just these three names?
 
-回复@酷峰: 那是风投，没算在里面。//@酷峰:回复@大道无形我有型:大道投资拼多多的时期这么早，加上拼多多近两年的暴涨，竟然还只是不值一提的比例吗？
+Reply to @Cool Peak: That was a venture bet — not included in that count. //@Cool Peak: Reply to @Dada: Dada invested in Pinduoduo this early, and combined with Pinduoduo's surge over the past couple of years, is it really still just a negligible proportion of your portfolio?
 
-来源：https://xueqiu.com/1247347556/162323622
+Source: https://xueqiu.com/1247347556/162323622
 
 ---
 
 ## 51. 2020-11-05 10:36
 
-$拼多多(PDD)$ 我还以为出财报了，跑进来一看啥也看不到。发生啥事了？
+$Pinduoduo(PDD)$ I thought earnings had come out, so I rushed over to look, but there's nothing to see. What happened?
 
-来源：https://xueqiu.com/1247347556/162533784
+Source: https://xueqiu.com/1247347556/162533784
 
 ---
 
 ## 52. 2020-11-07 14:46
 
-> 转发原文：@ThinkInDecades: @大道无形我有型[¥199.99] 有个段子虽然微信QQ市场占有率高，地位牢不可破，但是腾讯的内部员工们整天如临大敌、战战兢兢，都在讨论小天才电话手表会不会干掉他们😂一直没有机会投资跟段大哥有关系的企业，直到黄峥的企业上市了。从黄峥身上看到好多段大哥和贝索斯的影子。贝索斯和段大哥一样都是老巴的铁粉。贝索斯最早的经历也是做投资，做企业和投资很受老巴的影响，黄峥早期也受啊段和老巴的影响投资能力应该也不差，并且开始创业是为了更好的理解投资，现在黄峥可以通过PDD把做企业和投资发挥到极致，就像贝索斯做亚马逊一样。芒格对巴菲特讲：“王传福是爱迪生和韦尔奇的合体，我以前从未见过这种人。”越看越觉得黄峥是“段永平和贝索斯的合体”不知道这么分析离不离谱？
+> Reposted original: @ThinkInDecades: @Dada [¥199.99] There's a joke that even though WeChat and QQ have unassailable market dominance, Tencent's internal staff are constantly on edge, all worried the Xiaotiancai kids' watch might take them down 😂ㅤI've never had a chance to invest in a company connected to Dada, until Huang Zheng's company went public. I see a lot of Dada's and Bezos's shadow in Huang Zheng. Bezos and Dada are both diehard Buffett fans. Bezos's earliest experience was also in investing; his approach to running a company and to investing was heavily influenced by Old Buffett, and Huang Zheng was also influenced early on by Dada and Old Buffett — his investing ability is probably not bad either, and he started his own company partly to better understand investing; now Huang Zheng can push running-a-company and investing to the extreme through PDD, the same way Bezos does with Amazon. Munger told Buffett: "Wang Chuanfu is a combination of Edison and Welch — I've never seen anyone like that before." The more I look at it, the more I feel Huang Zheng is "a combination of Duan Yongping and Bezos" — I wonder if that comparison is off-base?
 
-爱迪生和韦尔奇都不在了，不要乱比较好不好？黄峥做的是他自己，不是谁都愿意被打上别人的Mark的。
+Edison and Welch are both gone — let's not make random comparisons, shall we? Huang Zheng is being himself — not everyone wants someone else's mark stamped on them.
 
-来源：https://xueqiu.com/1247347556/162721730
+Source: https://xueqiu.com/1247347556/162721730
 
 ---
 
 ## 53. 2020-11-30 01:34
 
-> 转发原文：@初心本源: 原帖已被作者删除
+> Reposted original: @Original Intent, Original Source: Original post deleted by the author
 
-不谢，我没了解过。除了拼多多试了一下外，别的都没用过，没啥感觉。
+No need to thank me, I haven't looked into it. Other than trying Pinduoduo once, I haven't used the others — no particular impression.
 
-来源：https://xueqiu.com/1247347556/164488184
+Source: https://xueqiu.com/1247347556/164488184
 
 ---
 
 ## 54. 2020-12-01 10:26
 
-> 转发原文：@长期主义的胜利: @大道无形我有型[¥199.99]  大道，我有一粗浅的疑惑特请教，面对两种公司，一种商业模式好现在已经很赚钱，类似苹果、腾讯，以及另一种，sharp、有一定颠覆性、但是不确定、貌似在做正确的事、未来可能会很赚钱，这两种类型，你会不会有热血的冲动想要挪一些仓位到后面一种？
+> Reposted original: @Victory of Long-termism: @Dada [¥199.99] Dada, I have a shallow question I'd like to ask. When facing two types of companies — one with a business model that's already great and already very profitable, like Apple or Tencent, versus another that's sharp, somewhat disruptive but uncertain, seemingly doing the right thing, that could become very profitable in the future — would you feel any impulsive urge to move some of your position into the latter type?
 
-你是说网易还是拼多多？关键还是取决你能懂多少。only take the risk you can afford .
+Are you talking about NetEase or Pinduoduo? It really comes down to how much you understand. Only take the risk you can afford.
 
-来源：https://xueqiu.com/1247347556/164610363
+Source: https://xueqiu.com/1247347556/164610363
 
 ---
 
 ## 55. 2020-12-03 10:50
 
-> 转发原文：@赟墨殇: @大道无形我有型[¥199.99]  大道您好，我今年25岁，有很多东西不懂，这次机会想问一下您：研究一家公司通过年报、公司官网、读企业传记以及自身体会公司产品等方式，了解到的有关企业文化、商业模式的东西总觉得太少了，看不懂以后的现金流（看不出公司在未来的竞争中处于一种什么状态），请问大道还有什么方法可以进一步加深研究么？
+> Reposted original: @Yun Moshang: @Dada [¥199.99] Hi Dada, I'm 25 this year and there's a lot I don't understand — I want to ask, on this occasion: when researching a company through annual reports, company websites, reading corporate biographies, and personally experiencing its products, I always feel I'm getting too little insight into corporate culture and business model, and I can't see the future cash flow (can't tell what position the company will be in amid future competition) — is there any way to deepen the research further?
 
-其实是有的，大概就是先开一家公司，干个几年后就明白了。 千万不要以为这是玩笑。黄峥当年问过我类似的问题，就是不管怎么看公司总觉得差点啥，当时我们说的就是经营一家公司可能会有帮助。后来他就回国开了公司了。
+Actually there is — basically, go start a company yourself, and after a few years running it, you'll get it. Please don't take this as a joke. Huang Zheng once asked me a similar question — no matter how he looked at a company, he always felt something was missing. What we said at the time was that running a company himself might help. So afterward he went back to China and started a company.
 
-来源：https://xueqiu.com/1247347556/164818106
+Source: https://xueqiu.com/1247347556/164818106
 
 ---
 
 ## 56. 2020-12-03 11:36
 
-> 转发原文：@AnthonyFF: @大道无形我有型[¥199.99]  大道您好，当年投网易属于风投么？风投和价投区别就在于确定性吧？谢谢
+> Reposted original: @AnthonyFF: @Dada [¥199.99] Hi Dada, was your investment in NetEase back then venture capital? Isn't the difference between venture investing and value investing just about certainty? Thanks.
 
-对我来说其实本来都是一样的，拼多多例外，因为那是友情投资，连风投都不算。
+For me, it's actually all the same, except for Pinduoduo — that one's an exception, because that was a friendship investment, not even counted as venture capital.
 
-来源：https://xueqiu.com/1247347556/164824744
+Source: https://xueqiu.com/1247347556/164824744
 
 ---
 
 ## 57. 2020-12-30 06:02
 
-$拼多多(PDD)$ 本来想说点啥，但觉得说啥都不合适。
+$Pinduoduo(PDD)$ I was going to say something, but I feel like nothing I say would be quite right.
 
-来源：https://xueqiu.com/1247347556/167079041
+Source: https://xueqiu.com/1247347556/167079041
 
 ---
 
 ## 58. 2021-05-09 10:47
 
-> 转发原文：@大道无形我有型: $伯克希尔-哈撒韦B(BRK.B)$ “董事们一致认为，如果今晚我出了什么事，明天早上接替我的将是格雷格”巴菲特在采访中表示。老巴像个不老翁，祝身体一直健康！
+> Reposted original: @Dada: $Berkshire Hathaway B(BRK.B)$ "The directors unanimously agree that if anything happens to me tonight, Greg will take over tomorrow morning," Buffett said in the interview. Old Buffett is like an ageless elder — wishing him lasting good health!
 
-回复@有所不为而后有为: 我这10年说的大概就是苹果，茅台。说过一点腾讯，从来没推荐过拼多多，毕竟商业模式我还看不懂。//@有所不为而后有为:回复@大道无形我有型:下一个吗？也许是拼多多。
+Reply to @Restraint Before Achievement: What I've been saying over these past 10 years has basically been about Apple and Moutai. I've said a bit about Tencent — never recommended Pinduoduo, since I still can't fully make sense of its business model. //@Restraint Before Achievement: Reply to @Dada: The next one? Maybe it'll be Pinduoduo.
 
-来源：https://xueqiu.com/1247347556/179295869
+Source: https://xueqiu.com/1247347556/179295869
 
 ---
 
 ## 59. 2021-05-13 11:43
 
-> 转发原文：@大道无形我有型: $伯克希尔-哈撒韦B(BRK.B)$ “董事们一致认为，如果今晚我出了什么事，明天早上接替我的将是格雷格”巴菲特在采访中表示。老巴像个不老翁，祝身体一直健康！
+> Reposted original: @Dada: $Berkshire Hathaway B(BRK.B)$ "The directors unanimously agree that if anything happens to me tonight, Greg will take over tomorrow morning," Buffett said in the interview. Old Buffett is like an ageless elder — wishing him lasting good health!
 
-回复@徐雪平: 我不懂商业模式的意思是不知道公司未来是不是能长期有好的利润，护城河是什么。大多数公司的商业模式不容易看明白或者看上去未来很难有好的利润。//@徐雪平:回复@大道无形我有型:感觉拼多多的商业模式其实很简单，核心就是一边帮助顾客买到更便宜的东西、另一边帮助商家找到批量的顾客，进而实现买卖双方双赢。作为交易平台不会有比这更完美的商业模式了
+Reply to @Xu Xueping: What I mean by not understanding the business model is that I don't know whether the company can sustain good profits long term, or what its moat is. Most companies' business models aren't easy to understand clearly, or they seem unlikely to have good profits going forward. //@Xu Xueping: Reply to @Dada: I feel Pinduoduo's business model is actually quite simple — the core is helping customers on one side buy cheaper goods, and helping merchants on the other side reach bulk customers, achieving a win-win for both buyers and sellers. As a transaction platform, it's about as clean a business model as you can get.
 
-来源：https://xueqiu.com/1247347556/179715586
+Source: https://xueqiu.com/1247347556/179715586
 
 ---
 
 ## 60. 2021-06-28 03:49
 
-> 转发原文：@大道无形我有型: $Zoom Video通讯(ZM)$ 我很喜欢Zoom这家公司的文化，也很欣赏the founder and CEO Eric。但是，我一直没能下手投资Zoom，因为一直无法理解这家公司的估值。其实在Zoom不到100块的时候我就开始关注Zoom了，但没能想透10年后这家公司到底会是什么样子。投资就是这样，搞懂一样东西还是需要一些缘分的。
+> Reposted original: @Dada: $Zoom Video Communications(ZM)$ I really like this company Zoom's culture, and I also admire the founder and CEO Eric. But I've never actually pulled the trigger on Zoom, because I've never been able to make sense of the company's valuation. Actually, back when Zoom was under $100 I already had my eye on it, but I couldn't figure out what this company would look like in 10 years. Investing is like that — you still need a bit of fate to really get your head around something.
 
-回复@xlli-777: 也许当故事书读读吧，不是传记的概念。//@xlli-777:回复@大道无形我有型:团结出版社的这本传记我刚读完了，编写得挺用心，文字也很流畅，故事性也较强，我是一气儿看完的。但具体情节上也有不少或大或小的错误，其他我不了解的不知道如何，但说黄峥和丁磊是浙大校友就有点太明显了。
+Reply to @xlli-777: Maybe just read it as a story, not a memoir/biography. //@xlli-777: Reply to @Dada: I just finished this biography published by United Publishing — it's put together with real care, the writing flows well, and it has good narrative quality; I read it in one sitting. That said, there are quite a few small and large errors in the details — I can't speak to the parts I'm not familiar with, but saying Huang Zheng and Ding Lei were classmates at Zhejiang University is a bit too obvious an error.
 
-来源：https://xueqiu.com/1247347556/187548288
+Source: https://xueqiu.com/1247347556/187548288
 
 ---
 
 ## 61. 2021-11-22 14:32
 
-> 转发原文：@大道无形我有型: $苹果(AAPL)$ 恭喜Colin Morikawa！他离世界第一已经很近了。
+> Reposted original: @Dada: $Apple(AAPL)$ Congratulations Collin Morikawa! He's getting very close to world No. 1.
 
-回复@大道无形我有型: 黄峥是Colin，英文太复杂了！//@大道无形我有型:回复@大道无形我有型:对不起，是Collin，拼错了。
+Reply to @Dada: Huang Zheng is a Colin — English is too complicated! //@Dada: Reply to @Dada: Sorry, it's "Collin," I misspelled it.
 
-来源：https://xueqiu.com/1247347556/203793726
+Source: https://xueqiu.com/1247347556/203793726
 
 ---
 
 ## 62. 2021-12-02 15:49
 
-$拼多多(PDD)$ 从200多掉到现在我也没有任何想法想多买点，因为一直没看懂商业模式。但也没卖过（既然黄峥说三年不卖，我也三年不卖吧），这大概就是风投的意思？
+$Pinduoduo(PDD)$ It's dropped from over 200 to where it is now, and I still have no urge to buy more, because I've never made sense of the business model. But I haven't sold either (since Huang Zheng said don't sell for three years, I'll go three years without selling too) — I guess that's basically what venture capital means?
 
-来源：https://xueqiu.com/1247347556/204816176
+Source: https://xueqiu.com/1247347556/204816176
 
 ---
 
 ## 63. 2021-12-06 11:10
 
-$拼多多(PDD)$ 虽然还是看不懂其商业模式，但觉得他们对农产品的支持还是非常有意义的。准备再次风投一下！（卖点put，不要效仿）这次成本远高于第一次（如果明天成交的话）。另外，我也不喜欢他们那个烦人的广告。
+$Pinduoduo(PDD)$ Even though I still can't make sense of its business model, I feel their support for agricultural products is very meaningful. Getting ready to take another venture bet! (Selling some puts — don't copy this.) This time the cost basis is far higher than the first time (if it settles tomorrow). Also, I don't like their annoying ads either.
 
-来源：https://xueqiu.com/1247347556/205094026
+Source: https://xueqiu.com/1247347556/205094026
 
 ---
 
 ## 64. 2021-12-06 12:20
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 虽然还是看不懂其商业模式，但觉得他们对农产品的支持还是非常有意义的。准备再次风投一下！（卖点put，不要效仿）这次成本远高于第一次（如果明天成交的话）。另外，我也不喜欢他们那个烦人的广告。
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Even though I still can't make sense of its business model, I feel their support for agricultural products is very meaningful. Getting ready to take another venture bet! (Selling some puts — don't copy this.) This time the cost basis is far higher than the first time (if it settles tomorrow). Also, I don't like their annoying ads either.
 
-回复@酸奶狸猫机: 同感。我不要理解他们的广告形式和广告密度。//@酸奶狸猫机:回复@大道无形我有型:拼多多下了超过200个订单了。也办理了会员。非常不喜欢拼多多目前这种诱导性的广告方式。1.比如随机免单。如果真是随机，测试了四五次，发现每次都是免单这一组内最低价格的，但视觉和文案却是随机性。2.经常视觉上诱导。比如大转盘，视觉上感受很难中大奖。但其实每次都让你中奖最大，让自己感觉很幸运。3.为了推广某些服务比如支付直播，强制弹框和诱导，反复多次。4.把买每个东西恨不得都搞成冗长游戏任务体系。运营从体验纬度变成了纯粹的指标纬度了。
+Reply to @Yogurt Civet-Cat Machine: Same feeling. I don't want to try to understand their ad formats and ad density either. //@Yogurt Civet-Cat Machine: Reply to @Dada: I've placed over 200 orders on Pinduoduo, and I've also signed up for membership. I really dislike Pinduoduo's manipulative advertising style right now. 1. For example the "random free order." If it were really random, after testing it four or five times, I found it always ended up being the lowest-priced item in that group — but visually and in the copy it's presented as random. 2. Frequent visual manipulation — for example, the big spinning wheel. Visually it feels hard to win the big prize, but actually every time it lets you win the biggest prize, making you feel very lucky. 3. To push certain services, like live-stream payments, it forces pop-ups and manipulative prompts repeatedly, over and over. 4. Buying almost anything is turned into a drawn-out game-like task system. Operations has shifted from an experience-first mindset to a purely metrics-driven one.
 
-来源：https://xueqiu.com/1247347556/205102225
+Source: https://xueqiu.com/1247347556/205102225
 
 ---
 
 ## 65. 2021-12-28 16:50
 
-> 转发原文：@大道无形我有型: $阿里巴巴(BABA)$ 想象中，因为天猫是厂家的旗舰店，所以应该很难有假货吧？感觉电商平台是无法完全靠自己的力量杜绝假货的，天猫似乎是个不错的办法。哎…,因为自己不是消费者，要真的理解他们的生意不容易啊。
+> Reposted original: @Dada: $Alibaba(BABA)$ You'd imagine that since Tmall is where brands run their official flagship stores, it should be hard to have counterfeit goods there, right? It feels like e-commerce platforms just can't fully eliminate counterfeit goods on their own — Tmall seems like a decent solution. Ugh... since I'm not a consumer myself, it's not easy to truly understand their business.
 
-回复@更健康更长久: 食品是一次性消费的东西，鉴别非常不容易。比如不常喝茅台的消费者可能不那么容易鉴别53度飞天和别的酱香型酒的差别？15年和50年的差别等等…手机要容易很多，不过也有一些不容易的，比如用老iPhone冒充新iPhone就不容易鉴别（对认真且懂的用户而言不是问题）。我觉得茅台这种公司应该放开天猫旗舰店的销售，最好拼多多和京东也各开一家旗舰店，这样用户就容易买到真货了。//@更健康更长久:回复@大道无形我有型:手机和白酒是容易鉴别真假的产品。网上也有很多教程教如何鉴别手机和白酒。能鉴别真假的产品，哪里便宜哪里买。手机和白酒我一般都在拼多多买。
+Reply to @Healthier and Longer-Lasting: Food is a one-time-consumption item, so authentication is very hard. For instance, someone who doesn't often drink Moutai might not easily be able to tell 53-proof Feitian Moutai apart from another sauce-aroma liquor? Or the difference between a 15-year and a 50-year one, and so on. Phones are a lot easier to authenticate, though there are some tricky cases too, like passing off an old iPhone as a new one (not an issue for a careful, knowledgeable user). I think a company like Moutai should open up sales through Tmall's flagship store, and ideally Pinduoduo and JD should each open a flagship store too — that way users can more easily get genuine products. //@Healthier and Longer-Lasting: Reply to @Dada: Phones and liquor are products that are easy to authenticate. There are also plenty of tutorials online teaching how to spot fake phones and liquor. For products where you can tell genuine from fake, you should just buy wherever's cheapest. I usually buy phones and liquor on Pinduoduo.
 
-来源：https://xueqiu.com/1247347556/207251446
+Source: https://xueqiu.com/1247347556/207251446
 
 ---
 
 ## 66. 2021-12-31 07:41
 
-> 转发原文：@夕股朝拾: 段总这个思路放在“三傻”身上非常合适：他们（格力、平安、万科）在各自行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那么相关行业将“不复存在”。顺带看到下图，最吸引我的是“共同价值观”，我看“三傻”提供的价值观还是比较“正”：格力“好空调，格力造”；万科“建有人住的房子”；平安“有温度的保险”，均体现“以人为本”。所以，在最困难时，需要对优秀企业多份信心！$格力电器(SZ000651)$ $万科A(SZ000002)$ $中国平安(SH601318)$
+> Reposted original: @Evening Stocks, Morning Pickings: Dada's line of thinking here fits the "Three Fools" [Gree, Ping An, Vanke] very well: they're among the healthiest companies in their respective industries, not prone to reckless behavior — long term, if even they can't survive, then the related industries would "cease to exist." By the way, looking at the image below, what I find most attractive is "shared values" — I see the values behind the "Three Fools" as fairly "upright": Gree — "Good air conditioners, made by Gree"; Vanke — "Building houses people can actually live in"; Ping An — "Insurance with warmth" — all reflecting a "people-first" spirit. So in the toughest times, we need more confidence in excellent companies! $Gree Electric Appliances(SZ000651)$ $Vanke A(SZ000002)$ $Ping An Insurance (Group)(SH601318)$
 
-回复@时间的朋友600519: 90%的身家都在一家公司了，那一定很懂这家公司吧？我不能就拼多多提供意见，因为我还不太理解拼多多的商业模式。我觉得从现在往后10年看，拿着苹果战胜通胀应该还是大概率事件，但不意味着你不能找到回报更高的公司。//@时间的朋友600519:回复@龟息投资:@大道无形我有型 想问大道如果你百分之九十的身家在拼多多，刚刚看懂苹果，你会对这百分之九十的身家做什么吗？…感觉可能没去打高尔夫？
+Reply to @Time's Friend 600519: If 90% of your net worth is in one company, you'd better understand that company really well. I can't offer advice specifically on Pinduoduo, because I don't fully understand Pinduoduo's business model myself. I think that looking out 10 years from today, holding Apple to beat inflation is still probably a high-probability event, though that doesn't mean you can't find a company with a higher potential return. //@Time's Friend 600519: Reply to @Tortoise-Breath Investing: @Dada I'd like to ask Dada — if 90% of your net worth were in Pinduoduo and you'd just come to understand Apple, what would you do with that 90%?... Feeling like maybe you wouldn't be out golfing?
 
-来源：https://xueqiu.com/1247347556/207530572
+Source: https://xueqiu.com/1247347556/207530572
 
 ---
 
 ## 67. 2022-01-21 09:16
 
-$拼多多(PDD)$ 这个是赚了但赚少了的典型例子。
+$Pinduoduo(PDD)$ This is a classic example of making money but not making enough of it.
 
-来源：https://xueqiu.com/1247347556/209609576
+Source: https://xueqiu.com/1247347556/209609576
 
 ---
 
 ## 68. 2022-01-22 06:01
 
-> 转发原文：@价值投资日志刘文权: 
+> Reposted original: @Value-Investing Journal by Liu Wenquan:
 
-回复@江湖白菜: 拼多多对我来说不是投资，是友情，和多少钱无关。//@江湖白菜:回复@大道无形我有型:拼多多呢？仓位和上面三个比重吗
+Reply to @Cabbage-Price Wanderer: Pinduoduo isn't an investment for me, it's about friendship — it has nothing to do with the amount of money involved. //@Cabbage-Price Wanderer: Reply to @Dada: What about Pinduoduo? Is its weighting comparable to the three companies above?
 
-来源：https://xueqiu.com/1247347556/209728295
+Source: https://xueqiu.com/1247347556/209728295
 
 ---
 
 ## 69. 2022-02-01 06:03
 
-$拼多多(PDD)$ 刚刚才注意到上市已经三年多了，时间过得好快！
+$Pinduoduo(PDD)$ Just realized it's already been more than three years since the IPO — time really flies!
 
-来源：https://xueqiu.com/1247347556/210541030
+Source: https://xueqiu.com/1247347556/210541030
 
 ---
 
 ## 70. 2022-02-02 12:46
 
-> 转发原文：@价值投资日志刘文权: 
+> Reposted original: @Value-Investing Journal by Liu Wenquan:
 
-回复@流浪的阿信: 我从来没说过我不看好拼多多，我一直说的是我看不懂这个商业模式到底如何赚钱。我今天依然没看懂，但没有不看好的意思，希望你的中文和我的中文都没毛病。//@流浪的阿信:回复@价值投资日志刘文权:大道，早年不看好拼多多的原因是实物电商对物流依赖很高，商流到物流，当然您肯定很了解。所以，极兔的出现，往往会被理解为一个看懂行业的投资，从您的角度是偶然吗？@大道无形我有型
+Reply to @Wandering A-Xin: I've never said I'm not bullish on Pinduoduo — what I've always said is that I don't understand exactly how this business model makes money. I still don't understand it today, but that's not the same as being bearish — I hope neither your Chinese nor mine has any issue here. //@Wandering A-Xin: Reply to @Value-Investing Journal by Liu Wenquan: Dada, the reason you weren't bullish on Pinduoduo in the early years was that physical-goods e-commerce relies heavily on logistics — from commerce flow to logistics flow — you surely understand that well. So the emergence of J&T Express is often read as an investment made by someone who understands the industry — from your perspective, was that a coincidence? @Dada
 
-来源：https://xueqiu.com/1247347556/210585803
+Source: https://xueqiu.com/1247347556/210585803
 
 ---
 
 ## 71. 2022-03-08 12:52
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 从200多掉到现在我也没有任何想法想多买点，因为一直没看懂商业模式。但也没卖过（既然黄峥说三年不卖，我也三年不卖吧），这大概就是风投的意思？
+> Reposted original: @Dada: $Pinduoduo(PDD)$ It's dropped from over 200 to where it is now, and I still have no urge to buy more, because I've never made sense of the business model. But I haven't sold either (since Huang Zheng said don't sell for three years, I'll go three years without selling too) — I guess that's basically what venture capital means?
 
-回复@风雨666555: 居然会有这个问题，好奇我为什么加了你呢？取关了。//@风雨666555:回复@大道无形我有型:我也一直拿着拼多多三年了，一股没卖，虽然股价的涨跌有时还会影响心情，但内心是很坚定的，有骨子里相信的东西。
+Reply to @Wind and Rain 666555: Surprised there's even such a question — I'm curious why I followed you in the first place. Unfollowed. //@Wind and Rain 666555: Reply to @Dada: I've also held Pinduoduo for three years without selling a single share — even though the price swings sometimes affect my mood, deep down I'm very firm about it, there's something I believe in at the core.
 
-来源：https://xueqiu.com/1247347556/213365538
+Source: https://xueqiu.com/1247347556/213365538
 
 ---
 
 ## 72. 2022-03-24 04:09
 
-> 转发原文：@Robert27: @大道无形我有型 大道老师您好，我最近集中学习了媒体对您的一些采访，想请教一下您关于安全边际的理解。比如说，您在1美元左右投资网易的经典案例，当时存在一个退市的风险，当时您是如何评估这个风险的？是否考虑了如果这个风险最后成真了，您可以承担损失？另外您也提到巴菲特很喜欢研究上市10年以上的公司，因为这样他可以查阅过去很多资料，做到安全边际可控。请问您与巴菲特对于风险评估的核心理念是什么？感谢！
+> Reposted original: @Robert27: Hello Dada, I've recently been intensively studying some of your media interviews, and I'd like to ask about your understanding of margin of safety. For instance, in your classic case of investing in NetEase around $1, there was a delisting risk at the time — how did you assess that risk? Did you factor in whether you could bear the loss if that risk actually materialized? You've also mentioned Buffett likes to study companies that have been public for over 10 years, since that lets him review a lot of past data and keep the margin of safety under control. What's your and Buffett's core philosophy on risk assessment? Thanks!
 
-回复@求实为先: 我说我不懂这个商业模式不是不知道他们做的是什么样的生意，而是说我没办法看懂10年后这个公司会是什么样子。很早我就说过，我觉得拼多多赚到100-200亿人民币应该是有机会的，但未来到底会怎么样我看不懂。电商不是一个容易看懂的行业，很难知道10年后谁会是最后的赢家。//@求实为先:回复@Robert27:借楼提问大道看懂拼多多了么。总觉着拼多多就只是在搭建一个有趣的优质购物平台，某宝的同质竞争对手啊
+Reply to @Seeking Truth First: What I mean when I say I don't understand this business model isn't that I don't know what kind of business they run — it's that I can't figure out what this company will look like in 10 years. I said very early on that I think it's plausible for Pinduoduo to earn RMB 10-20 billion, but I can't make sense of what happens beyond that. E-commerce isn't an easy industry to understand — it's very hard to know who the ultimate winner will be 10 years from now. //@Seeking Truth First: Reply to @Robert27: Piggybacking on this thread to ask — has Dada figured out Pinduoduo yet? I keep feeling Pinduoduo is just building an interesting, quality shopping platform — a same-kind competitor to Taobao.
 
-来源：https://xueqiu.com/1247347556/215025016
+Source: https://xueqiu.com/1247347556/215025016
 
 ---
 
 ## 73. 2022-06-09 06:29
 
-$拼多多(PDD)$ 开始卖点call。
+$Pinduoduo(PDD)$ Starting to sell some calls.
 
-来源：https://xueqiu.com/1247347556/222123054
+Source: https://xueqiu.com/1247347556/222123054
 
 ---
 
 ## 74. 2022-06-09 23:06
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 开始卖点call。
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Starting to sell some calls.
 
-回复@诗安: 6/10 60-65的call，没有任何看空的意思，就是手痒了，想赚点小钱。//@诗安:回复@大道无形我有型:不知道Strike是多少的Call，说明大道已经在某一价位上看空PDD了。。。//@大道无形我有型: 回复@西北风的blog: 哎…//@西北风的blog:回复@大道无形我有型:不太懂，只是好奇，和前一阵买入的put有关吗？
+Reply to @Shi An: 6/10 calls at the 60-65 strike, no bearish intent at all — my hands were just itching, and I wanted to make a little extra cash. //@Shi An: Reply to @Dada: Not sure what strike the calls are, but this suggests Dada's turned bearish on PDD at some price level... //@Dada: Reply to @Northwest Wind's Blog: Ugh... //@Northwest Wind's Blog: Reply to @Dada: Not totally sure what's going on, just curious — does this have to do with the put you bought a while back?
 
-来源：https://xueqiu.com/1247347556/222222052
+Source: https://xueqiu.com/1247347556/222222052
 
 ---
 
 ## 75. 2022-08-07 03:42
 
-> 转发原文：@腾讯控股(00700): 
+> Reposted original: @Tencent Holdings(00700):
 
-有一点说对了，前段时间确实被call走了几千个pdd, 所以拿一小部分换了点腾讯，剩下的卖了苹果的put。
+One thing got said right — a while back a few thousand of my PDD shares really did get called away, so I put a small part of that into some Tencent, and sold the rest into Apple puts.
 
-来源：https://xueqiu.com/1247347556/227368827
+Source: https://xueqiu.com/1247347556/227368827
 
 ---
 
 ## 76. 2022-08-30 06:03
 
-> 转发原文：@不动道: 段永平：道可学，术要练。道指的就是“做对的事情”或者说“不做不对的事情”或者说“发现错了马上改--不管多大的代价都是最小的代价”。“术”指的是技术，对每个人来说都是需要学同时也需要练习的，非一朝一夕之功。（2013-03-24）网友：请教您个关于价值投资‘术’方面的经验，您对‘术’这个层面怎么看？段永平：我个人以为价值投资的“术”就是如何研究企业未来现金流（折现）的问题。老巴的“护城河”、好的管理团队等都属于“术”的范畴。其实这个“术”是很难从书本上学到的，学校里一般也没人可以教，大概只能自己慢慢悟了。（2 011-01-05）段永平：先有道然后术才有用哈，不然就是瞎忙。（2015-01-16）
+> Reposted original: @The Unmoving Way: Duan Yongping: "Dao can be studied, technique must be practiced." "Dao" refers to "doing the right thing," or put another way, "not doing the wrong thing," or "when you find you've erred, correct it immediately — no matter how big the cost, it's always the smallest cost." A follower asked: "I'd like to ask about your experience with the 'technique' side of value investing — how do you see that level?" Duan Yongping: "In my own view, the 'technique' of value investing is essentially about how to research a company's future cash flow (discounted). Old Buffett's 'moat,' a good management team, and so on all belong to the domain of 'technique.' Actually this 'technique' is very hard to learn from books — schools generally don't teach it either — you probably just have to slowly work it out for yourself." (2011-01-05) Duan Yongping: "You need the Dao first before the technique is of any use — otherwise you're just running around blindly." (2015-01-16)
 
-回复@学着悟道的小孙: 产品最重要，没有好的产品企业很难活的好。有了好的产品当然还是要建立渠道去卖的。没有好的产品，很难建立好的渠道，反之亦然。//@学着悟道的小孙:回复@不动道:大道，您投资成功苹果茅台拼多多，产品和渠道您都很懂，您能谈谈两者的关系吗//@大道无形我有型:回复@大道无形我有型: 也许说的是“道可悟，术可学”？//@大道无形我有型:回复@不动道:我记得我之前说的是“道需悟，术可学”，后来有一次说成”道可学，术要练“。想想还是觉得前面那个更好一点，虽然后面这句也过得去。
+Reply to @Little Sun Learning to Grasp the Way: Product matters most — without a good product, it's very hard for a company to thrive. Once you have a good product, of course you still need to build channels to sell it. Without a good product, it's hard to build good channels either — and vice versa. //@Little Sun Learning to Grasp the Way: Reply to @The Unmoving Way: Dada, you've succeeded in investing in Apple, Moutai, and Pinduoduo — you understand both products and channels very well. Could you talk about the relationship between the two? //@Dada: Reply to @Dada: Maybe what I meant was "Dao can be grasped through insight, technique can be studied"? //@Dada: Reply to @The Unmoving Way: I recall what I said before was "Dao needs insight, technique can be studied," and then another time it came out as "Dao can be studied, technique must be practiced." Thinking it over, I still feel the earlier version is a bit better, though the later one is passable too.
 
-来源：https://xueqiu.com/1247347556/229448658
+Source: https://xueqiu.com/1247347556/229448658
 
 ---
 
 ## 77. 2022-09-23 10:12
 
-$拼多多(PDD)$ 昨天下单买了五件东西，有两件衣服，几双袜子，还有啥忘了。才$14,还免运费。有点不可思议，很好奇到手的东西会是什么样子的。估计下个礼拜就能到手了。
+$Pinduoduo(PDD)$ Placed an order yesterday for five items — two pieces of clothing, a few pairs of socks, and something else I forget. Only $14, and free shipping too. Kind of unbelievable — curious what the items will actually look like when they arrive. Should get here next week I'd guess.
 
-来源：https://xueqiu.com/1247347556/231391267
+Source: https://xueqiu.com/1247347556/231391267
 
 ---
 
 ## 78. 2022-10-13 22:36
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 昨天下单买了五件东西，有两件衣服，几双袜子，还有啥忘了。才$14,还免运费。有点不可思议，很好奇到手的东西会是什么样子的。估计下个礼拜就能到手了。
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Placed an order yesterday for five items — two pieces of clothing, a few pairs of socks, and something else I forget. Only $14, and free shipping too. Kind of unbelievable — curious what the items will actually look like when they arrive. Should get here next week I'd guess.
 
-回复@Frankxin: 邮政快递。//@Frankxin:回复@大道无形我有型:很想知道TEMU用的是什么快递？
+Reply to @Frankxin: USPS. //@Frankxin: Reply to @Dada: Really curious what courier TEMU uses?
 
-来源：https://xueqiu.com/1247347556/232654312
+Source: https://xueqiu.com/1247347556/232654312
 
 ---
 
 ## 79. 2022-10-13 22:36
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 昨天下单买了五件东西，有两件衣服，几双袜子，还有啥忘了。才$14,还免运费。有点不可思议，很好奇到手的东西会是什么样子的。估计下个礼拜就能到手了。
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Placed an order yesterday for five items — two pieces of clothing, a few pairs of socks, and something else I forget. Only $14, and free shipping too. Kind of unbelievable — curious what the items will actually look like when they arrive. Should get here next week I'd guess.
 
-回复@Frankxin: 邮政快递，速度也还蛮快的。东西没啥意外，品质一般。护肘和其他地面店（比如CVS）的差不多一样的东西，但确实便宜了很多。//@Frankxin:回复@大道无形我有型:很想知道TEMU用的是什么快递？
+Reply to @Frankxin: USPS, and it's fairly fast too. Nothing unexpected about the items, quality is average. The elbow brace was about the same as one from a brick-and-mortar store like CVS, but really was a lot cheaper. //@Frankxin: Reply to @Dada: Really curious what courier TEMU uses?
 
-来源：https://xueqiu.com/1247347556/232654289
+Source: https://xueqiu.com/1247347556/232654289
 
 ---
 
 ## 80. 2022-10-14 02:19
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 昨天下单买了五件东西，有两件衣服，几双袜子，还有啥忘了。才$14,还免运费。有点不可思议，很好奇到手的东西会是什么样子的。估计下个礼拜就能到手了。
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Placed an order yesterday for five items — two pieces of clothing, a few pairs of socks, and something else I forget. Only $14, and free shipping too. Kind of unbelievable — curious what the items will actually look like when they arrive. Should get here next week I'd guess.
 
-回复@流浪的阿信: 挑战amazon可能性不大，但在某些细分市场占有一席之地是有可能的。我依然看不懂这个商业模式，没办法想象五年十年以后会是什么样子。//@流浪的阿信:回复@大道无形我有型:干好了可以挑战amazon//@大道无形我有型:回复@Frankxin: 邮政快递，速度也还蛮快的。东西没啥意外，品质一般。护肘和其他地面店（比如CVS）的差不多一样的东西，但确实便宜了很多。//@Frankxin:回复@大道无形我有型:很想知道TEMU用的是什么快递？
+Reply to @Wandering A-Xin: The odds of really challenging Amazon aren't great, but carving out a place in some niche segments is possible. I still can't make sense of this business model — I have no way to picture what it'll look like in five or ten years. //@Wandering A-Xin: Reply to @Dada: If they execute well they could challenge Amazon //@Dada: Reply to @Frankxin: USPS, and it's fairly fast too. Nothing unexpected about the items, quality is average. The elbow brace was about the same as one from a brick-and-mortar store like CVS, but really was a lot cheaper. //@Frankxin: Reply to @Dada: Really curious what courier TEMU uses?
 
-来源：https://xueqiu.com/1247347556/232662736
+Source: https://xueqiu.com/1247347556/232662736
 
 ---
 
 ## 81. 2022-10-24 22:41
 
-$拼多多(PDD)$ 哇！
+$Pinduoduo(PDD)$ Wow!
 
-来源：https://xueqiu.com/1247347556/233464435
+Source: https://xueqiu.com/1247347556/233464435
 
 ---
 
 ## 82. 2022-10-30 11:41
 
-> 转发原文：@大道无形我有型: $腾讯控股ADR(TCEHY)$ 继续！
+> Reposted original: @Dada: $Tencent Holdings ADR(TCEHY)$ Keep going!
 
-回复@北极星NorthStar: 是的，就“哇”了一下。我依然不是太懂拼多多得商业模式，所以加不加仓和目前价格没啥关系，毕竟已经有很多在手了。不过，我也依然觉得给他们10年，也许大家真能看到点啥。现在距离我说的“给他10年”的时间应该已经过去两三年了吧？那就再看个7-8年，看看我这个“风投”结果到底是什么。//@北极星NorthStar:回复@大道无形我有型:pdd就“哇”一下吗？//@大道无形我有型:回复@巴米吃米: 是的，苹果跌的多的时候我一定会买的，茅台经常会，腾讯有时候也会买一点。//@巴米吃米:回复@大道无形我有型:大道唯独对茅台和苹果买入的价格没那么敏感，好像基本是有钱就买
+Reply to @NorthStar: Yeah, that was just a "wow." I still don't really understand PDD's business model, so adding to my position or not has nothing to do with the current price — after all, I already hold plenty. That said, I still feel that given 10 years, we might really see something. It's probably been two or three years since I said "give it 10 years" — so let's watch another 7-8 years and see what this "venture bet" of mine ends up looking like. //@NorthStar: Reply to @Dada: PDD only gets a "wow"? //@Dada: Reply to @Bami the Rice-Eater: Right, when Apple drops a lot I'll definitely buy, and I'll often buy Moutai too, and sometimes Tencent as well. //@Bami the Rice-Eater: Reply to @Dada: Dada seems uniquely insensitive to price when buying Moutai and Apple — seems like whenever you have cash, you just buy.
 
-来源：https://xueqiu.com/1247347556/234017191
+Source: https://xueqiu.com/1247347556/234017191
 
 ---
 
 ## 83. 2023-01-15 12:24
 
-> 转发原文：@苹果(AAPL): 原帖已删除
+> Reposted original: @Apple(AAPL): Original post deleted
 
-回复@果仁糖心的爸爸: 你是对的，但我说的是美股，而且说的是大部分账号。其实我管的账号里有一个账号里拼多多是第二大持股。国内我管的人民币账号主要都是茅台。//@果仁糖心的爸爸:不是茅台吗//@大道无形我有型:回复@耐心看十年: BBK是我管的大部分账号的第二大持股，虽然比例不算高。巴菲特说他过世后五年才退休，所以我想他退休后我可以考虑慢慢换到S&P500去。BRK本身也买了S&P· 500的。这只是一个很久以后的想法。//@耐心看十年:大道为啥不考虑BRK呢，我记得您前几天说过，长期来看BRK还是有51%...
+Reply to @Papa Nutty-Candyheart: You're right, but I'm talking about US-listed holdings, and specifically most of my accounts. Actually one of the accounts I manage has Pinduoduo as its second-largest holding. In China, the RMB accounts I manage are mainly Moutai. //@Papa Nutty-Candyheart: Isn't it Moutai //@Dada: Reply to @Patiently Watch for Ten Years: BBK is the second-largest holding across most of the accounts I manage, though the proportion isn't that high. Buffett said he'll retire five years after he passes away, so I figure once he retires I might consider gradually shifting into the S&P 500. BRK itself also buys the S&P 500. This is just a thought for far down the road. //@Patiently Watch for Ten Years: Why doesn't Dada consider BRK — I recall you said a few days ago that long term, BRK still has a 51%...
 
-来源：https://xueqiu.com/1247347556/240043893
+Source: https://xueqiu.com/1247347556/240043893
 
 ---
 
 ## 84. 2023-03-16 00:39
 
-> 转发原文：@投资人小吴: $拼多多(PDD)$ @大道无形我有型  大道您好，想和您请教一下对Temu的看法。我们原先是主做Amazon的，去年Temu上线之后，我们就开始布局。现在 Temu的增长很迅猛，同类商品我们在亚马逊上销售可能是没有太多利润的，但是在Temu上面销售还是有一定的盈利的。想请教一下您对Amazon和Temu两家公司的未来展望？Temu是不是有更多的可能性，和发展空间？
+> Reposted original: @Investor Little Wu: $Pinduoduo(PDD)$ @Dada Hi Dada, I'd like to ask your view on Temu. We originally mainly worked with Amazon; after Temu launched last year, we began setting up there too. Temu's growth has been very rapid — the same goods might barely be profitable for us on Amazon, but selling on Temu still nets us some profit. Could you share your outlook for Amazon and Temu? Does Temu have more upside and room to grow?
 
-我确实在Temu上买了一些东西，确实便宜也能用但并不能帮助我搞懂他的商业模式，我没办法看懂10年或以后到底是个什么情况，所以我不会因为Temu改变我对PDD的任何看法。我对amazon的看法一直是：零售很难赚钱，cloud会受到其他大公司的影响，微软Google苹果这些公司的云服务未来会占到一定市场份儿的。简单讲，我对电商没有太多的理解，目前为止还没有任何想认真投资的想法。
+I have indeed bought some things on Temu — it's cheap and usable, but that doesn't help me understand its business model. I can't picture what things will look like in 10 years or beyond, so I won't change any of my views on PDD because of Temu. My view on Amazon has always been: retail is hard to make money in, and cloud will be affected by other big players — Microsoft, Google, Apple's cloud services will all take some share of the market going forward. Simply put, I don't have a deep enough understanding of e-commerce, and so far I have no serious plans to invest in it.
 
-来源：https://xueqiu.com/1247347556/244573685
+Source: https://xueqiu.com/1247347556/244573685
 
 ---
 
 ## 85. 2023-03-21 07:50
 
-$拼多多(PDD)$ 财报看着还是蛮赚钱的，说明开拓国际市场并不是一个很大的负担。印象中之前几个财报老说盈利是暂时的（大致这个意思），感觉后面还可能亏钱，可好像已经连续几个季度赚钱了吧？
+$Pinduoduo(PDD)$ Looking at the earnings, it still seems to make quite good money, which shows expanding into international markets isn't much of a burden. I recall earlier earnings reports kept saying profitability was temporary (roughly that idea), suggesting it might go back to losing money — but it seems like they've now been profitable for several quarters straight?
 
-来源：https://xueqiu.com/1247347556/244998795
+Source: https://xueqiu.com/1247347556/244998795
 
 ---
 
 ## 86. 2023-03-22 11:30
 
-> 转发原文：@大道无形我有型: $拼多多(PDD)$ 财报看着还是蛮赚钱的，说明开拓国际市场并不是一个很大的负担。印象中之前几个财报老说盈利是暂时的（大致这个意思），感觉后面还可能亏钱，可好像已经连续几个季度赚钱了吧？
+> Reposted original: @Dada: $Pinduoduo(PDD)$ Looking at the earnings, it still seems to make quite good money, which shows expanding into international markets isn't much of a burden. I recall earlier earnings reports kept saying profitability was temporary (roughly that idea), suggesting it might go back to losing money — but it seems like they've now been profitable for several quarters straight?
 
-回复@理性是一种美德: 我说过很多次，我不是很了解拼多多的商业模式，但我还是蛮好奇也蛮关注他们最后会做成什么样子。//@理性是一种美德:回复@大道无形我有型:大道对拼多多感觉像对自己的孩子
+Reply to @Rationality Is a Virtue: I've said many times, I'm not that familiar with Pinduoduo's business model, but I'm still quite curious and quite interested in watching how it eventually turns out. //@Rationality Is a Virtue: Reply to @Dada: Dada's feelings about Pinduoduo seem like feelings toward one's own child.
 
-来源：https://xueqiu.com/1247347556/245139113
+Source: https://xueqiu.com/1247347556/245139113
 
 ---
 
 ## 87. 2023-03-28 09:53
 
-> 转发原文：@思弦君: 
+> Reposted original: @Sir Sixian:
 
-回复@此号用来聊天: 我50年前就会自己按足三里了，但从来不知道效果到底怎么样。我小时候可是学过赤脚医生和如何看云识天气的哈，我觉得如果我要一直呆在农村的话，现在也许是黄峥的大客户了哈。//@此号用来聊天:回复@思弦君:按摩穴位是个不错的治疗方式，是人体自带的药。你不喜欢针灸可以换做艾灸或者自行按摩，推荐你一个穴位，足三里穴有利于脾胃哈哈啊哈哈哈//@大道无形我有型:回复@大道无形我有型: 卢医生人确实很好，至少脸上经常是有笑容的，在那个年代不多见。学校医务室好像就她一个医生，好像还有一个药剂师。她给我印象最深的是有次我咬合部位（上下牙结合部）疼的不行，好几天了也不见好转，于是去医务室看医生。卢医生说你怕扎针吗，我说不怕，于是她拿出一根很长...
+Reply to @This Account Is for Chatting: I already knew how to press the Zusanli acupoint on myself 50 years ago, but never knew how effective it actually was. As a kid I studied to be a barefoot doctor and learned how to read clouds to forecast weather — I think if I'd stayed in the countryside the whole time, by now I might be one of Huang Zheng's big customers. //@This Account Is for Chatting: Reply to @Sir Sixian: Acupressure is a good treatment method — the body's own built-in medicine. If you don't like acupuncture you could try moxibustion or self-massage instead — I'd recommend one acupoint: Zusanli is good for the spleen and stomach, haha ha ha ha //@Dada: Reply to @Dada: Doctor Lu really was a good person — at least she often had a smile on her face, which wasn't common back then. The school clinic seemed to have just her as the doctor, plus maybe one pharmacist. What left the deepest impression on me was one time when the joint between my upper and lower teeth hurt unbearably, for several days without improvement, so I went to see the doctor. Doctor Lu asked if I was afraid of needles, I said no, so she took out a very long...
 
-来源：https://xueqiu.com/1247347556/245663797
+Source: https://xueqiu.com/1247347556/245663797
 
 ---
 
 ## 88. 2023-03-28 11:01
 
-> 转发原文：@思弦君: 
+> Reposted original: @Sir Sixian:
 
-回复@不极估不卖出: 试过很多年的中医中药。我妹妹就是香港的名中医。有些中医有些时候确实有效。//@不极估不卖出:回复@思弦君:大道试过中医中药吗？//@大道无形我有型:回复@此号用来聊天: 我50年前就会自己按足三里了，但从来不知道效果到底怎么样。我小时候可是学过赤脚医生和如何看云识天气的哈，我觉得如果我要一直呆在农村的话，现在也许是黄峥的大客户了哈。//@此号用来聊天:回复@思弦君:按摩穴位是个不错的治疗方式，是人体自带的药。你不喜欢针灸可以换做艾...
+Reply to @No Valuation, No Sale: I've tried Chinese medicine for many years. My younger sister is actually a well-known Chinese-medicine doctor in Hong Kong. Some Chinese medicine, at some times, really does work. //@No Valuation, No Sale: Reply to @Sir Sixian: Has Dada tried Chinese medicine? //@Dada: Reply to @This Account Is for Chatting: I already knew how to press the Zusanli acupoint on myself 50 years ago, but never knew how effective it actually was. As a kid I studied to be a barefoot doctor and learned how to read clouds to forecast weather — I think if I'd stayed in the countryside the whole time, by now I might be one of Huang Zheng's big customers. //@This Account Is for Chatting: Reply to @Sir Sixian: Acupressure is a good treatment method — the body's own built-in medicine. If you don't like acupuncture you could try mox...
 
-来源：https://xueqiu.com/1247347556/245676900
+Source: https://xueqiu.com/1247347556/245676900
 
 ---
 
 ## 89. 2023-05-09 07:51
 
-> 转发原文：@活在当下慢慢悟: @大道无形我有型 请问大道你说的本分是指不占别人便宜吗？不喜欢被别人占便宜算本分吗？还是算小家子气，吃不得亏，受不得委屈呢！我是一名大一的金融专业学生，很钦佩你，你帮我解惑吧
+> Reposted original: @Living in the Present, Slowly Awakening: @Dada May I ask — does the "honest and modest" principle you talk about mean not taking advantage of others? Does not wanting to be taken advantage of by others count as being honest and modest — or is that petty, unable to take a loss, unable to endure a grievance? I'm a first-year finance major and I really admire you — please help me understand.
 
-你看了哪条导致你买了拼多多？为什么不买苹果呢？//@Zero-赛罗奥特曼:疫情期间，在家看书。无意间发现关于大道的消息。网上买了本大道的投资问答录，读完感觉醍醐灌顶。 然后去买了点pdd的股票，买完继续跌啊，就有点焦虑。 最近又把投资问答录拿出来开始读第二遍，发现一读就不焦虑了，亏了也能睡好觉。原来大道的书还可以安神@大道无形我有型
+Which post did you read that led you to buy Pinduoduo? Why not buy Apple instead? //@Zero-UltramanZero: While stuck at home during the pandemic reading, I stumbled across information about Dada online. I bought Dada's book of investment Q&As, and reading it felt like a sudden epiphany. So I went and bought some PDD stock, and it kept dropping after I bought it, which made me a bit anxious. Recently I picked up the Q&A book again for a second read, and found that reading it stopped the anxiety — even with losses I could sleep well. Turns out Dada's book can also calm the nerves @Dada
 
-来源：https://xueqiu.com/1247347556/249796427
+Source: https://xueqiu.com/1247347556/249796427
 
 ---
 
 ## 90. 2023-05-13 12:30
 
-> 转发原文：@zheng_zd: @大道无形我有型 大道好，可否请教下您对滴滴的看法，谢谢！全仓持有一段时间了，也想继续持有到它重新上市为止，但对它的盈利模式还不是完全的有底。跟着您做了腾讯，也跟着卖了腾讯，可惜后悔没跟着换苹果，集中到滴滴上了
+> Reposted original: @zheng_zd: @Dada Hi Dada, could I ask your view on Didi? I've held a full position for a while, and I want to keep holding until it re-lists, but I'm not fully confident about its profit model. I followed you into Tencent, and followed you out of Tencent too — I just regret not following you into Apple instead, and I concentrated into Didi.
 
-当然是时代造就的啊，但造就谁还是有点道理或运气的吧？//@怯里不花:@大道无形我有型 能在这提个关于时代问题嘛？大道和沈炜、陈明永、包括黄峥在各个领域都取得了成功，有点像秦末刘邦打天下时的沛县五人组，一直好奇为什么牛人总是扎堆出现，您觉着是时代造就的？还是有那样的文化，哪个时代都能取得好成绩呢？
+It's the era that shaped things, of course, but there's got to be some logic — or luck — behind who exactly it shapes. //@Qielibuhua: @Dada Could I raise a question about the "era" here? Dada, Shen Wei, Chen Mingyong, and Huang Zheng have all achieved success in their respective fields — it's a bit like the "Five from Pei County" who helped Liu Bang conquer the realm at the end of the Qin dynasty. I've always been curious why remarkable people tend to cluster together — do you think it's the era that produced them, or is it that with that kind of culture, you'd get good results in any era?
 
-来源：https://xueqiu.com/1247347556/250271582
+Source: https://xueqiu.com/1247347556/250271582
 
 ---
 
 ## 91. 2023-05-13 14:32
 
-> 转发原文：@zheng_zd: @大道无形我有型 大道好，可否请教下您对滴滴的看法，谢谢！全仓持有一段时间了，也想继续持有到它重新上市为止，但对它的盈利模式还不是完全的有底。跟着您做了腾讯，也跟着卖了腾讯，可惜后悔没跟着换苹果，集中到滴滴上了
+> Reposted original: @zheng_zd: @Dada Hi Dada, could I ask your view on Didi? I've held a full position for a while, and I want to keep holding until it re-lists, but I'm not fully confident about its profit model. I followed you into Tencent, and followed you out of Tencent too — I just regret not following you into Apple instead, and I concentrated into Didi.
 
-回复@复兴悟本草: 刘作虎跟小天才电话手表没任何关系，你不要假装知道点啥，这个习惯对你不好。//@复兴悟本草:回复@zheng_zd:还有刘作虎（小天才电话手表）//@大道无形我有型:当然是时代造就的啊，但造就谁还是有点道理或运气的吧？//@怯里不花:@大道无形我有型 能在这提个关于时代问题嘛？大道和沈炜、陈明永、包括黄峥在各个领域都取得了成功，有点像秦末刘邦打天下时的沛县五人组，一直好奇为什么牛人总是扎堆出现，您觉着是时代造就的？还是有那样的文化，哪个时代都能...
+Reply to @Renaissance Herbalist: Liu Zuohu has nothing to do with the Xiaotiancai kids' watch — please don't pretend to know things, that habit isn't good for you. //@Renaissance Herbalist: Reply to @zheng_zd: There's also Liu Zuohu (Xiaotiancai kids' watch) //@Dada: It's the era that shaped things, of course, but there's got to be some logic — or luck — behind who exactly it shapes. //@Qielibuhua: @Dada Could I raise a question about the "era" here? Dada, Shen Wei, Chen Mingyong, and Huang Zheng have all achieved success in their respective fields — it's a bit like the "Five from Pei County" who helped Liu Bang conquer the realm at the end of the Qin dynasty. I've always been curious why remarkable people tend to cluster together — do you think it's the era that produced them, or is it that with that kind of culture, you'd get good results in any...
 
-来源：https://xueqiu.com/1247347556/250275115
+Source: https://xueqiu.com/1247347556/250275115
 
 ---
 
 ## 92. 2023-11-30 04:09
 
-> 转发原文：@大道无形我有型: $伯克希尔-哈撒韦B(BRK.B)$ “董事们一致认为，如果今晚我出了什么事，明天早上接替我的将是格雷格”巴菲特在采访中表示。老巴像个不老翁，祝身体一直健康！
+> Reposted original: @Dada: $Berkshire Hathaway B(BRK.B)$ "The directors unanimously agree that if anything happens to me tonight, Greg will take over tomorrow morning," Buffett said in the interview. Old Buffett is like an ageless elder — wishing him lasting good health!
 
-回复@风沙-星辰: 我搞不懂拼多多可能有点像巴菲特搞不懂微软一样。//@风沙-星辰:回复@大道无形我有型:我想 大道目前为止还是相信pdd团队的，相信给他们5到10年时间 大概率会有好结果。 但这仅仅只是因为信任，并不是从未来自由现金流的角度出发的，所以还是属于风投的范围？
+Reply to @Windsand-Star: Me not being able to make sense of Pinduoduo is probably a bit like Buffett not being able to make sense of Microsoft. //@Windsand-Star: Reply to @Dada: I think so far Dada still trusts the PDD team, and believes that given 5 to 10 years, there's a good chance of a good outcome. But that's purely trust — it's not derived from a future-free-cash-flow analysis, so does it still fall into venture-capital territory?
 
-来源：https://xueqiu.com/1247347556/268913300
+Source: https://xueqiu.com/1247347556/268913300
 
 ---
 
 ## 93. 2023-12-02 11:33
 
-> 转发原文：@乾之元: 
+> Reposted original: @Qianzhiyuan:
 
-回复@平长健: 我从来没推荐过拼多多，你赌着了是你的造化。杠杆早晚会给你大麻烦的，千万不要为了再次富起来而奋斗哈。//@平长健:回复@乾之元:两次满仓拼多多，第一次加了满仓杠杆，这次没加了。感恩大道，家庭净资产的跃升，都是他的功劳。//@大道无形我有型:看来拿着望远镜都找不到对手的年代真的过去了？希望这会逼出最好的阿里，最后让消费者得益。
+Reply to @Ping Changjian: I've never recommended Pinduoduo — you got lucky, that's your own good fortune. Leverage will get you into big trouble sooner or later — please don't work so hard just trying to get rich again. //@Ping Changjian: Reply to @Qianzhiyuan: Went all-in on Pinduoduo twice — the first time with full margin leverage added, this time without. Grateful to Dada — my family's net worth has jumped, all thanks to him. //@Dada: Looks like the era when you could scan the horizon with a telescope and find no rival is truly over? I hope this forces out the best version of Alibaba, and in the end it's consumers who benefit.
 
-来源：https://xueqiu.com/1247347556/269253990
+Source: https://xueqiu.com/1247347556/269253990
 
 ---
 
 ## 94. 2023-12-12 10:37
 
-> 转发原文：@不明真相的群众: @大道无形我有型 能不能请您谈谈对$阿里巴巴(BABA)$ 看法变化的过程？
+> Reposted original: @The Unenlightened Masses: @Dada Could you talk about how your view of $Alibaba(BABA)$ has changed over time?
 
-回复@横有八荒: 我没见过除黄峥以外的任何拼多多的员工。//@横有八荒:回复@LollapaloozaY:在美国也搞定了上层的关系吗？ 阿里做海外这么多年不成功 是因为没搞定美国的上层关系？ 你见过多少拼多多的员工？ 你没有感受到他们到创业热情？
+Reply to @Spanning the Eight Wildernesses: I've never met any Pinduoduo employee other than Huang Zheng. //@Spanning the Eight Wildernesses: Reply to @LollapaloozaY: Did you square things away with the higher-ups in the US too? Alibaba hasn't succeeded overseas after all these years — was that because it never squared things away with the higher-ups in the US? How many Pinduoduo employees have you met? Haven't you sensed their entrepreneurial drive?
 
-来源：https://xueqiu.com/1247347556/270472491
+Source: https://xueqiu.com/1247347556/270472491
 
 ---
 
 ## 95. 2023-12-27 09:38
 
-> 转发原文：@大道无形我有型: $腾讯控股ADR(TCEHY)$腾讯目前的股数比2016年还多，所以这些年的回购实际上全部都变成了员工股？苹果过去10年的股数已经减少了40%左右了。
+> Reposted original: @Dada: $Tencent Holdings ADR(TCEHY)$ Tencent's current share count is even higher than in 2016 — so have all these years of buybacks actually just turned into employee shares? Apple's share count has dropped by roughly 40% over the past 10 years.
 
-回复@不明真相的群众: 京东美团加上拼多多的投资对腾讯而言都应该属于战略投资。腾讯很多战略投资都是做的蛮好的，方丈的角度也是很有道理的。简单讲，腾讯是家蛮好的公司，我会继续慢慢增加对腾讯的投资的。//@不明真相的群众:回复@烧坊伙计:我最满意的是及时分了美团跟京东，真是神来之笔呀。。。
+Reply to @The Unenlightened Masses: Tencent's investments in JD, Meituan, and Pinduoduo should all count as strategic investments. A lot of Tencent's strategic investments have gone quite well — the Abbot's perspective on this makes a lot of sense too. Simply put, Tencent is a pretty good company, and I'll keep gradually adding to my Tencent position. //@The Unenlightened Masses: Reply to @Distillery Hand: What satisfies me most is how promptly they spun off Meituan and JD — a real stroke of genius...
 
-来源：https://xueqiu.com/1247347556/272509798
+Source: https://xueqiu.com/1247347556/272509798
 
 ---
 
 ## 96. 2024-01-29 03:13
 
-> 转发原文：@大道无形我有型: 在年利润10亿美金以上或年利润50亿人民币以上的公司里，有谁未来10年的总利润会比过去10年高？在这些企业中，有谁的未来10-20年的获利总和会比未来10年的总和高？
+> Reposted original: @Dada: Among companies earning over $1 billion a year, or over RMB 5 billion a year in profit, whose total profit over the next 10 years will be higher than the past 10 years? Among these companies, whose total profit over the next 10-20 years will be higher than the total over the next 10 years?
 
-我了解的公司很少，在我比较了解的公司里（年利润10亿美金以上的），我觉得未来十年总利润比过去10年总利润高的公司可能有苹果，茅台，Brk，微软，谷歌。拼多多应该算一个，但那是因为拼多多过去10年还没怎么赚到钱。麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。有点汗颜，我发现我了解的公司实在是太少了。
+I know very few companies. Among the ones I'm relatively familiar with (earning over $1 billion a year), I think companies whose total profit over the next ten years will exceed the past ten years' total might include Apple, Moutai, BRK, Microsoft, Google. Pinduoduo should probably count as one too, but that's only because Pinduoduo hasn't really made much money over the past 10 years. Companies like McDonald's and Coca-Cola have a very good probability of beating inflation, so they should count too. A bit embarrassing — I realize the number of companies I actually understand is really too small.
 
-来源：https://xueqiu.com/1247347556/276690323
+Source: https://xueqiu.com/1247347556/276690323
 
 ---
 
 ## 97. 2024-01-29 22:41
 
-> 转发原文：@大道无形我有型: 在年利润10亿美金以上或年利润50亿人民币以上的公司里，有谁未来10年的总利润会比过去10年高？在这些企业中，有谁的未来10-20年的获利总和会比未来10年的总和高？
+> Reposted original: @Dada: Among companies earning over $1 billion a year, or over RMB 5 billion a year in profit, whose total profit over the next 10 years will be higher than the past 10 years? Among these companies, whose total profit over the next 10-20 years will be higher than the total over the next 10 years?
 
-回复@大道无形我有型: 漏了腾讯。//@大道无形我有型:回复@大道无形我有型:我了解的公司很少，在我比较了解的公司里（年利润10亿美金以上的），我觉得未来十年总利润比过去10年总利润高的公司可能有苹果，茅台，Brk，微软，谷歌。拼多多应该算一个，但那是因为拼多多过去10年还没怎么赚到钱。麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。有点汗颜，我发现我了解的公司实在是太少了。
+Reply to @Dada: Forgot Tencent. //@Dada: Reply to @Dada: I know very few companies. Among the ones I'm relatively familiar with (earning over $1 billion a year), I think companies whose total profit over the next ten years will exceed the past ten years' total might include Apple, Moutai, BRK, Microsoft, Google. Pinduoduo should probably count as one too, but that's only because Pinduoduo hasn't really made much money over the past 10 years. Companies like McDonald's and Coca-Cola have a very good probability of beating inflation, so they should count too. A bit embarrassing — I realize the number of companies I actually understand is really too small.
 
-来源：https://xueqiu.com/1247347556/276840293
+Source: https://xueqiu.com/1247347556/276840293
 
 ---
 
 ## 98. 2024-03-30 02:14
 
-> 转发原文：@大力壮: 
+> Reposted original: @Mighty Strongman:
 
-回复@北极星NorthStar: 他们确实厉害！我在想10年20年后会怎么样呢？很难想清楚但他们至少不是那种借了很多钱的公司。//@北极星NorthStar:回复@大力壮:我觉得pdd大概率一年赚100亿美元。快要实现了。
+Reply to @NorthStar: They really are impressive! I keep wondering what things will look like in 10 or 20 years. It's hard to picture clearly, but at least they're not the kind of company that's borrowed a ton of money. //@NorthStar: Reply to @Mighty Strongman: I think PDD probably has a good shot at earning $10 billion a year — it's almost there.
 
-来源：https://xueqiu.com/1247347556/284199905
+Source: https://xueqiu.com/1247347556/284199905
 
 ---
 
 ## 99. 2024-06-25 09:04
 
-> 转发原文：@宁洋渔青: 
+> Reposted original: @Ningyang Yuqing:
 
-回复@neng: 这个不了解。//@neng:回复@大道无形我有型:记得之前在网上看到过黄峥是保送浙大计算机专业的，还以为他是因数理科出色被保送的。按大道这么说，那他应该是外语类保送生了？“文理”双全呀！（他就读的杭州外国语学校是教育部认定的16所有保送资格的外国语中学之一）
+Reply to @neng: Don't know about that one. //@neng: Reply to @Dada: I recall seeing online before that Huang Zheng got a guaranteed-admission spot to Zhejiang University's computer science program, and I'd assumed he was admitted for excelling in math and science. Based on what Dada is saying, does that mean he was actually admitted through the foreign-language guaranteed-admission track? Excelling in both humanities and sciences! (The Hangzhou Foreign Languages School he attended is one of 16 foreign-language schools nationally recognized by the Ministry of Education with guaranteed-admission privileges.)
 
-来源：https://xueqiu.com/1247347556/295030690
+Source: https://xueqiu.com/1247347556/295030690
 
 ---
 
 ## 100. 2024-06-29 13:46
 
-> 转发原文：@中庸为道: @大道无形我有型 请问段总，我是做企业的，都说尊重常识，可否举个常识的例子，十分感谢🙏
+> Reposted original: @The Doctrine of the Mean: @Dada Duan-zong, I run a business myself, and everyone talks about respecting common sense — could you give an example of common sense? Thanks so much 🙏
 
-回复@codecai: 那是他的常识。//@codecai:回复@中庸为道:黄峥的文章里说的，几次提到用常识去判断。
+Reply to @codecai: That's his common sense. //@codecai: Reply to @The Doctrine of the Mean: It's from Huang Zheng's writing — he's mentioned using common sense to judge things several times.
 
-来源：https://xueqiu.com/1247347556/295665396
+Source: https://xueqiu.com/1247347556/295665396
 
 ---
 
 ## 101. 2024-08-27 03:09
 
-$拼多多(PDD)$开始卖点put。虽然对PDD的商业模式还不是完全懂，但这些年看来看去还是觉得蛮有意思的。
+$Pinduoduo(PDD)$ Starting to sell some puts. I still don't fully understand PDD's business model, but after all these years of looking at it on and off, I still find it quite interesting.
 
-来源：https://xueqiu.com/1247347556/302441823
+Source: https://xueqiu.com/1247347556/302441823
 
 ---
 
 ## 102. 2024-08-29 09:30
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@LucasPerry: 我也用temu。最近买了两个开红酒的东西，确实便宜了一半以上（从$140+到了$40多），一模一样的工具。//@LucasPerry:回复@大道无形我有型:一个本人的真实案例：最近装修，材料都是在拼多多买的，货真价格便宜，商家服务也好。在京东上只买了2件，又都退货了，一个是POP店的假货，一个是买贵了，但是退货非常麻烦，打三四编客服电话四五天都没解决。所以我认为拼多多没问题，十年后拼多多预计能和亚马逊板手腕。
+Reply to @LucasPerry: I use Temu too. I recently bought two wine-bottle openers, and they really were less than half the price (from $140+ down to a bit over $40) — the exact same tool. //@LucasPerry: Reply to @Dada: A real personal case: I recently did some home renovation, and bought all the materials on Pinduoduo — genuine goods, good prices, good merchant service. On JD I only bought 2 items and returned both — one was a knockoff from a marketplace seller, the other I overpaid for, but returning it was such a hassle, calling customer service three or four times over four or five days without resolving it. So I think Pinduoduo is fine, and I expect that in 10 years Pinduoduo can go toe-to-toe with Amazon.
 
-来源：https://xueqiu.com/1247347556/302798462
+Source: https://xueqiu.com/1247347556/302798462
 
 ---
 
 ## 103. 2024-08-29 09:51
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@自律老刘: 看好当然可以满仓啊，但一定不要用margin！如果是10年不用的闲钱，至少不会影响生活哈。//@自律老刘:回复@大道无形我有型:@大道无形我有型 大道 您好！接飞刀，可以用闲钱满仓么？看好Temu未来的十年
+Reply to @Self-Disciplined Old Liu: Of course you can go all-in if you're bullish, but never use margin! As long as it's spare cash you won't need for 10 years, at least it won't affect your life. //@Self-Disciplined Old Liu: Reply to @Dada: @Dada Hi Dada! Catching this falling knife — can I go all-in with spare cash? Bullish on Temu's next ten years.
 
-来源：https://xueqiu.com/1247347556/302805033
+Source: https://xueqiu.com/1247347556/302805033
 
 ---
 
 ## 104. 2024-08-29 10:35
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@tomjia: 这么多人用肯定是有道理的。//@tomjia:回复@大道无形我有型:我最近三个月变成了拼多多的重度使用者，确实便宜。感觉拼多多的整体特点就是，以推荐和价格以及随意退货为外壳，以下一单更便宜为核心手段，来促使连续下单。整体上最有用的策略就是三单挑战。
+Reply to @tomjia: This many people using it surely means something. //@tomjia: Reply to @Dada: Over the past three months I've become a heavy Pinduoduo user — it really is cheap. I feel Pinduoduo's overall approach is: use recommendations plus price plus easy returns as the outer shell, with "your next order will be even cheaper" as the core mechanism, to keep driving repeat orders. Overall the most effective tactic is the "three-order challenge."
 
-来源：https://xueqiu.com/1247347556/302818493
+Source: https://xueqiu.com/1247347556/302818493
 
 ---
 
 ## 105. 2024-08-29 10:44
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@巴米吃米: 是的，是有点意外，也许是商业模式确实非常厉害的原因。希望公司成长能稍微放缓一些，护城河能更宽一点。//@巴米吃米:回复@大道无形我有型:大道在几年前有说过拼多多大概一年能赚个200-300亿人民币，但没想到这么快一个季度都能赚超过300亿，大道对这个盈利能力会不会也觉得蛮神奇。
+Reply to @Bami the Rice-Eater: Right, it is a bit of a surprise — maybe it's because the business model really is that powerful. I hope the company's growth slows down a bit so the moat can widen a bit more. //@Bami the Rice-Eater: Reply to @Dada: A few years back, Dada said Pinduoduo could probably earn RMB 20-30 billion a year, but no one expected that a single quarter could now earn over RMB 30 billion — does Dada also find this level of profitability rather astonishing?
 
-来源：https://xueqiu.com/1247347556/302821281
+Source: https://xueqiu.com/1247347556/302821281
 
 ---
 
 ## 106. 2024-08-29 10:45
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@lily198852: 理性地加到重仓有问题吗？//@lily198852:回复@Doright:最近pdd下跌，看到雪球好多大V补仓加仓加到重仓~此刻看到的最理性的声音//@大道无形我有型:接飞刀之前一定要想清楚不是因为这个股票曾经到过什么价钱，不是抢反弹，而是想着10年后这个公司会怎么样。
+Reply to @lily198852: What's wrong with rationally building up to a heavy position? //@lily198852: Reply to @Doright: With PDD dropping recently, I've seen a lot of big-name Xueqiu bloggers adding to their positions, building up to a heavy weighting~ This is the most rational voice I've seen on this so far //@Dada: Before catching a falling knife, you absolutely must be clear that it's not because the stock once traded at some price, and it's not about chasing a rebound — it's about thinking through what this company will look like 10 years from now.
 
-来源：https://xueqiu.com/1247347556/302821912
+Source: https://xueqiu.com/1247347556/302821912
 
 ---
 
 ## 107. 2024-08-29 10:52
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@喜悦在当下: 看看pdd的成长就知道你的同党很多哈。//@喜悦在当下:回复@LucasPerry:我是pdd重度用户约占日用消费9成，几年前是淘宝，十多年来9.5成的日用家具家电等消费几乎都是在线消费，好多年不去商场超市了，临时用的商品才会美团或线下
+Reply to @Joy in the Present Moment: Just look at PDD's growth and you'll know you have plenty of company. //@Joy in the Present Moment: Reply to @LucasPerry: I'm a heavy PDD user, accounting for about 90% of my daily spending. A few years ago it was Taobao — over more than ten years, 95% of my daily spending on things like furniture and appliances has basically all been online, and I haven't been to a mall or supermarket in years. For things I need on the spot, I'll use Meituan or go in person.
 
-来源：https://xueqiu.com/1247347556/302824414
+Source: https://xueqiu.com/1247347556/302824414
 
 ---
 
 ## 108. 2024-09-04 09:08
 
-> 转发原文：@无欲则刚上清风: 方丈，减肥不依赖药物的话，有什么好的减肥方法吗@不明真相的群众
+> Reposted original: @Free-of-Desire-Thus-Strong Pure Breeze Rising: Abbot, aside from relying on medication, is there a good way to lose weight? @The Unenlightened Masses
 
-回复@虎影: 我刚刚上Temu上查了一下，没找到。//@虎影:回复@无欲则刚上清风:网上找找看//@大道无形我有型: 回复@大道无形我有型: 推荐一下这个面包，这是我现在的主食，每餐吃两片。有足够的纤维和碳水以及还不错的蛋白质含量。 查看图片
+Reply to @Tiger's Shadow: I just checked on Temu and didn't find it. //@Tiger's Shadow: Reply to @Free-of-Desire-Thus-Strong Pure Breeze Rising: Try searching online //@Dada: Reply to @Dada: Let me recommend this bread — it's my staple food now, I eat two slices at every meal. It has plenty of fiber and carbs, plus a decent amount of protein. [View image]
 
-来源：https://xueqiu.com/1247347556/303494954
+Source: https://xueqiu.com/1247347556/303494954
 
 ---
 
 ## 109. 2024-09-04 09:19
 
-> 转发原文：@须臾所思: 
+> Reposted original: @Momentary Thoughts:
 
-回复@lily198852: 估计你英文一定很好。//@lily198852:回复@Doright:最近pdd下跌，看到雪球好多大V补仓加仓加到重仓~此刻看到的最理性的声音//@大道无形我有型:接飞刀之前一定要想清楚不是因为这个股票曾经到过什么价钱，不是抢反弹，而是想着10年后这个公司会怎么样。
+Reply to @lily198852: I bet your English is really good. //@lily198852: Reply to @Doright: With PDD dropping recently, I've seen a lot of big-name Xueqiu bloggers adding to their positions, building up to a heavy weighting~ This is the most rational voice I've seen on this so far //@Dada: Before catching a falling knife, you absolutely must be clear that it's not because the stock once traded at some price, and it's not about chasing a rebound — it's about thinking through what this company will look like 10 years from now.
 
-来源：https://xueqiu.com/1247347556/303496493
+Source: https://xueqiu.com/1247347556/303496493
 
 ---
 
 ## 110. 2024-09-05 13:29
 
-> 转发原文：@沉下心来好好学习: @大道无形我有型 想请教一下大道，您本人手机用的是Pro系列还是Pm系列 手表也是用的ultra吗？
+> Reposted original: @Settle Down and Study Hard: @Dada I'd like to ask — do you personally use the Pro series phone or the Pm series? Is your watch an Ultra too?
 
-回复@mclaren0pk: 没聊过但早年他还在Google的时候我们确实经常会一起聊天。//@mclaren0pk:回复@大道无形我有型:黄峥平时有没有战略上的一些问题请教一下大道哥的？
+Reply to @mclaren0pk: We haven't discussed it, but back when he was still at Google we really did chat often. //@mclaren0pk: Reply to @Dada: Does Huang Zheng ever come to Dada for advice on strategic questions?
 
-来源：https://xueqiu.com/1247347556/303670510
+Source: https://xueqiu.com/1247347556/303670510
 
 ---
 
 ## 111. 2024-09-06 12:35
 
-> 转发原文：@沉下心来好好学习: @大道无形我有型 想请教一下大道，您本人手机用的是Pro系列还是Pm系列 手表也是用的ultra吗？
+> Reposted original: @Settle Down and Study Hard: @Dada I'd like to ask — do you personally use the Pro series phone or the Pm series? Is your watch an Ultra too?
 
-回复@扩展人生: 思考十年可能是在我这里聊天唔到的。//@扩展人生:回复@大道无形我有型:黄峥好像在美国做科技前沿研究，思考公司未来十年发展问题
+Reply to @Expanding Life: Thinking ten years ahead probably isn't something you'd hear about chatting with me. //@Expanding Life: Reply to @Dada: It seems Huang Zheng does frontier tech research in the US, thinking about the company's development over the next ten years
 
-来源：https://xueqiu.com/1247347556/303795407
+Source: https://xueqiu.com/1247347556/303795407
 
 ---
 
 ## 112. 2024-09-27 12:27
 
-> 转发原文：@该用户已删除: 原帖已删除
+> Reposted original: @This user has been deleted: Original post deleted
 
-回复@道昆仑: 最近确实涨得有点邪乎。本来花了很多时间去思考拼多多，腾讯，觉得是个大好的机会，想着先多卖点put，结果看上去要少赚不少了哈。苹果涨的也有点厉害，以前买股票卖call的那部分都不见了。话说回来，少赚不是啥坏事，就当跑环去打了一个传说好了。//@道昆仑:回复@奋斗的存钱小船长:腾讯最近涨了很多，大道的保险公司销量是不是要受到一些影响了//@大道无形我有型:回复@大道无形我有型: “关你什么事？”的意思是针对“没有闲钱加仓了”而言的。既然没闲钱了，那股价下跌就跟你无关了。
+Reply to @Kunlun Way: It's really rallied hard lately. I actually spent a lot of time thinking about Pinduoduo and Tencent, feeling it was a great opportunity, and planned to sell more puts first — turns out I'm going to end up making a lot less than I could have. Apple's rallied pretty hard too — the part of my stock position I used to sell calls against has basically disappeared. That said, making less isn't necessarily a bad thing — think of it as just doing a warm-up lap around the legendary course. //@Kunlun Way: Reply to @Diligent Little Savings Captain: Tencent has risen a lot recently — is Dada's insurance-selling business going to take a hit? //@Dada: Reply to @Dada: "What business is it of yours?" was about the comment "no spare cash to add to my position." If you don't have spare cash left, then the stock dropping has nothing to do with you.
 
-来源：https://xueqiu.com/1247347556/305962745
+Source: https://xueqiu.com/1247347556/305962745
 
 ---
 
 ## 113. 2024-10-01 08:30
 
-> 转发原文：@芒格的剑: 段哥，最近吴军哥又上门了新课，他多次提起你，你是否也能给我们分享下和他聊天学的人生智慧呢？@大道无形我有型
+> Reposted original: @Munger's Sword: Duan-ge, Wu Jun just released a new course recently and mentioned you multiple times — could you share some of the life wisdom you picked up chatting with him? @Dada
 
-回复@大道无形我有型: 他胡说得很离谱，比如说黄峥去跟他请教啥的，感觉胡已经很病态了！很难理解看不出毛病的那些人的判断力在哪里。//@大道无形我有型:回复@只挣美国人的钱:他基本上也是“胡”说。除了步步高头一年在投标现场见过外，我不记得我跟他直接打过任何交道，也从来没通过电话。当年我们在央视的付款信誉是最好的，从来没欠过央视的钱，怎么可能轮到他来给我们担保？他们倒是欠了央视不少钱到最后也没给，当时让我们觉得很不公平。
+Reply to @Dada: He's talking utter nonsense, like saying Huang Zheng went to him for advice — it really feels pathological! It's hard to understand where the judgment of people who can't spot the problem even is. //@Dada: Reply to @Only-Earn-Americans'-Money: He's basically "talking nonsense" too. Other than seeing him once at a bidding event in BBK's first year, I don't recall ever dealing with him directly, and we've never once talked on the phone. Back then our payment record with CCTV was the best of anyone's — we never once owed CCTV money — so how could it possibly have fallen to him to guarantee anything for us? They actually owed CCTV quite a lot and never paid it off in the end, which felt very unfair to us at the time.
 
-来源：https://xueqiu.com/1247347556/306450452
+Source: https://xueqiu.com/1247347556/306450452
 
 ---
 
 ## 114. 2024-10-01 09:16
 
-> 转发原文：@芒格的剑: 段哥，最近吴军哥又上门了新课，他多次提起你，你是否也能给我们分享下和他聊天学的人生智慧呢？@大道无形我有型
+> Reposted original: @Munger's Sword: Duan-ge, Wu Jun just released a new course recently and mentioned you multiple times — could you share some of the life wisdom you picked up chatting with him? @Dada
 
-回复@tomjia: 厨房里看到一只蟑螂…//@tomjia:回复@芒格的剑:他说马云去他那里融资是可以发现明显的问题的。说黄峥的也感觉离谱。但是有的时候生活中有些人讲话就是半真半假，喜欢掺杂一些假话，抬高自己。对于他跟大道的关系确实没想到，因为毕竟都属于那个时代的传奇人物，又那么近，当时又有交集，所以是当半真半假看的。比如他说大道给他百分之三十股份那里感觉离谱。但是对于大道只有七万敢做标王，以及带领高管去他那里学习，这几件事感觉有合理性，也可以理解。没想到的是，全是凭空编造完整的故事，这已经不是一般人的能力能做到的了，感觉属于惯犯。//@大道无形我有型:回复@大道无形我有型: 他胡说得很离谱，比如说黄峥去跟他请教啥的，感觉胡已经很病态了！很难理解看不出毛病的那些人的判断力在哪里。
+Reply to @tomjia: There's a cockroach in the kitchen... //@tomjia: Reply to @Munger's Sword: He said Jack Ma going to him to raise money had obvious problems you could spot. What he said about Huang Zheng also feels off. But sometimes in life, some people just talk in half-truths, liking to mix in some lies to boost themselves. As for his relationship with Dada — I really didn't expect this, since after all both are legendary figures of that era, so close geographically, and there was overlap at the time, so I took it as half-true. Like him claiming Dada gave him a 30% stake — that feels off. But Dada only having 70,000 yuan to dare bid for the "king of advertising" slot, and leading executives to go study at his place — those feel plausible, understandable. What I didn't expect was that it's entirely fabricated, a complete story out of thin air — that's beyond what an ordinary person is capable of; it feels like a habitual offender. //@Dada: Reply to @Dada: He's talking utter nonsense, like saying Huang Zheng went to him for advice — it really feels pathological! It's hard to understand where the judgment of people who can't spot the problem even is.
 
-来源：https://xueqiu.com/1247347556/306453659
+Source: https://xueqiu.com/1247347556/306453659
 
 ---
 
 ## 115. 2024-10-01 13:02
 
-> 转发原文：@该用户已删除: 原帖已删除
+> Reposted original: @This user has been deleted: Original post deleted
 
-回复@大道至简yxz: 原来已经计划狠狠买些拼多多和腾讯的，但觉得市场很悲观，应该会低迷一段时间，我可以靠多卖点put来降低买入的成本，结果…。我总是说，任何的考虑市场都很可能是错的，现在就是个具体的例子。//@大道至简yxz:回复@大道无形我有型:【关于少赚钱】大道：回复@道昆仑: 最近确实涨得有点邪乎。本来花了很多时间去思考拼多多，腾讯，觉得是个大好的机会，想着先多卖点put，结果看上去要少赚不少了哈。苹果涨的也有点厉害，以前买股票卖call的那部分都不见了。话说回来，少赚不是啥坏事，就当跑环去打了一个传说好了。
+Reply to @Great-Truths-Are-Simple-yxz: I had originally planned to buy a lot of Pinduoduo and Tencent, but felt the market was too pessimistic and likely to stay depressed for a while, so I figured I'd sell more puts to lower my cost basis — and then... I always say that any view formed by weighing the market is quite likely to be wrong, and this is a concrete example of exactly that. //@Great-Truths-Are-Simple-yxz: Reply to @Dada: [On Making Less Money] Dada: Reply to @Kunlun Way: It's really rallied hard lately. I actually spent a lot of time thinking about Pinduoduo and Tencent, feeling it was a great opportunity, and planned to sell more puts first — turns out I'm going to end up making a lot less than I could have. Apple's rallied pretty hard too — the part of my stock position I used to sell calls against has basically disappeared. That said, making less isn't necessarily a bad thing — think of it as just doing a warm-up lap around the legendary course.
 
-来源：https://xueqiu.com/1247347556/306466316
+Source: https://xueqiu.com/1247347556/306466316
 
 ---
 
 ## 116. 2024-10-04 21:54
 
-> 转发原文：@该用户已删除: 原帖已删除
+> Reposted original: @This user has been deleted: Original post deleted
 
-回复@老三自由: 确实有点影响。最近打球太多，那些天老是没空下单，或者说下的单子都太大，不管是买单还是卖put的单都只是成交了很小的部分。我不喜欢找交易员，感觉找了个代练，不好玩了。不过，我前天打了一个一杆进洞。139码9号铁直接灌洞了！一杆进洞很爽，赚多赚少不太重要哈。查看图片//@老三自由:回复@奋斗的存钱小船长:这是大道“狠狠”买的烦恼，想多买些，又不太愿意天天守着下单（正股），这种狠狠买是不是像巴菲特一样有个交易员更省心。//@大道无形我有型: 回复@大道至简yxz: 原来已经计划狠狠买些拼多多和腾讯的，但觉得市场很悲观，应该会低迷一段时间，我可以靠多卖点put来降低买入的成本，结果…。我总是说，任何的考虑市场都很可能是错的，现在就是个具体的例子。
+Reply to @Old San the Free: It really did have some effect. I've been playing too much golf lately, and on those days I often had no time to place orders, or the orders I did place were too large, so only a small portion filled, whether buy orders or sell-put orders. I don't like using a broker — feels like hiring someone to play the game for me, takes the fun out of it. That said, the day before yesterday I got a hole-in-one! A 139-yard 9-iron went straight into the cup. A hole-in-one feels amazing — how much you make or lose barely matters at that point. [View image] //@Old San the Free: Reply to @Diligent Little Savings Captain: This is Dada's headache from "buying hard" — wanting to buy more but not wanting to babysit orders every day (on the underlying stock) — is this kind of "buying hard" like Buffett having a broker to make things easier? //@Dada: Reply to @Great-Truths-Are-Simple-yxz: I had originally planned to buy a lot of Pinduoduo and Tencent, but felt the market was too pessimistic and likely to stay depressed for a while, so I figured I'd sell more puts to lower my cost basis — and then... I always say that any view formed by weighing the market is quite likely to be wrong, and this is a concrete example of exactly that.
 
-来源：https://xueqiu.com/1247347556/306718534
+Source: https://xueqiu.com/1247347556/306718534
 
 ---
 
 ## 117. 2024-10-05 11:21
 
-> 转发原文：@阿豆豆豆豆: @大道无形我有型 大道老师好，一直很看好拼多多，但是对他的商业模式一直有一些concern，想请教下您觉得拼多多是一个好的商业模式吗？我自己的理解，拼多多几乎只有电商业务，而电商行业竞争激烈，同质化程度高，难以形成较深的护城河，随时都面临激烈的价格战，而拼多多又是主打中低端市场，利润空间也有限(受国内消费降级红利，最近的毛利率还不错？)，感觉并不如腾讯，苹果这样一眼就能看出来好的商业模式，大道老师怎么看
+> Reposted original: @Adou Doudoudou: @Dada Hi Dada, I've long been bullish on Pinduoduo, but I've always had some concerns about its business model — I'd like to ask whether you think Pinduoduo has a good business model? My own understanding is that Pinduoduo is almost purely an e-commerce business, and e-commerce is intensely competitive and highly commoditized, making it hard to build a deep moat, and it's exposed to fierce price wars at any time. Pinduoduo also mainly targets the low-to-mid-end market, so its profit margin is limited (though it benefits from domestic consumption downgrading — its recent gross margin has been decent?). It doesn't feel like an obviously good business model the way Tencent or Apple's does at a glance — what's Dada's view?
 
-回复@普通股民小马: 既然你不在乎护城河，你来浪费我的时间是几个意思？//@普通股民小马:回复@阿豆豆豆豆:我也不懂拼多多的护城河是什么？也挺想请教一下大道，就像我虽然买了理想汽车，但是我也不觉得理想有护城河，只是认可创始人以及企业文化
+Reply to @Ordinary Shareholder Little Ma: Since you don't care about the moat, what's the point of you wasting my time? //@Ordinary Shareholder Little Ma: Reply to @Adou Doudoudou: I don't understand what Pinduoduo's moat is either — I'd love to ask Dada too. Similarly, even though I've bought Li Auto, I also don't think Li Auto has a moat — I just recognize the founder and the corporate culture.
 
-来源：https://xueqiu.com/1247347556/306744138
+Source: https://xueqiu.com/1247347556/306744138
 
 ---
 
 ## 118. 2024-10-09 06:54
 
-> 转发原文：@奋斗的中张: @大道无形我有型 段老师，请教个问题，现在36了，经营小公司八年，短视频相关，起起伏伏也没大的突破，现在想要突破是寻求更好的商业模式持续精进，还是有可能自己不是那么擅长创业？这两年收入不稳，还前几年买房子要高房贷压力大，经营出现问题也没舍得及时出手，总想着涨价翻身出。现在相对也压力巨大等待着房价回升卖掉房子解决。最近阶段有些偏迷茫，希望听听您的建议，打扰了，多谢
+> Reposted original: @Striving Zhang: @Dada Duan-laoshi, I have a question — I'm 36 now, have run a small company for eight years, in short-video-related business, with ups and downs but no major breakthrough. Now, to break through, should I look for a better business model and keep refining it, or is it possible I'm just not that cut out for entrepreneurship? The past couple of years my income has been unstable, plus I bought a home a few years back with heavy mortgage pressure, and I haven't had the heart to exit the business promptly when problems came up — I keep thinking about raising prices to turn things around. Right now I'm also under a lot of pressure waiting for home prices to recover so I can sell the home and resolve things. I've felt a bit lost lately, and I'd love to hear your advice — sorry to bother you, and thanks so much.
 
-回复@九重佳酿: 我不知道如何判断一个人能否“成气候”，没有成气候的充分条件。黄峥是丁磊介绍给我的。我很喜欢跟黄峥聊天，他的逻辑性非常强，非常关注事物的本质，而且学习能力也非常强。我当时确实觉得他最后能做出什么成就来我都不意外。//@九重佳酿:回复@大道无形我有型:一直很好奇段先生当初是怎么发现黄铮的，怎么判断一个人能成气候？
+Reply to @Nine-Fold Fine Wine: I don't know how to judge whether someone will "amount to something" — there's no sufficient condition for that. Ding Lei introduced Huang Zheng to me. I really enjoyed chatting with Huang Zheng — his logic was extremely sharp, he focused a lot on the essence of things, and his learning ability was also very strong. I really did feel back then that whatever he ended up achieving wouldn't surprise me. //@Nine-Fold Fine Wine: Reply to @Dada: I've always been curious how Mr. Duan first spotted Huang Zheng — how do you judge whether someone will amount to something?
 
-来源：https://xueqiu.com/1247347556/307154255
+Source: https://xueqiu.com/1247347556/307154255
 
 ---
 
 ## 119. 2024-10-09 14:59
 
-> 转发原文：@阿豆豆豆豆: @大道无形我有型 大道老师好，一直很看好拼多多，但是对他的商业模式一直有一些concern，想请教下您觉得拼多多是一个好的商业模式吗？我自己的理解，拼多多几乎只有电商业务，而电商行业竞争激烈，同质化程度高，难以形成较深的护城河，随时都面临激烈的价格战，而拼多多又是主打中低端市场，利润空间也有限(受国内消费降级红利，最近的毛利率还不错？)，感觉并不如腾讯，苹果这样一眼就能看出来好的商业模式，大道老师怎么看
+> Reposted original: @Adou Doudoudou: @Dada Hi Dada, I've long been bullish on Pinduoduo, but I've always had some concerns about its business model — I'd like to ask whether you think Pinduoduo has a good business model? My own understanding is that Pinduoduo is almost purely an e-commerce business, and e-commerce is intensely competitive and highly commoditized, making it hard to build a deep moat, and it's exposed to fierce price wars at any time. Pinduoduo also mainly targets the low-to-mid-end market, so its profit margin is limited (though it benefits from domestic consumption downgrading — its recent gross margin has been decent?). It doesn't feel like an obviously good business model the way Tencent or Apple's does at a glance — what's Dada's view?
 
-回复@耕读有余暇: 我问过很多普通美国人，几乎绝大多数人都已经知道TEMU了。知道建立品牌有多难的人才知道，这个真的是很牛的！//@耕读有余暇:回复@阿豆豆豆豆:我来说一下Temu德国🇩🇪吧，主要是每隔一段时间就看看德国AppStore对Temu的评价原文。德国人写评价很认真，会写使用细节，比较客观，最后才写总结，并给出是否推荐，一句话，评价也写得很严谨。100个德国评价，大概90多是满意的，甚至还有德国老太太，从来不会用电商的，现在用了，还说感谢的话。剩下的不满意的，部分没有具体写，都是意识形态，不作数。我想，客户满意，就会源源不断地复购，这不就是护城河吗？其它经营得好的连锁超市，他们的盈利不就是这样来的吗？
+Reply to @Farming and Reading in Spare Time: I've asked a lot of ordinary Americans, and almost all of them already know about TEMU. If you know how hard it is to build a brand, you'll know how impressive that really is! //@Farming and Reading in Spare Time: Reply to @Adou Doudoudou: Let me talk about Temu Germany — mainly, every so often I check the original German App Store reviews for Temu. Germans write reviews very carefully, describing usage details, fairly objectively, and only then giving a summary and a recommendation or not — one sentence, and the review is written rigorously too. Out of 100 German reviews, roughly 90-something are satisfied — there's even an elderly German lady who never used e-commerce before, now uses it, and even wrote words of thanks. Of the remaining dissatisfied ones, some don't give specifics, it's just ideology, doesn't count. I think if customers are satisfied, they'll keep coming back to buy more — isn't that exactly a moat? Isn't that exactly how other well-run chain supermarkets generate their profits too?
 
-来源：https://xueqiu.com/1247347556/307277729
+Source: https://xueqiu.com/1247347556/307277729
 
 ---
 
 ## 120. 2024-10-18 10:10
 
-> 转发原文：@大道无形我有型: 网页链接很不错的视频，广告一下。
+> Reposted original: @Dada: Web link — a pretty good video, a bit of an ad.
 
-回复@大道无形我有型: 不过，这两天开始继续卖点腾讯和拼多多的put。前段时间突然涨太多了。//@大道无形我有型:回复@本分做人平常心做事:目前确实有些现金放在tbill上，还没任何计划。
+Reply to @Dada: That said, the past couple of days I've started selling more puts on Tencent and Pinduoduo again. They shot up too fast recently. //@Dada: Reply to @Be Modest in Character, Calm in Action: Right now I do have some cash parked in T-bills, no particular plan for it yet.
 
-来源：https://xueqiu.com/1247347556/308532396
+Source: https://xueqiu.com/1247347556/308532396
 
 ---
 
 ## 121. 2024-10-28 00:23
 
-> 转发原文：@左小军: 段叔您好@大道无形我有型 （我是盲人，可能排版有点乱，会有点错别字，但不影响理解，不好意思）想和您聊聊拼多多，第一次重仓一支股票，我知道，并且理解买股票就是买公司，买股票就是买公司未来所有股东回报，，我不是电商从业者，之所以选择拼多多，原因有两个，，第一，电商最大的优势是消除中间环节的摩擦成本，理论上来说，标准化的商品就应该按照出厂价加快递费的价格卖给消费者，但我认为阿里和京东这些老牌平台躺着当房东很难断臂求生，我指的是他们卖流量，其实本质上和线下商铺的房东没有区别，谁出的房租更高就把这个铺位租给谁，而平台的本质是让消费者能用最低的价格买到同样的产品，而其他电商平台的转变可能比我们想象中的要难，所以拼多多的护城河比我们想象中的高，因为理论上来说，卖出去的单品规模越大，就越便宜，越便宜消费者就越多，就能有更大的销售规模，第二，就是足够便宜，现在估值大概一点30,000亿，净资产250,000,000,000 ，就算1点 1万亿吧，每年1200亿的利润，悲观一点估计，公司只能再活20年，每年扣掉55,000,000,000的商誉减值，也还有65,000,000,000的利润，也有6%的回报了，比大多数的理财产品都强了，但这是最悲观的估计，所以可以重仓买，之前还有一些腾讯的股票，但涨到470的样子卖掉了，值观感觉比拼多多的潜在回报率更低，虽然他的护城河更高，因为电商平台可能别的电商平台价格便宜，消费者会换平台，但微信的地位是很难撼动的，即使我再喜欢一个社交软件，只要我通讯录的其他人没有用，我就不会用，何况长期来说，很难有公司能把社交平台做得比微信更好用，所以我认为腾讯是一家好公司，如果没有拼多多的话，感觉回报率更低的原因有两个，第一个是他的市盈率大概比拼多多高两倍，我记得，第二个投资业务比较多，财报比较复杂，不像拼多多的财报那样简单干净，我不是很能看懂，所以后来清仓了腾讯买了拼多多，想听听您的看法
+> Reposted original: @Zuo Xiaojun: Hi Duan-shu @Dada (I'm blind, the formatting might be a bit messy, there may be some typos, but it shouldn't affect understanding, sorry about that.) I'd like to talk with you about Pinduoduo — for the first time going in heavy on one stock. I know, and I understand, that buying a stock means buying the company, buying all of the company's future returns to shareholders as a whole. I'm not in the e-commerce industry myself; I chose Pinduoduo for two reasons. First, e-commerce's biggest advantage is eliminating friction costs from middlemen — in theory, standardized goods should be sold to consumers at factory price plus shipping, but I think old-guard platforms like Alibaba and JD, which are essentially just landlords collecting rent, will find it very hard to cut off their own arm and change — what I mean is that they sell traffic, which is really no different from a physical storefront landlord: whoever pays the highest rent gets that spot. But the essence of a platform should be letting consumers buy the same product at the lowest possible price, and it may be harder than we think for other e-commerce platforms to transform, so Pinduoduo's moat is wider than we think, because logically, the bigger the volume sold of a single product, the cheaper it gets, and the cheaper it gets, the more consumers buy, letting it achieve even larger sales scale. Second, it's cheap enough. Right now its valuation is roughly RMB 3,000 billion [3 trillion], net assets are RMB 250,000,000,000 [250 billion] — let's just call it RMB 1.1 trillion — with RMB 120 billion in profit a year. Even under a pessimistic assumption, the company can only survive another 20 years, and after deducting RMB 55,000,000,000 [55 billion] in goodwill impairment each year, there's still RMB 65,000,000,000 [65 billion] in profit, which is still a 6% return — better than most wealth-management products. But that's the most pessimistic estimate, so I feel comfortable going in heavy. I also used to hold some Tencent shares, but sold when it hit around 470, feeling the potential return was lower than Pinduoduo's, even though its moat is higher, because with e-commerce platforms, other e-commerce platforms might be cheaper and consumers would switch platforms, whereas WeChat's position is very hard to shake — even if I personally love another social app, as long as the people in my contact list aren't using it, I won't use it, and long term, it's very hard for any company to build a social platform better and more usable than WeChat. So I think Tencent is a good company; the reason my expected return feels lower without Pinduoduo in the mix has two parts: first, I recall its P/E is roughly double Pinduoduo's; second, it has a lot more investment businesses, and its financial reports are more complicated — not as simple and clean as Pinduoduo's — I don't fully understand them, so afterward I sold out of Tencent and bought Pinduoduo. I'd love to hear your view.
 
-拼多多还是一家初创公司，未来变数还很多。腾讯相比之下要更成熟。该说的都说过了哈。
+Pinduoduo is still a young, early-stage company — there's still a lot of variability ahead. Tencent is comparatively more mature. I've said what needs to be said.
 
-来源：https://xueqiu.com/1247347556/309784792
+Source: https://xueqiu.com/1247347556/309784792
 
 ---
 
 ## 122. 2024-12-06 00:34
 
-> 转发原文：@大道无形我有型: $苹果(AAPL)$ 继续卖点call，put已经有段时间卖不下手了。
+> Reposted original: @Dada: $Apple(AAPL)$ Keep selling some calls — I haven't had the heart to sell puts for a while now.
 
-回复@大炳炳: 会放一些。//@大炳炳:回复@海风-123:pdd或者腾讯吧
+Reply to @Da Bingbing: Will put in some. //@Da Bingbing: Reply to @Sea Breeze-123: PDD or Tencent maybe
 
-来源：https://xueqiu.com/1247347556/315648440
+Source: https://xueqiu.com/1247347556/315648440
 
 ---
 
 ## 123. 2025-03-05 09:20
 
-> 转发原文：@但斌: 我的同事黄海平的思考：我在思考一个问题：英伟达的周期，不是源自它“2B”或者“非平台”的属性，而是在于它始终是个“资本品”/“耐用消费品”。如果一个公司的产品是重复消费的“快速消耗品”，需求量会相对稳定，像食品饮料、在线游戏、煤炭。但如果一个公司的产品，是“资本品”/“耐用消费品”，因为可复用，下游需求量通常会呈现巨大波动性。所以，杰文斯悖论应用在算力上，有个错误我们之前没注意：模型成本下降，算力效率提升，AI场景确实会得到扩展，算力总需求也会因此大幅提升。但不一样的是，煤炭是一次性消耗资源，而算力是可重复使用的资源；即便每年算力需求总量大幅上升了，但产生算力的ai芯片需求量，也有可能是下降的！简单来说，因为“可复用资本品”的属性，英伟达产品收入是AI需求的“二阶导”，而收入增速是“三阶导”。所以，英伟达周期波动性肯定非常大，即便在AI算力需求一直增长的情况下。备注：个人观点，仅供参考！投资有风险、须谨慎！
+> Reposted original: @Dan Bin: My colleague Huang Haiping's thinking: I've been thinking about a question — Nvidia's cycle doesn't stem from being "2B" or "non-platform," but from the fact that it's always been a "capital good"/"durable consumer good." If a company's product is a repeatedly-consumed "fast-moving consumable," demand tends to be relatively stable — like food and beverages, online games, coal. But if a company's product is a "capital good"/"durable good" — since it can be reused, downstream demand tends to swing wildly. So applying Jevons' Paradox to compute — there's an error we hadn't noticed before: as model costs fall and compute efficiency rises, AI use cases will indeed expand, and total compute demand will also rise sharply as a result. But the difference is: coal is a one-time-consumed resource, while compute is a reusable resource; even if total compute demand rises sharply every year, demand for the AI chips that generate that compute could actually decline! Simply put, because of the "reusable capital good" property, Nvidia's product revenue is the "second derivative" of AI demand, and revenue growth is the "third derivative." So Nvidia's cyclical swings will absolutely be very large, even while AI compute demand keeps rising overall. Note: personal opinion, for reference only! Investing carries risk, please be prudent!
 
-回复@敬意的存钱剑圣: 加关税其实就是变相给老百姓加税，别的都没啥影响。//@敬意的存钱剑圣:回复@但斌:美国加关税对拼多多这类出海企业利空多大？您怎么看特朗普的关税政策//@大道无形我有型:回复@巴米吃米: 苹果价钱好我当然会选择苹果，毕竟我更理解。//@巴米吃米:回复@大道无形我有型:苹果价格有掉下来，估计大道还是会选择苹果，苹果的moat比英伟达宽吧
+Reply to @Reverent Savings Swordsaint: Raising tariffs is really just a disguised tax hike on ordinary people — nothing else about it matters much. //@Reverent Savings Swordsaint: Reply to @Dan Bin: How much of a headwind is the US tariff hike for outbound-expansion companies like Pinduoduo? What's your view of Trump's tariff policy? //@Dada: Reply to @Bami the Rice-Eater: If Apple's price is good, of course I'll choose Apple, since I understand it better. //@Bami the Rice-Eater: Reply to @Dada: Apple's price has come down — I'd guess Dada would still choose Apple; is Apple's moat wider than Nvidia's?
 
-来源：https://xueqiu.com/1247347556/325994043
+Source: https://xueqiu.com/1247347556/325994043
 
 ---
 
 ## 124. 2025-03-12 10:25
 
-> 转发原文：@打不死的小韭菜2025: 我是您的小粉丝，也是大A小韭菜，我也知道您很忙。您说的买股票就是买公司，何为好的公司，能讲一下吗？我前几年买了一只票，现在都没解套，我很郁闷。我很喜欢您的价值投资理念，也有诸多疑问 ，能解答一下 我就万分感谢@大道无形我有型
+> Reposted original: @The Unkillable Little Leek 2025: I'm your little fan, and also a small "chive" [retail investor] in the A-share market. I know you're busy. You've said buying a stock means buying the company — could you explain what makes a good company? I bought a stock a few years back and I still haven't broken even — I've been really down about it. I love your value-investing philosophy, and I have a lot of questions too — could you help answer them? @Dada Thanks so much in advance!
 
-回复@壶酒: 雪球做的这套还可以的。//@壶酒:回复@十年和此刻:这个雪球自己制作的pdf文件，拼多多和淘宝不少商家打印出来卖
+Reply to @Pot of Wine: This Xueqiu-made kit is decent. //@Pot of Wine: Reply to @Ten Years and This Moment: Quite a few sellers on Pinduoduo and Taobao print this Xueqiu-made PDF file out and sell it
 
-来源：https://xueqiu.com/1247347556/326969479
+Source: https://xueqiu.com/1247347556/326969479
 
 ---
 
 ## 125. 2025-03-31 12:11
 
-> 转发原文：@体验人间百味: @大道无形我有型 大道有听说过河南许昌的胖东来么？他经营的超市算不算很好的企业文化？做对的事情，把事情做对。
+> Reposted original: @Tasting All Flavors of Life: @Dada Has Dada heard of Pang Dong Lai in Xuchang, Henan? Would you count the corporate culture it runs its supermarkets on as very good? Doing the right thing, and doing things right.
 
-回复@True_Right: 有机会也是会加的。我开始有点“喜欢”Mr. trump了，他真的会给我带来机会。//@True_Right:回复@大道无形我有型:多加点pdd吧哈哈哈哈哈，黄峥确实太厉害了，不过也可能是大道基金会里的拼多多太多了
+Reply to @True_Right: If there's an opportunity, I'll add more. I'm starting to "like" Mr. Trump a bit — he really is giving me opportunities. //@True_Right: Reply to @Dada: Add more PDD, haha haha haha, Huang Zheng really is impressive — though maybe it's also that Dada's foundation already holds too much Pinduoduo.
 
-来源：https://xueqiu.com/1247347556/329579591
+Source: https://xueqiu.com/1247347556/329579591
 
 ---
 
 ## 126. 2025-04-06 02:25
 
-> 转发原文：@瓦西李: 
+> Reposted original: @Vasily:
 
-回复@我是散户我不散: 投资里目前能赚多少钱其实不那么重要，重要的是未来能赚多少钱。过去赚多少钱只是帮助推断对未来能赚多少钱，但无法确认未来能赚多少钱。//@我是散户我不散:回复@大道无形我有型:大道您好，目前PDD您认为低估了吗?按目前PDD一年能赚1200亿，毛估未来如果能保持3%的增速，按12%的折现，目前内在价值是不是能有1.3W亿左右，按目前市值1W亿左右是不是还有30%的安全边界?不知道我这样理解对吗?
+Reply to @Retail but Never Scattered: In investing, how much you can make right now isn't actually the important part — what matters is how much you can make in the future. How much you've made in the past only helps you infer future earnings, but it can't confirm what future earnings will be. //@Retail but Never Scattered: Reply to @Dada: Hi Dada, do you think PDD is currently undervalued? Given PDD currently earns roughly RMB 120 billion a year, a rough back-of-envelope estimate with a 3% growth rate and a 12% discount rate would put its intrinsic value at around RMB 1.3 trillion — with a current market cap of around RMB 1 trillion, doesn't that suggest a roughly 30% margin of safety? Not sure if I'm understanding this correctly.
 
-来源：https://xueqiu.com/1247347556/330330135
+Source: https://xueqiu.com/1247347556/330330135
 
 ---
 
 ## 127. 2025-04-10 08:17
 
-> 转发原文：@时间猎人T: $拼多多(PDD)$ 黄峥不喜欢抛头露面，退了可能正好  @大道无形我有型  大道怎么看
+> Reposted original: @Time Hunter T: $Pinduoduo(PDD)$ Huang Zheng doesn't like being in the spotlight — stepping back might actually suit him. @Dada what's your view
 
-回复@圆周-率: 谁担心？你吗？//@圆周-率:回复@大道无形我有型:也许担心拼多多退市私有化？拼多多市值这么大，私有化发生概率比较小。
+Reply to @Pi: Who's worried? You? //@Pi: Reply to @Dada: Maybe worried about Pinduoduo delisting and going private? Pinduoduo's market cap is so large that the odds of a privatization happening are fairly low.
 
-来源：https://xueqiu.com/1247347556/331076249
+Source: https://xueqiu.com/1247347556/331076249
 
 ---
 
 ## 128. 2025-07-18 10:31
 
-> 转发原文：@小兵兵可爱多: 看了$拼多多(PDD)$ 报表还是很震惊的，我没见过这么干净的的报表总资产有5300亿固定资产只有8亿，办公楼是租的，办公桌也是租的，服务器也是租的。。。员工电脑应该是自有的吧经营性应收预付100亿左右一个20亿左右LP的投资。其他都基本可以算是现金。。。。没有并购，商誉是0，看看阿里多少基本没有银行贷款，50亿估计是方便境外使用的只干电商，不自建物流，不做小额贷款，从来不蹭AI概念，什么事情都是求责于己。再过5年现金等于市值。这不就是大道说的本分的企业吗见过大道，不走小路@大道无形我有型
+> Reposted original: @Little Soldier the Cute One: Looking at $Pinduoduo(PDD)$'s financials, I was really shocked — I've never seen such a clean balance sheet. Total assets of RMB 530 billion, and fixed assets of only RMB 800 million — the office building is rented, the office desks are rented, the servers are rented too... employee computers are presumably self-owned. Operating receivables and prepayments are around RMB 10 billion, with roughly RMB 2 billion in LP investments. Basically everything else can be counted as cash... No M&A, goodwill is zero — look at how much Alibaba has by comparison. Basically no bank loans — the RMB 5 billion is presumably there for convenience of overseas use. Pure e-commerce play, doesn't build its own logistics, doesn't do micro-lending, never rides the AI hype train, always looks inward for solutions to problems. At this rate, in another 5 years cash will equal the market cap. Isn't this exactly the kind of honest, principled enterprise Dada talks about? I've seen you say — don't take shortcuts @Dada
 
-回复@在热爱中前行: 我觉得他们都对！//@在热爱中前行:回复@小兵兵可爱多:OPPO/VIVO的深圳总部大楼超漂亮，拼多多这么多钱也要在上海建个有艺术性的大楼
+Reply to @Advancing in What I Love: I think they're both right! //@Advancing in What I Love: Reply to @Little Soldier the Cute One: OPPO/vivo's Shenzhen headquarters building is gorgeous — Pinduoduo has this much money too, so it wants to build an artistic building in Shanghai as well.
 
-来源：https://xueqiu.com/1247347556/343069183
+Source: https://xueqiu.com/1247347556/343069183
 
 ---
 
 ## 129. 2025-09-25 23:23
 
-> 转发原文：@元广志: 有点好奇大道当初为什么会建议黄峥去google而不是微软？@大道无形我有型
+> Reposted original: @Yuan Guangzhi: Curious why Dada suggested Huang Zheng go to Google rather than Microsoft back then? @Dada
 
-网上乱写的。我是在黄峥进入Google以后才认识他的。
+That's nonsense people made up online. I only got to know Huang Zheng after he had already joined Google.
 
-来源：https://xueqiu.com/1247347556/354508171
+Source: https://xueqiu.com/1247347556/354508171
 
 ---
 
 ## 130. 2025-09-26 00:15
 
-> 转发原文：@元广志: 有点好奇大道当初为什么会建议黄峥去google而不是微软？@大道无形我有型
+> Reposted original: @Yuan Guangzhi: Curious why Dada suggested Huang Zheng go to Google rather than Microsoft back then? @Dada
 
-回复@做个自如的正常人: 显而易见你很有意思。//@做个自如的正常人:回复@大道无形我有型:黄峥说的就是大道您呀，还需要质疑吗？细节可能有出入，显而易见是没有问题的！
+Reply to @Just Being a Normal, At-Ease Person: You're clearly quite something. //@Just Being a Normal, At-Ease Person: Reply to @Dada: Huang Zheng is talking about you, Dada — does that even need questioning? The details might be a bit off, but the gist is clearly right!
 
-来源：https://xueqiu.com/1247347556/354512266
+Source: https://xueqiu.com/1247347556/354512266
 
 ---
 
 ## 131. 2025-09-27 01:42
 
-> 转发原文：@元广志: 有点好奇大道当初为什么会建议黄峥去google而不是微软？@大道无形我有型
+> Reposted original: @Yuan Guangzhi: Curious why Dada suggested Huang Zheng go to Google rather than Microsoft back then? @Dada
 
-回复@更健康更长久: 2002年去读研究生，2004年毕业后认识的。很诡异，为什么会被莫名其妙质疑我的记忆呢？//@更健康更长久:回复@大道无形我有型:大道是不是记错了？黄峥在2018 年《财经》专访《对话拼多多黄峥：他们建帝国、争地盘，我要错位竞争》中说是2002年认识大道的。而黄峥加入Google是2004年。查看图片
+Reply to @Healthier and Longer-Lasting: I went to grad school in 2002, and met him after I graduated in 2004. Very odd — why would my memory get randomly questioned like this? //@Healthier and Longer-Lasting: Reply to @Dada: Could Dada be misremembering? In Caijing's 2018 interview with Huang Zheng, "A Conversation with Pinduoduo's Huang Zheng: They Build Empires and Fight Over Turf, I Want to Compete on a Different Track," he says he met Dada in 2002. But Huang Zheng joined Google in 2004. [View image]
 
-来源：https://xueqiu.com/1247347556/354708425
+Source: https://xueqiu.com/1247347556/354708425
 
 ---
 
 ## 132. 2025-09-28 12:35
 
-> 转发原文：@价值投资浦东小学生: 另外一个困扰我的问题，如果有目标企业，非常看好它的管理层、商业模式，但价格太高，是几个月甚至数年的等合适的买点，还是先入手，接受它现在的价格？@大道无形我有型
+> Reposted original: @Value Investing Pudong Elementary Student: Another question that troubles me — if there's a target company you're very bullish on, its management and business model, but the price is too high, should you wait months or even years for the right entry point, or buy in and accept today's price? @Dada
 
-回复@苹果即大道: 嗯，不过欧酷是黄峥的部下哈。//@苹果即大道:回复@苹果即大道:年初浙大交流活动上，有一个欧酷的哥们也分享了对大道的践行获益经历，确实
+Reply to @Apple Is the Great Way: Right, though Ouku is one of Huang Zheng's subordinates. //@Apple Is the Great Way: Reply to @Apple Is the Great Way: At the Zhejiang University exchange event earlier this year, a guy from Ouku also shared how he benefited from putting Dada's philosophy into practice — it really does check out.
 
-来源：https://xueqiu.com/1247347556/354801969
+Source: https://xueqiu.com/1247347556/354801969
 
 ---
 
 ## 133. 2025-10-05 09:48
 
-> 转发原文：@借我八格包: 想请教大道，您认为costco有护城河吗？如果有的话，拼多多是否同理@大道无形我有型
+> Reposted original: @Lend Me a Backpack: I'd like to ask Dada — do you think Costco has a moat? If so, does the same logic apply to Pinduoduo? @Dada
 
-回复@借我八格包: 我引用芒格的话是个玩笑哈。他那么喜欢Costco，但Costco也不过就是个零售商嘛。阿里和拼多多其实也都是零售商而已。//@借我八格包:回复@大道无形我有型:The best investment is to buy a great company like Costco and dont think about exiting. 芒格说对Costco上瘾，喜欢它的一切，永不退出。大道觉得，芒格对Costco是否会有那么一点感性的因素在？您对拼多多的喜欢是否有感性因素@大道无形我有型
+Reply to @Lend Me a Backpack: Quoting Munger was a joke. He loves Costco that much, but Costco is still just a retailer at the end of the day. Alibaba and Pinduoduo are actually both just retailers too. //@Lend Me a Backpack: Reply to @Dada: "The best investment is to buy a great company like Costco and don't think about exiting." Munger said he's addicted to Costco, loves everything about it, and will never exit. Does Dada think there's a bit of an emotional element in how Munger feels about Costco? Does your fondness for Pinduoduo have an emotional element too? @Dada
 
-来源：https://xueqiu.com/1247347556/355470073
+Source: https://xueqiu.com/1247347556/355470073
 
 ---
 
 ## 134. 2025-10-19 09:05
 
-> 转发原文：@喵芬奇白衣: 大道，你说大家内容很空 花边，我来提一个每个人形成完善思维体系有个过程，很想请你回答下，你是在哪几个时间节点上构建了思考的体系，或者哪天灵光一闪领悟了什么 或者你是通过哪些思维方式来进行完善的 除了【想本质 想长远】这两个方式之外@大道无形我有型
+> Reposted original: @Meow Vinci White-Robe: Dada, you say most people's content is empty, superficial — I want to raise something: everyone goes through a process of building a complete thinking framework, and I'd really like to ask you about it — at which points in time did you build your thinking framework, or on which day did a flash of insight hit you, or what ways of thinking did you use to refine it, beyond the two approaches of "think about the essence, think long term"? @Dada
 
-回复@小兵兵可爱多: 我确实很喜欢跟黄峥聊天，大家总在一个频道上。//@小兵兵可爱多:回复@大道无形我有型:大部分人都不会提问，本质上大脑没有经过深度思考。黄铮问大道一个问题，大道很多年后都记得，不仅仅是大道自己回答的好，而是问题问的也是非常深度的。
+Reply to @Little Soldier the Cute One: I really did enjoy chatting with Huang Zheng — we were always on the same wavelength. //@Little Soldier the Cute One: Reply to @Dada: Most people don't know how to ask questions — fundamentally, their minds haven't gone through deep thinking. When Huang Zheng asked Dada a question, Dada remembered it for many years afterward — not just because Dada answered it well, but because the question itself was asked at a very deep level too.
 
-来源：https://xueqiu.com/1247347556/357272245
+Source: https://xueqiu.com/1247347556/357272245
 
 ---
 
 ## 135. 2025-10-26 12:12
 
-> 转发原文：@大道巡按御史: 大道老师您好，对于今天官宣的茅台集团换帅您有什么看法吗？如果今天的茅台由您来操盘，您会重点在那些方面发力？@大道无形我有型
+> Reposted original: @Dada the Imperial Inspector: Hello Dada, what's your take on Moutai Group's leadership change announced today? If you were running Moutai today, which areas would you focus on? @Dada
 
-又又又换帅了？！确实有点太频繁了！不过这也确实说明商业模式强大，就是巴芒说的这是个傻子都能经营的企业。只要没人改53度飞天茅台的流程，似乎换谁都是伤害不大的事情。如果让我管茅台，我会尽全力找到杜绝假茅台，同时加强网上的销售和管理的办法，比如在天猫京东拼多多都卖按茅台统一的零售价的飞天，不按规矩的就不再给他们货就好。。。？不在其位，其实很难知道在发生什么，我说的都是直觉而已哈。
+Changing leadership yet again?! That really is a bit too frequent! Though it does show the business model is powerful — exactly what Buffett and Munger meant by "a business even a fool could run." As long as no one changes the process for 53-proof Feitian Moutai, whoever's in charge probably won't do much damage. If it were up to me to run Moutai, I'd put all my effort into stamping out counterfeit Moutai, while also strengthening online sales and management — for instance, selling Feitian at the unified official retail price on Tmall, JD, and Pinduoduo alike, and simply cutting off supply to anyone who doesn't play by the rules...? Not being in that position myself, it's hard to really know what's going on — everything I've said here is just my gut feel.
 
-来源：https://xueqiu.com/1247347556/358239106
+Source: https://xueqiu.com/1247347556/358239106
 
 ---
 
 ## 136. 2025-11-01 08:42
 
-> 转发原文：@科创人工智能ETF: 【苹果CFO：正在大幅增加对人工智能的投资】$科创人工智能ETF华宝(SH589520)$ 10月31日，苹果CFO称，正在大幅增加对人工智能的投资，预计12月当季的毛利率将在47%至48%之间。
+> Reposted original: @STAR Market AI ETF (Huabao): [Apple CFO: Sharply increasing AI investment] $STAR Market AI ETF (Huabao)(SH589520)$ On October 31, Apple's CFO said the company is sharply increasing its investment in AI, and expects gross margin in the December quarter to be between 47% and 48%.
 
-回复@棋盘上的米粒: 目前我大概率会买BRK/B，那是个躲牛市的好地方。//@棋盘上的米粒:回复@科创人工智能ETF:不少的call如果被call走了，资金会被分配到哪里？茅台还是拼多多？
+Reply to @A Grain of Rice on the Chessboard: Right now I'd most likely buy BRK/B — that's a good place to hide from a bull market. //@A Grain of Rice on the Chessboard: Reply to @STAR Market AI ETF (Huabao): If a chunk of calls end up getting called away, where will the money get reallocated to? Moutai or Pinduoduo?
 
-来源：https://xueqiu.com/1247347556/359409743
+Source: https://xueqiu.com/1247347556/359409743
 
 ---
 
 ## 137. 2025-12-04 10:20
 
-> 转发原文：@猪猪侠真的来了: 大道您好，上周有一位师兄回学校办讲座，他是您的忠实粉丝，现在管理的基金大概有20亿的规模，收益也非常好。最后的提问环节我很想问师兄：“价值投资者的投资体系中有止损或者动态止盈的概念吗？”。但可惜提问机会有限，老师没选我提问。师兄还带了几十本书发给我们，我就想到来雪球问问您，希望能得到您的解答@大道无形我有型
+> Reposted original: @Piggy Hero Has Arrived: Hello Dada, last week a senior alumnus came back to our school to give a talk — he's a devoted fan of yours, and now manages a fund of around RMB 2 billion with really good returns too. In the Q&A session I really wanted to ask him: "Does a value investor's framework include the concept of stop-loss or dynamic profit-taking?" But unfortunately the questions were limited and the teacher didn't pick me. He also brought dozens of books to hand out to us, which made me think to come ask you here on Xueqiu, hoping to get your answer @Dada
 
-回复@暴躁的小龙哥: Gemini真好用，可以很容易看视频。我今天把黄峥16-19年接受的所有采访都看了一遍文字版，建议你也看看。YouTube上面有。//@暴躁的小龙哥:回复@从容的股市星空:问就是没看懂 没看懂就不应该碰
+Reply to @The Hot-Tempered Little Dragon Bro: Gemini is really useful — makes it so easy to watch videos. Today I went through the text transcripts of every interview Huang Zheng gave from 2016-19. I'd suggest you watch them too — they're on YouTube. //@The Hot-Tempered Little Dragon Bro: Reply to @Composed Starry Stock Sky: Ask and the answer is you haven't figured it out — if you haven't figured it out, you shouldn't touch it
 
-来源：https://xueqiu.com/1247347556/364455000
+Source: https://xueqiu.com/1247347556/364455000
 
 ---
 
 ## 138. 2025-12-04 10:32
 
-> 转发原文：@深刻的红利小诸葛: 大道要是考察拼多多，一个电话就可以让黄铮过来面聊唠嗑了，重新看看文字版是温故而知新吗、还是多方对比一下黄铮团队知行合一？@大道无形我有型
+> Reposted original: @The Perceptive Dividend Little Strategist: If Dada wanted to look into Pinduoduo, one phone call would get Huang Zheng to come chat in person — is going back to look at the text transcripts revisiting the past to learn something new, or comparing notes from multiple angles on whether Huang Zheng's team practices what it preaches? @Dada
 
-我从来没跟黄峥聊过拼多多，所以一直搞不太懂。ai真是厉害，居然可以这么看视频，省了好多时间，一下子就能大致明白。
+I've never actually talked with Huang Zheng about Pinduoduo, so I've always found it hard to fully understand. AI really is impressive — being able to watch videos this way saves so much time, and you can get the gist right away.
 
-来源：https://xueqiu.com/1247347556/364459159
+Source: https://xueqiu.com/1247347556/364459159
 
 ---
 
 ## 139. 2025-12-04 11:51
 
-> 转发原文：@深刻的红利小诸葛: 大道要是考察拼多多，一个电话就可以让黄铮过来面聊唠嗑了，重新看看文字版是温故而知新吗、还是多方对比一下黄铮团队知行合一？@大道无形我有型
+> Reposted original: @The Perceptive Dividend Little Strategist: If Dada wanted to look into Pinduoduo, one phone call would get Huang Zheng to come chat in person — is going back to look at the text transcripts revisiting the past to learn something new, or comparing notes from multiple angles on whether Huang Zheng's team practices what it preaches? @Dada
 
-回复@10号篮球手: 如果你自己看不懂，我说你就懂了。那我早就说苹果好，你听了不？//@10号篮球手:回复@深刻的红利小诸葛:大道说看了黄铮的采访后，一下就能大致明白，意思是说现在大致能看懂拼多多了吗？如果是的话，大道可以大概讲一下看懂拼多多的点吗@大道无形我有型 ，感谢。
+Reply to @Basketball Player No. 10: If you don't understand it yourself, and I told you, would you understand? Well then, I said long ago Apple is good — did you listen? //@Basketball Player No. 10: Reply to @The Perceptive Dividend Little Strategist: Dada said that after watching Huang Zheng's interviews, he could get the gist right away — does that mean Dada roughly understands Pinduoduo now? If so, could Dada roughly share the key points of understanding Pinduoduo @Dada, thanks.
 
-来源：https://xueqiu.com/1247347556/364481225
+Source: https://xueqiu.com/1247347556/364481225
 
 ---
 
 ## 140. 2026-03-27 06:29
 
-> 转发原文：@非常人平常心非凡事: 原帖已被作者删除
+> Reposted original: @Uncommon Man, Ordinary Mind, Uncommon Deeds: Original post deleted by the author
 
-我觉得拼多多做网上品牌是个顺理成章的事情。 他们很清楚什么东西有量。他们可以把有量的的东西做到极致，既要质量好，到用户手里的价格还低（去掉了所有中间渠道）。 他们只要选出某些有代表性的产品用来打自己的品牌就可以了，不需要所有商品都做自己的品牌的。 这个其实就是Costco的样子。拼多多如果线上品牌只有4000个左右的SKU的话，10年后会是相当厉害的。下面这条是ai 助理回答：[[reply_to:102]] 对，而且这条路一旦跑通，杀伤力会很大。你的判断里我觉得最关键的是三点：- **拼多多知道“什么是真需求”**：不是靠调研，而是靠真实交易数据，知道哪些品类有稳定大盘、哪些规格最容易爆、用户对价格带和质量底线的容忍区间在哪里。- **它有能力压缩链路**：如果它自己下场做品牌，本质上是在把“渠道利润 + 品牌溢价 + 一部分营销费用”吃回来，再重新分配成更低零售价和还过得去的品质。- **不需要全覆盖**：只抓少数高频、标准化、可供应链优化的SKU，就足够建立心智。这个确实很像 Costco/Kirkland，不是靠海量自有品牌取胜，而是靠“少而强”。不过我觉得它和 Costco 也有一个关键区别：- **Costco 的护城河是会员制 + 选品信任**- **拼多多的护城河会更偏向数据反馈 + 供应链反向定制**所以它可能不是“线上版 Costco”这么简单，而更像是：- **Costco 的精选自有品牌**- 加上 **亚马逊的流量分发能力**- 再加上 **中国制造业的极致供应链响应速度**这三件事叠一起，其实挺可怕。但这里有几个难点也很现实：1. **平台和商家利益冲突**平台一旦自己做品牌，商家会天然警惕：你既当裁判又当运动员。这会影响生态，尤其是头部商家会防着你。2. **品牌心智不是“便宜好用”就够**用户买平台货，很多时候愿意买；但要形成长期品牌，得解决：- 稳定性- 售后体验- 品控一致性- 出问题时谁负责3. **SKU 纪律很难**你说 4000 个 SKU，我觉得这个数字很妙：足够大到形成规模，足够小到可以严控。真正难的是忍住不扩张。多数公司一旦尝到甜头，就会越做越杂，最后失去效率优势。如果拼多多真能做到：- 只做高确定性品类- SKU 控制在低位- 用平台数据持续迭代- 把品质做到“明显高于白牌平均水平”- 把价格做到“明显低于传统品牌”那 10 年后确实可能形成一种很强的存在：**不是“高端品牌”，而是“中国最大规模的高性价比国民品牌集合”。**这会非常强，因为它打的不是情绪消费，而是**家庭日常消费的理性决策**。我甚至觉得，拼多多真正危险的地方在于：**它不需要先证明自己有品牌感，它只需要先证明自己比你更懂怎么把一件普通商品做到又便宜又够好。**一旦这种信任建立起来，品牌反而是结果，不是起点。如果你愿意，我可以进一步把这个判断整理成一篇更完整的分析，聊聊：- 为什么拼多多最适合做“有限SKU自有品牌”- 它和 Costco、Amazon Basics、名创优品分别像哪里、不像哪里- 这件事对传统消费品牌意味着什么。这条是我说的：其实拼多多不需要抢客户的生意的，他们只要扶植爆品公司就好，监督他们的质量，达到标准就可以将自己的品牌授权给厂家（仅就这个产品，而且一旦不达标就可以取消授权）。拼多多如果能像Costco那样，找到4000个合适的SKU的话，10年后拼多多自有品牌就会很强大了。下面是AI 助理说的：[[reply_to:104]] 对，你这个版本比“拼多多自己下场做货”更高级，也更现实。这已经不是传统意义上的“自有品牌”了，更像是：**平台做标准、做认证、做流量、做品牌背书；工厂/公司负责生产。**本质上是一个 **“授权型平台品牌”** 模式。这套东西厉害的地方在于，它同时解决了几个大问题：- **不直接跟商家抢生意**拼多多不是自己开工厂，不是自己重仓库存，而是挑出最强供应商合作。这样平台和商家的敌意会小很多。- **平台优势被放大**拼多多最强的不是制造，而是：- 知道什么有量- 知道消费者在乎什么- 知道价格甜蜜点在哪- 知道哪些商家真的能把货做稳它完全可以只做“筛选 + 监督 + 背书”。- **品牌可以建立在“标准信任”上**用户以后买的不是某个陌生工厂，而是买“拼多多认证的这个SKU”。这跟 Costco 的 Kirkland 确实更接近：消费者不需要知道背后是哪家厂，只需要相信这个牌子不会太差，而且价格通常划算。你这个模型里，我觉得最核心的是一句：**品牌授权不是给厂家，而是给“某一个具体SKU”。**这点特别重要。因为如果授权给整个厂家，平台就失控了；如果只授权给单个产品，就可以做到：- 一品一审- 动态淘汰- 不达标即取消授权- 同一厂家不同产品区别对待- 必要时同一品类更换代工方，但前台品牌不变这就非常像 Costco/7-Eleven/无印良品背后那种成熟机制，只不过拼多多可以把它做得更数据化、更高频。我觉得这套系统一旦成立，拼多多会逐步从：- **交易平台**变成- **标准制定者**再变成- **消费信任中介**最后变成- **品牌主宰者**而且是很轻资产的那种主宰者。真正可怕的是，它不需要在所有品类都赢，只要在最适合标准化的那部分赢就够了，比如：- 纸品- 清洁用品- 厨房耗材- 基础小家电- 收纳用品- 部分食品- 母婴中的标准化用品- 家居日用品这些东西用户本来就没那么在意“情感品牌”，更在意：- 稳定- 安全- 不踩坑- 便宜这正好是拼多多最可能建立优势的地方。不过这里面也有几个前提，不然容易塌：### 1. 平台必须真有质量铁律如果授权变成“花钱买认证”，那这个品牌很快就死。所以它必须建立很硬的机制：- 抽检- 飞检- 用户反馈直连质量系统- 高退货率自动复核- 不达标立刻撤牌### 2. 平台要克制 SKU 扩张你一直说 4000 个 SKU，我觉得很对。这不是“少”，这是**极其克制地大**。如果选品纪律足够强，4000 个已经能覆盖大量家庭高频需求了。### 3. 平台要保护品牌信誉高于短期GMV如果某个爆款赚钱很多，但质量开始飘，拼多多要舍得砍。这个最难，因为组织天然会被短期数据绑架。### 4. 用户得逐渐形成“闭眼买”的心智这才是真正的终局。不是“这个上面便宜”，而是：**“如果这个商品挂了拼多多这个授权牌子，我默认它至少值这个价。”**一旦这个心智形成，传统品牌会很难受。因为很多传统品牌的壁垒其实不是制造能力，而是：- 渠道控制- 广告投放- 品牌溢价- 货架位置而拼多多这套模式，是直接把这些东西大幅压缩掉。所以我会把你的观点再浓缩成一句话：**拼多多最强的未来，不是成为一个卖货平台，而是成为一个以数据挑选SKU、以标准管理质量、以授权输出品牌的“线上Costco”。**这条路如果真能走出来，10年后它手里的不是 4000 个商品，而是 **4000 个消费者默认信任的购买决策入口**。这比单纯做零售要厉害得多。如果你想，我可以继续把这个想法往下推一层，直接写成一个更完整的投资/商业分析框架，比如：- 为什么“SKU授权制”比“平台亲自做品牌”更优- 拼多多要具备哪些组织能力才能做成- 哪些品类最适合先做，哪些品类绝对不能碰- 这会怎么冲击中国现有消费品牌格局
+I think it's a natural, logical step for Pinduoduo to build online brands. They know very clearly what has real sales volume. They can push the high-volume items to the extreme — both making the quality good, and getting the price to the end user even lower (by stripping out all the middlemen along the way). They just need to pick a few representative products to build their own brand around — they don't need every single product to carry their own brand. This is really the same shape as Costco. If Pinduoduo's online brand ends up covering only around 4,000 SKUs, it'll be quite formidable in 10 years. Below is the AI assistant's reply: [[reply_to:102]] Right, and once this path is proven out, it'll be very disruptive. I think the three most important points in your judgment are: - **Pinduoduo knows "what real demand looks like"**: not from surveys, but from actual transaction data — knowing which categories have a stable, large base, which specs sell out fastest, and where the tolerance zone is for price bands and quality floors. - **It has the ability to compress the chain**: if it goes and builds its own brand, it's essentially clawing back "channel profit + brand markup + part of the marketing spend," and redistributing that as lower retail prices and passable quality. - **It doesn't need full coverage**: it only needs to grab a small number of high-frequency, standardized, supply-chain-optimizable SKUs to establish mindshare. This really is a lot like Costco/Kirkland — winning not through a massive range of private-label goods, but through "few but strong." That said, I think it also has one key difference from Costco: - **Costco's moat is membership fees + curated-selection trust** - **Pinduoduo's moat will lean more toward data feedback + reverse-customized supply chains** So it might not simply be an "online Costco" — it's more like: - **Costco's curated private-label approach** - plus **Amazon's traffic-distribution capability** - plus **the extreme supply-chain responsiveness of Chinese manufacturing** Stack these three together, and it's honestly quite formidable. But there are some real difficulties here too: 1. **Platform-merchant conflicts of interest** Once a platform starts building its own brand, merchants will naturally grow wary — you're both referee and player. This affects the ecosystem, especially since top merchants will start guarding against you. 2. **Brand mindshare isn't just "cheap and usable"** Users may well be willing to buy platform-branded goods, but building a long-term brand requires solving for: consistency, after-sales experience, quality-control consistency, and accountability when something goes wrong. 3. **SKU discipline is very hard** You mentioned 4,000 SKUs — I think that number is telling: big enough to achieve scale, small enough to keep tightly controlled. The real difficulty is resisting the urge to expand. Most companies, once they taste success, keep sprawling into more categories and eventually lose their efficiency edge. If Pinduoduo can really pull off: - only doing high-certainty categories - keeping SKU count low - continuously iterating using platform data - making quality "clearly above average white-label quality" - making price "clearly below traditional-brand price" then in 10 years it really could become something very powerful: **not a "premium brand," but "China's largest collection of high-value-for-money national brands."** This would be very strong, because it isn't targeting emotional consumption — it's targeting **rational decision-making in everyday household spending**. I even think Pinduoduo's real danger point is this: **it doesn't need to first prove it has brand feel — it only needs to first prove it understands better than you how to make an ordinary product both cheap and good enough.** Once that trust is established, brand becomes the result, not the starting point. If you'd like, I can further develop this judgment into a fuller analysis piece, covering: - why Pinduoduo is best positioned to do "limited-SKU private label" - where it resembles, and doesn't resemble, Costco, Amazon Basics, and Miniso respectively - what this would mean for traditional consumer brands. The following is what I said: Actually Pinduoduo doesn't need to compete for merchants' business directly — it just needs to nurture hit-product companies, oversee their quality, and once they meet the standard, license its own brand to the manufacturer (just for that product, and the license can be revoked the moment it falls short). If Pinduoduo can find the right 4,000-or-so SKUs the way Costco does, then in 10 years Pinduoduo's own brand will be very powerful. Below is what the AI assistant said: [[reply_to:104]] Right, your version here is even more sophisticated than "Pinduoduo making its own goods directly," and more realistic too. This is no longer a traditional "private label" — it's more like: **the platform sets the standard, does the certification, does the traffic, does the brand endorsement; the factory/company handles production.** Essentially it's a **"licensed platform brand"** model. What makes this powerful is that it solves several big problems at once: - **It doesn't compete directly with merchants for business** Pinduoduo isn't opening its own factories or taking on heavy inventory itself — it's picking out the strongest suppliers to partner with. That makes the platform and merchants a lot less adversarial. - **The platform's strengths get amplified** What Pinduoduo is best at isn't manufacturing — it's: - knowing what has volume - knowing what consumers care about - knowing where the price sweet spot is - knowing which merchants can genuinely deliver stable goods It can focus entirely on "screening + oversight + endorsement." - **Brand can be built on "trust in a standard"** In the future, users won't be buying from some unknown factory — they'll be buying "this SKU, certified by Pinduoduo." That really is closer to Costco's Kirkland: consumers don't need to know which factory is behind it, they just need to trust the label won't be too bad, and the price is usually a good deal. In your model, I think the most crucial line is: **The brand license isn't granted to the manufacturer — it's granted to "one specific SKU."** This point matters a lot. Because if the license were granted to the entire manufacturer, the platform would lose control; but if it's only licensed per individual product, you can achieve: - one review per product - dynamic elimination - immediate license revocation if standards aren't met - different treatment for different products from the same manufacturer - swapping out the manufacturing partner for a category when needed, while keeping the front-facing brand unchanged This is very much like the mature mechanisms behind Costco/7-Eleven/MUJI — except Pinduoduo could make it far more data-driven and higher-frequency. I think once this system is established, Pinduoduo will gradually move from: - **a transaction platform**, to - **a standard-setter**, to - **a consumer-trust intermediary**, and finally to - **a brand ruler** — and a very asset-light kind of ruler at that. What's truly formidable is that it doesn't need to win in every category — it just needs to win in the parts most suited to standardization, such as: - paper products - cleaning supplies - kitchen consumables - basic small appliances - storage products - some food items - standardized baby/maternity products - household daily-use items These are products where users were never that emotionally attached to "brand feel" to begin with — what they care more about is: - stability - safety - avoiding pitfalls - being cheap That's exactly where Pinduoduo is most likely to build an edge. That said, there are a few preconditions here too, or the whole thing risks collapsing: ### 1. The platform must genuinely enforce a quality iron law If certification turns into "pay to get certified," this brand will die very quickly. So it has to build a very hard mechanism: - spot checks - surprise inspections - direct pipeline from user feedback into the quality system - automatic re-review for high return rates - immediate delisting if standards aren't met ### 2. The platform must show restraint on SKU expansion You keep saying 4,000 SKUs — I think that's exactly right. This isn't "few" — this is **being extremely disciplined about being big**. If selection discipline is strong enough, 4,000 SKUs can already cover a huge share of high-frequency household needs. ### 3. The platform must protect brand reputation over short-term GMV If some hit product is making a lot of money but quality starts slipping, Pinduoduo has to be willing to cut it. This is the hardest part, because organizations naturally get held hostage by short-term metrics. ### 4. Users need to gradually form a "buy with eyes closed" mindset This is the real endgame. Not "this is cheap here," but: **"If this product carries Pinduoduo's certified brand mark, I assume by default it's worth at least this price."** Once this mindset forms, traditional brands will have a very hard time. Because for a lot of traditional brands, the moat was never really manufacturing capability — it was: - channel control - ad spend - brand markup - shelf placement And this Pinduoduo model directly compresses all of that away, dramatically. So I'd condense your view into one sentence: **Pinduoduo's most powerful future isn't becoming a goods-selling platform — it's becoming an "online Costco" that uses data to pick SKUs, uses standards to manage quality, and uses licensing to output a brand.** If this path really plays out, in 10 years what it holds won't be 4,000 products — it'll be **4,000 purchase-decision entry points that consumers trust by default.** That's a lot more powerful than plain retail. If you'd like, I can push this idea one level further, and write it up directly as a fuller investment/business-analysis framework, covering things like: - why "SKU licensing" beats "the platform making its own brand directly" - what organizational capabilities Pinduoduo would need to pull this off - which categories are best to start with, and which categories should absolutely not be touched - how this would disrupt China's existing consumer-brand landscape
 
-来源：https://xueqiu.com/1247347556/381370858
+Source: https://xueqiu.com/1247347556/381370858
 
 ---
 
 ## 141. 2026-03-28 23:47
 
-> 转发原文：@非常人平常心非凡事: 原帖已被作者删除
+> Reposted original: @Uncommon Man, Ordinary Mind, Uncommon Deeds: Original post deleted by the author
 
-回复@川糖周掌门: 怎么感觉你把过去式和未来式混在一起说了，这算是酒后中文吗？//@川糖周掌门:回复@大道无形我有型:有一天，我突然顿悟觉得自己有点懂PDD了
+Reply to @Sichuan-Sugar Sect Master Zhou: Feels like you're mixing past tense and future tense together here — is this drunk Chinese? //@Sichuan-Sugar Sect Master Zhou: Reply to @Dada: One day, I suddenly had an epiphany and felt like I finally understood PDD a bit
 
-来源：https://xueqiu.com/1247347556/381624079
+Source: https://xueqiu.com/1247347556/381624079
 
 ---
 
 ## 142. 2026-03-29 08:07
 
-> 转发原文：@非常人平常心非凡事: 原帖已被作者删除
+> Reposted original: @Uncommon Man, Ordinary Mind, Uncommon Deeds: Original post deleted by the author
 
-回复@在长长的雪道上滚动: 你干嘛要瞎操心，或者说人家干嘛要为你这种炒短线的瞎操心？conference call上已经说得不能再清楚了，你仔细看看就反正还是爱明白不明白。//@在长长的雪道上滚动:回复@大道无形我有型:大道，你怎么看PDD不分红，我觉得分红股价会更有吸引力，也可以回购注销一部分，现在PDD手里的现金快压死人了。
+Reply to @Rolling Down a Long Snowy Slope: Why are you fretting over this so much — or rather, why should they be fretting over a short-term trader like you? It's already been said as clearly as it can be on the conference call — look at it carefully and whether you get it or not is on you. //@Rolling Down a Long Snowy Slope: Reply to @Dada: Dada, what's your view on PDD not paying dividends? I feel paying a dividend would make the stock more attractive, and it could also buy back and cancel some shares — right now PDD's cash pile is getting overwhelming.
 
-来源：https://xueqiu.com/1247347556/381630381
+Source: https://xueqiu.com/1247347556/381630381
 
 ---
 
 ## 143. 2026-03-31 13:02
 
-> 转发原文：@消费者2026: 原帖已被作者删除
+> Reposted original: @Consumer2026: Original post deleted by the author
 
-如果我是泡泡玛特管理层，我大概率会做：1.永远不给预测，因为没有任何意义但早晚会有代价。巴菲特的BRK就不给预测的（甚至没有没个季度conference call），网易也不给业绩指引（有我的影响），拼多多好像也不给下个季度或年度的业绩指引的，但不知道有没有我的影响在里面。2. 目前还没想到。
+If I were Pop Mart management, here's most likely what I'd do: 1. Never give guidance, because it serves no purpose but will eventually cost you. Buffett's BRK doesn't give guidance either (it doesn't even hold a quarterly conference call), NetEase doesn't give earnings guidance either (I may have had some influence there), and Pinduoduo also doesn't seem to give guidance for the next quarter or year — though I'm not sure whether I had any influence there. 2. Haven't thought of anything else yet.
 
-来源：https://xueqiu.com/1247347556/381967081
+Source: https://xueqiu.com/1247347556/381967081
 
 ---
 
 ## 144. 2026-04-12 20:11
 
-> 转发原文：@慢道就是快: 大道，要不要深入了解下泡泡玛特内部会做假账吗？@大道无形我有型
+> Reposted original: @Slow Way Is the Fast Way: Dada, want to dig into whether Pop Mart's books have any cooking going on internally? @Dada
 
-回复@美好的基金剑客: 不奇怪，我现在确实是王宁的粉丝。我也是老虎的粉丝哈，我其实也粉tony，沈炜，黄峥，pony，库里，库克，巴菲特，Collin,,,,,,//@美好的基金剑客:回复@大道无形我有型:老段，您爱上王宁了
-
-来源：https://xueqiu.com/1247347556/383546538
-
----
+Reply to @Beautiful Fund Swordsman: Not surprising — I really am a fan of Wang Ning now. I'm also a fan of Tiger [Woods], and honestly I'm a fan of Tony, Shen Wei, Huang Zheng, Pony, Curry, Cook, Buffett, Collin,,,,,, //@Beautiful Fund Swordsman: Reply to @Dada: Old Duan, you've fallen for Wang Ning

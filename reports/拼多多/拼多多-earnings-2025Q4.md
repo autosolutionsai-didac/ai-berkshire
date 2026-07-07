@@ -1,236 +1,236 @@
-# 拼多多/PDD Holdings (PDD) 2025Q4 财报精读
+# PDD Holdings (PDD) 2025Q4 Earnings Deep Read
 
-> 分析日期：2026-04-09 | 财报期间：2025年第四季度及全年 | 发布日期：2026-03-25
+> Analysis date: 2026-04-09 | Reporting period: Q4 2025 and full year | Release date: 2026-03-25
 
 ---
 
-## 一、资料可得性评估
+## I. Data availability assessment
 
-| 来源 | 可得性 | 说明 |
+| Source | Availability | Notes |
 |------|--------|------|
-| 公司IR新闻稿 | A级 | investor.pddholdings.com 完整披露Q4及全年数据 |
-| SEC Filing (6-K) | A级 | stocktitan.net 提供完整财务报表 |
-| StockAnalysis / Yahoo Finance | A级 | 季度/年度数据完整 |
-| 财报电话会记录 | A级 | Benzinga/Investing.com 提供完整Transcript |
-| MacroTrends 历史数据 | A级 | 多年季度趋势数据完整 |
+| Company IR press release | Grade A | investor.pddholdings.com discloses full Q4 and full-year data |
+| SEC Filing (6-K) | Grade A | stocktitan.net provides complete financial statements |
+| StockAnalysis / Yahoo Finance | Grade A | Complete quarterly/annual data |
+| Earnings call transcript | Grade A | Benzinga/Investing.com provide complete transcripts |
+| MacroTrends historical data | Grade A | Complete multi-year quarterly trend data |
 
-**综合评级：A级** — 一手资料充足，多源交叉验证条件良好。
+**Overall rating: Grade A** — ample primary-source material, good conditions for multi-source cross-validation.
 
 ---
 
-## 二、核心财务数据
+## II. Core financial data
 
-### 2.1 收入与利润表
+### 2.1 Income statement
 
-#### Q4 2025 季度数据
+#### Q4 2025 quarterly data
 
-| 指标 | Q4 2025 (百万RMB) | Q4 2024 (百万RMB) | YoY |
+| Metric | Q4 2025 (RMB million) | Q4 2024 (RMB million) | YoY |
 |------|-------------------|-------------------|-----|
-| **总收入** | 123,912.2 | 110,610.1 | +12% |
-| 在线营销服务收入 | 57,011.1 | ~48,700（估计） | +17% |
-| 交易服务收入 | 53,599.0 | 40,205.4 | +33% |
-| **收入成本** | 55,155.6 | 47,798.4 | +15% |
-| **毛利润** | 68,756.6（估计） | 62,811.7（估计） | +9% |
-| **毛利率** | ~55.5% | ~56.8% | -1.3ppt |
-| 销售及市场费用 | 34,352.3 | 31,356.9 | +10% |
-| 研发费用 | 4,994.9 | 3,777.2 | +32% |
-| 管理费用 | 1,689.7 | 2,085.4 | -19% |
-| **经营利润 (GAAP)** | 27,719.7 | 25,592.2 | +8% |
-| **经营利润率** | ~22.4% | ~23.1% | -0.7ppt |
-| **经营利润 (Non-GAAP)** | 29,474.1 | 27,996.5 | +5% |
-| **净利润** | 24,541.0 | ~27,600（估计） | -11% |
-| **摊薄EPS (GAAP)** | RMB 16.51 | RMB 18.53 | -11% |
-| **摊薄EPS (Non-GAAP)** | RMB 17.69 | RMB 20.15 | -12% |
+| **Total revenue** | 123,912.2 | 110,610.1 | +12% |
+| Online marketing services revenue | 57,011.1 | ~48,700 (estimate) | +17% |
+| Transaction services revenue | 53,599.0 | 40,205.4 | +33% |
+| **Cost of revenue** | 55,155.6 | 47,798.4 | +15% |
+| **Gross profit** | 68,756.6 (estimate) | 62,811.7 (estimate) | +9% |
+| **Gross margin** | ~55.5% | ~56.8% | -1.3ppt |
+| Sales and marketing expenses | 34,352.3 | 31,356.9 | +10% |
+| R&D expenses | 4,994.9 | 3,777.2 | +32% |
+| G&A expenses | 1,689.7 | 2,085.4 | -19% |
+| **Operating profit (GAAP)** | 27,719.7 | 25,592.2 | +8% |
+| **Operating margin** | ~22.4% | ~23.1% | -0.7ppt |
+| **Operating profit (Non-GAAP)** | 29,474.1 | 27,996.5 | +5% |
+| **Net profit** | 24,541.0 | ~27,600 (estimate) | -11% |
+| **Diluted EPS (GAAP)** | RMB 16.51 | RMB 18.53 | -11% |
+| **Diluted EPS (Non-GAAP)** | RMB 17.69 | RMB 20.15 | -12% |
 
-> 注：交易服务收入中Q4 2024数据引用的是与Q4 2023对比的33%增长数据，实际Q4 2024绝对值约为RMB 53,599/1.33 ≈ RMB 40,300百万。在线营销服务Q4 2024数据根据总收入减交易服务收入推算。
+> Note: the Q4 2024 figure cited for transaction services revenue is derived from the 33% YoY growth figure versus Q4 2023; the actual Q4 2024 absolute value is approximately RMB 53,599 / 1.33 ≈ RMB 40,300 million. The Q4 2024 online marketing services figure is derived by subtracting transaction services revenue from total revenue.
 
-#### FY2025 全年数据
+#### FY2025 full-year data
 
-| 指标 | FY2025 (百万RMB) | FY2024 (百万RMB) | YoY |
+| Metric | FY2025 (RMB million) | FY2024 (RMB million) | YoY |
 |------|------------------|------------------|-----|
-| **总收入** | 431,845.7 | 393,836.1 | +10% |
-| 在线营销服务收入 | 217,783.0 | 197,934.2 | +10% |
-| 交易服务收入 | 214,062.7（估计） | 195,901.9（估计） | +9% |
-| **收入成本** | 188,800（估计） | ~153,500（估计） | +23% |
-| **经营利润** | 94,624.1 | 108,422.9 | **-13%** |
-| **净利润** | 99,364.5 | 112,434.5 | **-12%** |
+| **Total revenue** | 431,845.7 | 393,836.1 | +10% |
+| Online marketing services revenue | 217,783.0 | 197,934.2 | +10% |
+| Transaction services revenue | 214,062.7 (estimate) | 195,901.9 (estimate) | +9% |
+| **Cost of revenue** | 188,800 (estimate) | ~153,500 (estimate) | +23% |
+| **Operating profit** | 94,624.1 | 108,422.9 | **-13%** |
+| **Net profit** | 99,364.5 | 112,434.5 | **-12%** |
 
-**关键发现：**
-- 收入增速从FY2024的+55%骤降至FY2025的+10%，增长显著放缓
-- 成本增速(+23%)远超收入增速(+10%)，利润率被严重压缩
-- 净利润连续四个季度同比下滑（Q1 -47%，Q2/Q3有所改善，Q4 -11%）
-- 交易服务收入增速高于在线营销服务，反映Temu及物流业务扩张
+**Key findings:**
+- Revenue growth plunged from +55% in FY2024 to +10% in FY2025 — a dramatic slowdown
+- Cost growth (+23%) far outpaced revenue growth (+10%), severely compressing margins
+- Net profit declined year-over-year for four consecutive quarters (Q1 -47%, some improvement in Q2/Q3, Q4 -11%)
+- Transaction services revenue grew faster than online marketing services, reflecting Temu and logistics business expansion
 
-> 段永平会说："利润下滑不可怕，可怕的是看不到护城河在加宽。PDD的百亿补贴供应链是在筑墙还是在烧钱？这需要3年后回头看。"
+> Duan Yongping would say: "A profit decline isn't scary in itself — what's scary is not being able to see the moat widening. Is PDD's hundred-billion subsidy supply chain building a wall or just burning cash? We'll need to look back in three years to know."
 
-### 2.2 现金流表
+### 2.2 Cash flow statement
 
-| 指标 | FY2025 | FY2024（估计） | 说明 |
+| Metric | FY2025 | FY2024 (estimate) | Notes |
 |------|--------|---------------|------|
-| **经营性现金流** | RMB 106,938.7百万 | ~RMB 120,000百万 | 同比下降 |
-| **Q4经营性现金流** | ~RMB 24,100百万 | — | 季度数据 |
-| **资本支出** | 极低（历史约$132.5M/年） | ~$132.5M | 轻资产模式 |
-| **自由现金流** | ~RMB 106,000百万（估计） | ~RMB 119,000百万 | 近似经营现金流 |
-| **回购金额** | 0 | 0 | 无回购计划 |
-| **期末现金+短投** | RMB 422,300百万 | ~RMB 340,000百万 | +24% |
+| **Operating cash flow** | RMB 106,938.7 million | ~RMB 120,000 million | Down year-over-year |
+| **Q4 operating cash flow** | ~RMB 24,100 million | — | Quarterly figure |
+| **Capital expenditure** | Extremely low (historically ~$132.5M/year) | ~$132.5M | Asset-light model |
+| **Free cash flow** | ~RMB 106,000 million (estimate) | ~RMB 119,000 million | Approximately equals operating cash flow |
+| **Buyback amount** | 0 | 0 | No buyback program |
+| **Period-end cash + short-term investments** | RMB 422,300 million | ~RMB 340,000 million | +24% |
 
-**关键发现：**
-- OCF/净利润比率 ≈ 106,939/99,365 ≈ **1.08x** — 现金流质量优秀，盈利含金量高
-- 几乎零资本开支，自由现金流≈经营现金流，典型平台经济模型
-- **4,223亿人民币现金储备**（约$604亿），全球科技公司中顶级水平
-- 不分红、不回购，现金全部留存——这是争议焦点
+**Key findings:**
+- OCF/net profit ratio ≈ 106,939/99,365 ≈ **1.08x** — excellent cash-flow quality, high earnings quality
+- Almost zero capex, so free cash flow ≈ operating cash flow — a classic platform-economy model
+- **RMB 422.3 billion cash reserve** (approximately $60.4 billion), top-tier among global tech companies
+- No dividend, no buybacks, all cash retained — this is the point of contention
 
-> 巴菲特标准：经营现金流/净利润 > 1.0是好生意的标志。PDD的1.08x说明利润是真金白银，不是纸面富贵。但4,200亿现金不分红不回购，资本配置效率存疑。
+> Buffett's standard: operating cash flow / net profit > 1.0 is a mark of a good business. PDD's 1.08x shows that its profit is real cash, not paper wealth. But with $420 billion in cash and no dividends or buybacks, the efficiency of its capital allocation is in question.
 
-### 2.3 资产负债表
+### 2.3 Balance sheet
 
-| 指标 | 2025年末 | 说明 |
+| Metric | End of 2025 | Notes |
 |------|---------|------|
-| **现金+短期投资** | RMB 422,300百万 | 约$604亿 |
-| **有息负债** | 0 | 零负债 |
-| **净现金** | RMB 422,300百万 | = 现金总额 |
+| **Cash + short-term investments** | RMB 422,300 million | Approximately $60.4 billion |
+| **Interest-bearing debt** | 0 | Zero debt |
+| **Net cash** | RMB 422,300 million | = total cash |
 
-**关键发现：**
-- **零有息负债 + 4,223亿净现金**，财务状况极度健康
-- 净现金约占市值（~$1,445亿）的42%——市场只为业务本身支付了约$840亿
-- 净现金同比增长约24%，持续积累
+**Key findings:**
+- **Zero interest-bearing debt + RMB 422.3 billion net cash** — extremely healthy financial condition
+- Net cash accounts for approximately 42% of market cap (~$144.5 billion) — the market is only paying about $84 billion for the business itself
+- Net cash grew approximately 24% year-over-year, continuing to accumulate
 
 ---
 
-## 三、数据验证
+## III. Data verification
 
-### 3.1 市值验算
+### 3.1 Market cap recalculation
 
-| 项目 | 数值 |
+| Item | Value |
 |------|------|
-| 股价（2026-04-08） | $100.87 |
-| 总股本（ADS） | ~14.2亿股 |
-| 计算市值 | $100.87 × 14.2亿 ≈ **$1,432亿** |
-| 报告市值 | ~$1,445亿 |
-| 偏差 | ~0.9% ✅ |
+| Share price (2026-04-08) | $100.87 |
+| Total shares outstanding (ADS) | ~1.42 billion shares |
+| Calculated market cap | $100.87 × 1.42 billion ≈ **$143.2 billion** |
+| Reported market cap | ~$144.5 billion |
+| Deviation | ~0.9% ✅ |
 
-### 3.2 估值验算
+### 3.2 Valuation recalculation
 
-| 指标 | 计算过程 | 结果 |
+| Metric | Calculation | Result |
 |------|---------|------|
-| PE (TTM, GAAP) | $100.87 / $9.59（公司公告直接给出美元EPS） | **10.52x** |
-| PE (TTM, Non-GAAP) | $100.87 / $10.36（公司公告Non-GAAP EPS） | **9.61x** |
-| P/FCF | $1,432亿 / ~$149亿FCF | ~**9.6x** |
-| 扣除净现金PE | ($1,432亿 - $597亿净现金) / ~$142亿净利润(993.6/6.99) | ~**5.9x** |
-| PS (TTM) | $1,432亿 / ~$600亿收入 | ~**2.4x** |
+| P/E (TTM, GAAP) | $100.87 / $9.59 (USD EPS as directly disclosed by the company) | **10.52x** |
+| P/E (TTM, Non-GAAP) | $100.87 / $10.36 (Non-GAAP EPS as disclosed by the company) | **9.61x** |
+| P/FCF | $143.2 billion / ~$14.9 billion FCF | ~**9.6x** |
+| P/E ex-net-cash | ($143.2 billion - $59.7 billion net cash) / ~$14.2 billion net profit (99.36/6.99) | ~**5.9x** |
+| P/S (TTM) | $143.2 billion / ~$60 billion revenue | ~**2.4x** |
 
-> 注：FY2025净利润RMB 993.6亿 ≈ $142亿（按6.99汇率），GAAP EPS $9.59/ADS为公司公告直接给出的美元值。
+> Note: FY2025 net profit of RMB 99.36 billion ≈ $14.2 billion (at an exchange rate of 6.99); the GAAP EPS of $9.59/ADS is the USD figure directly disclosed by the company.
 
-**估值极具吸引力：** 扣除净现金后仅6x PE，即使考虑增长放缓，这个价格隐含了过度悲观的预期。
+**Valuation is highly attractive:** ex-net-cash P/E is only 6x. Even accounting for slowing growth, this price implies excessively pessimistic expectations.
 
-### 3.3 交叉验证
+### 3.3 Cross-validation
 
-| 字段 | 公司公告 | StockTitan | Yahoo Finance | 一致性 |
+| Field | Company disclosure | StockTitan | Yahoo Finance | Consistency |
 |------|---------|------------|---------------|--------|
-| Q4收入 | RMB 123,912M | RMB 123,912M | RMB 123.9B | ✅ 一致 |
-| FY2025收入 | RMB 431,846M | RMB 431,846M | RMB 431.8B | ✅ 一致 |
-| FY2025净利润 | RMB 99,365M | RMB 99,365M | ~RMB 99.4B | ✅ 一致 |
+| Q4 revenue | RMB 123,912M | RMB 123,912M | RMB 123.9B | ✅ Consistent |
+| FY2025 revenue | RMB 431,846M | RMB 431,846M | RMB 431.8B | ✅ Consistent |
+| FY2025 net profit | RMB 99,365M | RMB 99,365M | ~RMB 99.4B | ✅ Consistent |
 
 ---
 
-## 四、管理层讨论精读
+## IV. Management discussion deep read
 
-### 4.1 语气信号分析
+### 4.1 Tone signal analysis
 
-| 信号 | 评估 |
+| Signal | Assessment |
 |------|------|
-| 对短期利润的态度 | **刻意淡化** — 明确表示优先长期价值而非短期财务表现 |
-| 战略重心 | **供应链转型** — 不是业务多元化，而是供应链高质量发展 |
-| 对外部环境的描述 | **承认压力** — "激进的外部政策环境如关税给商户带来巨大压力" |
-| 整体语气 | **务实偏保守** — 不画大饼，强调"根本性变革正在发生" |
+| Attitude toward short-term profit | **Deliberately downplayed** — explicitly stated that long-term value takes priority over short-term financial performance |
+| Strategic focus | **Supply chain transformation** — not business diversification, but high-quality development of the supply chain |
+| Description of the external environment | **Acknowledges pressure** — "an aggressive external policy environment, such as tariffs, has put enormous pressure on merchants" |
+| Overall tone | **Pragmatic, leaning conservative** — no grand promises, emphasis on "a fundamental transformation is underway" |
 
-### 4.2 承诺兑现追踪
+### 4.2 Tracking of commitments made
 
-| 承诺 | 时间 | 兑现情况 |
+| Commitment | Time | Fulfillment status |
 |------|------|---------|
-| 百亿补贴支持商户 | 2024年起 | ✅ 持续执行，Q1利润大幅下滑即为代价 |
-| 1000亿供应链投资（3年） | 2025年11月AGM宣布 | 🔄 刚启动，已转化为具体行动 |
-| "新拼多多"战略 | 2025年 | 🔄 推进中，自有品牌和全球供应链整合 |
+| Hundred-billion subsidy to support merchants | Since 2024 | ✅ Continuously executed; the sharp Q1 profit decline is the cost of this |
+| RMB 100 billion supply-chain investment (3 years) | Announced at the November 2025 AGM | 🔄 Just launched, already translated into concrete action |
+| "New PDD" strategy | 2025 | 🔄 In progress, integrating private-label brands and a global supply chain |
 
-### 4.3 电话会Q&A精选
+### 4.3 Selected earnings call Q&A
 
-**关于Temu与关税：**
-- 美国取消$800以下"de minimis"免税条款，直接冲击Temu低价模式
-- 应对策略：推行"半托管"模式，商户分担海外配送成本
-- 增加海外本地仓储卖家数量，降低跨境依赖
+**On Temu and tariffs:**
+- The US eliminated the "de minimis" duty-free threshold for shipments under $800, directly hitting Temu's low-price model
+- Response strategy: rolling out a "semi-managed" model in which merchants share overseas fulfillment costs
+- Increasing the number of overseas local-warehouse sellers to reduce cross-border dependence
 
-**关于盈利能力：**
-- 管理层不承诺短期利润恢复时间表
-- 强调这是"主动选择"而非被动应对
-- 1000亿投资是3年期计划，短期利润压力将持续
+**On profitability:**
+- Management would not commit to a timetable for short-term profit recovery
+- Emphasized this is an "active choice," not a passive response
+- The RMB 100 billion investment is a three-year plan; short-term profit pressure will persist
 
-> 芒格的视角："一家公司愿意牺牲短期利润来建设长期竞争力，这通常是好信号——前提是管理层真的知道自己在做什么。PDD的挑战是：你无法确认1000亿投出去之后供应链壁垒是否真的能建成。"
+> Munger's perspective: "A company willing to sacrifice short-term profit to build long-term competitiveness is usually a good sign — provided management actually knows what it's doing. PDD's challenge is that there's no way to confirm, right now, whether the RMB 100 billion invested will actually build a durable supply-chain moat."
 
 ---
 
-## 五、附注与异常信号检测
+## V. Notes and anomaly-signal detection
 
-### 5.1 需要关注的异常
+### 5.1 Anomalies worth watching
 
-| 异常信号 | 严重程度 | 说明 |
+| Anomaly signal | Severity | Notes |
 |----------|---------|------|
-| **成本增速远超收入增速** | ⚠️ 中等 | FY2025成本+23% vs 收入+10%，持续下去将侵蚀利润率 |
-| **Q1利润断崖式下跌** | ⚠️ 中等 | Q1净利润-47%，虽Q2-Q4改善，但全年仍下滑12% |
-| **零股东回报** | ⚠️ 中等 | 4,223亿现金不分红不回购，资本配置值得质疑 |
-| **Temu盈利路径不明** | ⚠️ 高 | 管理层拒绝给出海外业务盈利时间表 |
-| **关税政策不确定性** | ⚠️ 高 | de minimis取消+中美关税升级，Temu核心模式受威胁 |
-| **管理层薪酬与透明度** | ⚠️ 低 | VIE结构下，治理透明度一般 |
+| **Cost growth far outpacing revenue growth** | ⚠️ Moderate | FY2025 costs +23% vs. revenue +10%; if this continues, it will keep eating into margins |
+| **Q1 profit cliff-edge decline** | ⚠️ Moderate | Q1 net profit -47%; although Q2-Q4 improved, full-year profit was still down 12% |
+| **Zero shareholder returns** | ⚠️ Moderate | RMB 422.3 billion in cash, no dividends, no buybacks — capital allocation is questionable |
+| **Unclear path to Temu profitability** | ⚠️ High | Management declined to give a timetable for overseas-business profitability |
+| **Tariff-policy uncertainty** | ⚠️ High | Elimination of de minimis plus escalating US-China tariffs threaten Temu's core model |
+| **Management compensation and transparency** | ⚠️ Low | Under the VIE structure, governance transparency is average |
 
-### 5.2 未发现的重大造假信号
+### 5.2 No major fraud signals detected
 
-- 现金流与利润匹配（OCF/NI = 1.08x），不存在"纸面利润"问题
-- 零有息负债，无隐藏债务风险
-- 收入增速与行业数据大致吻合
+- Cash flow matches profit (OCF/NI = 1.08x); no "paper profit" issue
+- Zero interest-bearing debt, no hidden debt risk
+- Revenue growth broadly consistent with industry data
 
 ---
 
-## 六、趋势分析（季度时间序列）
+## VI. Trend analysis (quarterly time series)
 
-### 6.1 收入趋势（2024Q1 - 2025Q4）
+### 6.1 Revenue trend (2024Q1 - 2025Q4)
 
-| 季度 | 总收入(百万RMB) | YoY | 在线营销(百万) | 交易服务(百万) |
+| Quarter | Total revenue (RMB million) | YoY | Online marketing (RMB million) | Transaction services (RMB million) |
 |------|----------------|-----|---------------|---------------|
 | 2024Q1 | 86,812 | +131% | 42,456 | 44,356 |
 | 2024Q2 | 97,060 | +86% | 49,116 | 47,944 |
 | 2024Q3 | 99,354 | +44% | 49,351 | 50,003 |
-| 2024Q4 | 110,610 | +24% | ~57,000(估计) | ~53,600(估计) |
+| 2024Q4 | 110,610 | +24% | ~57,000 (estimate) | ~53,600 (estimate) |
 | **2025Q1** | **95,672** | **+10%** | **48,722** | **46,950** |
 | **2025Q2** | **103,985** | **+7%** | **55,703** | **48,282** |
 | **2025Q3** | **108,277** | **+9%** | **53,348** | **54,929** |
-| **2025Q4** | **123,912** | **+12%** | **57,011** | **~66,900(估计)** |
+| **2025Q4** | **123,912** | **+12%** | **57,011** | **~66,900 (estimate)** |
 
-**趋势解读：**
-- 收入增速从2024年的三位数骤降至2025年的个位数~低双位数
-- Q4收入环比大幅增长（+14%），受益于双11/黑五旺季
-- 交易服务收入在Q4大幅跳升，可能反映Temu旺季表现
+**Trend interpretation:**
+- Revenue growth plunged from triple digits in 2024 to single digits/low double digits in 2025
+- Q4 revenue rose sharply quarter-over-quarter (+14%), benefiting from the Double 11/Black Friday shopping season
+- Transaction services revenue jumped sharply in Q4, likely reflecting Temu's peak-season performance
 
-### 6.2 利润率趋势
+### 6.2 Margin trend
 
-| 季度 | 经营利润(百万RMB) | 经营利润率 | 净利润(百万) | 净利率 |
+| Quarter | Operating profit (RMB million) | Operating margin | Net profit (RMB million) | Net margin |
 |------|------------------|-----------|-------------|--------|
 | 2024Q1 | 25,999 | 30.0% | 27,953 | 32.2% |
 | 2024Q2 | 32,589 | 33.6% | 32,009 | 33.0% |
 | 2024Q3 | 24,293 | 24.5% | 24,981 | 25.1% |
-| 2024Q4 | 25,592 | 23.1% | ~27,600(估计) | ~25.0% |
+| 2024Q4 | 25,592 | 23.1% | ~27,600 (estimate) | ~25.0% |
 | **2025Q1** | **16,086** | **16.8%** | **14,742** | **15.4%** |
-| **2025Q2** | **25,793(估计)** | **~24.8%** | **30,753(估计)** | **~29.6%** |
+| **2025Q2** | **25,793 (estimate)** | **~24.8%** | **30,753 (estimate)** | **~29.6%** |
 | **2025Q3** | **25,026** | **23.1%** | **29,328** | **27.1%** |
 | **2025Q4** | **27,720** | **22.4%** | **24,541** | **19.8%** |
 
-**趋势解读：**
-- Q1 2025是利润率最低谷（经营利润率仅16.8%），百亿补贴商户的代价集中体现
-- Q2-Q3利润率有所恢复，但Q4再次下滑
-- 全年经营利润率约21.9%，较FY2024的27.5%下滑约5.6个百分点
-- 利润率压缩主要来自：(1)百亿补贴商户支持 (2)Temu海外扩张投入 (3)供应链基础设施投资
+**Trend interpretation:**
+- Q1 2025 marked the margin trough (operating margin of just 16.8%), with the cost of the hundred-billion merchant subsidy fully showing through
+- Margins recovered somewhat in Q2-Q3, but declined again in Q4
+- Full-year operating margin was about 21.9%, down roughly 5.6 percentage points from FY2024's 27.5%
+- Margin compression came mainly from: (1) merchant subsidy support, (2) Temu's overseas expansion spending, and (3) supply-chain infrastructure investment
 
-### 6.3 Non-GAAP EPS趋势
+### 6.3 Non-GAAP EPS trend
 
-| 季度 | Non-GAAP EPS (RMB/ADS) | YoY |
+| Quarter | Non-GAAP EPS (RMB/ADS) | YoY |
 |------|------------------------|-----|
 | 2024Q1 | 20.72 | — |
 | 2024Q2 | 23.24 | — |
@@ -241,89 +241,89 @@
 | **2025Q3** | **21.08** | **+13%** |
 | **2025Q4** | **17.69** | **-12%** |
 
-**趋势解读：**
-- Q1是至暗时刻，EPS腰斩
-- Q2-Q3强力恢复，Q3甚至实现同比增长
-- Q4再次回落，反映旺季高投入对利润的拖累
-- FY2025 Non-GAAP EPS合计约RMB 72.25，较FY2024的~RMB 82.70下降约13%
+**Trend interpretation:**
+- Q1 was the darkest hour, with EPS cut roughly in half
+- Q2-Q3 saw a strong recovery, with Q3 even posting year-over-year growth
+- Q4 pulled back again, reflecting the drag of heavy peak-season investment on profit
+- FY2025 Non-GAAP EPS totaled approximately RMB 72.25, down about 13% from FY2024's ~RMB 82.70
 
 ---
 
-## 七、结论与投资建议
+## VII. Conclusions and investment recommendations
 
-### 7.1 财报评价
+### 7.1 Earnings assessment
 
-| 维度 | 评价 |
+| Dimension | Assessment |
 |------|------|
-| 收入 | **符合预期** — Q4收入RMB 1,239亿 vs 预期RMB 1,247亿，微幅miss 0.6% |
-| 利润 | **低于预期** — Non-GAAP EPS RMB 17.69 vs 预期 RMB 20.71，miss 14.6% |
-| 现金流 | **超预期** — 现金储备达4,223亿，OCF质量优秀 |
-| 战略 | **中性偏正面** — 1000亿供应链投资方向正确，但短期代价明确 |
+| Revenue | **In line with expectations** — Q4 revenue of RMB 123.9 billion vs. expected RMB 124.7 billion, a slight 0.6% miss |
+| Profit | **Below expectations** — Non-GAAP EPS of RMB 17.69 vs. expected RMB 20.71, a 14.6% miss |
+| Cash flow | **Above expectations** — cash reserves reached RMB 422.3 billion, excellent OCF quality |
+| Strategy | **Neutral to slightly positive** — the RMB 100 billion supply-chain investment is directionally correct, but the near-term cost is clear |
 
-**综合评级：低于预期 ★★★☆☆**
+**Overall rating: Below expectations ★★★☆☆**
 
-### 7.2 投资论文影响
+### 7.2 Impact on the investment thesis
 
-**核心论文：PDD是中国电商效率之王，Temu打开全球增长空间**
+**Core thesis: PDD is the efficiency king of Chinese e-commerce, and Temu opens up global growth space**
 
-| 论文要素 | Q4财报验证 | 状态 |
+| Thesis element | Verified by Q4 earnings | Status |
 |----------|-----------|------|
-| 国内拼多多基本盘稳固 | 在线营销收入+17%，增速可观 | ✅ 持续验证 |
-| Temu打开全球市场 | 交易服务收入+33%，但盈利路径存疑 | ⚠️ 部分验证 |
-| 轻资产高现金流模型 | OCF/NI = 1.08x，零负债 | ✅ 强力验证 |
-| 利润率可持续 | 全年经营利润率降至~22%，较峰值大幅回落 | ❌ 短期证伪 |
-| 管理层理性配置资本 | 4,200亿现金不分红不回购 | ❌ 待观察 |
+| Domestic PDD core business is solid | Online marketing revenue +17%, a decent growth rate | ✅ Continues to hold up |
+| Temu opens up the global market | Transaction services revenue +33%, but the path to profitability is in question | ⚠️ Partially validated |
+| Asset-light, high-cash-flow model | OCF/NI = 1.08x, zero debt | ✅ Strongly validated |
+| Margins are sustainable | Full-year operating margin fell to ~22%, well off its peak | ❌ Disproved in the short term |
+| Management allocates capital rationally | RMB 422 billion in cash, no dividends, no buybacks | ❌ Remains to be seen |
 
-### 7.3 关键风险
+### 7.3 Key risks
 
-1. **关税风暴**：de minimis取消+中美关税升级，Temu低价模式的根基被动摇。半托管模式能否成功转型是生死问题。
-2. **利润率持续下行**：如果1000亿供应链投资3年后未见成效，利润率可能回不去了。
-3. **治理折价**：VIE结构、不分红不回购、管理层低调神秘——中概股永恒的折价因素。
-4. **竞争加剧**：国内抖音电商、海外SHEIN/Amazon的双面夹击。
+1. **Tariff storm**: elimination of de minimis plus escalating US-China tariffs are shaking the foundations of Temu's low-price model. Whether the semi-managed model can successfully make the transition is an existential question.
+2. **Continued margin decline**: if the RMB 100 billion supply-chain investment fails to show results after three years, margins may never recover.
+3. **Governance discount**: the VIE structure, no dividends or buybacks, and a low-profile, secretive management team — the perennial discount factors for Chinese ADRs.
+4. **Intensifying competition**: squeezed from both sides by Douyin e-commerce domestically and SHEIN/Amazon overseas.
 
-### 7.4 下一催化剂
+### 7.4 Next catalysts
 
-| 催化剂 | 预计时间 | 方向 |
+| Catalyst | Expected timing | Direction |
 |--------|---------|------|
-| Temu半托管模式成效数据 | 2026Q1-Q2 | 正面/负面 |
-| 美国关税政策最终落地 | 2026年内 | 关键变量 |
-| 首次分红或回购计划公告 | 不确定 | 重大正面 |
-| 2026Q1财报（利润率拐点？） | 2026年5月 | 验证点 |
+| Data on the effectiveness of Temu's semi-managed model | 2026Q1-Q2 | Positive/negative |
+| Final landing of US tariff policy | Within 2026 | Key variable |
+| Announcement of a first dividend or buyback program | Uncertain | Major positive |
+| 2026Q1 earnings (a margin inflection point?) | May 2026 | Validation point |
 
-### 7.5 操作建议
+### 7.5 Action recommendations
 
-**当前估值：极度低估区间**
+**Current valuation: deeply undervalued range**
 
-- 扣除净现金PE仅~6x，即使零增长也不贵
-- TTM PE ~11x，P/FCF ~10x，在全球电商平台中最便宜
-- 4,223亿净现金提供巨大安全垫
+- Ex-net-cash P/E is only ~6x; even at zero growth this isn't expensive
+- TTM P/E ~11x, P/FCF ~10x — the cheapest among global e-commerce platforms
+- RMB 422.3 billion net cash provides a substantial safety cushion
 
-**但需要承受的不确定性：**
+**But uncertainties that must be tolerated:**
 
-- Temu面临的关税逆风是实质性的，不是短期噪音
-- 1000亿供应链投资的回报期长达3年
-- 不分红不回购意味着你只能靠股价上涨获利
+- The tariff headwinds facing Temu are substantive, not short-term noise
+- The payback period on the RMB 100 billion supply-chain investment stretches out to three years
+- No dividends and no buybacks mean the only way to profit is through share-price appreciation
 
-**操作建议：**
+**Action recommendations:**
 
-- **已持有者**：继续持有，当前不是卖出时点。利润率最差的Q1已过，估值提供了充足的安全边际。
-- **观望者**：可在$90-100区间分批建仓。核心逻辑——你用$1,430亿买到了一个年赚$140亿、坐拥$600亿净现金的电商平台，即使Temu完全失败，国内业务也值这个价。
-- **止损线**：如果连续两个季度国内在线营销服务收入负增长，说明基本盘动摇，需要重新评估论文。
+- **Existing holders**: continue holding; this is not a time to sell. The worst quarter for margins (Q1) has passed, and the valuation offers an ample margin of safety.
+- **Those on the sidelines**: consider accumulating in tranches in the $90-100 range. Core logic — for $143 billion you are buying an e-commerce platform that earns $14 billion a year and sits on $60 billion of net cash; even if Temu fails entirely, the domestic business alone is worth this price.
+- **Stop-loss line**: if domestic online marketing services revenue turns negative year-over-year for two consecutive quarters, that would signal the core business is faltering, and the thesis would need to be reassessed.
 
-> 李录的智慧："真正的价值投资者不是在预测未来，而是在评估当前价格是否已经充分反映了最坏情况。PDD目前的价格，已经隐含了Temu失败的假设——如果Temu哪怕部分成功，这就是一个巨大的错误定价。"
+> Li Lu's wisdom: "A true value investor isn't forecasting the future — they're assessing whether the current price has already fully priced in the worst case. PDD's current price already implies the assumption that Temu fails — if Temu succeeds even partially, that is a massive mispricing."
 
 ---
 
-## 附录：数据来源
+## Appendix: data sources
 
-- [PDD Holdings Q4 2025 新闻稿](https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025)
-- [StockTitan Q4 2025 财报摘要](https://www.stocktitan.net/news/PDD/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025-yypno24d08v2.html)
-- [Yahoo Finance PDD 报道](https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-reports-2025-183115087.html)
-- [Investing.com Q4 电话会记录](https://www.investing.com/news/transcripts/earnings-call-transcript-pdd-holdings-q4-2025-misses-eps-expectations-93CH-4579900)
-- [Benzinga 电话会完整Transcript](https://www.benzinga.com/markets/earnings/26/03/51460719/pdd-holdings-pdd-q4-2025-earnings-call-transcript)
-- [GuruFocus Q4 电话会精选](https://www.gurufocus.com/news/8743460/pdd-holdings-inc-pdd-q4-2025-earnings-call-highlights-robust-revenue-growth-amid-strategic-investments)
-- [StockTitan SEC 6-K Filing](https://www.stocktitan.net/sec-filings/PDD/6-k-pdd-holdings-inc-current-report-foreign-issuer-7759da7e90a6.html)
-- [MacroTrends PDD 历史财务数据](https://www.macrotrends.net/stocks/charts/PDD/pdd-holdings/financial-statements)
-- [StockAnalysis PDD 收入数据](https://stockanalysis.com/stocks/pdd/revenue/)
+- [PDD Holdings Q4 2025 press release](https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025)
+- [StockTitan Q4 2025 earnings summary](https://www.stocktitan.net/news/PDD/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025-yypno24d08v2.html)
+- [Yahoo Finance PDD coverage](https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-reports-2025-183115087.html)
+- [Investing.com Q4 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-pdd-holdings-q4-2025-misses-eps-expectations-93CH-4579900)
+- [Benzinga full earnings call transcript](https://www.benzinga.com/markets/earnings/26/03/51460719/pdd-holdings-pdd-q4-2025-earnings-call-transcript)
+- [GuruFocus Q4 earnings call highlights](https://www.gurufocus.com/news/8743460/pdd-holdings-inc-pdd-q4-2025-earnings-call-highlights-robust-revenue-growth-amid-strategic-investments)
+- [StockTitan SEC 6-K filing](https://www.stocktitan.net/sec-filings/PDD/6-k-pdd-holdings-inc-current-report-foreign-issuer-7759da7e90a6.html)
+- [MacroTrends PDD historical financial data](https://www.macrotrends.net/stocks/charts/PDD/pdd-holdings/financial-statements)
+- [StockAnalysis PDD revenue data](https://stockanalysis.com/stocks/pdd/revenue/)
 
-> ⚠️ 免责声明：本报告基于公开信息撰写，不构成投资建议。部分数据为根据已披露信息推算的估计值，已明确标注"估计"。投资有风险，决策需谨慎。
+> ⚠️ Disclaimer: this report is written based on publicly available information and does not constitute investment advice. Some figures are estimates derived from disclosed information and are explicitly marked "estimate." Investing involves risk; decisions should be made with care.

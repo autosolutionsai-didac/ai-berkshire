@@ -1,330 +1,330 @@
-# 组合审视与优化报告
+# Portfolio Review and Optimization Report
 
-**日期**：2026-04-09  
-**分析师**：AI Berkshire 组合管理模块  
-**组合类型**：假设持仓（集中型价值投资组合）
+**Date**: 2026-04-09
+**Analyst**: AI Berkshire Portfolio Management Module
+**Portfolio type**: Hypothetical holdings (concentrated value-investing portfolio)
 
 ---
 
-## 第一步：持仓解析
+## Step 1: Holdings Breakdown
 
-| # | 持仓 | 代码 | 权重 | 市场 | 行业 | 货币 |
+| # | Holding | Ticker | Weight | Market | Sector | Currency |
 |---|------|------|------|------|------|------|
-| 1 | 腾讯控股 | 0700.HK | 35% | 港股 | 互联网/科技 | HKD |
-| 2 | 拼多多 | PDD (NASDAQ) | 30% | 美股 | 互联网/电商 | USD |
-| 3 | 泡泡玛特 | 9992.HK | 20% | 港股 | 消费/潮玩 | HKD |
-| 4 | 现金 | — | 15% | — | — | — |
+| 1 | Tencent Holdings | 0700.HK | 35% | Hong Kong | Internet/Technology | HKD |
+| 2 | Pinduoduo | PDD (NASDAQ) | 30% | US | Internet/E-commerce | USD |
+| 3 | Pop Mart | 9992.HK | 20% | Hong Kong | Consumer/Designer Toys | HKD |
+| 4 | Cash | — | 15% | — | — | — |
 
-- **总持仓数**：3只股票 + 现金
-- **前三大持仓占比**：85%（扣除现金后100%）
-- **地域分布**：100%中国公司（港股2只、美股1只）
+- **Total number of holdings**: 3 stocks + cash
+- **Top-three concentration**: 85% (100% of the non-cash portion)
+- **Geographic distribution**: 100% China-related companies (2 Hong Kong-listed, 1 US-listed)
 
 ---
 
-## 第二步：最新数据与估值校验
+## Step 2: Latest Data and Valuation Check
 
-### 2.1 腾讯控股（0700.HK）
+### 2.1 Tencent Holdings (0700.HK)
 
-| 指标 | 数值 | 来源/备注 |
+| Metric | Value | Source/Note |
 |------|------|-----------|
-| 当前股价 | 508 HKD | 2026年4月9日 |
-| 总股本 | ~90.8亿股 | 持续回购中，2024年底约92.2亿 |
-| 市值 | ~4.61万亿 HKD（~5,913亿 USD） | 手算：508 × 90.8亿 ≈ 4.61万亿 HKD |
-| 2025全年营收 | 7,518亿元 RMB | 同比+14% |
-| 2025归母净利 | 2,248亿元 RMB | |
-| EPS（估计） | ~24.76 RMB（~28.15 HKD） | 2,248亿 / 90.8亿股 ≈ 24.76 RMB，×1.137汇率 |
-| PE (TTM) | **18.1x** | 508 / 28.15 ≈ 18.1x（按HKD口径） |
-| PB | ~3.3x | 估计 BVPS ~155 HKD |
-| 股息率 | ~0.89% | 每股4.50 HKD / 508 |
-| FCF Yield | ~3.5%（估计） | 自由现金流约1600亿RMB |
+| Current share price | 508 HKD | as of April 9, 2026 |
+| Total shares outstanding | ~9.08 billion | Ongoing buybacks; ~9.22 billion at end of 2024 |
+| Market cap | ~HKD 4.61 trillion (~USD 591.3 billion) | Manual calc: 508 x 9.08 billion ≈ HKD 4.61 trillion |
+| FY2025 full-year revenue | RMB 751.8 billion | +14% YoY |
+| FY2025 net profit attributable to shareholders | RMB 224.8 billion | |
+| EPS (estimate) | ~RMB 24.76 (~HKD 28.15) | RMB 224.8 billion / 9.08 billion shares ≈ RMB 24.76, x1.137 FX rate |
+| PE (TTM) | **18.1x** | 508 / 28.15 ≈ 18.1x (on an HKD basis) |
+| PB | ~3.3x | Estimated BVPS ~HKD 155 |
+| Dividend yield | ~0.89% | HKD 4.50 per share / 508 |
+| FCF Yield | ~3.5% (estimate) | Free cash flow of roughly RMB 160 billion |
 
-**估值验算**（精确十进制）：
-- PE = 508 / 28.15 = **18.04x**（Non-IFRS口径约15.6x）
-- 盈利收益率 = 28.15 / 508 = **5.54%**
-- 股息率 = 4.50 / 508 = **0.89%**
+**Valuation check** (precise decimal):
+- PE = 508 / 28.15 = **18.04x** (approximately 15.6x on a Non-IFRS basis)
+- Earnings yield = 28.15 / 508 = **5.54%**
+- Dividend yield = 4.50 / 508 = **0.89%**
 
-**近期重大事件**：
-- 2025全年资本开支792亿元，AI投入大幅增加
-- 持续大规模回购，2025年预计回购≥800亿HKD
-- 总股东回报（回购+分红）≥1,210亿HKD
-- 微信AI、混元大模型持续推进
+**Recent material events**:
+- FY2025 full-year capex of RMB 79.2 billion, with a sharp increase in AI investment
+- Continued large-scale buybacks; 2025 buybacks projected at ≥HKD 80 billion
+- Total shareholder returns (buybacks + dividends) ≥HKD 121 billion
+- Continued progress on Weixin AI and the Hunyuan large language model
 
-### 2.2 拼多多（PDD）
+### 2.2 Pinduoduo (PDD)
 
-| 指标 | 数值 | 来源/备注 |
+| Metric | Value | Source/Note |
 |------|------|-----------|
-| 当前股价 | 99.54 USD | 2026年4月8日 |
-| 总股本 | ~14亿 ADS | 约13.99亿 ADS |
-| 市值 | ~1,393亿 USD | |
-| 2025全年营收 | 4,318亿元 RMB | 同比+10% |
-| 2025归母净利 | 994亿元 RMB | 同比-12%（加大投入所致） |
-| 稀释EPS (ADS) | 67.03 RMB（~9.59 USD） | Non-GAAP: 72.38 RMB |
+| Current share price | USD 99.54 | as of April 8, 2026 |
+| Total shares outstanding | ~1.4 billion ADS | approximately 1.399 billion ADS |
+| Market cap | ~USD 139.3 billion | |
+| FY2025 full-year revenue | RMB 431.8 billion | +10% YoY |
+| FY2025 net profit attributable to shareholders | RMB 99.4 billion | -12% YoY (due to stepped-up investment) |
+| Diluted EPS (per ADS) | RMB 67.03 (~USD 9.59) | Non-GAAP: RMB 72.38 |
 | PE (TTM) | **10.38x** | 99.54 / 9.59 |
-| PB | ~2.52x | $99.54 / $39.43（BVPS = RMB 3,914亿/14.2亿ADS/6.99汇率） |
-| 股息率 | 0% | 不派息 |
+| PB | ~2.52x | $99.54 / $39.43 (BVPS = RMB 391.4 billion / 1.42 billion ADS / 6.99 FX rate) |
+| Dividend yield | 0% | No dividend |
 
-**估值验算**（精确十进制）：
+**Valuation check** (precise decimal):
 - PE = 99.54 / 9.59 = **10.38x**
-- 盈利收益率 = 9.59 / 99.54 = **9.63%**
+- Earnings yield = 9.59 / 99.54 = **9.63%**
 - Non-GAAP PE = 99.54 / 10.36 = **9.61x**
 
-**近期重大事件**：
-- 2025全年净利润同比下降12%，主因是Temu海外持续投入
-- Q4营收同比+12%，增速放缓
-- 管理层强调长期价值，牺牲短期利润培育生态
-- 下一次财报：2026年5月27日
+**Recent material events**:
+- FY2025 full-year net profit down 12% YoY, primarily due to continued investment in Temu's overseas expansion
+- Q4 revenue up 12% YoY, a deceleration in growth
+- Management has emphasized long-term value, sacrificing near-term profit to build out the ecosystem
+- Next earnings release: May 27, 2026
 
-### 2.3 泡泡玛特（9992.HK）
+### 2.3 Pop Mart (9992.HK)
 
-| 指标 | 数值 | 来源/备注 |
+| Metric | Value | Source/Note |
 |------|------|-----------|
-| 当前股价 | 141.80 HKD | 2026年4月，52周区间118.80-339.80 |
-| 总股本 | ~13.43亿股 | |
-| 市值 | ~1,903亿 HKD | 141.80 × 13.43亿 |
-| 2025全年营收 | 371.2亿元 RMB | 同比+184.7% |
-| 2025归母净利 | 127.76亿元 RMB（经调整130.8亿） | 同比+308.8% |
-| EPS | ~9.52 RMB（~10.84 HKD） | 127.76亿 / 13.43亿 ≈ 9.52 RMB，×1.137汇率 |
+| Current share price | HKD 141.80 | as of April 2026; 52-week range HKD 118.80-339.80 |
+| Total shares outstanding | ~1.343 billion | |
+| Market cap | ~HKD 190.3 billion | 141.80 x 1.343 billion |
+| FY2025 full-year revenue | RMB 37.12 billion | +184.7% YoY |
+| FY2025 net profit attributable to shareholders | RMB 12.776 billion (adjusted: RMB 13.08 billion) | +308.8% YoY |
+| EPS | ~RMB 9.52 (~HKD 10.84) | RMB 12.776 billion / 1.343 billion ≈ RMB 9.52, x1.137 FX rate |
 | PE (TTM) | **13.1x** | 141.80 / 10.84 ≈ 13.1x |
-| PB | ~7.5x | BVPS ~16.59 RMB（~18.87 HKD），141.80/18.87 |
-| 毛利率 | 72.1% | 同比+5.3ppt |
+| PB | ~7.5x | BVPS ~RMB 16.59 (~HKD 18.87), 141.80/18.87 |
+| Gross margin | 72.1% | +5.3ppt YoY |
 
-**估值验算**（精确十进制）：
-- PE = 141.80 / 10.84 = **13.08x**（按HKD EPS）
-- PB = 141.80 / 18.87 = **7.51x**（轻资产高ROE企业PB偏高合理）
-- ROE = 9.52 / 16.59 = **57.4%**（极高，反映品牌溢价能力）
+**Valuation check** (precise decimal):
+- PE = 141.80 / 10.84 = **13.08x** (on HKD EPS)
+- PB = 141.80 / 18.87 = **7.51x** (a high PB is reasonable for an asset-light, high-ROE business)
+- ROE = 9.52 / 16.59 = **57.4%** (extremely high, reflecting strong brand-premium capability)
 
-**近期重大事件**：
-- 2025年业绩创历史最佳，但公布后股价暴跌超30%
-- 管理层主动将2026年营收增速下调至不低于20%（市场失望）
-- 海外收入占比从31.8%升至43.8%
-- 股价从高点339.80跌至当前141.80附近，跌幅超58%
-- 创始股东套现22亿离场
-
----
-
-## 第三步：单仓位体检
-
-### 腾讯控股 — 今天没持仓，还会买吗？
-
-**会买。** 
-
-理由：
-- 微信生态（13亿用户）是中国最强的数字基础设施，护城河极深
-- Non-IFRS PE约15-16x，对于一家年增14%、持续大规模回购的平台型公司，估值合理偏便宜
-- 自由现金流充沛，股东回报（回购+分红）年化收益率约2.5-3%
-- AI转型稳步推进，虽不激进但不掉队
-
-> 段永平："腾讯是那种你看十年不会出问题的公司。"
-
-**持有5年舒服吗？** 非常舒服。微信的网络效应几乎不可逆，游戏+广告+金融科技多引擎驱动。唯一担忧是监管政策的不确定性。
-
-**健康度**：★★★★★
-
-### 拼多多 — 今天没持仓，还会买吗？
-
-**会买，但需要更大的安全边际。**
-
-理由：
-- 10x PE对应一家仍在增长的电商平台，估值很有吸引力
-- 国内拼多多平台地位稳固，低价心智深入人心
-- Temu海外扩张是巨大的期权价值，但也是巨大的不确定性
-
-> 芒格："我们在逆境中以低价买入的公司，往往给了我们最好的回报。"
-
-**持有5年舒服吗？** 有些不安。Temu面临关税壁垒（美国取消小额包裹免税）、各国监管打压的风险。国内电商竞争激烈（抖音电商、京东低价策略）。管理层刻意牺牲利润投入，短期业绩承压。
-
-**健康度**：★★★☆☆
-
-### 泡泡玛特 — 今天没持仓，还会买吗？
-
-**当前价位有吸引力，但需谨慎。**
-
-理由：
-- 从339跌到141.80，估值从不可思议回归到可接受（13.1x PE、57% ROE）
-- 全球化布局初见成效，海外收入占比44%
-- LABUBU等IP矩阵爆发力极强
-
-但是：
-- 潮玩本质上是"时尚"生意，IP生命周期不确定
-- 2026年增速下调到20%，高增长故事可能告一段落
-- 创始股东套现是负面信号
-
-> 李录："消费品公司最重要的是品牌忠诚度能否跨越经济周期。泡泡玛特还需要时间证明。"
-
-**持有5年舒服吗？** 不太确定。如果IP矩阵能持续迭代、海外拓展顺利，这可能是一家了不起的消费品公司。但潮玩风口转向的风险不容忽视。
-
-**健康度**：★★★☆☆
+**Recent material events**:
+- FY2025 results were the best in the company's history, yet the share price plunged more than 30% after the release
+- Management proactively lowered its 2026 revenue growth guidance to "no less than 20%" (disappointing the market)
+- Overseas revenue share rose from 31.8% to 43.8%
+- The share price has fallen from a high of 339.80 to the current ~141.80, a decline of more than 58%
+- Founding shareholders cashed out HKD 2.2 billion and exited
 
 ---
 
-## 第四步：组合层面分析
+## Step 3: Individual Position Check-Up
 
-### 4.1 集中度分析
+### Tencent Holdings — If I held no position today, would I still buy it?
 
-| 指标 | 数值 | 评价 |
+**Yes, I would buy it.**
+
+Reasons:
+- The Weixin ecosystem (1.3 billion users) is China's strongest digital infrastructure, with an extremely deep moat
+- At a Non-IFRS PE of roughly 15-16x, the valuation is reasonable to cheap for a platform company growing revenue 14% annually while running large-scale buybacks
+- Free cash flow is abundant; shareholder returns (buybacks + dividends) run at an annualized yield of roughly 2.5-3%
+- AI transformation is progressing steadily — not aggressive, but not falling behind either
+
+> Duan Yongping: "Tencent is the kind of company you can look at for ten years and it won't go wrong."
+
+**Comfortable holding for 5 years?** Very comfortable. Weixin's network effects are nearly irreversible, and the company is driven by multiple engines — gaming, advertising, and fintech. The only concern is regulatory-policy uncertainty.
+
+**Health rating**: ★★★★★
+
+### Pinduoduo — If I held no position today, would I still buy it?
+
+**Yes, but it would need a larger margin of safety.**
+
+Reasons:
+- A 10x PE for a still-growing e-commerce platform is quite attractive
+- Pinduoduo's domestic platform position is solid, and its low-price positioning is deeply entrenched in consumers' minds
+- Temu's overseas expansion is a huge option value, but also a huge source of uncertainty
+
+> Munger: "The companies we bought at low prices amid adversity have often given us our best returns."
+
+**Comfortable holding for 5 years?** Somewhat uneasy. Temu faces tariff barriers (the US eliminating the de minimis exemption for small parcels) and regulatory crackdown risk in various countries. Domestic e-commerce competition is fierce (Douyin e-commerce, JD's low-price strategy). Management is deliberately sacrificing profit to fund investment, which is pressuring near-term results.
+
+**Health rating**: ★★★☆☆
+
+### Pop Mart — If I held no position today, would I still buy it?
+
+**The current price is attractive, but caution is warranted.**
+
+Reasons:
+- Having fallen from 339 to 141.80, the valuation has come back down from the unbelievable to the acceptable (13.1x PE, 57% ROE)
+- Its global expansion is starting to show results, with overseas revenue now 44% of the total
+- The LABUBU and other IP portfolio has extremely strong breakout momentum
+
+But:
+- Designer toys are fundamentally a "fashion" business, and IP life cycles are uncertain
+- 2026 growth guidance was cut to 20%, and the high-growth story may be coming to an end
+- Founding shareholders cashing out is a negative signal
+
+> Li Lu: "For a consumer-goods company, the most important question is whether brand loyalty can survive across economic cycles. Pop Mart still needs time to prove itself."
+
+**Comfortable holding for 5 years?** Not entirely certain. If the IP portfolio can keep iterating and overseas expansion goes smoothly, this could turn out to be a remarkable consumer-goods company. But the risk of the designer-toy trend turning is not one to dismiss.
+
+**Health rating**: ★★★☆☆
+
+---
+
+## Step 4: Portfolio-Level Analysis
+
+### 4.1 Concentration Analysis
+
+| Metric | Value | Assessment |
 |------|------|------|
-| 总持仓数 | 3只 | 极度集中 |
-| 前三大占比 | 85% | 高集中度（巴菲特风格） |
-| 最大单仓 | 腾讯 35% | 在合理范围 |
-| 现金占比 | 15% | 适中，保留了加仓弹药 |
+| Total number of holdings | 3 | Extremely concentrated |
+| Top-three concentration | 85% | High concentration (Buffett-style) |
+| Largest single position | Tencent 35% | Within a reasonable range |
+| Cash weight | 15% | Moderate, preserving dry powder for further buys |
 
-> 巴菲特："分散投资是对无知的保护。如果你知道自己在做什么，集中投资更有意义。"
+> Buffett: "Diversification is protection against ignorance. If you know what you're doing, concentrated investing makes more sense."
 
-**评价**：集中度本身不是问题，问题是三个标的全是中国公司。这不是"集中在好公司"，而是"集中在单一国家风险"。
+**Assessment**: Concentration in itself is not the problem — the problem is that all three names are China-related companies. This is not "concentration in good companies," it is "concentration in a single country's risk."
 
-### 4.2 相关性检查
+### 4.2 Correlation Check
 
-| 风险因子 | 腾讯 | 拼多多 | 泡泡玛特 | 暴露占比 |
+| Risk factor | Tencent | Pinduoduo | Pop Mart | Exposure share |
 |----------|------|--------|----------|----------|
-| 中国宏观/监管 | ✅ | ✅ | ✅ | **85%** |
-| 互联网/科技 | ✅ | ✅ | ❌ | **65%** |
-| 消费支出 | 部分 | ✅ | ✅ | **50-65%** |
-| 人民币汇率 | ✅ | ✅ | ✅ | **85%** |
-| 中美关系 | 间接 | ✅（Temu） | 间接 | **50-65%** |
+| China macro/regulatory | Yes | Yes | Yes | **85%** |
+| Internet/technology | Yes | Yes | No | **65%** |
+| Consumer spending | Partial | Yes | Yes | **50-65%** |
+| RMB exchange rate | Yes | Yes | Yes | **85%** |
+| US-China relations | Indirect | Yes (Temu) | Indirect | **50-65%** |
 
-**关键发现**：
+**Key findings**:
 
-1. **中国单一国家风险暴露 = 85%** —— 这是组合最大的结构性问题。任何涉及中国的系统性事件（监管风暴、地缘冲突、经济衰退）都会同时冲击三个持仓。
+1. **Single-country (China) risk exposure = 85%** — this is the portfolio's biggest structural problem. Any systemic event involving China (a regulatory storm, geopolitical conflict, economic recession) would hit all three holdings at once.
 
-2. **互联网行业暴露 = 65%** —— 腾讯+拼多多都是互联网公司，面临共同的监管风险（反垄断、数据安全）和行业风险（流量增长见顶）。
+2. **Internet-sector exposure = 65%** — both Tencent and Pinduoduo are internet companies, facing common regulatory risk (antitrust, data security) and industry risk (traffic growth topping out).
 
-3. **消费敏感度 = 50-65%** —— 拼多多和泡泡玛特都高度依赖消费者支出意愿。中国消费复苏不及预期会同时打击两者。
+3. **Consumer-spending sensitivity = 50-65%** — both Pinduoduo and Pop Mart depend heavily on consumers' willingness to spend. A weaker-than-expected recovery in Chinese consumption would hit both simultaneously.
 
-> 芒格："真正的风险不是波动率，而是永久性资本损失。当你的所有鸡蛋都在一个篮子里，而那个篮子掉了……"
+> Munger: "The real risk isn't volatility, it's permanent loss of capital. When all your eggs are in one basket, and that basket drops..."
 
-### 4.3 机会成本分析 — 三情景估值
+### 4.3 Opportunity-Cost Analysis — Three-Scenario Valuation
 
-#### 腾讯控股 — 3年预期（基于Non-IFRS EPS 32.49 HKD）
+#### Tencent Holdings — 3-year outlook (based on Non-IFRS EPS of HKD 32.49)
 
-| 情景 | 年增速 | 目标PE | 目标EPS(HKD) | 目标股价 | 涨跌幅 | 年化回报 |
+| Scenario | Annual growth | Target PE | Target EPS (HKD) | Target price | Price change | Annualized return |
 |------|--------|--------|-------------|---------|--------|---------|
-| 乐观 | 18% | 22x | 53.37 | 1,174.1 | +131.1% | +32.3% |
-| 中性 | 12% | 18x | 45.65 | 821.7 | +61.7% | +17.4% |
-| 悲观 | 5% | 14x | 37.62 | 526.7 | +3.7% | +1.2% |
+| Bull | 18% | 22x | 53.37 | 1,174.1 | +131.1% | +32.3% |
+| Base | 12% | 18x | 45.65 | 821.7 | +61.7% | +17.4% |
+| Bear | 5% | 14x | 37.62 | 526.7 | +3.7% | +1.2% |
 
-**概率加权预期年化回报（30/50/20）：~19.5%**
+**Probability-weighted expected annualized return (30/50/20): ~19.5%**
 
-#### 拼多多 — 3年预期（基于GAAP EPS $9.59，股价$99.54）
+#### Pinduoduo — 3-year outlook (based on GAAP EPS of $9.59, share price $99.54)
 
-| 情景 | 年增速 | 目标PE | 目标EPS(USD) | 目标股价 | 涨跌幅 | 年化回报 |
+| Scenario | Annual growth | Target PE | Target EPS (USD) | Target price | Price change | Annualized return |
 |------|--------|--------|-------------|---------|--------|---------|
-| 乐观 | 20% | 15x | 16.57 | 248.6 | +149.7% | +35.6% |
-| 中性 | 8% | 11x | 12.08 | 132.9 | +33.5% | +10.1% |
-| 悲观 | -5% | 7x | 8.22 | 57.6 | -42.2% | -16.6% |
+| Bull | 20% | 15x | 16.57 | 248.6 | +149.7% | +35.6% |
+| Base | 8% | 11x | 12.08 | 132.9 | +33.5% | +10.1% |
+| Bear | -5% | 7x | 8.22 | 57.6 | -42.2% | -16.6% |
 
-**概率加权预期年化回报（25/50/25）：~12.8%**
+**Probability-weighted expected annualized return (25/50/25): ~12.8%**
 
-#### 泡泡玛特 — 3年预期（基于2025年报EPS 10.84 HKD，股价141.80）
+#### Pop Mart — 3-year outlook (based on FY2025 annual-report EPS of HKD 10.84, share price 141.80)
 
-| 情景 | 年增速 | 目标PE | 目标EPS(HKD) | 目标股价 | 涨跌幅 | 年化回报 |
+| Scenario | Annual growth | Target PE | Target EPS (HKD) | Target price | Price change | Annualized return |
 |------|--------|--------|-------------|---------|--------|---------|
-| 乐观 | 25% | 25x | 21.17 | 529.3 | +273.2% | +55.1% |
-| 中性 | 15% | 18x | 16.49 | 296.8 | +109.3% | +27.8% |
-| 悲观 | 0% | 12x | 10.84 | 130.1 | -8.2% | -2.8% |
+| Bull | 25% | 25x | 21.17 | 529.3 | +273.2% | +55.1% |
+| Base | 15% | 18x | 16.49 | 296.8 | +109.3% | +27.8% |
+| Bear | 0% | 12x | 10.84 | 130.1 | -8.2% | -2.8% |
 
-**概率加权预期年化回报（20/50/30）：~27.3%**
+**Probability-weighted expected annualized return (20/50/30): ~27.3%**
 
-#### 预期回报排序
+#### Expected-Return Ranking
 
-| 排名 | 持仓 | 预期年化 | 上行空间 | 下行风险 | 风险收益比 |
+| Rank | Holding | Expected annualized | Upside | Downside risk | Risk/reward |
 |------|------|----------|---------|---------|-----------|
-| 1 | 泡泡玛特 | ~27.3% | 极高（+273%） | 有限（-8%） | **最优** |
-| 2 | 腾讯 | ~19.5% | 很高（+131%） | 极低（+4%） | 优秀 |
-| 3 | 拼多多 | ~12.8% | 很高（+150%） | 较大（-42%） | 中等 |
+| 1 | Pop Mart | ~27.3% | Very high (+273%) | Limited (-8%) | **Best** |
+| 2 | Tencent | ~19.5% | High (+131%) | Very low (+4%) | Excellent |
+| 3 | Pinduoduo | ~12.8% | High (+150%) | Sizeable (-42%) | Moderate |
 
-**关键洞察**：泡泡玛特从339跌至141.80后，风险收益比大幅改善，悲观情景下行仅-8%。腾讯在悲观情景下仍有微幅正收益，安全边际最高。拼多多悲观情景下行幅度仍然最大。
+**Key insight**: After falling from 339 to 141.80, Pop Mart's risk/reward has improved substantially, with only an -8% downside in the bear scenario. Tencent still shows a mildly positive return even in the bear scenario, giving it the highest margin of safety. Pinduoduo still carries the largest downside in its bear scenario.
 
-### 4.4 压力测试
+### 4.4 Stress Test
 
-| 情景 | 概率（估计） | 腾讯影响 | 拼多多影响 | 泡泡玛特影响 | 组合影响（含15%现金缓冲） |
+| Scenario | Probability (estimate) | Tencent impact | Pinduoduo impact | Pop Mart impact | Portfolio impact (including 15% cash buffer) |
 |------|------------|----------|-----------|------------|---------|
-| **全球衰退** | 15% | -20% | -30% | -35% | **-23%** |
-| **中美严重冲突** | 10% | -25% | -50%（退市风险） | -20% | **-28%** |
-| **中国监管风暴2.0** | 10% | -30% | -25% | -15% | **-21%** |
-| **科技泡沫破裂** | 10% | -15% | -20% | -10% | **-13%** |
-| **中国消费持续疲软** | 20% | -10% | -15% | -25% | **-13%** |
-| **人民币大幅贬值** | 10% | -15%（外资抛售） | -20% | -15% | **-14%** |
+| **Global recession** | 15% | -20% | -30% | -35% | **-23%** |
+| **Severe US-China conflict** | 10% | -25% | -50% (delisting risk) | -20% | **-28%** |
+| **China regulatory storm 2.0** | 10% | -30% | -25% | -15% | **-21%** |
+| **Tech bubble burst** | 10% | -15% | -20% | -10% | **-13%** |
+| **Persistently weak China consumption** | 20% | -10% | -15% | -25% | **-13%** |
+| **Sharp RMB depreciation** | 10% | -15% (foreign selling) | -20% | -15% | **-14%** |
 
-> 注：组合影响 = 腾讯×35% + 拼多多×30% + 泡泡玛特×20% + 现金×0%，15%现金提供约3-4个百分点的回撤缓冲。
+> Note: Portfolio impact = Tencent x 35% + Pinduoduo x 30% + Pop Mart x 20% + Cash x 0%; the 15% cash weight provides roughly a 3-4 percentage-point drawdown buffer.
 
-**最大回撤估计**：在中美严重冲突情景下，组合可能回撤**约28%**，其中拼多多作为美股上市的中概股，面临退市/制裁的极端风险。
+**Estimated maximum drawdown**: Under a severe US-China conflict scenario, the portfolio could draw down by **roughly 28%**, with Pinduoduo — as a US-listed China-related stock — facing extreme risk of delisting/sanctions.
 
-> 李录："投资首先是不亏钱，其次是不亏钱，第三还是不亏钱。"
+> Li Lu: "Investing is, first, about not losing money; second, about not losing money; and third, still about not losing money."
 
 ---
 
-## 第五步：优化建议
+## Step 5: Optimization Recommendations
 
-### 5.1 调仓建议
+### 5.1 Rebalancing Recommendations
 
-| 操作 | 当前 | 建议 | 理由 |
+| Action | Current | Recommended | Rationale |
 |------|------|------|------|
-| 腾讯 | 35% | **35%**（维持） | 风险收益比最优，是组合压舱石 |
-| 拼多多 | 30% | **20%**（减持10%） | 风险收益比偏低，中美风险集中 |
-| 泡泡玛特 | 20% | **15%**（小幅减持） | 估值回归后有吸引力，但IP风险存在 |
-| 现金 | 15% | **15%** | 减持释放的10%配置至非中国资产 |
-| **新增：非中国资产** | 0% | **15%** | 分散地域风险（见下方建议） |
+| Tencent | 35% | **35%** (maintain) | Best risk/reward profile; the portfolio's ballast |
+| Pinduoduo | 30% | **20%** (trim 10%) | Weaker risk/reward, concentrated US-China risk |
+| Pop Mart | 20% | **15%** (trim slightly) | Attractive after the valuation reset, but IP risk remains |
+| Cash | 15% | **15%** | The 10% freed up from trimming is reallocated to non-China assets |
+| **New: non-China assets** | 0% | **15%** | Diversify geographic risk (see recommendation below) |
 
-### 5.2 非中国资产分散建议
+### 5.2 Non-China Asset Diversification Recommendation
 
-当前组合的核心问题不是个股质量，而是**单一国家风险过于集中**。建议将拼多多减持的10%+泡泡玛特减持的5%分配至：
+The core problem with the current portfolio is not the quality of the individual stocks, but **excessive concentration in a single country's risk**. It is recommended that the 10% trimmed from Pinduoduo plus the 5% trimmed from Pop Mart be allocated to:
 
-**候选标的（价值投资框架下）**：
+**Candidate names (within a value-investing framework)**:
 
-| 标的 | 分配 | 理由 |
+| Name | Allocation | Rationale |
 |------|------|------|
-| Berkshire Hathaway (BRK.B) | 10% | 巴菲特旗舰，美国经济代理，分散地域风险 |
-| Google/Alphabet (GOOGL) | 5% | 全球互联网巨头，与腾讯形成"双保险" |
+| Berkshire Hathaway (BRK.B) | 10% | Buffett's flagship, a proxy for the US economy, diversifies geographic risk |
+| Google/Alphabet (GOOGL) | 5% | A global internet giant, forming a "double hedge" alongside Tencent |
 
-或者保守方案：
-- 直接将15%配置到美股指数ETF（如VOO），简单粗暴地分散风险
+Or, as a more conservative alternative:
+- Simply allocate the 15% to a US equity index ETF (such as VOO) — a simple, straightforward way to diversify risk
 
-### 5.3 现金管理建议
+### 5.3 Cash Management Recommendation
 
-- 当前15%现金水平在市场不确定性较高时是合理的
-- 如果市场大幅回调（组合回撤>15%），可用现金逐步加仓腾讯（最确定的标的）
-- 不建议将现金比例降至10%以下——留够弹药应对黑天鹅
-
----
-
-## 第六步：结论
-
-### 组合健康度：★★★☆☆（3/5）
-
-**优点**：
-- 三家公司基本面都不差，估值整体合理
-- 腾讯是优秀的压舱石
-- 现金水平适中
-
-**问题**：
-- 地域集中度过高（100%中国），这是致命的结构性缺陷
-- 拼多多风险收益比不匹配其仓位权重
-- 泡泡玛特的长期确定性不足以支撑20%仓位
-
-### 当前最应该做的一件事
-
-**减持拼多多10个百分点，配置至非中国优质资产。**
-
-这一步能同时解决三个问题：
-1. 降低中美冲突的尾部风险暴露
-2. 减少互联网行业的过度集中
-3. 增加地域多元化
-
-### 当前最大风险
-
-**中国单一国家风险**。85%的仓位暴露在同一个国家的监管/宏观/地缘政治环境下。这不是在投资三家不同的公司，这是在对"中国经济+中国互联网+中国消费"做一个巨大的集中押注。
-
-> 段永平："好的投资，首先是活下来。分散一点风险，不是因为胆小，是因为我们不知道明天会发生什么。"
+- The current 15% cash level is reasonable given elevated market uncertainty
+- If the market sells off sharply (portfolio drawdown >15%), the cash can be used to gradually add to Tencent (the most high-conviction name)
+- It is not recommended to reduce the cash weight below 10% — enough dry powder should be kept in reserve for black-swan events
 
 ---
 
-**免责声明**：本报告基于假设持仓和公开市场数据，所有估值参数均为估计值，不构成投资建议。关键数据来源包括公司年报、Yahoo Finance、Investing.com、东方财富等，数据截至2026年4月9日。
+## Step 6: Conclusion
+
+### Portfolio health rating: ★★★☆☆ (3/5)
+
+**Strengths**:
+- The fundamentals of all three companies are reasonably solid, and valuations overall are reasonable
+- Tencent is an excellent ballast holding
+- The cash level is appropriate
+
+**Problems**:
+- Geographic concentration is too high (100% China-related), a fatal structural flaw
+- Pinduoduo's risk/reward does not match its position weight
+- Pop Mart's long-term certainty is not strong enough to support a 20% weight
+
+### The single most important action right now
+
+**Trim Pinduoduo by 10 percentage points and reallocate to quality non-China assets.**
+
+This one step solves three problems simultaneously:
+1. Reduces tail-risk exposure to a US-China conflict
+2. Reduces over-concentration in the internet sector
+3. Increases geographic diversification
+
+### The biggest risk right now
+
+**Single-country (China) risk.** 85% of the portfolio is exposed to the regulatory/macro/geopolitical environment of a single country. This is not investing in three different companies — it is making one giant concentrated bet on "the Chinese economy + Chinese internet + Chinese consumption."
+
+> Duan Yongping: "Good investing starts with surviving. Spreading out risk a bit isn't about being timid — it's because we don't know what tomorrow will bring."
+
+---
+
+**Disclaimer**: This report is based on hypothetical holdings and public market data; all valuation parameters are estimates and do not constitute investment advice. Key data sources include company annual reports, Yahoo Finance, Investing.com, and Eastmoney, with data as of April 9, 2026.
 
 Sources:
-- [腾讯2025年报](https://finance.sina.com.cn/jjxw/2026-03-18/doc-inhrmihk1449504.shtml)
+- [Tencent 2025 Annual Report](https://finance.sina.com.cn/jjxw/2026-03-18/doc-inhrmihk1449504.shtml)
 - [PDD Holdings Q4 2025 Results](https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025)
-- [泡泡玛特2025年报](https://finance.eastmoney.com/a/202603253683830172.html)
+- [Pop Mart 2025 Annual Report](https://finance.eastmoney.com/a/202603253683830172.html)
 - [Tencent Market Cap](https://companiesmarketcap.com/tencent/marketcap/)
 - [PDD Market Data](https://finance.yahoo.com/quote/PDD/)
 - [Pop Mart Stock Data](https://finance.yahoo.com/quote/9992.HK/)
-- [中美出口管制趋势](https://www.kwm.com/cn/zh/insights/latest-thinking/us-export-controls-on-china-trends-in-2026-and-compliance-strategies-for-enterprises.html)
+- [US-China Export Control Trends](https://www.kwm.com/cn/zh/insights/latest-thinking/us-export-controls-on-china-trends-in-2026-and-compliance-strategies-for-enterprises.html)

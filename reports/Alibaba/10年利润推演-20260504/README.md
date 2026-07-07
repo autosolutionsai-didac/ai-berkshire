@@ -1,113 +1,113 @@
-# 阿里巴巴 10 年利润推演研究（FY2036）
+# Alibaba 10-Year Profit Projection Research (FY2036)
 
-> **研究问题**：阿里巴巴集团 2036 财年（10 年后）的年利润大致是多少？
-> **研究框架**：投研团队四角色并行（段永平 / 巴菲特 / 芒格 / 李录）
-> **研究日期**：2026-05-04
-> **研究状态**：⚠️ **3/4 完成**——李录视角"风险与管理层"尚未交付，最终综合报告待 4 份子报告齐全后输出
+> **Research question**: What will Alibaba Group's annual profit be roughly in fiscal year 2036 (10 years from now)?
+> **Research framework**: Investment research team, four roles run in parallel (Duan Yongping / Buffett / Munger / Li Lu)
+> **Research date**: 2026-05-04
+> **Research status**: ⚠️ **3/4 complete** — the Li Lu perspective ("risk and management") has not yet been delivered; the final synthesis report will be issued once all 4 sub-reports are complete
 
 ---
 
-## 文件索引
+## File Index
 
-| # | 文件 | 视角 | 状态 |
+| # | File | Perspective | Status |
 |---|------|------|------|
-| 01 | [01-商业模式分析-段永平视角.md](./01-商业模式分析-段永平视角.md) | 段永平 | ✅ 已交付 |
-| 02 | [02-财务估值分析-巴菲特视角.md](./02-财务估值分析-巴菲特视角.md) | 巴菲特 | ✅ 已交付（核心） |
-| 03 | [03-行业竞争分析-芒格视角.md](./03-行业竞争分析-芒格视角.md) | 芒格 | ✅ 已交付 |
-| 04 | 04-风险管理层评估-李录视角.md | 李录 | 🔄 研究中 |
-| —— | 最终报告.md | 综合 | ⏸ 待 4 份齐全后输出 |
+| 01 | [Business Model Analysis — Duan Yongping's Perspective](./01-商业模式分析-段永平视角.md) | Duan Yongping | Delivered |
+| 02 | [Financial & Valuation Analysis — Buffett's Perspective](./02-财务估值分析-巴菲特视角.md) | Buffett | Delivered (core) |
+| 03 | [Industry & Competition Analysis — Munger's Perspective](./03-行业竞争分析-芒格视角.md) | Munger | Delivered |
+| 04 | Risk & Management Assessment — Li Lu's Perspective | Li Lu | In progress |
+| —— | Final report.md | Synthesis | Pending, to be issued once all 4 are complete |
 
 ---
 
-## 当前阶段核心结论（基于 3 份子报告，待李录视角补充后修订）
+## Current-Stage Core Conclusions (based on 3 sub-reports, to be revised once the Li Lu perspective is added)
 
-### FY2036 利润预测：两个估算口径
+### FY2036 profit forecast: two estimation approaches
 
-| 口径 | 中性预测 | 概率加权期望值 | 置信度 |
+| Approach | Neutral forecast | Probability-weighted expected value | Confidence |
 |------|---------|--------------|--------|
-| 财务建模（巴菲特视角，Non-GAAP 净利润） | 4,591 亿 RMB | 4,880 亿 RMB | 中 |
-| 行业格局（芒格视角，经营利润） | 3,500-3,900 亿 RMB | 3,685 亿 RMB | 中（无 WebSearch） |
+| Financial modeling (Buffett's perspective, Non-GAAP net profit) | 459.1 billion RMB | 488.0 billion RMB | Medium |
+| Industry landscape (Munger's perspective, operating profit) | 350.0-390.0 billion RMB | 368.5 billion RMB | Medium (no WebSearch) |
 
-**两份预测的差异**：主要在阿里云营收假设——财务 Agent 给中性 7,306 亿（CAGR 20%），行业 Agent 给 4,000-4,800 亿（更保守）。差额约 2,500 亿营收 × 19% 利润率 ≈ 475 亿利润差。
+**Difference between the two forecasts**: mainly in the Alibaba Cloud revenue assumption — the Financial agent gives a neutral case of 730.6 billion (20% CAGR), while the Industry agent gives 400.0-480.0 billion (more conservative). The gap is roughly 250 billion in revenue x 19% margin ≈ 47.5 billion in profit difference.
 
-**合理融合区间**：FY2036 中性年利润约 **3,800-4,600 亿 RMB**，期望值约 4,200-4,800 亿。
+**Reasonable blended range**: FY2036 neutral annual profit is roughly **380.0-460.0 billion RMB**, with an expected value of roughly 420.0-480.0 billion.
 
-### 三情景概览（财务 Agent 口径）
+### Three-scenario overview (Financial agent basis)
 
-| 情景 | 概率 | Non-GAAP 净利润 | 关键假设 |
+| Scenario | Probability | Non-GAAP net profit | Key assumptions |
 |------|------|----------------|----------|
-| 乐观 | 30% | 7,162 亿 | 云 25% margin、AI 占云收入 60%+、AIDC 转盈利 |
-| **中性** | **50%** | **4,591 亿** | 云 19% margin、淘天 35% margin、AIDC FY28 扭亏 |
-| 悲观 | 20% | 2,131 亿 | 云价格战、淘天份额下滑、AIDC 持续亏损 |
+| Optimistic | 30% | 716.2 billion | 25% cloud margin, AI 60%+ of cloud revenue, AIDC turns profitable |
+| **Neutral** | **50%** | **459.1 billion** | 19% cloud margin, 35% Taotian margin, AIDC breaks even in FY28 |
+| Pessimistic | 20% | 213.1 billion | Cloud price war, Taotian share decline, AIDC stays loss-making |
 
-### 估值结论（基于中性预测）
+### Valuation conclusion (based on the neutral forecast)
 
-- DCF 反推内在价值：**25,477 亿 RMB**（中性，PE 14x，贴现率 10%）
-- 当前市值：23,120 亿 RMB（美股 318B USD / 港股 2.49 万亿 HKD）
-- **安全边际仅 22%**——未达巴菲特要求的 30%，"接近合理但不显然便宜"
-- 触发买入价位：阿里港股 100 港元 / 美股 110 美元以下分批建仓（届时安全边际 47%）
+- DCF-implied intrinsic value: **2,547.7 billion RMB** (neutral case, 14x PE, 10% discount rate)
+- Current market cap: 2,312.0 billion RMB ($318 billion U.S. shares / HK$2.49 trillion Hong Kong shares)
+- **Margin of safety of only 22%** — below Buffett's required 30%, "close to reasonable but not obviously cheap"
+- Trigger price for starting a position: begin building in tranches below HK$100 (Hong Kong shares) / $110 (U.S. shares) (margin of safety of 47% at that point)
 
 ---
 
-## 三视角核心判断速览
+## Summary of the Three Perspectives' Core Judgments
 
-### 商业模式（段永平视角）—— "10 年后是好公司，但好生意只剩 2 个半"
+### Business model (Duan Yongping's perspective) — "A good company in 10 years, but only 2.5 good businesses remain"
 
-| 板块 | 当前生意质量 | 10 年后生意质量 |
+| Segment | Current business quality | Business quality in 10 years |
 |------|-------------|---------------|
-| **阿里云** | 4 | **5** |
-| **淘天** | 4 | **3** |
+| **Alibaba Cloud** | 4 | **5** |
+| **Taotian** | 4 | **3** |
 | **AIDC** | 2 | 3-4 |
-| 本地生活 | 1 | 2 |
-| 菜鸟 | 2 | 2-3 |
-| 大文娱 | 1 | 1-2 |
+| Local services | 1 | 2 |
+| Cainiao | 2 | 2-3 |
+| Digital media & entertainment | 1 | 1-2 |
 
-**核心矛盾**：未来 3-5 年阿里是"花钱的公司"（3,800 亿 Capex + 闪购烧钱 + AIDC 还亏 + AI 大模型烧钱）—— 违反段永平"少花钱多收钱"。
+**Core contradiction**: over the next 3-5 years, Alibaba is a "cash-spending company" (380 billion in capex + Flash Sale cash burn + AIDC still losing money + AI large-model cash burn) — which violates Duan Yongping's principle of "spend less, earn more."
 
-**重大转折点**：阿里 2024-2025 已主动剥离银泰+高鑫合计亏损 225 亿——历史上第一次大规模承认"非核心生意"并主动退出。88VIP 用户接近 6,000 万（vs FY25Q4 3,500 万）。**段永平本人 2024 Q4 增持阿里**（H&H International）。
+**Major turning point**: Alibaba has already divested Intime and Sun Art in 2024-2025, for a combined loss of 22.5 billion — the first time in its history it has acknowledged a "non-core business" at scale and proactively exited. 88VIP users are approaching 60 million (vs. 35 million in FY25 Q4). **Duan Yongping himself added to his Alibaba position in Q4 2024** (H&H International).
 
-### 财务/估值（巴菲特视角）—— "FY2036 期望年利润 4,880 亿，安全边际不够"
+### Financials/valuation (Buffett's perspective) — "Expected FY2036 annual profit of 488.0 billion, margin of safety insufficient"
 
-- **集团 FY36 营收中性 24,086 亿**，10 年 CAGR 9.2%
-- **阿里云稳态 EBITA margin 中性 19%**（vs AWS 38%、Azure 40-45%、GCP 14%）—— 是"追近"而非"追平"
-- **关键变量**：阿里云 EBITA margin 是否能稳步上行（每季度 +0.5-1pp）
+- **Group FY36 revenue, neutral case, 2,408.6 billion**, 10-year CAGR of 9.2%
+- **Alibaba Cloud steady-state EBITA margin, neutral case, 19%** (vs. AWS 38%, Azure 40-45%, GCP 14%) — this is "closing the gap" rather than "matching"
+- **Key variable**: whether Alibaba Cloud's EBITA margin can steadily rise (by +0.5-1pp per quarter)
 
-### 行业格局（芒格视角）—— "温和升级版微软路径"
+### Industry landscape (Munger's perspective) — "A mild, upgraded Microsoft path"
 
-- **历史类比排序**：腾讯（最贴近，同处中国监管+港股环境）> 微软（云转型对照）> IBM（反面镜鉴）
-- **关键不确定性 Top 3**：中国宏观通缩持续（±1500 亿）、淘天 take rate（±800 亿）、阿里云 OM（±700 亿）
-- **当前估值含义**：阿里港股 2.5-2.8 万亿 / 美股 3,000-3,300 亿美元——大致 price-in 中性情景，10 年年化 8-12%
-
----
-
-## Bull vs Bear 速览（待李录视角补充后完整版）
-
-### 🟢 看多
-1. 阿里云已有"中国唯一基础大模型+IaaS+下游入口（淘宝/钉钉/高德/支付宝）"三层闭环
-2. 88VIP 用户 6,000 万显示中产人群粘性加强
-3. 阿里 2024 Q4 段永平增持
-4. 主动剥离非核心资产（银泰+高鑫）—— 管理层向"聚焦"演进
-5. AIDC 亏损 FY26Q3 同比收窄 59%，接近盈亏平衡
-6. 现金+短投 5,602 亿 RMB，capex 烧得起
-
-### 🔴 看空
-1. FY26Q3 经营利润 -74%、Non-GAAP EPS -71%——重投资期利润坍缩
-2. 淘天 CMR 仅 +1%，take rate 提升被拼多多/抖音封死
-3. 阿里云中国份额面临字节火山+华为云双重夹击
-4. AI 资本开支 3,800 亿，10 年期 ROIC 拐点未验证
-5. 中国宏观长期通缩——电商+本地生活+云三块同时承压
-6. 当前安全边际仅 22%，巴菲特/段永平要求 ≥ 30%
+- **Historical analogy ranking**: Tencent (closest match, same China regulatory + Hong Kong-listing environment) > Microsoft (cloud transformation comparison) > IBM (cautionary counter-example)
+- **Top 3 key uncertainties**: persistence of China's macro deflation (±150.0 billion), Taotian's take rate (±80.0 billion), Alibaba Cloud's operating margin (±70.0 billion)
+- **What the current valuation implies**: Alibaba's Hong Kong shares at HK$2.5-2.8 trillion / U.S. shares at $300.0-330.0 billion — roughly pricing in the neutral scenario, implying 8-12% annualized returns over 10 years
 
 ---
 
-## 数据可信度声明
+## Bull vs. Bear Snapshot (full version pending the Li Lu perspective)
 
-- **高置信度**：阿里 FY26Q3 财报数据（2026-03-19 BusinessWire/SEC 公告）、当前市值/股价、各业务板块季度营收
-- **中置信度**：10 年 CAGR 假设、阿里云稳态利润率、AIDC 盈亏平衡时点、概率分布（30/50/20）
-- **低置信度**：FY2036 单点利润数字、合理 PE 倍数（14x 中性）、阿里云 5 年 1000 亿美元目标兑现度
-- **方法论局限**：行业 Agent（芒格视角）未连接 WebSearch，部分数据基于 2025Q4-2026Q1 公开信息记忆；其他三个 Agent 均使用了 WebSearch
+### Bull
+1. Alibaba Cloud already has a "China's only foundation large model + IaaS + downstream entry points (Taobao/DingTalk/Amap/Alipay)" three-layer closed loop
+2. 88VIP membership of 60 million shows strengthening loyalty among middle-class users
+3. Duan Yongping added to his Alibaba position in Q4 2024
+4. Proactive divestment of non-core assets (Intime + Sun Art) — management is evolving toward "focus"
+5. AIDC's losses narrowed 59% year over year in FY26Q3, near breakeven
+6. Cash + short-term investments of 560.2 billion RMB — capex is affordable
+
+### Bear
+1. FY26Q3 operating profit -74%, Non-GAAP EPS -71% — profit collapse during the heavy-investment period
+2. Taotian's CMR is up only +1%, and take-rate increases are being blocked by Pinduoduo/Douyin
+3. Alibaba Cloud's domestic share faces a pincer from ByteDance's Volcano Engine and Huawei Cloud
+4. AI capex of 380 billion, with the 10-year ROIC inflection point unverified
+5. China's macro long-term deflation — e-commerce, local services, and cloud are all under pressure simultaneously
+6. The current margin of safety is only 22%, below the 30%+ required by Buffett/Duan Yongping
 
 ---
 
-**最后更新**：2026-05-04
-**待补充**：李录视角"风险与管理层"完成后，本 README 与最终综合报告会一并更新。
+## Data Confidence Disclosure
+
+- **High confidence**: Alibaba's FY26Q3 earnings data (2026-03-19 BusinessWire/SEC filing), current market cap/share price, quarterly revenue for each business segment
+- **Medium confidence**: 10-year CAGR assumptions, Alibaba Cloud's steady-state margin, AIDC's breakeven timing, probability distribution (30/50/20)
+- **Low confidence**: the single-point FY2036 profit figure, the reasonable PE multiple (14x neutral), the achievability of Alibaba Cloud's 5-year $100 billion target
+- **Methodological limitation**: the Industry agent (Munger's perspective) was not connected to WebSearch; some data is based on memory of publicly available information from 2025Q4-2026Q1. The other three agents all used WebSearch
+
+---
+
+**Last updated**: 2026-05-04
+**Pending**: once the Li Lu perspective ("risk and management") is complete, this README and the final synthesis report will be updated together.

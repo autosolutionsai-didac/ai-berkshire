@@ -1,35 +1,35 @@
-# 思格新能源（06656.HK，Sigenergy）IPO 投研框架概览
+# Sigenergy (06656.HK, Sigenergy) IPO Research Framework Overview
 
-**投研团队：四大师综合分析框架** | **报告日期：2026年4月9日**
-**股票代码：06656.HK** | **招股价：324.20 HKD** | **IPO市值：~800亿HKD（~703亿RMB）**
+**Research team: Four-Master composite analysis framework** | **Report date: April 9, 2026**
+**Ticker: 06656.HK** | **IPO price: HKD 324.20** | **IPO market cap: ~HKD 80 billion (~RMB 70.3 billion)**
 
 ---
 
-## 研究框架
+## Research framework
 
-| 序号 | 分析维度 | 分析师角色 | 文件 |
+| No. | Analysis dimension | Analyst persona | File |
 |:---:|---------|-----------|------|
-| 01 | 商业模式分析 | 段永平视角 | `01-商业模式分析-段永平视角.md` |
-| 02 | 财务估值分析 | 巴菲特视角 | `02-财务估值分析-巴菲特视角.md` |
-| 03 | 行业竞争分析 | 芒格视角 | `03-行业竞争分析-芒格视角.md` |
-| 04 | 风险管理层评估 | 李录视角 | `04-风险管理层评估-李录视角.md` |
-| -- | 综合报告 | Team Lead | `最终报告.md` |
+| 01 | Business model analysis | Duan Yongping's perspective | `01-商业模式分析-段永平视角.md` |
+| 02 | Financial & valuation analysis | Buffett's perspective | `02-财务估值分析-巴菲特视角.md` |
+| 03 | Industry & competition analysis | Munger's perspective | `03-行业竞争分析-芒格视角.md` |
+| 04 | Risk & management assessment | Li Lu's perspective | `04-风险管理层评估-李录视角.md` |
+| -- | Composite report | Team Lead | `最终报告.md` |
 
-## 核心结论
+## Core conclusion
 
-> 思格新能源是一家极具爆发力的光储新贵，创始人许映童的华为系基因赋予了其强大的执行力和技术整合能力。SigenStor五合一产品在可堆叠光储一体机细分赛道做到全球第一，50%毛利率远超同行。但成立仅3年多、单品依赖度超90%、800亿HKD估值对应~24x PE（2025E），定价并不便宜。**短期打新有超额收益概率较高（176倍超购+顶配基石），但中长期持有需警惕增速放缓、竞争加剧和地缘政治风险。**
+> Sigenergy is an explosively fast-growing solar-storage newcomer; founder Xu Yingtong's Huawei-lineage background gives the company strong execution capability and technology-integration ability. The SigenStor five-in-one product ranks first in the world in the stackable solar-storage-all-in-one niche, with a 50% gross margin far above peers. But the company is only just over 3 years old, single-product dependence exceeds 90%, and the HKD 80 billion valuation implies ~24x P/E (2025E) — the pricing is not cheap. **The odds of an excess return from short-term IPO flipping are fairly high (176x oversubscription plus a full complement of cornerstone investors), but longer-term holders need to watch out for slowing growth, intensifying competition, and geopolitical risk.**
 
-## 四维评分速览
+## Four-dimension rating snapshot
 
-| 维度 | 评分 | 核心判断 |
+| Dimension | Rating | Core judgment |
 |------|:----:|---------|
-| 商业模式 & 护城河 | ★★★★ 4.0 | 五合一集成创新+渠道网络，但单品依赖是致命隐患 |
-| 财务 & 估值 | ★★★☆ 3.5 | 增长惊人但基数极低，50%毛利率可持续性存疑，IPO定价偏贵 |
-| 行业 & 竞争 | ★★★★ 3.8 | 赛道空间巨大，但华为、特斯拉虎视眈眈，细分赛道护城河不深 |
-| 风险 & 管理层 | ★★★☆ 3.0 | 许映童能力强但公司太年轻，地缘+关税+华为反击三重风险叠加 |
+| Business model & moat | ★★★★ 4.0 | Five-in-one integration innovation + channel network, but single-product dependence is a fatal vulnerability |
+| Financials & valuation | ★★★☆ 3.5 | Astonishing growth but off an extremely low base; sustainability of the 50% gross margin is in question; IPO pricing is on the expensive side |
+| Industry & competition | ★★★★ 3.8 | Huge market space, but Huawei and Tesla are watching hungrily; the moat in this niche is not deep |
+| Risk & management | ★★★☆ 3.0 | Xu Yingtong is capable but the company is very young; geopolitical, tariff, and Huawei-counterattack risks are stacking up |
 
-**综合评分：3.6 / 5**
+**Overall rating: 3.6 / 5**
 
-## AI研究局限性声明
+## AI research limitations disclosure
 
-本报告基于公开信息搜索，存在以下局限：(1) 思格新能源尚未正式上市，部分数据来自招股书和媒体报道，可能存在偏差；(2) 作为IPO研究，缺乏上市后的交易数据和季度跟踪；(3) 光储行业变化极快，关税政策持续调整，报告数据截至2026年4月9日；(4) 公司仅成立3年多，历史数据样本极少，预测可靠性较低。
+This report is based on public-information search and carries the following limitations: (1) Sigenergy has not yet formally listed; some data comes from the prospectus and media reports and may contain bias; (2) as IPO research, it lacks post-listing trading data and quarterly tracking; (3) the solar-storage industry changes extremely fast and tariff policy keeps shifting; the report's data is current as of April 9, 2026; (4) the company is only just over 3 years old, so the historical data sample is extremely small and forecast reliability is low.

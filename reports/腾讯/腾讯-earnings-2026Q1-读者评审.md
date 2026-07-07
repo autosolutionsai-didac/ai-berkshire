@@ -1,28 +1,28 @@
-# 腾讯 2026Q1 财报精读 — 读者评审报告
+# Tencent 2026Q1 Earnings Close-Read — Reader Review Report
 
-## 总体评分：6.5/10（初稿）→ 修改后预估8/10
+## Overall score: 6.5/10 (first draft) → estimated 8/10 after revision
 
-## 优点
-1. 核心数据齐全，框架清晰，3分钟能读完
-2. "三个最重要的变化"提炼有价值，选得准、有张力
-3. 正反两面都有涉及，比大多数公众号文章诚实
+## Strengths
+1. Core data is complete, the framework is clear, and it can be read in 3 minutes
+2. The distillation of the "three most important changes" is valuable — well-chosen and full of tension
+3. Both sides of the argument are covered, which is more honest than most WeChat public-account articles
 
-## 必须修改（已处理）
-1. ✅ 预期数据标注来源（彭博一致预期）
-2. ✅ 回购补充绝对数字和同比对比表
-3. ✅ 结论改为分投资者类型的行动框架
+## Must-fix items (addressed)
+1. ✅ Labeled the source of the expectation data (Bloomberg consensus)
+2. ✅ Supplemented the buyback section with absolute figures and a year-over-year comparison table
+3. ✅ Revised the conclusion into an action framework segmented by investor type
 
-## 建议优化（已采纳）
-1. ✅ 增加上季度增速，体现加速趋势
-2. ✅ 展开游戏递延机制说明
-3. ✅ AI拆成两层（赋能现有业务 vs 独立产品竞争）
-4. ✅ 估值补充扣除净现金PE和FCF收益率
+## Suggested improvements (adopted)
+1. ✅ Added the prior quarter's growth rate to show the acceleration trend
+2. ✅ Expanded the explanation of the game revenue deferral mechanism
+3. ✅ Split AI into two layers (empowering existing businesses vs. standalone product competition)
+4. ✅ Supplemented the valuation section with net-cash-adjusted P/E and FCF yield
 
-## 读者最想知道但需补充的问题
-1. 回购减少对股价的影响 → 已在文中提及
-2. 广告+20%的可持续性 → 部分涉及，后续跟踪
-3. AI投入细节和回报时间表 → 已说明管理层未给指引
-4. 社交网络-2%原因 → 已解释为音乐/视频付费疲软
+## Questions readers most want answered but still need addressing
+1. Impact of reduced buybacks on the share price → already mentioned in the text
+2. Sustainability of the +20% advertising growth → partially addressed, to be tracked going forward
+3. Details of AI investment and the return timeline → noted that management gave no guidance
+4. Reason for the -2% in Social Networks → explained as weak music/video subscription payments
 
-## 一句话总评
-数据扎实，修改后"灵魂"补上了——读者不仅知道发生了什么，还知道对自己意味着什么。
+## One-line verdict
+The data is solid, and after revision the "soul" has been added back — readers now know not just what happened, but what it means for them.

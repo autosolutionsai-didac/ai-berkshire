@@ -1,515 +1,515 @@
-# 春风动力（603129.SH）投资研究报告
+# CFMoto (603129.SH) Investment Research Report
 
-**巴菲特-芒格-段永平-李录 四维综合分析框架**
+**Buffett-Munger-Duan Yongping-Li Lu Four-Dimensional Comprehensive Analysis Framework**
 
-**报告日期**：2026年6月24日
-**股价**：241.11 元 | **市值**：370亿元 | **总股本**：1.5348亿股
+**Report Date**: June 24, 2026
+**Share Price**: RMB 241.11 | **Market Cap**: RMB 37.0 billion | **Total Shares Outstanding**: 153.48 million shares
 
 ---
 
-## AI研究偏见自觉
+## AI Research Bias Self-Check
 
-### 信息丰富度评级：B级（信息适中）
+### Information Richness Rating: Grade B (Moderate Information)
 
-春风动力2017年上市，至今约9年，券商覆盖中等（过去90天16家机构评级），年报信息披露完整但分部毛利率等关键数据未单独披露。
+CFMoto listed in 2017, roughly 9 years ago. Brokerage coverage is moderate (16 institutional ratings over the past 90 days). Annual report disclosure is comprehensive, but key data such as segment gross margins are not separately disclosed.
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| 上市时间 | 2017年至今，约9年 |
-| 券商覆盖 | 中等偏上（16家机构覆盖） |
-| 英文资料 | 较少，海外投资者关注有限 |
-| 数据缺口 | 分部毛利率未披露、海外各区域利润率不透明 |
-| AI研究陷阱 | 可能用"合理推测"填补分部盈利数据空白 |
+| Listing history | Listed since 2017, about 9 years |
+| Brokerage coverage | Moderate-to-above-average (16 institutions covering) |
+| English-language material | Limited; overseas investor attention is limited |
+| Data gaps | Segment gross margins undisclosed; overseas regional profit margins opaque |
+| AI research pitfall | May fill gaps in segment profitability data with "reasonable inference" |
 
-**偏见自查**：
-- 本报告"确定性"感受主要来自ATV/UTV全球竞争格局清晰、中国大排量摩托车增长趋势明确，而非资料数量本身
-- 与市场共识的差异点：市场可能低估了KTM合作终止后的渠道重建难度，也可能低估了极核电动的盈利转正速度
-- 分部毛利率、海外各区域利润率等关键数据为推算值，标注了置信度
+**Bias self-check**:
+- The sense of "certainty" in this report stems mainly from the clarity of the global ATV/UTV competitive landscape and the clear growth trend in China's large-displacement motorcycle market — not from the sheer volume of source material
+- Point of divergence from market consensus: the market may be underestimating how difficult it will be to rebuild distribution channels after the end of the KTM partnership, and may also be underestimating how quickly Zeeho electric two-wheelers could turn profitable
+- Key figures such as segment gross margins and overseas regional margins are estimated values, with confidence levels noted
 
 ---
 
-## 第一步：关键数据总览
+## Step 1: Key Data Overview
 
-### 1.1 核心财务数据（已交叉验证 ✅）
+### 1.1 Core Financial Data (Cross-Validated ✅)
 
-| 指标 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |------|--------|--------|--------|--------|--------|
-| **营业收入（亿元）** | 78.61 | 113.78 | 121.10 | 150.38 | 197.46 |
-| 收入同比增速 | +59.1% | +44.7% | +6.4% | +24.2% | +31.3% |
-| **归母净利润（亿元）** | 4.12 | 7.01 | 10.08 | 14.72 | 16.75 |
-| 净利润同比增速 | — | +70.4% | +43.7% | +46.1% | +13.8% |
-| **毛利率** | 21.38% | 25.07% | 32.29% | 29.56% | 26.62% |
-| **经营利润率** | 5.28% | 5.20% | 7.95% | 8.58% | 8.39% |
-| **净利率** | 5.24% | 6.16% | 8.32% | 9.79% | 8.48% |
-| **EPS（元）** | 3.01 | 4.68 | 6.70 | 9.74 | 10.99 |
-| **BVPS（元）** | 24.22 | 28.11 | 33.49 | 40.90 | 49.17 |
+| **Revenue (RMB billion)** | 7.861 | 11.378 | 12.110 | 15.038 | 19.746 |
+| YoY revenue growth | +59.1% | +44.7% | +6.4% | +24.2% | +31.3% |
+| **Net profit attributable to shareholders (RMB billion)** | 0.412 | 0.701 | 1.008 | 1.472 | 1.675 |
+| YoY net profit growth | — | +70.4% | +43.7% | +46.1% | +13.8% |
+| **Gross margin** | 21.38% | 25.07% | 32.29% | 29.56% | 26.62% |
+| **Operating margin** | 5.28% | 5.20% | 7.95% | 8.58% | 8.39% |
+| **Net margin** | 5.24% | 6.16% | 8.32% | 9.79% | 8.48% |
+| **EPS (RMB)** | 3.01 | 4.68 | 6.70 | 9.74 | 10.99 |
+| **BVPS (RMB)** | 24.22 | 28.11 | 33.49 | 40.90 | 49.17 |
 
-数据来源：StockAnalysis（S&P Global）、Investing.com，两个来源数据一致。
+Data source: StockAnalysis (S&P Global), Investing.com — figures consistent across both sources.
 
-### 1.2 现金流与资产负债表（FY2025）
+### 1.2 Cash Flow and Balance Sheet (FY2025)
 
-| 指标 | FY2023 | FY2024 | FY2025 |
+| Metric | FY2023 | FY2024 | FY2025 |
 |------|--------|--------|--------|
-| 经营现金流（亿元） | 13.85 | 29.73 | 39.66 |
-| 资本开支（亿元） | -8.62 | -4.03 | -7.73 |
-| 自由现金流（亿元） | 3.01 | 22.26 | 25.24 |
-| 货币资金（亿元） | — | 71.49 | 95.77 |
-| 总债务（亿元） | — | 1.88 | 2.49 |
-| **净现金（亿元）** | — | 69.70 | **93.28** |
+| Operating cash flow (RMB billion) | 1.385 | 2.973 | 3.966 |
+| Capital expenditure (RMB billion) | -0.862 | -0.403 | -0.773 |
+| Free cash flow (RMB billion) | 0.301 | 2.226 | 2.524 |
+| Cash and cash equivalents (RMB billion) | — | 7.149 | 9.577 |
+| Total debt (RMB billion) | — | 0.188 | 0.249 |
+| **Net cash (RMB billion)** | — | 6.970 | **9.328** |
 | ROE | 21.67% | 26.25% | 22.95% |
 | ROIC | 19.22% | 22.42% | 22.17% |
 
-### 1.3 FY2025 分部收入
+### 1.3 FY2025 Segment Revenue
 
-| 业务线 | 收入（亿元） | 占比 | 同比增速 | 销量（万台） |
+| Business Line | Revenue (RMB billion) | Share | YoY Growth | Units Sold (thousand) |
 |--------|------------|------|----------|------------|
-| 全地形车（ATV/UTV） | 96.08 | 48.7% | +33.3% | 19.70 |
-| 燃油摩托车 | 64.71 | 32.8% | +7.2% | 29.59 |
-| 极核电动两轮车 | 19.12 | 9.7% | +381.0% | 55.12 |
-| 配件及其他 | 11.96 | 6.1% | +15.5% | — |
-| 其他业务 | 5.58 | 2.8% | — | — |
-| **合计** | **197.46** | **100%** | **+31.3%** | — |
+| All-terrain vehicles (ATV/UTV) | 9.608 | 48.7% | +33.3% | 197.0 |
+| Gasoline motorcycles | 6.471 | 32.8% | +7.2% | 295.9 |
+| Zeeho electric two-wheelers | 1.912 | 9.7% | +381.0% | 551.2 |
+| Parts, accessories and other | 1.196 | 6.1% | +15.5% | — |
+| Other businesses | 0.558 | 2.8% | — | — |
+| **Total** | **19.746** | **100%** | **+31.3%** | — |
 
-### 1.4 估值指标（工具验算 ✅）
+### 1.4 Valuation Metrics (Tool-Verified ✅)
 
-| 指标 | 数值 | 验算方法 |
+| Metric | Value | Calculation |
 |------|------|---------|
-| PE（TTM） | **21.94x** | 241.11 / 10.99 = 21.94 |
+| PE (TTM) | **21.94x** | 241.11 / 10.99 = 21.94 |
 | PB | **4.90x** | 241.11 / 49.17 = 4.90 |
 | P/FCF | **14.67x** | 241.11 / 16.44 = 14.67 |
-| FCF收益率 | **6.82%** | 16.44 / 241.11 |
-| 股息率 | **1.74%** | 4.20 / 241.11 |
+| FCF yield | **6.82%** | 16.44 / 241.11 |
+| Dividend yield | **1.74%** | 4.20 / 241.11 |
 | ROE | **22.35%** | 10.99 / 49.17 |
-| PS | **1.87x** | 370亿 / 197.46亿 |
-| PEG | **0.66** | 基于未来3年复合增速27.83% |
+| PS | **1.87x** | RMB 37.0bn / RMB 19.746bn |
+| PEG | **0.66** | Based on a 27.83% 3-year forward compound growth rate |
 | EV/EBITDA | **13.90x** | StockAnalysis |
 
-### 关键数据交叉验证记录
+### Key Data Cross-Validation Log
 
-| 验证项 | 结果 | 偏差 |
+| Validation Item | Result | Deviation |
 |--------|------|------|
-| 市值验算（股价×股本 vs 报告市值） | ✅ 通过 | 0.02% |
-| FY2025营业收入（2源对比） | ✅ 通过 | 0.00% |
-| FY2025归母净利润（2源对比） | ✅ 通过 | 0.00% |
-| 净现金（推算 vs 报告） | ✅ 通过 | 0.00% |
-| 估值指标（工具精确计算） | ✅ 通过 | 精确十进制 |
+| Market cap check (price x share count vs. reported market cap) | ✅ Passed | 0.02% |
+| FY2025 revenue (2-source comparison) | ✅ Passed | 0.00% |
+| FY2025 net profit attributable to shareholders (2-source comparison) | ✅ Passed | 0.00% |
+| Net cash (calculated vs. reported) | ✅ Passed | 0.00% |
+| Valuation metrics (precise tool calculation) | ✅ Passed | Exact decimal |
 
 ---
 
-## 第二步：生意本质分析 — 段永平"对的生意"
+## Step 2: Business Nature Analysis — Duan Yongping's "The Right Business"
 
-### 一句话定义
+### One-Sentence Definition
 
-**春风动力是中国唯一具备全球竞争力的动力运动装备平台型企业，以自研发动机为核心，在ATV/UTV、中大排量摩托车、电动两轮车三条赛道同时发力。**
+**CFMoto is the only China-based powersports equipment platform company with genuine global competitiveness, built around self-developed engines and pushing simultaneously across three tracks: ATV/UTV, mid-to-large-displacement motorcycles, and electric two-wheelers.**
 
-### 商业模式画布
+### Business Model Canvas
 
-| 维度 | 描述 |
+| Dimension | Description |
 |------|------|
-| 收入模式 | 以一次性整车销售为主（~90%），配件/服务复购为辅（~10%） |
-| 产品形态 | 硬件制造（整车+发动机），非软件/平台 |
-| 客户结构 | 海外收入占比~65%（北美~30%、欧洲~27%、其他~8%），国内~35% |
-| 渠道模式 | 国内1,400+经销商；海外7,000+零售终端；美国220家由子公司直管 |
-| 竞争定位 | "高性价比的全球挑战者"——同品质比竞品便宜1,000美元+ |
+| Revenue model | Mostly one-time whole-vehicle sales (~90%), with parts/service repeat purchases as a smaller component (~10%) |
+| Product form | Hardware manufacturing (complete vehicles + engines), not software/platform |
+| Customer mix | Overseas revenue accounts for ~65% (North America ~30%, Europe ~27%, other ~8%), domestic ~35% |
+| Channel model | 1,400+ domestic dealers; 7,000+ overseas retail outlets; 220 outlets in the US directly managed by a subsidiary |
+| Competitive positioning | "The high-value global challenger" — comparable quality at $1,000+ less than competitors |
 
-### 5年盈利能力趋势
+### 5-Year Profitability Trend
 
-| 指标 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | 趋势 |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Trend |
 |------|--------|--------|--------|--------|--------|------|
-| 毛利率 | 21.4% | 25.1% | 32.3% | 29.6% | 26.6% | 2023年见顶后回落 |
-| 经营利润率 | 5.3% | 5.2% | 8.0% | 8.6% | 8.4% | 稳步提升后企稳 |
-| 净利率 | 5.2% | 6.2% | 8.3% | 9.8% | 8.5% | 2024年高点后回落 |
-| ROE | — | — | 21.7% | 26.3% | 23.0% | 持续优秀（>20%） |
+| Gross margin | 21.4% | 25.1% | 32.3% | 29.6% | 26.6% | Peaked in 2023, then declined |
+| Operating margin | 5.3% | 5.2% | 8.0% | 8.6% | 8.4% | Steady improvement, then stabilized |
+| Net margin | 5.2% | 6.2% | 8.3% | 9.8% | 8.5% | Peaked in 2024, then declined |
+| ROE | — | — | 21.7% | 26.3% | 23.0% | Consistently strong (>20%) |
 
-**毛利率波动原因**：2023年毛利率32.3%为异常高点，受益于产品结构优化和汇率利好；2024-2025年回落至27-30%区间，主因：(1) 原材料成本上升；(2) 美国关税（2025年关税成本约9.8亿元）；(3) 极核电动两轮车快速放量但毛利率为负（-0.03%），拉低整体。
+**Reasons for gross-margin volatility**: The 32.3% gross margin in 2023 was an anomalous peak, driven by favorable product mix and exchange rates; it declined to the 27-30% range in 2024-2025, mainly due to: (1) rising raw material costs; (2) US tariffs (2025 tariff costs of approximately RMB 980 million); (3) Zeeho electric two-wheelers scaling rapidly in volume while running a negative gross margin (-0.03%), which dragged down the overall figure.
 
-### 经营杠杆分析
+### Operating Leverage Analysis
 
-春风动力具备显著的经营杠杆效应：
-- FY2024收入+24%，净利润+46%——利润增速接近收入增速的2倍
-- FY2025收入+31%，净利润仅+14%——经营杠杆被关税成本和极核亏损抵消
-- 研发费用率从7.6%（2023）降至6.2%（2025），但绝对额持续增长（12.2亿），体现规模效应
-- 随着极核毛利率转正、关税成本稳定，经营杠杆有望重新释放
+CFMoto exhibits a pronounced operating leverage effect:
+- FY2024 revenue +24%, net profit +46% — profit growth was nearly double revenue growth
+- FY2025 revenue +31%, net profit only +14% — operating leverage was offset by tariff costs and Zeeho's losses
+- The R&D expense ratio fell from 7.6% (2023) to 6.2% (2025), but the absolute amount kept growing (RMB 1.22 billion), reflecting scale effects
+- As Zeeho's gross margin turns positive and tariff costs stabilize, operating leverage should re-emerge
 
-### 生态粘性/客户锁定
+### Ecosystem Stickiness / Customer Lock-in
 
-**锁定强度：中低**
+**Lock-in strength: Low-to-moderate**
 
-- 一次性销售为主，复购依赖品牌忠诚而非切换成本
-- 配件/服务后市场收入占比低（~10%），远不如Polaris/BRP的20-25%
-- 海外经销商网络有一定渠道粘性，但终端消费者品牌忠诚度仍需积累
-- 正面因素：MotoGP赛事成绩和骑行社区正在构建情感联结
+- Sales are mostly one-time transactions; repeat purchases depend on brand loyalty rather than switching costs
+- Parts/service aftermarket revenue is a low share (~10%), well below Polaris/BRP's 20-25%
+- The overseas dealer network has some channel stickiness, but end-consumer brand loyalty still needs to be built
+- Positive factor: MotoGP racing results and the riding community are building emotional connection
 
-### 段永平式追问
+### Duan Yongping-Style Question
 
-> **这门生意好在哪？如果只能用一句话描述，是什么？**
+> **What's good about this business? If you could describe it in one sentence, what would it be?**
 
-这门生意的本质是：**用中国制造业的成本优势+自研发动机技术，在全球动力运动这个被美日欧寡头垄断的高附加值赛道中撕开缺口**。好处在于，动力运动是一个全球化、高壁垒、稳定增长的品类，一旦建立起品牌和渠道，就能持续获取份额；但挑战在于，作为硬件制造商，缺乏软件/平台的网络效应和高复购粘性，增长依赖持续的产品力和渠道拓展。
+The essence of this business is: **using China's manufacturing cost advantage plus self-developed engine technology to break open a gap in the high-value-added global powersports category that has long been dominated by an oligopoly of US, Japanese, and European players**. The upside is that powersports is a globalized, high-barrier, steadily growing category — once a brand and distribution network are built, share gains can continue; the challenge is that, as a hardware manufacturer, the company lacks the network effects and high repeat-purchase stickiness of software/platform businesses, so growth depends on continuously executing on product strength and channel expansion.
 
 ---
 
-## 第三步：护城河评估 — 巴菲特"经济护城河"
+## Step 3: Moat Assessment — Buffett's "Economic Moat"
 
-### 五类护城河逐一验证
+### Five Moat Types, Examined One by One
 
-| 护城河类型 | 评级 | 核心证据 |
+| Moat Type | Rating | Core Evidence |
 |-----------|------|---------|
-| **品牌/定价权** | ★★★☆☆ 中等 | 欧洲ATV市占率第一连续10年+；MotoGP Moto3包揽三料冠军（中国品牌首次）；红点设计奖。但全球品牌力仍弱于Polaris/BRP/Honda，主要靠性价比竞争而非品牌溢价，定价权有限 |
-| **转换成本** | ★★☆☆☆ 较弱 | 消费者可以较低成本切换到竞品；配件体系有一定锁定但不强；经销商层面有一定转换成本（培训、库存、工具） |
-| **网络效应** | ★☆☆☆☆ 很弱 | 硬件制造业，用户越多产品不会越好；骑行社区和赛事文化提供了微弱的社区效应 |
-| **规模效应** | ★★★★☆ 强 | 自研发动机+纵向一体化制造，从铸造到总装"一个屋檐下"完成；年产能80万台发动机、60万+整车；相较日系品牌有30-40%成本优势；国家级智能制造示范企业 |
-| **技术/专利壁垒** | ★★★☆☆ 中等 | 累计有效专利2,119项（含发明242项）；自主三缸动力平台；基于KTM LC8c平台开发能力。但发动机技术非独家，竞争对手有更深积累 |
+| **Brand / pricing power** | ★★★☆☆ Moderate | #1 European ATV market share for 10+ consecutive years; swept all three Moto3 titles at MotoGP (a first for a Chinese brand); Red Dot Design Award winner. But global brand strength still trails Polaris/BRP/Honda; competes mainly on value rather than brand premium, so pricing power is limited |
+| **Switching costs** | ★★☆☆☆ Weak | Consumers can switch to competing products at relatively low cost; the parts ecosystem provides some lock-in but it is not strong; there are some switching costs at the dealer level (training, inventory, tooling) |
+| **Network effects** | ★☆☆☆☆ Very weak | As a hardware manufacturer, the product doesn't get better simply because more people use it; the riding community and racing culture provide a mild community effect |
+| **Scale effects** | ★★★★☆ Strong | Self-developed engines plus vertically integrated manufacturing, with everything from casting to final assembly done "under one roof"; annual capacity of 800,000 engines and 600,000+ complete vehicles; a 30-40% cost advantage versus Japanese brands; a nationally recognized smart-manufacturing demonstration enterprise |
+| **Technology / patent barriers** | ★★★☆☆ Moderate | 2,119 valid patents accumulated (including 242 invention patents); a proprietary inline-three-cylinder powertrain platform; development capability built on the KTM LC8c platform. But engine technology is not exclusive, and competitors have deeper accumulated know-how |
 
-### 护城河趋势：过去5年变宽还是变窄？
+### Moat Trend: Widening or Narrowing Over the Past 5 Years?
 
-**过去5年（2021-2025）：明显变宽**
+**Past 5 years (2021-2025): Clearly widening**
 
-| 维度 | 2021年 | 2025年 | 变化 |
+| Dimension | 2021 | 2025 | Change |
 |------|--------|--------|------|
-| 全球ATV市占率 | ~3% | ~6% | 翻倍 |
-| 中国大排量摩托市占率 | ~10% | ~21% | 翻倍 |
-| 海外经销商网络 | ~3,000家 | 7,000+家 | 翻倍+ |
-| 研发投入 | 3.79亿 | 12.20亿 | 3.2倍 |
-| 累计专利 | ~800项 | 2,119项 | 2.6倍 |
-| 全球产能布局 | 仅中国 | 中国+泰国+墨西哥 | 三洲布局 |
+| Global ATV market share | ~3% | ~6% | Doubled |
+| China large-displacement motorcycle market share | ~10% | ~21% | Doubled |
+| Overseas dealer network | ~3,000 | 7,000+ | More than doubled |
+| R&D spending | RMB 379 million | RMB 1.22 billion | 3.2x |
+| Cumulative patents | ~800 | 2,119 | 2.6x |
+| Global manufacturing footprint | China only | China + Thailand + Mexico | Three-continent footprint |
 
-**未来5年预判：继续变宽，但速度放缓**
+**Outlook for the next 5 years: Continued widening, but at a slower pace**
 
-有利因素：规模效应持续增强、品牌通过赛事积累势能、全球渠道网络日趋成熟。
-不利因素：KTM合作关系变化（技术来源不确定性）、关税壁垒增加成本、极核电动领域竞争激烈。
+Favorable factors: continuing scale effects, brand momentum built through racing, and an increasingly mature global distribution network.
+Unfavorable factors: changes in the KTM partnership (uncertainty over the technology source), tariff barriers raising costs, and intense competition in electric two-wheelers.
 
-### 巴菲特式追问
+### Buffett-Style Question
 
-> **10年后这条护城河还在吗？什么能摧毁它？**
+> **Will this moat still be there in 10 years? What could destroy it?**
 
-护城河的核心是**规模效应+全球渠道网络**，这两者10年后大概率还在——产能和渠道是需要数十年积累的重资产，竞争对手难以快速复制。能摧毁它的力量是：(1) 电动化颠覆——如果动力运动快速电动化，新进入者可能绕过发动机壁垒；(2) 中国品牌内卷——更多中国制造商以更低价格进入海外市场，削弱春风的性价比优势；(3) 贸易壁垒封锁——如果主要市场对中国制造设置不可逾越的关税墙。
+The core of the moat is **scale effects plus a global distribution network**, and both will very likely still be there in 10 years — capacity and channels are heavy assets that take decades to build, and competitors cannot replicate them quickly. Forces that could destroy it: (1) electrification disruption — if powersports rapidly electrifies, new entrants could bypass the engine barrier entirely; (2) intensifying competition among Chinese brands — more Chinese manufacturers entering overseas markets at lower prices, eroding CFMoto's value advantage; (3) trade-barrier lockout — if major markets erect insurmountable tariff walls against Chinese manufacturing.
 
 ---
 
-## 第四步：逆向思考与风险清单 — 芒格"反过来想"
+## Step 4: Inversion and Risk Checklist — Munger's "Invert, Always Invert"
 
-### 公司可能失败的所有路径
+### All the Ways This Company Could Fail
 
-| # | 失败路径 | 概率 | 影响 | 说明 |
+| # | Failure Path | Probability | Impact | Notes |
 |---|---------|------|------|------|
-| 1 | 美国关税持续升级，墨西哥/泰国转口路径被封堵 | 中高 | 致命 | 2025年关税成本已达9.8亿（占净利润58%）；若综合税率升至50%+，美国市场将不可经营 |
-| 2 | KTM技术合作彻底终止，高端产品线断供 | 中 | 严重 | 1250NK/1250MT等旗舰车型基于KTM平台；Bajaj接管后合作前景不明 |
-| 3 | 极核电动持续亏损，拖累整体盈利 | 中 | 中等 | 2025年极核收入19亿但毛利率-0.03%；若2026年仍无法转正，资本市场信心将受损 |
-| 4 | 北美ATV/UTV需求长期低迷 | 低中 | 严重 | 北美UTV 2024年销量-7.2%，若高利率环境持续压制可选消费 |
-| 5 | 产能扩张过度（桐乡35亿项目） | 低中 | 中等 | 在手项目+可转债21.79亿，若需求不达预期则利用率承压 |
-| 6 | 汇率剧烈波动 | 中 | 中等 | 海外收入占比65%+，人民币大幅升值将直接侵蚀利润 |
-| 7 | Polaris/BRP发起价格战 | 低 | 中等 | Polaris 2025年TTM亏损，可能为保份额而降价 |
-| 8 | 电动化颠覆燃油动力运动 | 低 | 长期致命 | 电动ATV/UTV CAGR 19.6%远高于传统7.4%，但渗透率仍低 |
-| 9 | 创始人家族治理风险 | 低 | 中等 | 赖国贵家族控股40%，2025年高位减持6.32亿 |
+| 1 | US tariffs keep escalating, closing off the Mexico/Thailand transshipment routes | Medium-high | Fatal | 2025 tariff costs already reached RMB 980 million (58% of net profit); if the combined tariff rate rises above 50%, the US market would become unviable |
+| 2 | The KTM technical partnership terminates completely, cutting off supply for the flagship lineup | Medium | Severe | Flagship models like the 1250NK/1250MT are built on the KTM platform; the outlook for the partnership is unclear after Bajaj took control |
+| 3 | Zeeho electric two-wheelers keep losing money, dragging down overall profitability | Medium | Moderate | Zeeho revenue was RMB 1.9 billion in 2025 but gross margin was -0.03%; if it still can't turn positive in 2026, capital-market confidence would be damaged |
+| 4 | North American ATV/UTV demand stays depressed for an extended period | Low-medium | Severe | North American UTV sales fell -7.2% in 2024; a persistently high-rate environment could continue to suppress discretionary spending |
+| 5 | Over-expansion of capacity (the RMB 3.5 billion Tongxiang project) | Low-medium | Moderate | Committed projects plus RMB 2.179 billion in convertible bonds — utilization would come under pressure if demand falls short of expectations |
+| 6 | Sharp foreign-exchange volatility | Medium | Moderate | Overseas revenue is 65%+ of the total; a sharp appreciation of the yuan would directly erode profit |
+| 7 | Polaris/BRP launch a price war | Low | Moderate | Polaris posted a TTM loss in 2025 and may cut prices to defend share |
+| 8 | Electrification disrupts gasoline-powered powersports | Low | Fatal long-term | Electric ATV/UTV CAGR of 19.6% far outpaces the 7.4% for traditional models, though penetration is still low |
+| 9 | Founder-family governance risk | Low | Moderate | The Lai family controls 40% of shares; in 2025 they sold RMB 632 million worth of stock near a price high |
 
-### 历史类比
+### Historical Analogues
 
-| 类比公司 | 相似点 | 结局 | 对春风的启示 |
+| Analogous Company | Similarity | Outcome | Lesson for CFMoto |
 |----------|--------|------|-------------|
-| **比亚迪（2010年）** | 中国制造出海，从低端切入，纵向一体化 | 成为全球新能源汽车龙头 | 春风在动力运动领域走类似路径，但赛道规模小得多 |
-| **海尔/美的（2010年代）** | 中国家电品牌全球化，收购+自建渠道 | 成功建立全球品牌 | 春风的渠道建设走在正确路径上 |
-| **华晨宝马/观致汽车** | 合资学技术→自主品牌 | 华晨失败（过度依赖合资），观致失败 | 春风须警惕对KTM技术的过度依赖 |
-| **雅迪/小牛（电动两轮）** | 中国电动两轮车出海 | 雅迪全球销量第一，小牛增长放缓 | 极核需要在品牌定位上差异化 |
+| **BYD (2010)** | Chinese manufacturing going global, entering at the low end, vertical integration | Became the global leader in new-energy vehicles | CFMoto is following a similar path in powersports, but the addressable market is far smaller |
+| **Haier / Midea (2010s)** | Chinese appliance brands going global via acquisitions plus self-built channels | Successfully built global brands | CFMoto's channel-building is on the right track |
+| **Brilliance-BMW / Qoros** | Joint venture to learn technology → own brand | Brilliance failed (over-reliance on the joint venture); Qoros also failed | CFMoto must guard against over-reliance on KTM technology |
+| **Yadea / Niu (electric two-wheelers)** | Chinese electric two-wheelers going global | Yadea is #1 in global sales; Niu's growth has slowed | Zeeho needs to differentiate its brand positioning |
 
-### 偏误自查
+### Bias Self-Check
 
-| 偏误类型 | 检查结果 |
+| Bias Type | Check Result |
 |----------|---------|
-| **叙事偏差** | "中国动力运动龙头出海"是一个compelling的叙事，需警惕被故事吸引而忽视关税和盈利质量问题 |
-| **锚定效应** | 股价从305元跌至241元，可能让人觉得"便宜了"，但需从绝对估值判断 |
-| **幸存者偏差** | 春风是中国ATV出口中唯一成功的大品牌，但这不意味着成功可以永续 |
-| **确认偏差** | 多数券商给出买入评级（14/16），需特别重视空方论点 |
+| **Narrative bias** | "China's powersports leader going global" is a compelling narrative; must guard against being drawn in by the story while overlooking tariff and earnings-quality issues |
+| **Anchoring** | The share price falling from RMB 305 to RMB 241 may make it feel "cheap," but the judgment should be based on absolute valuation |
+| **Survivorship bias** | CFMoto is the only major Chinese brand to have succeeded in ATV exports, but that does not mean success is guaranteed to continue |
+| **Confirmation bias** | Most brokerages have issued Buy ratings (14 of 16); the bear case deserves particular attention |
 
-### 空方核心论点
+### Core Bear-Case Arguments
 
-1. **2026Q1利润增速骤降至+1.8%**（vs 2025Q1的+49.6%），可能预示增长中枢下移
-2. **毛利率从32.3%（2023）持续下滑至26.6%（2025）**，三年下降5.7个百分点，趋势不佳
-3. **PS 1.87x是全球同行最高**（Polaris 0.53x、BRP 0.67x），隐含了过高的增长预期
-4. **KTM合作变局**：欧洲28国代理终止+技术合作前景不明，高端化路径受阻
-5. **控股股东高位减持6.32亿**：如果管理层都在卖，为什么散户要买？
+1. **Q1 2026 profit growth plunged to +1.8%** (vs. +49.6% in Q1 2025), which may signal a downshift in the underlying growth rate
+2. **Gross margin has fallen steadily from 32.3% (2023) to 26.6% (2025)**, down 5.7 percentage points over three years — an unfavorable trend
+3. **A P/S of 1.87x is the highest among global peers** (Polaris 0.53x, BRP 0.67x), implying an overly optimistic growth expectation
+4. **KTM partnership upheaval**: distribution agreements across 28 European countries have ended, and the outlook for technical cooperation is unclear — the premiumization path is at risk
+5. **The controlling shareholder sold RMB 632 million of stock near a price high**: if management is selling, why should retail investors be buying?
 
-### 芒格式追问
+### Munger-Style Question
 
-> **我最可能在哪里犯错？聪明人为什么会不买/做空这家公司？**
+> **Where am I most likely to be wrong? Why would smart people avoid buying — or short — this company?**
 
-最可能犯错之处：**高估了春风的定价权，低估了关税对盈利的结构性侵蚀**。春风的核心竞争力是"比Polaris/BRP便宜1,000美元+"，但如果关税抹平了这个价差，春风在北美就失去了存在的理由。聪明人不买的理由是：这是一家制造业公司，ROE虽然不错（23%），但毛利率只有27%且在下滑，净利率8.5%，利润增速（+14%）已经大幅落后于收入增速（+31%），说明赚钱越来越"费劲"了。
+The most likely place to be wrong: **overestimating CFMoto's pricing power and underestimating how much tariffs are structurally eroding its profitability**. CFMoto's core competitive edge is being "$1,000+ cheaper than Polaris/BRP," but if tariffs erase that price gap, CFMoto loses its reason for being in the North American market. The reason smart people avoid buying: this is a manufacturing company where ROE is decent (23%), but gross margin is only 27% and declining, net margin is 8.5%, and profit growth (+14%) has already fallen well behind revenue growth (+31%) — meaning it is getting progressively "harder" to make money.
 
 ---
 
-## 第五步：管理层评估 — 段永平"对的人" + 巴菲特"管理层诚信"
+## Step 5: Management Assessment — Duan Yongping's "The Right People" + Buffett's "Management Integrity"
 
-### 创始人：赖国贵
+### Founder: Lai Guogui
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| 年龄 | 1964年生，62岁 |
-| 背景 | 温州乐清人，大专学历，1989年创办春风摩托配件厂 |
-| 持股 | 通过春风控股持股29.49%，家族合计~40% |
-| 角色变化 | 2024年12月卸任董事长，改任普通董事，完成交班 |
+| Age | Born 1964, age 62 |
+| Background | From Yueqing, Wenzhou; associate's degree; founded the CFMoto motorcycle parts factory in 1989 |
+| Shareholding | Holds 29.49% through CFMoto Holding; the family holds ~40% in total |
+| Role change | Stepped down as chairman in December 2024, becoming an ordinary director, completing the succession |
 
-### 接班人：赖民杰（"创二代"）
+### Successor: Lai Minjie ("second-generation heir")
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| 年龄 | 1985年生，41岁 |
-| 入职时间 | 2008年，在公司18年 |
-| 晋升路径 | 市场部→创意中心→研究院副院长→总经理（2015）→董事长（2024） |
-| 薪酬 | 176万元/年（2025年），在A股制造业中属中低水平 |
+| Age | Born 1985, age 41 |
+| Joined | 2008, 18 years at the company |
+| Career path | Marketing dept. → Creative Center → Deputy Director of the R&D Institute → General Manager (2015) → Chairman (2024) |
+| Compensation | RMB 1.76 million/year (2025), on the low-to-moderate end for A-share manufacturers |
 
-### CEO关键决策复盘
+### CEO Key Decision Review
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Outcome | Rating |
 |------|------|------|------|
-| 2013年 | 与KTM建立合作（代理→合资→参股） | 获取LC8c发动机技术，高端化关键转折点 | ★★★★★ |
-| 2017年 | A股IPO，募资投产能 | 成功融资并扩大规模 | ★★★★☆ |
-| 2020年 | 创立极核电动品牌 | 2025年收入19亿，爆发式增长，但尚未盈利 | ★★★☆☆（待观察） |
-| 2021年 | 泰国工厂投产 | 有效分散关税风险 | ★★★★☆ |
-| 2023年 | 墨西哥工厂投产 | 对冲美国关税，正确的前瞻布局 | ★★★★★ |
-| 2025年初 | 竞购KTM母公司（3.5-7亿欧元） | 未能成功，Bajaj胜出，避免了巨额资本支出 | ★★★☆☆（未成但也未损） |
-| 2025年9月 | 股价历史高位305元时公告减持 | 市场信心受创，市值蒸发80亿 | ★☆☆☆☆（严重负面） |
-| 2026年3月 | 控股德国Kalex，独立布局MotoGP | 开始"去KTM化"，展示战略自主性 | ★★★★☆ |
+| 2013 | Established a partnership with KTM (distributor → joint venture → equity stake) | Gained LC8c engine technology — a key turning point for premiumization | ★★★★★ |
+| 2017 | A-share IPO, raised funds for capacity | Successfully raised capital and scaled up | ★★★★☆ |
+| 2020 | Launched the Zeeho electric brand | 2025 revenue of RMB 1.9 billion, explosive growth, but not yet profitable | ★★★☆☆ (to be watched) |
+| 2021 | Thailand plant came online | Effectively diversified tariff risk | ★★★★☆ |
+| 2023 | Mexico plant came online | Hedged US tariffs — correct forward-looking positioning | ★★★★★ |
+| Early 2025 | Bid for KTM's parent company (EUR 350-700 million) | Unsuccessful — Bajaj won — but avoided massive capital outlay | ★★★☆☆ (unsuccessful, but no harm done) |
+| September 2025 | Announced a share sale at a historic price high of RMB 305 | Market confidence was hurt; market cap fell by RMB 8.0 billion | ★☆☆☆☆ (seriously negative) |
+| March 2026 | Took a controlling stake in Germany's Kalex, building an independent MotoGP program | Began "de-KTM-ifying," demonstrating strategic autonomy | ★★★★☆ |
 
-### 资本配置能力
+### Capital Allocation Capability
 
-| 维度 | 评估 |
+| Dimension | Assessment |
 |------|------|
-| **研发投入** | 优秀——4年翻5倍（2.36亿→12.20亿），占收入6-7%，力度大 |
-| **分红** | 良好——上市以来累计分红15.55亿，派现率>30%，逐年递增 |
-| **回购** | 一般——累计仅回购7,066万元，规模较小 |
-| **并购** | 保守——以合资和设立子公司为主，未进行大额收购 |
-| **产能投资** | 激进——桐乡35亿新基地+可转债21.79亿，需关注回报率 |
+| **R&D investment** | Excellent — grew roughly 5x over 4 years (RMB 236 million → RMB 1.22 billion), 6-7% of revenue, a strong commitment |
+| **Dividends** | Good — cumulative dividends of RMB 1.555 billion since listing, a payout ratio above 30%, rising year by year |
+| **Buybacks** | Modest — cumulative buybacks of only RMB 70.66 million, a small scale |
+| **M&A** | Conservative — mainly joint ventures and subsidiary formation, no large acquisitions |
+| **Capacity investment** | Aggressive — the new RMB 3.5 billion Tongxiang base plus RMB 2.179 billion in convertible bonds; the return on this investment bears watching |
 
-### 股东利益一致性
+### Alignment with Shareholder Interests
 
-**正面信号**：
-- 家族持股40%，与中小股东利益高度绑定
-- 股权激励覆盖1,310人（占员工25.86%），激励面广
-- 管理层薪酬中低（董事长年薪176万），未过度自肥
+**Positive signals**:
+- The family holds 40%, closely aligning its interests with minority shareholders
+- Equity incentives cover 1,310 people (25.86% of employees) — a broad-based program
+- Management compensation is low-to-moderate (the chairman's annual salary is RMB 1.76 million) — not excessive self-dealing
 
-**负面信号**：
-- **2025年9月高位减持**：股价创历史新高304.8元当日公告减持，实际套现6.32亿元——这是一个明确的负面信号，反映大股东对短期估值的判断与中小股东利益存在冲突
-- 核心技术高管杨东来仅任职3年即离职，家族企业对职业经理人的融合存在挑战
+**Negative signals**:
+- **The September 2025 share sale near a price high**: the sale was announced on the very day the share price hit a record high of RMB 304.8, cashing out RMB 632 million — a clear negative signal reflecting a conflict between the controlling shareholder's short-term valuation judgment and minority shareholders' interests
+- Core technology executive Yang Donglai left after only 3 years — a sign of the challenges family enterprises face in integrating professional managers
 
-### 段永平式追问
+### Duan Yongping-Style Question
 
-> **如果CEO退休，这家公司还能保持竞争力吗？**
+> **If the CEO retired, could this company still stay competitive?**
 
-赖国贵已于2024年底完成交班，赖民杰接任董事长。交接过渡期长达约10年（2015年任总经理），这一点比较正面。但赖民杰尚未经历过真正的行业逆周期考验——他上任以来遇到的最大挑战是关税和KTM变局，目前应对尚可（墨西哥/泰国分散、控股Kalex独立化），但最终成效需要2-3年才能验证。**风险在于这仍是家族企业治理**，关键岗位由家族成员把持，能否吸引和留住顶级职业经理人是长期隐忧。
+Lai Guogui completed the handover at the end of 2024, with Lai Minjie taking over as chairman. The transition period lasted roughly 10 years (he became general manager in 2015), which is a positive sign. But Lai Minjie has not yet been tested by a genuine industry downcycle — the biggest challenges he has faced since taking over are tariffs and the KTM upheaval, and his response so far has been reasonably competent (diversifying to Mexico/Thailand, taking Kalex independent), but the ultimate results will take 2-3 years to confirm. **The risk is that this remains a family-governed enterprise** — key positions are held by family members, and whether the company can attract and retain top professional managers is a long-term concern.
 
 ---
 
-## 第六步：行业与文明趋势 — 李录"文明演进框架"
+## Step 6: Industry and Civilizational Trends — Li Lu's "Framework of Civilizational Evolution"
 
-### 行业是否处于"文明级范式转移"？
+### Is the Industry Undergoing a "Civilizational-Scale Paradigm Shift"?
 
-**不是。** 动力运动行业属于传统制造业+消费升级赛道，不存在类似AI/新能源汽车那样的文明级范式转移。但存在两个结构性趋势：
+**No.** Powersports is a traditional manufacturing sector combined with a consumption-upgrade theme; there is no civilizational-scale paradigm shift comparable to AI or new-energy vehicles. But two structural trends do exist:
 
-1. **中国制造全球化的第三波浪潮**：继家电（海尔/美的）、手机（小米/传音）之后，动力运动装备是中国制造出海的新品类。春风动力是这一浪潮的先锋。
+1. **The third wave of Chinese manufacturing going global**: following home appliances (Haier/Midea) and phones (Xiaomi/Transsion), powersports equipment is the newest category of Chinese manufacturing going overseas. CFMoto is a pioneer of this wave.
 
-2. **中国消费升级——从通勤到休闲**：中国大排量摩托车渗透率仅7.5%，对标日本有2-14倍提升空间；摩旅文化从小众走向主流，这是不可逆的消费趋势。
+2. **China's consumption upgrade — from commuting to leisure**: penetration of large-displacement motorcycles in China is only 7.5%, leaving 2-14x room for improvement versus Japan; motorcycle-touring culture is moving from a niche pursuit to the mainstream, an irreversible consumption trend.
 
-### 历史技术革命类比
+### Historical Technology-Revolution Analogues
 
-| 时期 | 类比 | 与春风的相关性 |
+| Period | Analogue | Relevance to CFMoto |
 |------|------|--------------|
-| 1970-80年代 | 日本摩托车（Honda/Yamaha）全球化，从低端切入欧美市场 | 春风正在重走日本品牌40年前的路，但面临更复杂的贸易壁垒 |
-| 2000-10年代 | 韩国汽车（现代/起亚）从"廉价车"到"主流品牌" | 春风需要完成从"便宜的中国ATV"到"值得信赖的全球品牌"的跃迁 |
-| 2010-20年代 | 中国手机品牌（小米/OPPO）出海 | 春风的性价比策略类似小米，但硬件制造业缺乏软件的网络效应 |
+| 1970s-80s | Japanese motorcycles (Honda/Yamaha) going global, entering the US/Europe at the low end | CFMoto is retracing the path Japanese brands took 40 years ago, but facing more complex trade barriers |
+| 2000s-10s | Korean automakers (Hyundai/Kia) moving from "cheap cars" to "mainstream brands" | CFMoto needs to complete the leap from "cheap Chinese ATV" to "a trusted global brand" |
+| 2010s-20s | Chinese phone brands (Xiaomi/OPPO) going global | CFMoto's value-for-money strategy resembles Xiaomi's, but hardware manufacturing lacks software's network effects |
 
-### TAM增长曲线与天花板
+### TAM Growth Curve and Ceiling
 
-| 市场 | 2025年规模 | 2030-2035年预测 | CAGR | 春风占比 |
+| Market | 2025 Size | 2030-2035 Forecast | CAGR | CFMoto Share |
 |------|-----------|----------------|------|---------|
-| 全球ATV/UTV | ~118亿美元 | ~170-216亿美元 | 7-8% | ~6% |
-| 全球大排量摩托车 | ~284亿美元 | ~487亿美元 | 6.2% | <2% |
-| 中国大排量摩托车 | ~200亿元 | ~400亿元 | ~15% | ~21% |
-| 全球电动两轮车 | 万亿级 | — | — | 极小 |
+| Global ATV/UTV | ~$11.8 billion | ~$17.0-21.6 billion | 7-8% | ~6% |
+| Global large-displacement motorcycles | ~$28.4 billion | ~$48.7 billion | 6.2% | <2% |
+| China large-displacement motorcycles | ~RMB 20.0 billion | ~RMB 40.0 billion | ~15% | ~21% |
+| Global electric two-wheelers | Trillion-yuan scale | — | — | Negligible |
 
-**天花板分析**：春风当前197亿收入，面对的全球TAM至少在500-700亿美元（3500-5000亿元）量级。即使只在ATV/UTV领域将全球份额从6%提升至10-12%，收入天花板也在800-1000亿元以上。**天花板不是当前的约束**。
+**Ceiling analysis**: Against CFMoto's current revenue of RMB 19.7 billion, the global TAM it addresses is at least in the $50-70 billion (RMB 350-500 billion) range. Even if it only raised its global ATV/UTV share from 6% to 10-12%, the revenue ceiling would be above RMB 80-100 billion. **The ceiling is not the current constraint.**
 
-### 公司在产业价值链中的位置
+### The Company's Position in the Industry Value Chain
 
-春风动力是产业链中游的**纵向一体化整车制造商**：
-- 自研发动机（不依赖第三方），掌控核心零部件
-- 从铸造、机加工到底盘焊接、喷涂、总装一体化完成
-- 下游渠道自建（国内1,400+、海外7,000+终端）
-- 这种高度垂直整合的模式在中国同行中独一无二
+CFMoto is a **vertically integrated complete-vehicle manufacturer** in the midstream of the industry chain:
+- Self-developed engines (not dependent on third parties), giving control over core components
+- Integrated processes from casting and machining through to chassis welding, painting, and final assembly
+- Self-built downstream channels (1,400+ domestic, 7,000+ overseas outlets)
+- This highly vertically integrated model is unique among Chinese peers
 
-### 客户/供应商集中度
+### Customer / Supplier Concentration
 
-| 维度 | 风险等级 | 说明 |
+| Dimension | Risk Level | Notes |
 |------|---------|------|
-| 客户集中度 | 低 | 全球100+国家、7,000+终端，无单一客户依赖 |
-| 供应商集中度 | 中低 | 核心发动机自制，但仍依赖部分进口零部件（如电子元器件） |
-| 区域集中度 | 中 | 北美+欧洲合计占海外收入~85%，对这两个区域依赖度高 |
+| Customer concentration | Low | 100+ countries globally, 7,000+ outlets, no dependence on any single customer |
+| Supplier concentration | Low-medium | Core engines are made in-house, but the company still depends on some imported components (e.g., electronic parts) |
+| Regional concentration | Medium | North America plus Europe together account for ~85% of overseas revenue — high dependence on these two regions |
 
-### 李录式追问
+### Li Lu-Style Question
 
-> **站在20年后回看，这家公司是"这个时代的标准石油"还是"昙花一现的3Com"？**
+> **Looking back from 20 years from now, will this company be "the Standard Oil of this era" or "a flash-in-the-pan 3Com"?**
 
-春风动力更接近**"这个时代的现代汽车"**——一家通过性价比优势从新兴市场走向全球主流的制造企业。它不会成为垄断性的标准石油（动力运动市场不够大，也不具备赢家通吃的网络效应），但也不会是昙花一现的3Com——发动机技术、全球渠道网络和制造能力是实实在在的资产，不会因为某个技术路线切换而一夜归零。20年后的风险在于：如果动力运动全面电动化，春风的燃油发动机壁垒将失去价值——但这个转型的时间窗口至少还有10-15年。
+CFMoto is closer to **"the Hyundai of this era"** — a manufacturer that has moved from an emerging market into the global mainstream on the strength of a value-for-money advantage. It will not become a monopolistic Standard Oil (the powersports market isn't big enough, and it lacks winner-take-all network effects), but it also won't be a flash-in-the-pan 3Com — engine technology, a global distribution network, and manufacturing capability are real assets that won't go to zero overnight just because one technology path shifts. The risk 20 years out: if powersports fully electrifies, CFMoto's gasoline-engine barrier would lose its value — but that transition window is still at least 10-15 years away.
 
 ---
 
-## 第七步：估值与安全边际 — 巴菲特"内在价值" + 段永平"对的价格"
+## Step 7: Valuation and Margin of Safety — Buffett's "Intrinsic Value" + Duan Yongping's "The Right Price"
 
-### 7.1 当前市场定价
+### 7.1 Current Market Pricing
 
-| 指标 | 春风动力 | 同行对比 |
+| Metric | CFMoto | Peer Comparison |
 |------|---------|---------|
-| PE（TTM） | 21.94x | Polaris 亏损、BRP 22.1x、隆鑫 14.6x |
-| PE（Forward） | ~15.2x | Polaris 31.1x、BRP 29.7x、隆鑫 ~12.8x |
-| PB | 4.90x | Polaris 5.21x、BRP 8.51x、隆鑫 2.49x |
-| PS | 1.87x | Polaris 0.53x、BRP 0.67x、隆鑫 1.30x |
+| PE (TTM) | 21.94x | Polaris loss-making, BRP 22.1x, Loncin 14.6x |
+| PE (Forward) | ~15.2x | Polaris 31.1x, BRP 29.7x, Loncin ~12.8x |
+| PB | 4.90x | Polaris 5.21x, BRP 8.51x, Loncin 2.49x |
+| PS | 1.87x | Polaris 0.53x, BRP 0.67x, Loncin 1.30x |
 | P/FCF | 14.67x | — |
-| 股息率 | 1.74% | 隆鑫 6.16%、Polaris/BRP <1% |
+| Dividend yield | 1.74% | Loncin 6.16%, Polaris/BRP <1% |
 | PEG | 0.66 | — |
-| 净现金占市值比 | **25.2%** | 极为罕见的高比例 |
+| Net cash as % of market cap | **25.2%** | An unusually high ratio |
 
-**关键发现**：
-1. PE和PB与BRP/Polaris基本持平，但春风的增速远超对手（+31% vs +3-6%）
-2. PS是同行最高（1.87x vs 0.5-0.7x），说明市场对春风的收入增长给予了溢价
-3. Forward PE仅15.2x，如果2026年利润增长达到一致预期（+31-44%），估值并不贵
-4. **净现金93亿占市值25%**，扣除净现金后的"企业价值"仅277亿，EV/净利润仅16.5x
+**Key findings**:
+1. PE and PB are roughly on par with BRP/Polaris, but CFMoto's growth rate far exceeds theirs (+31% vs. +3-6%)
+2. PS is the highest among peers (1.87x vs. 0.5-0.7x), indicating the market is awarding CFMoto's revenue growth a premium
+3. Forward PE is only 15.2x; if 2026 profit growth meets consensus expectations (+31-44%), the valuation is not expensive
+4. **Net cash of RMB 9.3 billion is 25% of market cap**; enterprise value after stripping out net cash is only RMB 27.7 billion, putting EV/net profit at just 16.5x
 
-### 7.2 反向DCF：当前股价隐含了什么增长预期？
+### 7.2 Reverse DCF: What Growth Rate Is Priced Into the Current Share Price?
 
-当前股价241元，PE 21.94x，隐含的假设是：
-- 如果给予15x终端PE（制造业合理水平），需要未来3年EPS从10.99元增长至16.07元，即复合增速**13.5%**
-- 这远低于一致预期的27-30%增速
-- **结论**：当前股价隐含的增长预期较为保守，市场已经price in了一定的关税和增速放缓风险
+At the current share price of RMB 241, with a PE of 21.94x, the implied assumptions are:
+- Assuming a terminal PE of 15x (a reasonable level for a manufacturer), EPS would need to grow from RMB 10.99 to RMB 16.07 over the next 3 years, a compound growth rate of **13.5%**
+- This is well below the consensus growth estimate of 27-30%
+- **Conclusion**: the growth expectation implied by the current share price is fairly conservative; the market has already priced in a degree of tariff and growth-deceleration risk
 
-### 7.3 三情景估值（工具精确计算 ✅）
+### 7.3 Three-Scenario Valuation (Precise Tool Calculation ✅)
 
-| 情景 | 假设 | 3年后EPS | 给予PE | 目标股价 | 较当前涨跌幅 |
+| Scenario | Assumption | EPS in 3 Years | PE Applied | Target Price | Upside/Downside |
 |------|------|---------|--------|---------|------------|
-| **乐观** | 年增速35%（关税缓解+极核盈利+份额提升） | 27.04元 | 25x | **676元** | **+180%** |
-| **中性** | 年增速25%（一致预期水平） | 21.46元 | 20x | **429元** | **+78%** |
-| **悲观** | 年增速10%（关税恶化+需求放缓） | 14.63元 | 15x | **219元** | **-9%** |
+| **Bull** | 35% annual growth (tariff relief + Zeeho profitability + share gains) | RMB 27.04 | 25x | **RMB 676** | **+180%** |
+| **Base** | 25% annual growth (consensus level) | RMB 21.46 | 20x | **RMB 429** | **+78%** |
+| **Bear** | 10% annual growth (tariffs worsen + demand slows) | RMB 14.63 | 15x | **RMB 219** | **-9%** |
 
-**概率加权目标价**：乐观20% × 676 + 中性50% × 429 + 悲观30% × 219 = **416元**（较当前+73%）
+**Probability-weighted target price**: 20% Bull x RMB 676 + 50% Base x RMB 429 + 30% Bear x RMB 219 = **RMB 416** (+73% vs. current)
 
-### 7.4 历史估值对比
+### 7.4 Historical Valuation Comparison
 
-| 指标 | 近5年中位数 | 当前 | 分位 |
+| Metric | 5-Year Median | Current | Percentile |
 |------|-----------|------|------|
-| PE | 27.81x | 21.94x | **37%**（中低） |
-| PB | 4.79x | 4.90x | 37%（中低） |
+| PE | 27.81x | 21.94x | **37%** (low-to-moderate) |
+| PB | 4.79x | 4.90x | 37% (low-to-moderate) |
 
-当前估值处于近5年偏低位置，但需注意2021年50x+的估值是泡沫状态，以2023-2025年20-25x的区间作为参考更合理。
+The current valuation sits on the low side of the past 5 years, but note that the 50x+ valuation in 2021 was a bubble; it is more reasonable to use the 20-25x range from 2023-2025 as the reference.
 
-### 7.5 同行估值对比
+### 7.5 Peer Valuation Comparison
 
-| 公司 | PE(TTM) | Forward PE | PB | PS | 营收增速 | 净现金/负债 |
+| Company | PE (TTM) | Forward PE | PB | PS | Revenue Growth | Net Cash/Debt |
 |------|---------|-----------|------|------|---------|------------|
-| **春风动力** | 21.9x | 15.2x | 4.9x | 1.87x | +31% | 净现金93亿 |
-| Polaris | 亏损 | 31.1x | 5.2x | 0.53x | +3% | 高负债 D/E 2.92 |
-| BRP | 22.1x | 29.7x | 8.5x | 0.67x | +6% | 高负债 D/E 4.16 |
-| 隆鑫通用 | 14.6x | 12.8x | 2.5x | 1.30x | +47-61% | — |
+| **CFMoto** | 21.9x | 15.2x | 4.9x | 1.87x | +31% | Net cash RMB 9.3bn |
+| Polaris | Loss-making | 31.1x | 5.2x | 0.53x | +3% | High debt, D/E 2.92 |
+| BRP | 22.1x | 29.7x | 8.5x | 0.67x | +6% | High debt, D/E 4.16 |
+| Loncin Motor | 14.6x | 12.8x | 2.5x | 1.30x | +47-61% | — |
 
-**对比结论**：春风的Forward PE（15.2x）是同行中最低的，同时增速最快（+31%）、资产负债表最健康（净现金93亿）。如果对标BRP的Forward PE（29.7x），春风的合理股价应为15.7元×29.7 = 466元，较当前+93%。但PS维度（1.87x vs 0.5-0.7x）显示市场已给予收入端溢价。
+**Comparative conclusion**: CFMoto's Forward PE (15.2x) is the lowest among peers, while it has the fastest growth (+31%) and the healthiest balance sheet (net cash of RMB 9.3 billion). Benchmarked against BRP's Forward PE (29.7x), CFMoto's fair share price would be RMB 15.7 x 29.7 = RMB 466, +93% versus current. But the PS dimension (1.87x vs. 0.5-0.7x) shows the market has already awarded a premium on the revenue side.
 
-### 段永平式追问
+### Duan Yongping-Style Question
 
-> **如果股市明天关闭5年，你愿意以这个价格持有吗？**
+> **If the stock market closed tomorrow for 5 years, would you be willing to hold at this price?**
 
-**愿意，但需要接受两个前提**：(1) 关税不会彻底封死美国市场——墨西哥/泰国路径仍然可行；(2) 极核电动在2年内实现盈利。如果这两个前提成立，5年后春风的收入有望从200亿增长至400-500亿，净利润30-50亿，以15-20x PE计，市值450-1000亿，较当前370亿有明显上升空间。净现金93亿（占市值25%）提供了一定的安全垫。
+**Yes, but with two conditions**: (1) tariffs do not completely close off the US market — the Mexico/Thailand routes remain viable; (2) Zeeho electric vehicles reach profitability within 2 years. If these two conditions hold, CFMoto's revenue could grow from RMB 20.0 billion to RMB 40-50 billion over five years, with net profit of RMB 3.0-5.0 billion; at 15-20x PE, that implies a market cap of RMB 45-100 billion, meaningfully above today's RMB 37.0 billion. Net cash of RMB 9.3 billion (25% of market cap) provides a degree of cushion.
 
 ---
 
-## 第八步：综合决策备忘录
+## Step 8: Comprehensive Decision Memo
 
-### 汇总评估
+### Summary Assessment
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| **生意质量（段永平）** | 中上——纵向一体化制造+三赛道发力，但硬件制造缺乏复购粘性，毛利率在下行 | ★★★★☆ 较高 |
-| **护城河（巴菲特）** | 中等偏强——规模效应和渠道网络是核心，品牌力在积累中，但尚无定价权 | ★★★☆☆ 中等 |
-| **管理层（段永平+巴菲特）** | 中上——创始人有远见（KTM合作、全球化布局），接班人尚待检验，高位减持是污点 | ★★★☆☆ 中等 |
-| **最大风险（芒格）** | 关税+KTM变局双重打击——2025年关税成本9.8亿元相当于净利润的58% | ★★★★☆ 较高确定性 |
-| **文明趋势（李录）** | 顺势——中国制造出海+消费升级双重红利，但非文明级范式转移 | ★★★★☆ 较高 |
-| **估值（巴菲特+段永平）** | 合理偏低——Forward PE 15x处于历史低位，PEG 0.66，净现金占市值25%提供安全垫 | ★★★★☆ 较高 |
+| **Business quality (Duan Yongping)** | Above average — vertically integrated manufacturing pushing across three tracks, but hardware manufacturing lacks repeat-purchase stickiness and gross margin is declining | ★★★★☆ Fairly high |
+| **Moat (Buffett)** | Moderate-to-strong — scale effects and the distribution network are the core, brand strength is being built, but there is no pricing power yet | ★★★☆☆ Moderate |
+| **Management (Duan Yongping + Buffett)** | Above average — the founder has shown vision (KTM partnership, global footprint), the successor is still to be tested, and the price-high share sale is a blemish | ★★★☆☆ Moderate |
+| **Biggest risk (Munger)** | The double blow of tariffs plus the KTM upheaval — 2025 tariff costs of RMB 980 million equal 58% of net profit | ★★★★☆ Fairly high confidence |
+| **Civilizational trend (Li Lu)** | Riding the tailwind — the dual dividends of Chinese manufacturing going global and consumption upgrading, though not a civilizational-scale paradigm shift | ★★★★☆ Fairly high |
+| **Valuation (Buffett + Duan Yongping)** | Reasonable-to-low — Forward PE of 15x is near a historical low, PEG of 0.66, and net cash at 25% of market cap provides a cushion | ★★★★☆ Fairly high |
 
-### 最终决策
+### Final Decision
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | **建议分批建仓（当前价位可配置半仓）**。Forward PE 15x+PEG 0.66+净现金25%，估值具备安全边际。但需密切跟踪2026Q2-Q3的关税影响和极核盈利进度。理想加仓价位：200-220元（对应Forward PE 12-14x） |
-| **持仓者** | **继续持有，但不急于加仓**。2026Q1利润增速骤降至+1.8%是短期信号，需确认Q2-Q3能否恢复。关注三个拐点：(1) 极核毛利率转正；(2) 美国关税政策明确化；(3) 欧洲渠道重建完成 |
-| **卖出信号** | (1) Forward PE升至30x以上（股价~470元）；(2) 美国关税综合税率突破50%且无有效规避路径；(3) 2026全年净利润增速降至个位数；(4) 管理层再次大规模减持 |
-| **加仓信号** | (1) 股价跌至200元以下（Forward PE<13x，接近悲观情景）；(2) 极核电动季度毛利率转正；(3) 中美贸易缓和、关税下调；(4) ATV全球市占率突破8% |
+| **For those with no position** | **Recommend building a position in tranches (a half position at the current price is reasonable)**. With a Forward PE of 15x, PEG of 0.66, and net cash at 25%, the valuation carries a margin of safety. But closely track the tariff impact and Zeeho's path to profitability in Q2-Q3 2026. Ideal add-on price range: RMB 200-220 (Forward PE of 12-14x) |
+| **For current holders** | **Continue holding, but no rush to add**. The plunge in Q1 2026 profit growth to +1.8% is a near-term signal; confirm whether it recovers in Q2-Q3. Watch three inflection points: (1) Zeeho's gross margin turning positive; (2) clarity on US tariff policy; (3) completion of the European channel rebuild |
+| **Sell signals** | (1) Forward PE rises above 30x (share price ~RMB 470); (2) the combined US tariff rate breaks above 50% with no effective workaround; (3) full-year 2026 net profit growth falls to single digits; (4) management sells another large block of shares |
+| **Add-on signals** | (1) share price falls below RMB 200 (Forward PE <13x, near the bear scenario); (2) Zeeho's quarterly gross margin turns positive; (3) US-China trade relations ease and tariffs are lowered; (4) global ATV market share breaks above 8% |
 
-### 价格区间总结
+### Price Range Summary
 
-| 区间 | 股价 | 含义 |
+| Range | Share Price | Meaning |
 |------|------|------|
-| 深度价值区 | <200元 | Forward PE<13x，悲观情景已充分定价 |
-| 合理低估区 | 200-260元 | Forward PE 13-17x，当前所处位置 |
-| 合理估值区 | 260-360元 | Forward PE 17-23x，需要增长兑现 |
-| 高估区 | >360元 | Forward PE>23x，透支未来2年增长 |
+| Deep value zone | <RMB 200 | Forward PE <13x, the bear scenario is fully priced in |
+| Reasonably undervalued zone | RMB 200-260 | Forward PE 13-17x, where the price currently sits |
+| Fair value zone | RMB 260-360 | Forward PE 17-23x, requires growth to be delivered |
+| Overvalued zone | >RMB 360 | Forward PE >23x, borrowing against the next 2 years of growth |
 
-### 四位大师的模拟点评
+### Simulated Commentary from the Four Masters
 
-> **巴菲特**：
-> "春风动力让我想起了上世纪80年代的日本制造企业——优秀的成本控制、不断提升的品质、正在建立的全球品牌。净现金93亿占市值25%让我感到安心。但我担忧的是27%的毛利率和缺乏定价权——在关税压力下，这家公司是在用利润换市场份额。我会等到它证明能在关税环境下维持住利润率再出手。"
+> **Buffett**:
+> "CFMoto reminds me of Japanese manufacturers in the 1980s — good cost control, steadily improving quality, and a global brand in the making. Net cash of RMB 9.3 billion, 25% of market cap, gives me some comfort. But I'm concerned about the 27% gross margin and the lack of pricing power — under tariff pressure, this company is trading profit for market share. I'd wait until it proves it can hold its margin under a tariff regime before acting."
 
-> **芒格**：
-> "反过来想——如果我要做空春风动力，我会赌关税持续升级和毛利率继续下滑。2023年32%的毛利率降到了2025年的27%，如果2026年再降到24%怎么办？这家公司收入增长31%但利润只增长14%，这是一个危险的信号——越卖越多但越赚越少。另外，控股股东在股价最高点减持，这说明什么？要么他们觉得估值到顶了，要么需要钱——两种可能都不是好事。"
+> **Munger**:
+> "Inverting — if I were shorting CFMoto, I'd bet on continued tariff escalation and further gross-margin decline. Gross margin fell from 32% in 2023 to 27% in 2025 — what if it drops to 24% in 2026? This company's revenue is growing 31% but profit only 14% — that's a dangerous signal: selling more but earning less on each sale. Also, the controlling shareholder sold shares right at the price peak. What does that tell you? Either they think the valuation has topped out, or they need the cash — neither is good."
 
-> **段永平**：
-> "这门生意的本质是制造业出海，核心是'对的事情'——用好产品赢得全球用户。赖国贵从1989年小作坊做起，35年坚持一个方向，这是我欣赏的企业家。接班人赖民杰入职18年再接班，过渡期充分，比很多二代接班靠谱。我担心的是高位减持这件事——做'对的事情'包括对股东负责。如果你觉得公司值得长期持有，为什么在最高点卖？这个动作让我对管理层的长期主义打了个折扣。估值上，以当前的增速和质地，15倍Forward PE是不贵的。"
+> **Duan Yongping**:
+> "The essence of this business is manufacturing going global, and the core is 'doing the right thing' — winning global users with a good product. Lai Guogui started from a small workshop in 1989 and stuck to one direction for 35 years — that's the kind of entrepreneur I admire. Successor Lai Minjie took over after 18 years at the company, with a long transition period — more credible than many second-generation handovers. What concerns me is the price-high share sale — 'doing the right thing' includes being accountable to shareholders. If you believe the company is worth holding for the long run, why sell at the very top? That action discounts my confidence in management's long-term orientation. On valuation, given the current growth rate and quality, a 15x Forward PE is not expensive."
 
-> **李录**：
-> "从文明演进的角度看，春风动力代表的是中国制造业价值链攀升的大趋势。中国已经在家电、手机、新能源汽车上实现了全球化，动力运动装备是下一个品类。但这不是一个10倍股的故事——动力运动市场全球也就500-700亿美元，远小于汽车和手机。春风的价值在于：它是这个品类中唯一有机会从区域品牌成长为全球品牌的中国企业，赛道虽窄，但护城河可以很深。20年后回看，如果它成功了，就是'中国的BRP'。"
+> **Li Lu**:
+> "From the perspective of civilizational evolution, CFMoto represents the broader trend of Chinese manufacturing moving up the value chain. China has already gone global in home appliances, phones, and new-energy vehicles — powersports equipment is the next category. But this isn't a 10-bagger story — the global powersports market is only about $50-70 billion, far smaller than autos or phones. CFMoto's value lies in being the only Chinese company in this category with a real shot at growing from a regional brand into a global one; the track may be narrow, but the moat can run deep. Looking back 20 years from now, if it succeeds, it will be 'China's BRP.'"
 
 ---
 
-## AI研究置信度 vs 投资确定性
+## AI Research Confidence vs. Investment Certainty
 
-| 维度 | AI分析置信度 | 投资确定性 | 说明 |
+| Dimension | AI Analysis Confidence | Investment Certainty | Notes |
 |------|------------|-----------|------|
-| 历史财务数据 | ★★★★★ 极高 | — | 多源交叉验证，数据准确 |
-| 竞争格局 | ★★★★☆ 较高 | — | 全球市场份额数据基本可靠 |
-| 管理层评估 | ★★★☆☆ 中等 | — | 公开信息有限，关键决策内幕不可知 |
-| 关税影响量化 | ★★★☆☆ 中等 | — | 2025年数据明确，但未来政策高度不确定 |
-| 极核电动前景 | ★★☆☆☆ 较低 | — | 仅2年数据，盈利模型尚未验证 |
-| KTM合作走向 | ★★☆☆☆ 较低 | — | Bajaj接管后合作细节未公开 |
-| 估值判断 | ★★★★☆ 较高 | **中等偏高** | Forward PE 15x在增速30%的背景下确有安全边际 |
-| **综合投资判断** | — | **★★★★☆ 中上** | 生意质地好、估值合理、但关税和KTM两大不确定性需持续跟踪 |
+| Historical financial data | ★★★★★ Very high | — | Cross-validated across multiple sources, data is accurate |
+| Competitive landscape | ★★★★☆ Fairly high | — | Global market-share data is generally reliable |
+| Management assessment | ★★★☆☆ Moderate | — | Public information is limited; the inside story behind key decisions is unknowable |
+| Tariff-impact quantification | ★★★☆☆ Moderate | — | 2025 data is clear, but future policy is highly uncertain |
+| Zeeho outlook | ★★☆☆☆ Fairly low | — | Only 2 years of data; the profitability model is not yet proven |
+| Direction of the KTM partnership | ★★☆☆☆ Fairly low | — | Partnership details have not been disclosed since Bajaj took control |
+| Valuation judgment | ★★★★☆ Fairly high | **Moderate-to-high** | A Forward PE of 15x against ~30% growth genuinely carries a margin of safety |
+| **Overall investment judgment** | — | **★★★★☆ Above average** | Good business quality and reasonable valuation, but the two big uncertainties — tariffs and KTM — need ongoing tracking |
 
-**关键区分**：本报告的AI分析置信度取决于数据充分程度，而投资确定性取决于生意本质的可预测性。春风动力的生意本质（制造业出海+消费升级）是确定的，但短期盈利受关税政策这一外生变量的强烈干扰，使得1-2年维度的盈利预测确定性降低。如果投资者的持有期是3-5年，能够穿越关税扰动，投资确定性会显著提升。
+**Key distinction**: this report's AI analytical confidence depends on the sufficiency of the data, while investment certainty depends on the predictability of the business itself. CFMoto's business nature (manufacturing going global plus consumption upgrading) is certain, but near-term profitability is heavily disrupted by the exogenous variable of tariff policy, which reduces the certainty of profit forecasts on a 1-2 year horizon. For investors with a 3-5 year holding period who can look through the tariff disruption, investment certainty rises significantly.
 
 ---
 
-## 附录：数据来源汇总
+## Appendix: Data Source Summary
 
-### 财务数据
+### Financial Data
 - StockAnalysis (S&P Global Market Intelligence)
 - Investing.com
-- 证券时报
-- 同花顺、东方财富网
+- Securities Times
+- Tonghuashun (10jqka), Eastmoney
 
-### 竞争与行业
+### Competition and Industry
 - Research and Markets - ATV & UTV Market Global Forecast
 - Mordor Intelligence - North America ATV & UTV Market
-- 华经情报网 - 中国大排量摩托车行业
-- 未来智库 - 全地形车行业深度报告
+- Huaon (Huajing Industry Research) - China Large-Displacement Motorcycle Industry
+- Weilaizhiku (research platform) - In-Depth Report on the All-Terrain Vehicle Industry
 - Powersports Business
 
-### 管理层与公司治理
-- 春风动力年度报告（巨潮资讯网）
-- 界面新闻、新浪财经、每日经济新闻
+### Management and Corporate Governance
+- CFMoto Annual Report (Cninfo)
+- Jiemian News, Sina Finance, National Business Daily
 
-### 风险因素
-- 美国海关CBP公告
-- 虎嗅、新浪财经——春风动力陷多事之秋
-- RideApart、Motorcycle.com
+### Risk Factors
+- US Customs and Border Protection (CBP) announcements
+- Huxiu, Sina Finance — "CFMoto Hits a Rough Patch"
+- RideApart, Motorcycle.com
 
-### 估值与券商研报
-- 华创证券、太平洋证券、国金证券、开源证券
-- 知了财报网（PE/PB历史数据）
-- 东方财富网（一致预期）
+### Valuation and Brokerage Research
+- Huachuang Securities, Pacific Securities, Guojin Securities, Kaiyuan Securities
+- Zhiliao Caibao (historical PE/PB data)
+- Eastmoney (consensus estimates)
 
 ---
 
-*本报告由AI生成，基于公开信息分析，不构成投资建议。关键数据已通过 financial_rigor.py 工具交叉验证。报告中标注"推算"的数据点基于有限信息推理，置信度较低，请结合一手调研判断。*
+*This report was generated by AI based on an analysis of public information and does not constitute investment advice. Key data has been cross-validated using the financial_rigor.py tool. Data points labeled "estimated" in this report are inferred from limited information and carry lower confidence; please combine them with primary research before making judgments.*

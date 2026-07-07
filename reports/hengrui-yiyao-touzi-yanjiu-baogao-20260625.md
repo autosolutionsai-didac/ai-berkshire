@@ -1,411 +1,413 @@
-# 恒瑞医药（600276.SH）投资研究报告
+# Hengrui Pharmaceuticals (600276.SH) Investment Research Report
 
-> 研究日期：2026年6月25日
-> 数据截至：2026年6月（部分估值数据以6月初交易日为准）
-
----
-
-## 信息丰富度评级：A级（信息充裕）
-
-恒瑞医药是A股上市超26年的医药龙头，券商覆盖广泛（20+分析师持续跟踪），财报数据完整，媒体报道密集。
-
-**AI研究局限性声明**：本报告属于信息充裕型研究，核心财务数据和竞争格局信息高度可靠。主要局限在于：(1) AI输出可能趋同于市场共识，独立alpha有限；(2) BD交易的后续执行进展和里程碑支付的节奏难以从公开资料准确预判；(3) 在研管线的临床成功概率属于概率性判断，无法精确量化。因此本报告着重做**反面检验**——聪明人为什么不买？被忽略的风险是什么？
+> Research date: June 25, 2026
+> Data as of: June 2026 (some valuation data as of early-June trading days)
 
 ---
 
-## 一、关键数据总览
+## Information Richness Rating: Grade A (Information-Rich)
 
-### 1.1 核心财务数据
+Hengrui Pharmaceuticals is a pharmaceutical leader that has been listed on the A-share market for more than 26 years, with broad sell-side coverage (20+ analysts tracking it continuously), complete financial-report data, and dense media coverage.
 
-| 年份 | 营业收入（亿元） | 同比 | 归母净利润（亿元） | 同比 | 毛利率 | 净利率 |
+**AI research limitations disclaimer**: This report belongs to the information-rich category of research; the core financial data and competitive-landscape information are highly reliable. The main limitations are: (1) AI output may converge toward market consensus, limiting independent alpha; (2) the follow-through execution progress of BD (business-development) deals and the pacing of milestone payments are hard to predict accurately from public sources; (3) the clinical success probability of pipeline candidates is inherently a probabilistic judgment that cannot be precisely quantified. This report therefore places emphasis on **inversion testing** — why would smart investors not buy? What risks are being overlooked?
+
+---
+
+## I. Key Data Overview
+
+### 1.1 Core Financial Data
+
+| Year | Revenue (billion yuan) | YoY | Net Profit Attributable to Parent (billion yuan) | YoY | Gross Margin | Net Margin |
 |------|----------------|------|-------------------|------|--------|--------|
-| 2021 | 259.06 | -6.6% | 45.30 | -28.4% | 85.0% | 17.5% |
-| 2022 | 212.75 | -17.9% | 39.06 | -13.8% | 83.6% | 17.9% |
-| 2023 | 228.20 | +7.3% | 43.02 | +10.1% | 84.6% | 18.7% |
-| 2024 | 279.85 | +22.6% | 63.37 | +47.3% | 86.3% | 22.6% |
-| 2025 | 316.29 | +13.0% | 77.11 | +21.7% | 85.1% | 24.4% |
-| 2026Q1 | 81.41 | +13.0% | 22.82 | +21.8% | — | — |
+| 2021 | 25.906 | -6.6% | 4.530 | -28.4% | 85.0% | 17.5% |
+| 2022 | 21.275 | -17.9% | 3.906 | -13.8% | 83.6% | 17.9% |
+| 2023 | 22.820 | +7.3% | 4.302 | +10.1% | 84.6% | 18.7% |
+| 2024 | 27.985 | +22.6% | 6.337 | +47.3% | 86.3% | 22.6% |
+| 2025 | 31.629 | +13.0% | 7.711 | +21.7% | 85.1% | 24.4% |
+| 2026 Q1 | 8.141 | +13.0% | 2.282 | +21.8% | — | — |
 
-### 1.2 收入结构（2025年）
+### 1.2 Revenue Structure (2025)
 
-| 分部 | 收入（亿元） | 占药品销售比 | 同比增速 |
+| Segment | Revenue (billion yuan) | % of Drug Sales | YoY Growth |
 |------|------------|------------|---------|
-| 创新药合计 | 163.42 | 58.3% | +26.1% |
-| 其中：肿瘤创新药 | 132.40 | — | +18.5% |
-| 其中：非肿瘤创新药 | 31.02 | — | +73.4% |
-| 仿制药（推算） | ~116.7 | ~41.7% | 小幅下滑 |
-| BD对外许可收入 | 33.92 | — | +25.6% |
+| Innovative drugs, total | 16.342 | 58.3% | +26.1% |
+| Of which: oncology innovative drugs | 13.240 | — | +18.5% |
+| Of which: non-oncology innovative drugs | 3.102 | — | +73.4% |
+| Generic drugs (estimated) | ~11.67 | ~41.7% | Slight decline |
+| BD out-licensing revenue | 3.392 | — | +25.6% |
 
-**2026Q1创新药占比已突破61.7%，首次超六成。**
+**In Q1 2026, innovative drugs' share of drug sales surpassed 61.7%, exceeding 60% for the first time.**
 
-### 1.3 现金流与资产负债
+### 1.3 Cash Flow and Balance Sheet
 
-| 指标 | 2025年 |
+| Metric | 2025 |
 |------|--------|
-| 经营现金流净额 | 112.35亿元 |
-| 货币资金 | 409.55亿元（含H股IPO募资~103亿） |
-| 资产负债率 | <13% |
-| 有息负债 | 几乎为零 |
+| Net operating cash flow | 11.235 billion yuan |
+| Cash and cash equivalents | 40.955 billion yuan (including ~10.3 billion yuan raised from the H-share IPO) |
+| Debt-to-asset ratio | <13% |
+| Interest-bearing debt | Near zero |
 
-### 1.4 研发投入
+### 1.4 R&D Investment
 
-| 年份 | 研发投入（亿元） | 占营收比 |
+| Year | R&D Investment (billion yuan) | % of Revenue |
 |------|----------------|---------|
-| 2021 | 62.03 | 24.0% |
-| 2022 | 63.46 | 29.8% |
-| 2023 | 61.50 | 27.0% |
-| 2024 | 82.28 | 29.4% |
-| 2025 | 87.24 | 27.6% |
+| 2021 | 6.203 | 24.0% |
+| 2022 | 6.346 | 29.8% |
+| 2023 | 6.150 | 27.0% |
+| 2024 | 8.228 | 29.4% |
+| 2025 | 8.724 | 27.6% |
 
-累计研发投入超500亿元，2026Q1单季研发费用15.33亿元（同比+25.7%）。
+Cumulative R&D investment exceeds 50 billion yuan; Q1 2026 quarterly R&D expense was 1.533 billion yuan (+25.7% YoY).
 
-### 1.5 当前估值（截至2026年6月初）
+### 1.5 Current Valuation (as of early June 2026)
 
-| 指标 | 数值 | 工具验算值 |
+| Metric | Value | Tool-Verified Value |
 |------|------|-----------|
-| 股价 | ~46.63元 | — |
-| 总股本 | 66.37亿股 | — |
-| 市值 | ~3,094亿元 | 3,094.8亿元（46.63×66.37亿） |
-| PE（TTM） | ~40.1x | 40.13x（46.63/1.162） |
-| PB | ~5.1x | 5.07x（46.63/9.2） |
-| PS（TTM） | ~9.6x | — |
+| Share price | ~CNY 46.63 | — |
+| Total shares outstanding | 6.637 billion shares | — |
+| Market cap | ~CNY 309.4 billion | CNY 309.48 billion (46.63 × 6.637 billion) |
+| PE (TTM) | ~40.1x | 40.13x (46.63 / 1.162) |
+| PB | ~5.1x | 5.07x (46.63 / 9.2) |
+| PS (TTM) | ~9.6x | — |
 | ROE | ~12.6% | 12.63% |
 | FCF Yield | ~2.1% | 2.12% |
-| 股息率 | ~0.4% | 0.43% |
-| 52周价格区间 | 46.51 - 74.04元 | — |
+| Dividend yield | ~0.4% | 0.43% |
+| 52-week price range | CNY 46.51-74.04 | — |
 
-> 注：基本EPS按期末总股本计算为1.162元（77.11亿/66.37亿股）；年报披露EPS约1.22元（按加权平均股本计算，因H股年中上市导致加权股本较低）。本报告估值计算统一使用期末总股本。
-
----
-
-## 二、生意本质分析
-
-### 一句话定义
-
-**恒瑞是中国最大的自主研发型创新药企业，正在从"中国仿制药龙头"蜕变为"全球创新药平台型公司"。**
-
-### 商业模式画布
-
-恒瑞的收入由三条曲线构成：
-
-1. **第一曲线（衰退中）**：仿制药销售——受集采政策冲击持续萎缩，但仍贡献约40%收入和稳定现金流
-2. **第二曲线（主增长极）**：创新药销售——24款已上市创新药，以肿瘤为核心（81%），非肿瘤（自免、代谢、心血管）增速极快（+73%）
-3. **第三曲线（加速兑现）**：BD对外许可收入——2025年33.92亿元，2023年以来累计12笔交易，潜在总价值超270亿美元
-
-### 毛利率解读
-
-恒瑞毛利率常年维持在83-86%，在全球药企中属于较高水平。原因：
-- 创新药定价权较强，毛利率高于仿制药
-- 自主研发为主（94%自研），无需支付高额技术引进费用
-- BD许可收入毛利率极高（~85%），拉高整体毛利
-
-### 经营杠杆
-
-随着创新药占比提升，公司净利率从2022年低点17.9%回升至2025年的24.4%。销售费用率呈下降趋势（创新药学术推广效率高于仿制药地推），研发费用率维持27-30%。未来若创新药持续放量，净利率有望进一步提升。
-
-**核心追问**：这门生意好在哪？
-
-恒瑞的核心优势是"全平台、全管线、全覆盖"——它不像百济神州靠一款泽布替尼打天下，而是构建了覆盖小分子、抗体、ADC、双抗、肽类、RLT等所有主流技术方向的研发平台，同时有24款已上市创新药形成"品种矩阵"。这使得它对单一品种的依赖度低，抗风险能力强，但也意味着缺少一款能"定义公司"的全球重磅产品。
+> Note: Basic EPS calculated using period-end total shares outstanding is CNY 1.162 (7.711 billion / 6.637 billion shares); the EPS disclosed in the annual report is approximately CNY 1.22 (calculated using the weighted-average share count, which is lower because the H-share listing occurred mid-year). This report uses period-end total shares outstanding consistently for all valuation calculations.
 
 ---
 
-## 三、护城河评估
+## II. Nature of the Business
 
-### 逐一验证五类护城河
+### One-Sentence Definition
 
-| 护城河类型 | 恒瑞现状 | 强度评级 |
+**Hengrui is China's largest self-developed innovative-drug company, transforming from "China's generic-drug leader" into a "global innovative-drug platform company."**
+
+### Business Model Canvas
+
+Hengrui's revenue is composed of three growth curves:
+
+1. **First curve (declining)**: Generic drug sales — continuously shrinking under the impact of the volume-based procurement (VBP) policy, but still contributing about 40% of revenue and stable cash flow
+
+2. **Second curve (primary growth driver)**: Innovative drug sales — 24 approved innovative drugs on the market, centered on oncology (81%), with non-oncology areas (autoimmune, metabolic, cardiovascular) growing extremely fast (+73%)
+
+3. **Third curve (accelerating realization)**: Business-development (BD) out-licensing revenue — 3.392 billion yuan in 2025, 12 cumulative deals since 2023, with potential total value exceeding $27 billion
+
+### Gross Margin Interpretation
+
+Hengrui's gross margin has stayed in the 83-86% range for years, a relatively high level among global pharmaceutical companies. Reasons:
+- Innovative drugs carry stronger pricing power, with higher gross margins than generics
+- Predominantly self-developed (94% in-house R&D), avoiding high in-licensing fees
+- BD licensing revenue carries an extremely high gross margin (~85%), lifting the overall gross margin
+
+### Operating Leverage
+
+As the share of innovative drugs rises, the company's net margin has recovered from a 2022 low of 17.9% to 24.4% in 2025. The selling-expense ratio is trending down (academic promotion for innovative drugs is more efficient than field promotion for generics), while the R&D-expense ratio has held at 27-30%. If innovative-drug volume continues to ramp up, net margin has room for further improvement.
+
+**Core question**: What makes this a good business?
+
+Hengrui's core advantage is "full-platform, full-pipeline, full-coverage" — unlike BeiGene, which built its business around a single drug, zanubrutinib, Hengrui has built an R&D platform spanning all mainstream technology directions — small molecules, antibodies, ADCs, bispecifics, peptides, and radioligand therapy (RLT) — while also having 24 approved innovative drugs that form a "product matrix." This gives it low dependence on any single product and strong resilience, but it also means the company lacks one global blockbuster product that "defines the company."
+
+---
+
+## III. Moat Assessment
+
+### Verifying Each of the Five Moat Types
+
+| Moat Type | Hengrui's Current Status | Strength Rating |
 |-----------|---------|---------|
-| **品牌/定价权** | 50余年积累，肿瘤领域品牌认知度行业领先；但受医保谈判约束，定价权有限（卡瑞利珠单抗价格降超80%） | 中等 |
-| **转换成本** | 肿瘤药进入临床路径后医生更换意愿低；"双艾"联合方案提升粘性；多款产品获CSCO/NCCN指南推荐 | 中等偏强 |
-| **网络效应** | 不适用于制药行业 | 不适用 |
-| **规模效应** | 自研管线全球第二（170+品种在研）、400+临床试验、15个全球研发中心、6200人销售覆盖8000+医院——研发和商业化的规模优势在国内无人匹敌 | 强 |
-| **技术壁垒** | 覆盖小分子/抗体/ADC/双抗/肽类/RLT全部主流技术；2000+授权专利；拥有KRAS G12D（全球首个进III期）和PD-L1/TGF-beta双抗（全球首个获批）等原创品种 | 强 |
+| **Brand / Pricing Power** | Built up over 50+ years; leading brand recognition in oncology; but pricing power is constrained by National Reimbursement Drug List (NRDL) negotiations (camrelizumab's price has fallen more than 80%) | Moderate |
+| **Switching Costs** | Once an oncology drug enters a clinical treatment pathway, physicians are reluctant to switch; the "Shuang'ai" (camrelizumab + apatinib) combination regimen raises stickiness; multiple products are recommended in CSCO/NCCN guidelines | Moderately strong |
+| **Network Effects** | Not applicable to the pharmaceutical industry | Not applicable |
+| **Scale Effects** | Second-largest self-developed pipeline in the world (170+ candidates in development), 400+ clinical trials, 15 global R&D centers, and a 6,200-person sales force covering 8,000+ hospitals — the scale advantage in R&D and commercialization is unmatched domestically | Strong |
+| **Technology Barriers** | Covers all mainstream technology platforms — small molecules, antibodies, ADCs, bispecifics, peptides, and RLT; 2,000+ granted patents; owns original candidates such as KRAS G12D (the world's first to enter Phase III) and a PD-L1/TGF-beta bispecific (the world's first to be approved) | Strong |
 
-### 护城河趋势判断
+### Moat Trend Assessment
 
-**过去5年：明显变宽。** 创新药从占比不到30%提升至60%+，管线规模跃居全球第二，技术平台从me-too升级到拥有first-in-class品种，BD交易获得GSK、默沙东、BMS等全球巨头认可。
+**Past 5 years: clearly widening.** The share of innovative drugs has risen from under 30% to over 60%, the pipeline has jumped to the world's second-largest, the technology platform has upgraded from me-too to owning first-in-class candidates, and BD deals have won recognition from global giants such as GSK, Merck & Co. (MSD), and BMS.
 
-**未来5年：预计继续变宽，但面临挑战。** 挑战主要来自：(1) ADC赛道可能重蹈PD-1内卷覆辙；(2) 百济神州在全球商业化能力上已领先恒瑞；(3) AI制药可能降低研发壁垒。
+**Next 5 years: expected to continue widening, but facing challenges.** The main challenges: (1) the ADC space could repeat the PD-1 sector's "involution" (destructive over-competition); (2) BeiGene already leads Hengrui in global commercialization capability; (3) AI-driven drug discovery could lower R&D barriers.
 
-**核心追问**：10年后这条护城河还在吗？什么能摧毁它？
+**Core question**: Will this moat still exist in 10 years? What could destroy it?
 
-10年后恒瑞的规模效应和技术平台护城河大概率仍在——全球药企研发壁垒短期内不会消失。能摧毁它的因素：(1) 颠覆性技术路线（如mRNA/基因编辑使传统小分子和抗体药物过时）；(2) 地缘政治导致中国创新药全面被排斥出欧美市场；(3) 国内医保支付体系崩塌。这些都属于极端情景。
+Ten years from now, Hengrui's scale-effect and technology-platform moats will most likely still be intact — the R&D barriers of global pharmaceutical companies will not disappear in the short term. Factors that could destroy it: (1) a disruptive technology shift (e.g., mRNA or gene editing rendering traditional small-molecule and antibody drugs obsolete); (2) geopolitics causing Chinese innovative drugs to be comprehensively shut out of the US and European markets; (3) collapse of the domestic healthcare-insurance payment system. These are all extreme scenarios.
 
 ---
 
-## 四、逆向思考与风险清单
+## IV. Inversion Thinking and Risk Checklist
 
-### 失败路径分析
+### Failure Path Analysis
 
-| 失败路径 | 概率 | 影响程度 | 说明 |
+| Failure Path | Probability | Impact | Description |
 |---------|------|---------|------|
-| BD交易收入不可持续 | 中等 | 高 | 2026年3月默克终止PARP1合作（首付1.6亿欧元落空）是负面信号；BD收入有偶发性 |
-| 地缘政治封锁 | 低-中 | 极高 | 伯恩斯坦分析：极端情景下BD收入下滑80%，估值腰斩 |
-| GLP-1竞争失利 | 中等 | 高 | 面对礼来、诺和诺德等全球巨头，恒瑞HRS9531的全球市场份额存在不确定性 |
-| 创新药无法持续填补仿制药下滑 | 低 | 中 | 2026年仿制药收入预计继续下降，但创新药增速（25-30%）大概率覆盖 |
-| 接班人风险 | 中等 | 中-高 | 孙飘扬已67岁，核心研发高管（张连山、江宁军）均65岁，继任者不明确 |
-| PD-1/ADC赛道持续内卷 | 中等 | 中 | 肿瘤创新药占收入81%，若肿瘤赛道利润率系统性下降将显著影响盈利 |
-| 研发投入回报率下降 | 低-中 | 中 | 年研发支出87亿，但大部分为me-too/me-better，真正first-in-class品种有限 |
+| BD deal revenue proves unsustainable | Moderate | High | Merck KGaA's (Germany) termination of the PARP1 collaboration in March 2026 (forfeiting a €160 million upfront payment) is a negative signal; BD revenue is inherently episodic |
+| Geopolitical blockade | Low-Moderate | Extremely High | Bernstein analysis: in an extreme scenario, BD revenue could fall 80% and valuation could be cut in half |
+| Loss in GLP-1 competition | Moderate | High | Facing global giants such as Eli Lilly and Novo Nordisk, the global market share of Hengrui's HRS9531 is uncertain |
+| Innovative drugs fail to keep offsetting the generics decline | Low | Moderate | Generic-drug revenue is expected to keep declining in 2026, but innovative-drug growth (25-30%) is likely to cover the gap |
+| Succession risk | Moderate | Moderate-High | Sun Piaoyang is already 67; core R&D executives Zhang Lianshan and Jiang Ningjun are both 65; a successor is not yet clear |
+| Continued "involution" in the PD-1/ADC space | Moderate | Moderate | Oncology innovative drugs account for 81% of revenue; a systemic decline in oncology-segment margins would materially hit profitability |
+| Declining return on R&D investment | Low-Moderate | Moderate | Annual R&D spending is 8.724 billion yuan, but most of it goes toward me-too/me-better drugs; genuine first-in-class candidates remain limited |
 
-### 历史类比
+### Historical Analogies
 
-| 类比公司 | 相似点 | 结局 | 对恒瑞的启示 |
+| Comparable Company | Similarities | Outcome | Implications for Hengrui |
 |---------|-------|------|-------------|
-| **日本武田制药** | 仿制药转创新药，20年转型周期 | 2019年621亿美元收购夏尔，成为全球TOP10，海外收入87% | 最终需要大型并购或自主全球商业化才能跻身全球前列 |
-| **日本第一三共** | 在至暗时刻押注ADC（DS-8201），与阿斯利康合作55.5亿美元 | 市值522亿美元，成为日本市值最高药企 | 一个平台级重磅产品可以重塑公司命运；恒瑞的RAS管线或ADC管线是否能诞生类似产品是关键变量 |
+| **Takeda Pharmaceutical (Japan)** | Transitioned from generics to innovative drugs over a 20-year cycle | Acquired Shire for $62.1 billion in 2019, becoming a global top-10 pharma with 87% overseas revenue | Ultimately required a major acquisition or self-built global commercialization to reach the top tier globally |
+| **Daiichi Sankyo (Japan)** | Bet on ADCs (DS-8201) during its darkest hour, partnering with AstraZeneca in a $5.55 billion deal | Market cap of $52.2 billion, becoming Japan's highest-valued pharmaceutical company | A single platform-level blockbuster can reshape a company's fate; whether Hengrui's RAS pipeline or ADC pipeline can produce a similar product is a key variable |
 
-### 偏误自查
+### Bias Self-Check
 
-- **叙事偏差**：恒瑞的"创新转型成功"叙事很有吸引力，但创新药收入中81%仍依赖肿瘤，非肿瘤布局尚未经过充分验证
-- **锚定效应**：当前股价处于52周低点附近，容易锚定"便宜"的感觉，但需考虑是否存在估值下行的结构性原因
-- **幸存者偏差**：作为中国创新药"幸存者"之一，恒瑞的成功不代表创新药赛道整体回报率高
+- **Narrative bias**: Hengrui's "successful innovation transformation" narrative is compelling, but 81% of innovative-drug revenue still depends on oncology, and the non-oncology portfolio has not yet been fully validated
+- **Anchoring effect**: The current share price is near its 52-week low, which easily anchors a sense of "cheapness," but one must consider whether there are structural reasons behind the valuation decline
+- **Survivorship bias**: As one of the "survivors" of China's innovative-drug sector, Hengrui's success does not mean the sector as a whole delivers high returns
 
-**核心追问**：我最可能在哪里犯错？聪明人为什么会不买？
+**Core question**: Where am I most likely to be wrong? Why would smart investors pass on this?
 
-最大的犯错风险在于：(1) 高估BD交易的持续性——市场可能把2023-2026年的BD交易热潮当作常态，而实际上全球药企的BD策略会随市场周期波动；(2) 低估地缘政治风险——恒瑞的海外BD交易高度依赖美国市场，CFIUS审查和贸易政策的不确定性是真实风险。
+The biggest risk of being wrong lies in: (1) overestimating the durability of BD deal-making — the market may treat the 2023-2026 BD deal boom as the new normal, when in reality global pharma companies' BD strategies fluctuate with market cycles; (2) underestimating geopolitical risk — Hengrui's overseas BD deals depend heavily on the US market, and uncertainty around CFIUS review and trade policy is a real risk.
 
-聪明人不买的理由：以40x PE买入一家净利率24%的公司，隐含的增长预期是年化20%+持续3-5年。如果创新药增速放缓到15%以下，或BD交易出现空窗期，估值可能面临戴维斯双杀。
+The reason smart investors might pass: buying a company with a 24% net margin at 40x PE implies a growth expectation of 20%+ annually sustained for 3-5 years. If innovative-drug growth slows below 15%, or a gap opens up in BD dealmaking, the valuation could face a Davis double-kill (simultaneous earnings and multiple compression).
 
 ---
 
-## 五、管理层评估
+## V. Management Assessment
 
-### 创始人孙飘扬关键决策复盘
+### Founder Sun Piaoyang: Review of Key Decisions
 
-| 时间 | 决策 | 结果 | 评分 |
+| Time | Decision | Outcome | Grade |
 |------|------|------|------|
-| 1990年 | 临危接手工厂，120万收购抗癌药专利 | 确立肿瘤药方向，6年收入从8万增至过亿 | A+ |
-| 2000年 | A股上市，拿2亿建上海研发中心 | 奠定研发型药企基础，20年后开花结果 | A+ |
-| 2016-2019年 | 全力推动创新转型，砍掉70%仿制药项目 | 创新药收入从几十亿增至163亿，占比超58% | A |
-| 2021年 | 重新出山，大刀阔斧改革 | 砍销售事业部、精简管线、引进国际化人才 | A |
-| 2023-2025年 | 启动BD出海战略 | 累计12笔交易超270亿美元，获全球巨头认可 | A |
+| 1990 | Took over the struggling factory in a crisis, acquired an anticancer-drug patent for 1.2 million yuan | Established the oncology-drug direction; revenue grew from 80,000 yuan to over 100 million yuan within 6 years | A+ |
+| 2000 | Listed on the A-share market, invested 200 million yuan to build the Shanghai R&D center | Laid the foundation for an R&D-driven pharma company, bearing fruit 20 years later | A+ |
+| 2016-2019 | Drove the innovation transition full-throttle, cutting 70% of generic-drug projects | Innovative-drug revenue grew from several billion yuan to 16.342 billion yuan, exceeding 58% of the total | A |
+| 2021 | Came out of semi-retirement to lead sweeping reforms | Cut sales divisions, streamlined the pipeline, and brought in internationally experienced talent | A |
+| 2023-2025 | Launched the BD "going global" strategy | 12 cumulative deals worth over $27 billion, winning recognition from global giants | A |
 
-### 资本配置能力
+### Capital Allocation Ability
 
-- **研发回报**：累计投入500亿+，已产出24款创新药，2025年创新药收入163亿，回报率可观
-- **BD能力**：2023-2026年与默沙东、GSK、BMS等达成大额合作，交易规模和质量逐年升级（最新BMS交易152亿美元）
-- **股东回报**：2025年分红12.7亿+回购9.8亿=22.5亿元，占净利润29.2%。回购力度逐年加大
+- **R&D returns**: Cumulative investment of over 50 billion yuan has produced 24 innovative drugs; 2025 innovative-drug revenue was 16.342 billion yuan, a respectable return
+- **BD capability**: From 2023 to 2026, Hengrui struck large deals with Merck & Co. (MSD), GSK, BMS, and others, with deal size and quality upgrading year after year (the latest BMS deal was worth $15.2 billion)
+- **Shareholder returns**: In 2025, dividends of 1.27 billion yuan plus buybacks of 0.98 billion yuan totaled 2.25 billion yuan, or 29.2% of net profit. Buyback intensity has increased year after year
 
-### 组织与文化
+### Organization and Culture
 
-- **团队构成**："三驾马车"——孙飘扬（战略）+ 张连山（研发，40年经验）+ 江宁军（临床/BD）；2025年引入冯佶（前阿斯利康中国区总经理）任总裁/COO，加码国际化
-- **人事稳定性**：2022年是动荡高峰（4位副总辞职），2023年后趋于稳定。第十届董事会（2026年4月）核心班底保持一致
-- **薪酬结构**：孙飘扬年薪仅201万（通过持股获益），总裁冯佶最高薪654万，研发高管薪酬高于行政管理层——激励方向正确
-- **持股情况**：孙飘扬间接持有~21.3%，近年未减持；高管孙杰平有小额减持计划（47.67万股，占其个人持股25%）
+- **Team composition**: The "troika" — Sun Piaoyang (strategy) + Zhang Lianshan (R&D, 40 years of experience) + Jiang Ningjun (clinical/BD); in 2025, Feng Ji (former General Manager of AstraZeneca China) was brought in as President/COO to reinforce internationalization
+- **Personnel stability**: 2022 was the peak of turmoil (4 vice presidents resigned); things have stabilized since 2023. The core team of the 10th Board of Directors (April 2026) remains consistent
+- **Compensation structure**: Sun Piaoyang's annual salary is only 2.01 million yuan (he benefits mainly through his equity stake); President Feng Ji's compensation is the highest at 6.54 million yuan; R&D executives are paid more than administrative management — the incentive structure points in the right direction
+- **Shareholdings**: Sun Piaoyang indirectly holds ~21.3% and has not reduced his stake in recent years; executive Sun Jieping has a small planned reduction (476,700 shares, 25% of his personal holding)
 
-### 核心风险：接班人问题
+### Core Risk: The Succession Problem
 
-孙飘扬已67岁，核心研发高管张连山（65岁）、江宁军（65岁）年龄偏大。公司"仍在等待孙飘扬的接班人"。冯佶（55岁）加入时间尚短（2025年4月），能否胜任最高领导角色仍需观察。戴洪斌（49岁，内部25年老将）可能是潜在候选人。
+Sun Piaoyang is already 67, and core R&D executives Zhang Lianshan (65) and Jiang Ningjun (65) are also getting on in years. The company is "still waiting for Sun Piaoyang's successor." Feng Ji (55) joined only recently (April 2025), and whether he can take on the top leadership role remains to be seen. Dai Hongbin (49, a 25-year company veteran) could be a potential candidate.
 
-**核心追问**：如果孙飘扬退休，这家公司还能保持竞争力吗？
+**Core question**: If Sun Piaoyang retires, can the company retain its competitiveness?
 
-恒瑞的竞争力已经从"孙飘扬个人能力"部分转化为"组织能力和平台能力"——2000+专利、170+管线、15个全球研发中心、6200人销售团队，这些不会因一人退休而消失。但战略方向的判断力（砍什么项目、推什么管线、跟谁合作）高度依赖孙飘扬的行业洞察力和决断力。接班人能否继承这种判断力，是恒瑞中长期面临的最大不确定性之一。
-
----
-
-## 六、行业与文明趋势分析
-
-### 行业所处位置
-
-中国创新药行业正处于**从量变到质变的关键拐点**：
-
-- 2025年中国创新药市场规模约1.22万亿元，2030年预计接近2.3万亿元
-- 2025年中国批准上市创新药76个（同比+58%），创近五年新高
-- 2025年中国创新药对外授权总金额达1357亿美元，**占全球总额49%，首次超过美国**
-- 2026年政府工作报告**首次将生物医药列为"新兴支柱产业"**
-
-### 是否属于"文明级范式转移"？
-
-**是的，但程度有限。** 创新药行业不像AI那样是全新范式，而是一个已经存在数十年的成熟行业正在经历地理重心转移——从美欧向中国转移一部分。类比：2000年代全球制造业向中国转移，现在是创新药研发能力的部分转移。
-
-### 技术路线风险
-
-- **ADC**：恒瑞重点布局（14款在研），但全球竞争激烈，可能面临PD-1式内卷
-- **GLP-1**：HRS9531数据优异（减重19.2%），但面对礼来/诺和诺德两大巨头，全球市场份额存疑
-- **KRAS**：HRS-4642是全球首个进入III期的KRAS G12D抑制剂，具有first-in-class优势，是管线中最具重估价值的品种
-- **AI制药**：全球AI制药市场快速增长（2025年47亿美元），可能缩短研发周期但也降低壁垒
-
-### 客户/供应商集中度
-
-恒瑞的客户高度分散（覆盖8000+医院、17000+基层机构），无单一客户依赖风险。但有一个"超级客户"——中国医保基金，其支付政策（集采、医保谈判）对恒瑞定价权有决定性影响。
-
-**核心追问**：站在20年后回看，恒瑞是"这个时代的标准石油"还是"昙花一现的3Com"？
-
-更可能是**"中国版的阿斯利康"**——一家在全球创新药行业占有一席之地、但不会统治整个行业的大型药企。恒瑞的全平台研发能力和规模优势使其不太可能被淘汰，但要成为"时代标准石油"需要诞生1-2款全球年销售额超50亿美元的重磅产品，这在目前管线中尚未确认。
+Hengrui's competitiveness has already partially shifted from "Sun Piaoyang's personal ability" to "organizational and platform capability" — the 2,000+ patents, 170+ pipeline programs, 15 global R&D centers, and 6,200-person sales team will not vanish just because one person retires. But strategic judgment (which projects to cut, which pipeline programs to push, who to partner with) depends heavily on Sun Piaoyang's industry insight and decisiveness. Whether a successor can inherit this judgment is one of the biggest uncertainties Hengrui faces over the medium-to-long term.
 
 ---
 
-## 七、估值与安全边际
+## VI. Industry and Civilizational Trend Analysis
 
-### 7.1 当前市场定价
+### Where the Industry Stands
 
-| 指标 | 数值（工具验算） |
+China's innovative-drug industry is at a **critical inflection point of turning quantitative change into qualitative change**:
+
+- China's innovative-drug market was about 1.22 trillion yuan in 2025, and is projected to approach 2.3 trillion yuan by 2030
+- In 2025, China approved 76 innovative drugs for market launch (+58% YoY), a five-year high
+- In 2025, the total value of China's out-licensing deals for innovative drugs reached $135.7 billion, **accounting for 49% of the global total — surpassing the United States for the first time**
+- The 2026 Government Work Report **listed biopharmaceuticals as an "emerging pillar industry" for the first time**
+
+### Does This Qualify as a "Civilizational-Level Paradigm Shift"?
+
+**Yes, but to a limited degree.** The innovative-drug industry is not a brand-new paradigm the way AI is; rather, it is a mature industry that has existed for decades and is now undergoing a geographic shift in its center of gravity — partially moving from the US and Europe to China. An analogy: in the 2000s, global manufacturing shifted to China; now it is a partial shift of innovative-drug R&D capability.
+
+### Technology Route Risks
+
+- **ADC**: A key focus area for Hengrui (14 candidates in development), but global competition is intense and could face PD-1-style "involution"
+- **GLP-1**: HRS9531 has shown excellent data (19.2% weight loss), but facing the two giants Eli Lilly and Novo Nordisk, its global market share is uncertain
+- **KRAS**: HRS-4642 is the world's first KRAS G12D inhibitor to enter Phase III, holding a first-in-class advantage — the pipeline asset with the greatest re-rating potential
+- **AI drug discovery**: The global AI drug-discovery market is growing rapidly ($4.7 billion in 2025); it could shorten R&D cycles but also lower barriers to entry
+
+### Customer / Supplier Concentration
+
+Hengrui's customer base is highly dispersed (covering 8,000+ hospitals and 17,000+ grassroots institutions), with no single-customer dependency risk. But there is one "super customer" — China's national health-insurance fund — whose payment policies (volume-based procurement, NRDL negotiations) have a decisive effect on Hengrui's pricing power.
+
+**Core question**: Looking back 20 years from now, will Hengrui be "this era's Standard Oil" or "a flash-in-the-pan like 3Com"?
+
+More likely a **"Chinese AstraZeneca"** — a large pharmaceutical company that holds a place in the global innovative-drug industry but will not dominate the whole sector. Hengrui's full-platform R&D capability and scale advantage make it unlikely to be pushed out, but becoming "this era's Standard Oil" would require producing 1-2 blockbuster products with over $5 billion in annual global sales each — something not yet confirmed in the current pipeline.
+
+---
+
+## VII. Valuation and Margin of Safety
+
+### 7.1 Current Market Pricing
+
+| Metric | Value (Tool-Verified) |
 |------|----------------|
-| 股价 | ~46.63元 |
-| PE（TTM） | 40.13x |
+| Share price | ~CNY 46.63 |
+| PE (TTM) | 40.13x |
 | PB | 5.07x |
 | ROE | 12.63% |
 | P/FCF | 47.10x |
 | FCF Yield | 2.12% |
-| 股息率 | 0.43% |
+| Dividend yield | 0.43% |
 | EV/EBITDA | ~29.7x |
 
-### 7.2 历史估值对比
+### 7.2 Historical Valuation Comparison
 
-| 指标 | 近5年最高 | 近5年最低 | 近5年中位数 | 当前 | 百分位 |
+| Metric | 5-Year High | 5-Year Low | 5-Year Median | Current | Percentile |
 |------|----------|----------|-----------|------|--------|
-| PE（TTM） | 104.78x（2021初） | 33.33x（2022底） | ~60x | ~40x | ~8.5%（极低位） |
-| PB | 8-10x | ~4.5x | 6-7x | 5.1x | ~3%（极低位） |
+| PE (TTM) | 104.78x (early 2021) | 33.33x (late 2022) | ~60x | ~40x | ~8.5% (extremely low) |
+| PB | 8-10x | ~4.5x | 6-7x | 5.1x | ~3% (extremely low) |
 
-### 7.3 同行估值对比
+### 7.3 Peer Valuation Comparison
 
-| 公司 | PE（2026E） | PS | PB | 特征 |
+| Company | PE (2026E) | PS | PB | Characteristics |
 |------|-----------|-----|-----|------|
-| 恒瑞医药 | ~35x | 9.6x | 5.1x | 盈利稳定，创新药龙头 |
-| 百济神州 | ~73x | ~8x | — | 刚扭亏，泽布替尼全球放量 |
-| 信达生物 | 高PS | — | — | 2025刚盈利，享受创新溢价 |
-| 复星医药 | ~20x | 1.6x | 1.4x | 估值折价 |
-| 阿斯利康 | ~20-23x | — | — | 全球大型药企 |
-| 礼来 | ~54x | — | — | GLP-1龙头 |
-| 罗氏 | ~14.5x | — | — | 诊断+制药 |
+| Hengrui Pharmaceuticals | ~35x | 9.6x | 5.1x | Stable earnings, innovative-drug leader |
+| BeiGene | ~73x | ~8x | — | Just turned profitable; zanubrutinib ramping up globally |
+| Innovent Biologics | High PS | — | — | Just turned profitable in 2025; enjoying an innovation premium |
+| Fosun Pharma | ~20x | 1.6x | 1.4x | Trading at a valuation discount |
+| AstraZeneca | ~20-23x | — | — | Large global pharmaceutical company |
+| Eli Lilly | ~54x | — | — | GLP-1 leader |
+| Roche | ~14.5x | — | — | Diagnostics + pharmaceuticals |
 
-### 7.4 反向DCF：当前股价隐含了什么？
+### 7.4 Reverse DCF: What Does the Current Share Price Imply?
 
-以46.63元/40x PE计算，市场隐含的预期是：
-- 未来3年净利润CAGR约18-20%
-- 2028年净利润达到135-140亿元
-- 对应的创新药收入需从163亿增长至约350-400亿元
+At CNY 46.63 / 40x PE, the market's implied expectations are:
+- Net profit CAGR of approximately 18-20% over the next 3 years
+- Net profit reaching 13.5-14.0 billion yuan by 2028
+- Corresponding innovative-drug revenue needs to grow from 16.3 billion yuan to approximately 35.0-40.0 billion yuan
 
-这个隐含预期并非不可实现（管理层指引2026年创新药增速30%+，且53项新品预计3年内获批），但需要BD交易和新药放量双轮驱动。
+This implied expectation is not unachievable (management guidance calls for innovative-drug growth of 30%+ in 2026, with 53 new products expected to be approved within 3 years), but it requires dual drivers of BD deal-making and new-drug volume ramp-up.
 
-### 7.5 三情景估值（工具验算）
+### 7.5 Three-Scenario Valuation (Tool-Verified)
 
-基于当前EPS 1.162元，预测3年后（2028年末）：
+Based on current EPS of CNY 1.162, projecting 3 years out (end of 2028):
 
-| 情景 | 年化增速 | 目标PE | 2028E EPS | 目标股价 | 较当前涨跌 |
+| Scenario | Annualized Growth | Target PE | 2028E EPS | Target Price | Change vs. Current |
 |------|---------|--------|----------|---------|-----------|
-| **乐观** | 25% | 45x | 2.27元 | 102.1元 | +119.0% |
-| **中性** | 18% | 35x | 1.91元 | 66.8元 | +43.3% |
-| **悲观** | 10% | 25x | 1.55元 | 38.7元 | -17.1% |
+| **Bull case** | 25% | 45x | CNY 2.27 | CNY 102.1 | +119.0% |
+| **Base case** | 18% | 35x | CNY 1.91 | CNY 66.8 | +43.3% |
+| **Bear case** | 10% | 25x | CNY 1.55 | CNY 38.7 | -17.1% |
 
-**情景假设说明**：
-- **乐观**（25%增速，45x PE）：创新药收入增速30%+，GLP-1和KRAS管线顺利获批放量，BD交易持续高景气，"双艾"获FDA批准
-- **中性**（18%增速，35x PE）：创新药稳健增长但不超预期，BD交易偶有空窗，仿制药加速萎缩
-- **悲观**（10%增速，25x PE）：BD交易大幅减少，GLP-1竞争失利，地缘政治影响海外业务，市场对创新药估值系统性压缩
+**Scenario assumptions**:
+- **Bull case** (25% growth, 45x PE): Innovative-drug revenue growth of 30%+, the GLP-1 and KRAS pipelines gain approval and ramp up smoothly, BD dealmaking stays highly active, and the "Shuang'ai" combination is approved by the FDA
+- **Base case** (18% growth, 35x PE): Innovative drugs grow steadily but do not exceed expectations, BD dealmaking occasionally has gaps, and generic drugs shrink at an accelerating pace
+- **Bear case** (10% growth, 25x PE): BD dealmaking declines sharply, the company loses out in GLP-1 competition, geopolitics hits overseas business, and the market systemically compresses valuations for innovative-drug companies
 
-### 7.6 券商一致预期
+### 7.6 Sell-Side Consensus Estimates
 
-| 年份 | 一致预期营收 | 一致预期净利润 | 一致预期EPS | 对应PE |
+| Year | Consensus Revenue | Consensus Net Profit | Consensus EPS | Implied PE |
 |------|-----------|-------------|-----------|--------|
-| 2026E | 361亿元 | 95.1亿元 | 1.43元 | ~32.6x |
-| 2027E | 417亿元 | 112.9亿元 | 1.70元 | ~27.4x |
-| 2028E | 474亿元 | 135.5亿元 | 2.04元 | ~22.9x |
+| 2026E | CNY 36.1 billion | CNY 9.51 billion | CNY 1.43 | ~32.6x |
+| 2027E | CNY 41.7 billion | CNY 11.29 billion | CNY 1.70 | ~27.4x |
+| 2028E | CNY 47.4 billion | CNY 13.55 billion | CNY 2.04 | ~22.9x |
 
-20位分析师一致"强烈买入"，**目标价均值81.19元**（区间70-123元），较当前隐含约74%上行空间。
+20 analysts unanimously rate the stock "strong buy," with an **average target price of CNY 81.19** (range: CNY 70-123), implying approximately 74% upside from the current level.
 
-### 价格区间建议
+### Price Range Recommendations
 
-| 区间 | 价格 | 对应PE（2026E） | 说明 |
+| Range | Price | Implied PE (2026E) | Notes |
 |------|------|----------------|------|
-| **强烈吸引力** | <40元 | <28x | 接近悲观情景估值，安全边际充足 |
-| **合理偏低** | 40-55元 | 28-38x | 当前价位区间，处于历史低位 |
-| **合理** | 55-75元 | 38-52x | 接近券商目标价均值 |
-| **偏贵** | >75元 | >52x | 需要乐观情景兑现 |
+| **Strongly attractive** | <CNY 40 | <28x | Close to the bear-case valuation, ample margin of safety |
+| **Fair-to-cheap** | CNY 40-55 | 28-38x | Current price range, near historical lows |
+| **Fair** | CNY 55-75 | 38-52x | Close to the average sell-side target price |
+| **Expensive** | >CNY 75 | >52x | Would require the bull case to materialize |
 
-**核心追问**：如果股市明天关闭5年，你愿意以这个价格持有吗？
+**Core question**: If the stock market closed tomorrow for 5 years, would you be willing to hold at this price?
 
-以当前~46元的价格（对应2026E约32x PE），持有5年的胜算较高。原因：(1) 恒瑞的创新药转型已经实质性完成，不是"画饼"阶段；(2) 53项新品3年内获批提供了业绩增长的可见性；(3) 409亿现金在手、几乎零负债的资产负债表提供了安全垫。但需要接受的风险是：BD交易可能出现波动，地缘政治是尾部风险，接班人问题在5年内可能显现。
+At the current price of ~CNY 46 (implying roughly 32x PE on 2026E), the odds of a favorable outcome over a 5-year hold are fairly high. Reasons: (1) Hengrui's innovative-drug transformation has already been substantively completed — it is not still in a "promise-only" stage; (2) 53 new products expected to gain approval within 3 years provide visibility into earnings growth; (3) a balance sheet with 40.955 billion yuan in cash and near-zero debt provides a cushion. But the risks one must accept are: BD dealmaking could prove volatile, geopolitics is a tail risk, and the succession issue could surface within 5 years.
 
 ---
 
-## 八、综合决策备忘录
+## VIII. Comprehensive Decision Memo
 
-### 维度总结
+### Dimension Summary
 
-| 维度 | 结论 | 信心度 |
+| Dimension | Conclusion | Confidence |
 |------|------|--------|
-| 生意质量 | 优秀。全平台创新药企业，创新药占比超60%且快速增长，毛利率85%+，净利率24%+，现金流充沛 | 高 |
-| 护城河 | 强且在变宽。规模效应和技术壁垒是核心，管线全球第二，2000+专利，已获GSK/默沙东/BMS等全球巨头验证 | 高 |
-| 管理层 | 优秀但有接班风险。孙飘扬是中国最优秀的医药企业家之一，但已67岁，继任者不明确 | 中-高 |
-| 最大风险 | BD交易持续性存疑 + 地缘政治尾部风险 + 接班人不确定性 | 中 |
-| 行业趋势 | 强烈顺风。中国创新药市场快速增长，出海爆发，政策持续利好 | 高 |
-| 估值 | 处于历史低位（近5年8.5%分位），对应2026E约32x PE，在创新药龙头中属合理偏低 | 中-高 |
+| Business quality | Excellent. A full-platform innovative-drug company; innovative drugs account for over 60% of revenue and are growing fast; gross margin 85%+, net margin 24%+, ample cash flow | High |
+| Moat | Strong and widening. Scale effects and technology barriers are the core; the world's second-largest pipeline; 2,000+ patents; validated by global giants including GSK, Merck & Co. (MSD), and BMS | High |
+| Management | Excellent but with succession risk. Sun Piaoyang is one of China's best pharmaceutical entrepreneurs, but he is already 67 and a successor is not yet clear | Moderate-High |
+| Biggest risk | Doubts over the durability of BD dealmaking + geopolitical tail risk + succession uncertainty | Moderate |
+| Industry trend | Strongly favorable tailwind. China's innovative-drug market is growing fast, overseas out-licensing is booming, and policy remains supportive | High |
+| Valuation | Near historical lows (8.5th percentile over the past 5 years), implying roughly 32x 2026E PE — fair-to-cheap among innovative-drug leaders | Moderate-High |
 
-### 最终决策
+### Final Decision
 
-| 策略 | 建议 |
+| Strategy | Recommendation |
 |------|------|
-| **空仓者** | 当前价位（~46元附近）具备中长期投资价值，建议**分批建仓**。创新药转型实质性完成，估值处于历史底部区间，多个催化剂（"双艾"FDA审评7月23日、HRS9531获批预期、RAS数据读出）在未来6-12个月内集中释放。风险偏好较低者可等待催化剂落地后确认方向再行动 |
-| **持仓者** | **继续持有**。公司基本面持续改善，估值不贵，没有卖出的理由。若股价因短期事件（BD交易空窗、地缘政治扰动）回调至40元以下，可考虑加仓 |
-| **卖出信号** | (1) BD交易连续2个季度以上无新增且管理层下调指引；(2) "双艾"FDA审评第三次被拒且无明确重新提交路径；(3) 孙飘扬突然离任且继任者市场不认可；(4) 地缘政治导致已签BD交易被终止 |
-| **加仓信号** | (1) 股价回调至40元以下（悲观估值区间）；(2) HRS9531获批且处方数据积极；(3) KRAS G12D（HRS-4642）III期数据积极；(4) 创新药季度收入增速持续30%+ |
+| **Investors with no position** | The current price level (~CNY 46) offers medium-to-long-term investment value; recommend **building a position in tranches**. The innovative-drug transformation has been substantively completed, valuation sits in a historical bottom range, and several catalysts (the "Shuang'ai" FDA review on July 23, HRS9531's expected approval, RAS data readout) will be concentrated within the next 6-12 months. Investors with lower risk appetite can wait for catalysts to play out and confirm direction before acting |
+| **Existing holders** | **Keep holding.** Fundamentals continue to improve, valuation is not expensive, and there is no reason to sell. If the share price pulls back below CNY 40 due to short-term events (a gap in BD dealmaking, geopolitical disruption), consider adding to the position |
+| **Sell signals** | (1) No new BD deals for 2+ consecutive quarters and management cuts guidance; (2) The "Shuang'ai" FDA review is rejected a third time with no clear resubmission path; (3) Sun Piaoyang departs suddenly and the market does not endorse his successor; (4) Geopolitics causes an already-signed BD deal to be terminated |
+| **Buy-more signals** | (1) The share price pulls back below CNY 40 (the bear-case valuation range); (2) HRS9531 is approved with positive prescription data; (3) KRAS G12D (HRS-4642) Phase III data is positive; (4) Innovative-drug quarterly revenue growth stays above 30%+ |
 
-### 模拟点评
+### Simulated Commentary
 
-> **价值投资视角**："恒瑞是一门好生意——85%的毛利率、24%的净利率、409亿现金在手、几乎零负债。以40倍PE买入看起来不便宜，但考虑到未来3年53款新品获批的管线深度，这个价格对应的是2028年的23倍PE。真正的风险不在估值，在于接班人——如果孙飘扬明天退休，这条护城河还能自我维护吗？我会给它一个适度的仓位，但不会重仓到需要对接班人问题下重注的程度。"
+> **Value investing perspective**: "Hengrui is a good business — 85% gross margin, 24% net margin, 40.955 billion yuan in cash, and almost zero debt. Buying at 40x PE looks expensive at first glance, but given the pipeline depth of 53 new products expected to be approved over the next 3 years, this price corresponds to just 23x 2028 earnings. The real risk isn't the valuation — it's succession. If Sun Piaoyang retired tomorrow, could this moat maintain itself? I would give it a moderate position, but I would not size it up to the point of betting heavily on the succession question."
 
-> **逆向思维视角**："我最担心的是'BD交易的可持续性'这个隐性假设。2023-2025年中国创新药BD热潮可能是周期性的——全球大药企面临专利悬崖、需要补充管线，中国药企恰好有大量处于临床中后期的品种可供授权。但如果这个窗口期过去了呢？德国默克终止合作就是一个信号。市场给恒瑞的估值里有多少BD溢价？如果扣掉BD收入（33.92亿），恒瑞2025年的核心药品销售利润对应的PE可能在50倍以上。"
+> **Inversion-thinking perspective**: "What worries me most is the hidden assumption of 'BD dealmaking sustainability.' The 2023-2025 boom in Chinese innovative-drug BD deals may be cyclical — global big pharma faces a patent cliff and needs to refill its pipeline, and Chinese biotechs happen to have a large stock of mid-to-late-stage clinical candidates available for licensing. But what if that window closes? Merck KGaA's (Germany) termination of its collaboration is one such signal. How much of Hengrui's valuation is a BD premium? Strip out BD revenue (3.392 billion yuan), and Hengrui's 2025 PE on core drug-sales profit alone could be north of 50x."
 
-> **生意本质视角**："恒瑞是一门'对的生意'——创新药满足的是人类最基本的生存需求，不受经济周期影响。孙飘扬是'对的人'——30年如一日坚持研发投入，在集采至暗时刻仍不动摇。当前是'对的价格'吗？52周最低点附近，历史PE百分位8.5%，对一个利润增速20%+的创新药龙头来说，至少不算贵。但我不会在这里all-in——好公司也需要好价格，而46元是否真的足够便宜，取决于你对BD交易持续性和地缘政治风险的判断。"
+> **Business-nature perspective**: "Hengrui is 'the right business' — innovative drugs meet one of humanity's most basic survival needs, unaffected by economic cycles. Sun Piaoyang is 'the right person' — he has stuck to R&D investment for 30 years straight, staying resolute even in the darkest hour of volume-based procurement. Is now 'the right price'? Near its 52-week low, with a historical PE percentile of 8.5%, it's at least not expensive for an innovative-drug leader growing profits at 20%+. But I wouldn't go all-in here — even a good company needs a good price, and whether CNY 46 is truly cheap enough depends on your view of BD dealmaking durability and geopolitical risk."
 
-> **文明趋势视角**："中国创新药行业正在经历一场'跨越式追赶'——2025年中国License-out总金额占全球49%，超过美国。这不是昙花一现，而是中国工程师红利在制药领域的延伸。恒瑞作为中国创新药的'排头兵'，有机会成为这场产业转移的最大受益者。但要从'中国龙头'升级为'全球龙头'，它需要至少一款年销售额超50亿美元的全球重磅产品——KRAS G12D和GLP-1是最有希望的候选。如果这两个管线能走通，恒瑞的故事就从'中国阿斯利康'升级为'东方礼来'。"
+> **Civilizational-trend perspective**: "China's innovative-drug industry is undergoing a 'leapfrog catch-up' — in 2025, the total value of China's out-licensing deals accounted for 49% of the global total, surpassing the United States. This is not a flash in the pan; it is the pharmaceutical extension of China's engineer dividend. As the 'vanguard' of Chinese innovative drugs, Hengrui has a shot at becoming the biggest beneficiary of this industry shift. But to upgrade from 'China's leader' to a 'global leader,' it needs at least one global blockbuster with annual sales exceeding $5 billion — KRAS G12D and GLP-1 are the most promising candidates. If these two pipelines pan out, Hengrui's story upgrades from 'China's AstraZeneca' to 'the Eli Lilly of the East.'"
 
 ---
 
-## 附录：关键数据交叉验证记录
+## Appendix: Cross-Verification Records for Key Data
 
-### 市值验算
+### Market Cap Verification
 
 ```
-股价: 46.63 CNY × 总股本: 6.637B = 计算市值: 3,094.8亿元
-报告市值: ~3,130亿元
-偏差: 1.12%  ⚠️ 在可接受范围（因股价波动/报告时点差异）
+Share price: 46.63 CNY × Total shares outstanding: 6.637B = Calculated market cap: CNY 309.48 billion
+Reported market cap: ~CNY 313.0 billion
+Deviation: 1.12%  ⚠️ Within acceptable range (due to share-price fluctuation / reporting-date differences)
 ```
 
-### 关键财务数据交叉验证
+### Cross-Verification of Key Financial Data
 
-| 数据项 | 来源1 | 来源2 | 来源3 | 偏差 | 结论 |
+| Data Item | Source 1 | Source 2 | Source 3 | Deviation | Conclusion |
 |-------|------|------|------|------|------|
-| 2025年营收 | 316.29亿（新华网） | 316.29亿（新浪财经） | 316.29亿（证券时报） | 0% | ✅ 一致 |
-| 2025年净利润 | 77.11亿（新华网） | 77.11亿（新浪财经） | 77.11亿（东方财富） | 0% | ✅ 一致 |
-| 2025年货币资金 | 409.55亿（年报） | 409.55亿（新浪财经） | — | 0% | ✅ 一致 |
-| 总股本 | 66.37亿股（同花顺） | 66.372亿股（新浪财经） | — | <0.01% | ✅ 一致 |
+| 2025 revenue | 31.629 billion yuan (Xinhuanet) | 31.629 billion yuan (Sina Finance) | 31.629 billion yuan (Securities Times) | 0% | ✅ Consistent |
+| 2025 net profit | 7.711 billion yuan (Xinhuanet) | 7.711 billion yuan (Sina Finance) | 7.711 billion yuan (Eastmoney) | 0% | ✅ Consistent |
+| 2025 cash and cash equivalents | 40.955 billion yuan (annual report) | 40.955 billion yuan (Sina Finance) | — | 0% | ✅ Consistent |
+| Total shares outstanding | 6.637 billion shares (THS/10jqka) | 6.6372 billion shares (Sina Finance) | — | <0.01% | ✅ Consistent |
 
-### 估值指标验算（精确十进制）
+### Valuation Metric Verification (Precise Decimals)
 
-| 指标 | 计算公式 | 工具验算值 |
+| Metric | Formula | Tool-Verified Value |
 |------|---------|-----------|
-| PE（TTM） | 46.63 / 1.162 | 40.13x |
+| PE (TTM) | 46.63 / 1.162 | 40.13x |
 | PB | 46.63 / 9.2 | 5.07x |
 | ROE | 1.162 / 9.2 | 12.63% |
 | P/FCF | 46.63 / 0.99 | 47.10x |
 | FCF Yield | 0.99 / 46.63 | 2.12% |
-| 股息率 | 0.20 / 46.63 | 0.43% |
+| Dividend yield | 0.20 / 46.63 | 0.43% |
 
-### 三情景估值验算
+### Three-Scenario Valuation Verification
 
 ```
-乐观: EPS 1.162 × (1+25%)^3 × 45x = 2.27 × 45 = 102.1元 (+119.0%)
-中性: EPS 1.162 × (1+18%)^3 × 35x = 1.91 × 35 = 66.8元 (+43.3%)
-悲观: EPS 1.162 × (1+10%)^3 × 25x = 1.55 × 25 = 38.7元 (-17.1%)
+Bull case: EPS 1.162 × (1+25%)^3 × 45x = 2.27 × 45 = CNY 102.1 (+119.0%)
+Base case: EPS 1.162 × (1+18%)^3 × 35x = 1.91 × 35 = CNY 66.8 (+43.3%)
+Bear case: EPS 1.162 × (1+10%)^3 × 25x = 1.55 × 25 = CNY 38.7 (-17.1%)
 ```
 
 ---
 
-## "AI分析置信度"与"投资确定性"的区别
+## The Distinction Between "AI Analysis Confidence" and "Investment Certainty"
 
-| 维度 | AI分析置信度 | 投资确定性 |
+| Dimension | AI Analysis Confidence | Investment Certainty |
 |------|-----------|-----------|
-| **财务数据** | 高（多源交叉验证，工具验算） | 高（年报数据可靠） |
-| **竞争格局** | 高（公开数据充分） | 中-高（市场动态变化） |
-| **管理层能力** | 中-高（有丰富公开信息，但难以评估内部决策过程） | 中（接班人问题无法从外部预判） |
-| **BD交易持续性** | 中（历史数据充分，但未来预测本质上是概率判断） | 中-低（BD交易受全球药企战略周期影响，波动性大） |
-| **管线成功率** | 中（可参考行业统计概率，但单品种结果不可预测） | 中（53款3年内获批的指引提供了一定确定性） |
-| **地缘政治** | 低（无法可靠预测） | 低（尾部风险，一旦发生影响极大） |
-| **估值区间** | 中-高（历史数据和工具验算支撑） | 中（市场情绪和流动性同样影响估值） |
+| **Financial data** | High (cross-verified across multiple sources, tool-verified) | High (annual report data is reliable) |
+| **Competitive landscape** | High (ample public data) | Moderate-High (market dynamics keep changing) |
+| **Management capability** | Moderate-High (abundant public information, but internal decision-making processes are hard to assess) | Moderate (the succession question cannot be predicted from outside) |
+| **BD deal durability** | Moderate (ample historical data, but forecasting the future is inherently probabilistic) | Moderate-Low (BD dealmaking is affected by global pharma companies' strategic cycles and is highly volatile) |
+| **Pipeline success rate** | Moderate (industry statistical probabilities are a useful reference, but the outcome for any single candidate is unpredictable) | Moderate (guidance for 53 products to be approved within 3 years provides some certainty) |
+| **Geopolitics** | Low (cannot be reliably forecast) | Low (a tail risk with an enormous impact if it materializes) |
+| **Valuation range** | Moderate-High (supported by historical data and tool verification) | Moderate (market sentiment and liquidity also affect valuation) |
 
-**总结**：本报告中，基于充分数据的结论（财务状况、竞争格局、历史估值）可信度较高；基于推理和判断的结论（BD持续性、管线成功率、接班人风险）需要读者结合自身认知独立判断。**AI分析的最大盲区是"人"——孙飘扬的真实健康状况和退休意愿、核心团队的内部协作效率、继任者的潜在人选——这些无法从公开资料中可靠推断。**
+**Summary**: In this report, conclusions grounded in ample data (financial condition, competitive landscape, historical valuation) carry higher credibility; conclusions based on inference and judgment (BD durability, pipeline success rates, succession risk) require readers to apply their own independent judgment. **The biggest blind spot in AI analysis is "people" — Sun Piaoyang's true health status and willingness to retire, the internal collaboration efficiency of the core team, and the potential successor candidates — none of which can be reliably inferred from public sources.**
 
 ---
 
-> 数据来源：恒瑞医药年报/季报、新华网、新浪财经、证券时报、东方财富、同花顺、Investing.com、StockAnalysis、GuruFocus、第一财经、医药魔方、财联社、摩根士丹利研报、花旗银行研报等
+> Data sources: Hengrui Pharmaceuticals annual/quarterly reports, Xinhuanet, Sina Finance, Securities Times, Eastmoney, THS (10jqka), Investing.com, StockAnalysis, GuruFocus, Yicai, PharmCube, Cailian Press, Morgan Stanley research reports, Citigroup research reports, and others

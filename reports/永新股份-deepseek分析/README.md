@@ -1,50 +1,50 @@
-# 永新股份（sz002014）投研项目
+# Yongxin Co. (sz002014) Investment Research Project
 
-**研究启动时间**：2026年4月25日
-**信息丰富度评级**：B级（信息适中）
+**Research Start Date**: April 25, 2026
+**Information Richness Rating**: Grade B (Moderate Information)
 
-## 团队架构
+## Team Structure
 
-| 角色 | 分析师 | 投资框架 | 报告文件 |
+| Role | Analyst | Investment Framework | Report File |
 |------|--------|----------|----------|
-| **Team Lead** | 团队负责人 | 四大师综合框架 | `最终报告.md` |
-| **Business Analyst** | 商业模式分析师 | 段永平视角 | `01-商业模式分析-段永平视角.md` |
-| **Financial Analyst** | 财务分析师 | 巴菲特视角 | `02-财务估值分析-巴菲特视角.md` |
-| **Industry Researcher** | 行业研究员 | 芒格视角 | `03-行业竞争分析-芒格视角.md` |
-| **Risk Assessor** | 风险评估师 | 李录视角 | `04-风险管理层评估-李录视角.md` |
+| **Team Lead** | Team Lead | Four-Master Composite Framework | `final-report.md` |
+| **Business Analyst** | Business Model Analyst | Duan Yongping's Perspective | `01-business-model-duan-yongping.md` |
+| **Financial Analyst** | Financial Analyst | Buffett's Perspective | `02-financials-valuation-buffett.md` |
+| **Industry Researcher** | Industry Researcher | Munger's Perspective | `03-industry-competition-munger.md` |
+| **Risk Assessor** | Risk Assessor | Li Lu's Perspective | `04-risk-management-li-lu.md` |
 
-## 公司基本信息
+## Company Basic Information
 
-- **股票代码**：sz002014
-- **公司全称**：永新股份
-- **所属行业**：橡胶和塑料制品业
-- **成立日期**：1992年5月21日
-- **主营业务**：彩印复合包装产品和真空镀铝膜产品的生产和销售
+- **Stock Code**: sz002014
+- **Full Company Name**: Yongxin Co.
+- **Industry**: Rubber and plastic products
+- **Founded**: May 21, 1992
+- **Main Business**: Production and sale of printed composite packaging products and vacuum aluminized film products
 
-## 研究进度
+## Research Progress
 
-| 任务 | 状态 | 完成时间 | 核心发现 | 评分 |
+| Task | Status | Completion Date | Key Findings | Score |
 |------|------|----------|----------|------|
-| 商业模式分析 | ✅ 已完成 | 2026-04-25 | 护城河浅(★★)，定价权弱，非段永平"好生意" | 2.3/5 |
-| 财务估值分析 | ✅ 已完成 | 2026-04-25 | 财务健康但2025年恶化(净利润-6.33%)，估值安全边际有限 | 3.0/5 |
-| 行业竞争分析 | ✅ 已完成 | 2026-04-25 | 行业吸引力低(★★)，竞争格局分散 | 2.5/5 |
-| 风险管理评估 | ✅ 已完成 | 2026-04-25 | 新管理层待验证，环保风险可控，股息率5%突出 | 3.2/5 |
+| Business model analysis | ✅ Completed | 2026-04-25 | Shallow moat (★★), weak pricing power — not a Duan Yongping-style "good business" | 2.3/5 |
+| Financial and valuation analysis | ✅ Completed | 2026-04-25 | Financially healthy but deteriorated in 2025 (net profit -6.33%); limited margin of safety in the valuation | 3.0/5 |
+| Industry competition analysis | ✅ Completed | 2026-04-25 | Low industry attractiveness (★★), fragmented competitive landscape | 2.5/5 |
+| Risk and management assessment | ✅ Completed | 2026-04-25 | New management unproven, environmental risk manageable, dividend yield of 5% stands out | 3.2/5 |
 
-## 核心数据（2025年报）
+## Core Data (2025 Annual Report)
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 营业收入 | 37.23亿元 |
-| 净利润 | 4.38亿元（同比-6.33%） |
-| 毛利率 | 23.00% |
+| Revenue | RMB 3.723 billion |
+| Net profit | RMB 438 million (YoY -6.33%) |
+| Gross margin | 23.00% |
 | ROE | 17.34% |
-| 资产负债率 | 41.68% |
-| 股息率(当前) | ~4.8-5.4% |
+| Debt-to-asset ratio | 41.68% |
+| Dividend yield (current) | ~4.8-5.4% |
 
-## 研究原则
+## Research Principles
 
-- **客观优先**：所有分析基于事实和数据
-- **反面检验**：主动寻找与正面观点相矛盾的证据
-- **非共识视角**：避免输出市场共识的"正确的废话"
-- **数据严谨**：关键财务数据交叉验证
-- **信息评级**：B级（信息适中）- 标注数据置信度
+- **Objectivity first**: all analysis is based on facts and data
+- **Counter-checking**: actively seek evidence that contradicts positive views
+- **Non-consensus perspective**: avoid producing "correct platitudes" that merely echo market consensus
+- **Rigorous data**: cross-validate key financial data
+- **Information rating**: Grade B (moderate information) — data confidence levels are flagged
