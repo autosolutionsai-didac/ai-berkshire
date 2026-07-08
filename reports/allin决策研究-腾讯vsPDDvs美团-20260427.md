@@ -22,7 +22,7 @@
 | Historical Report | Date | Relationship to This Research |
 |---|---|---|
 | [Rotation Decision Research – Tencent to PDD, Moutai to Meituan](./换仓决策研究-腾讯换PDD-茅台换美团-20260423.md) | 2026-04-23 | Previous round examined the "rotation" question: Tencent→PDD rationality score 2.0/5, Moutai→Meituan 1.25/5 |
-| [Tencent Investment Research Report_20260427](腾讯/) | 2026-04-27 | Today's single-stock research: Tencent's current price HKD 493.4, SOTP intrinsic value HKD 543.67, 3-year weighted target price HKD 779 (+58%) |
+| [Tencent Investment Research Report_20260427](Tencent/) | 2026-04-27 | Today's single-stock research: Tencent's current price HKD 493.4, SOTP intrinsic value HKD 543.67, 3-year weighted target price HKD 779 (+58%) |
 | [Portfolio Latest](./portfolio-latest.md) | 2026-04-09 | Portfolio-level analysis: the 85% single-country (China) concentration risk has already been identified |
 
 **Key takeaways from the historical research**:
