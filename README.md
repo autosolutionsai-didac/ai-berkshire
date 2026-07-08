@@ -1,243 +1,235 @@
-# AI Berkshire — a value-investing research team in one command
+<div align="center">
 
-> "Price is what you pay. Value is what you get." — Warren Buffett
+# 🏛️ AI Berkshire
 
-**AI Berkshire** turns the methodologies of four value-investing masters — **Buffett, Munger, Duan Yongping, and Li Lu** — into a set of research skills for Claude Code and Codex. Point it at a company and it produces a professional-grade, decision-ready research report — not a hedged "on one hand, on the other hand" essay.
+### Your own investment research team — in a single command
 
-**One person + Claude Code = an entire investment research team.**
+*Turn Claude into four legendary investors who research any company for you and hand you a clear, decision-ready verdict.*
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-8A2BE2)
+![Codex](https://img.shields.io/badge/Codex-compatible-111111)
+![Skills](https://img.shields.io/badge/skills-19-2496ED)
+![Value Investing](https://img.shields.io/badge/4_masters-Buffett_·_Munger_·_Duan_·_Li_Lu-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+> 💬 *"Price is what you pay. Value is what you get."* — Warren Buffett
+
+</div>
 
 ---
 
-## The headline: one command runs the whole funnel
+## 🎯 What is this? (in plain English)
+
+Imagine hiring a **team of four world-class investors** to study a stock for you — one obsesses over the business, one over the numbers, one over the competition, and one over the long-term risks. They argue, cross-check each other, and then hand you a single, honest answer: **buy it, hold it, or stay away.**
+
+That's AI Berkshire. You type one command, and Claude becomes that team.
+
+- 🧑‍💼 **Who it's for:** anyone who invests and wants real research, not a vague "it depends."
+- ⚡ **What you do:** type a company name.
+- 📄 **What you get:** a professional research report with a clear verdict, a fair-price range, and how much to buy.
+- 🚫 **What it refuses to do:** sit on the fence. Every report commits to a decision.
+
+---
+
+## 📈 Real money, real results
+
+> These are screenshots from a **real brokerage account** — not a simulation. *(Past performance never guarantees future results.)*
+
+<div align="center">
+
+<img src="assets/2024-returns.png" width="280" />&nbsp;&nbsp;<img src="assets/2025-returns.png" width="280" />
+
+</div>
+
+| Year | 🟢 This framework | S&P 500 | Nasdaq | Hang Seng | CSI 300 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **2024** | **🚀 +69.29%** | +23.31% | +28.64% | +17.67% | +14.68% |
+| **2025** | **🚀 +66.38%** | +16.39% | +20.36% | +27.77% | +17.66% |
+
+✨ **Two years in a row beating every major global index**, with cumulative live gains of **over ¥1.46 million**.
+
+---
+
+## 🪄 The magic: one command
 
 ```bash
 /berkshire-skill Tencent
 ```
 
-`/berkshire-skill` walks a single company through a complete value-investing funnel, phase by phase, and ends with a capstone **Comprehensive Investment Decision Report** synthesized from everything before it:
+That single line runs a full **7-step investment funnel** and ends with a complete decision report:
 
 ```
-quality-screen ─▶ investment-team (four masters) ─▶ management-deep-dive
-     ─▶ earnings-review ─▶ investment-checklist ─▶ thesis-tracker
-          ─▶ 📄 Comprehensive Investment Decision Report
+1️⃣ Quality screen   →  2️⃣ Four-master research  →  3️⃣ Management check
+   →  4️⃣ Earnings deep-read  →  5️⃣ Buy checklist  →  6️⃣ Thesis
+      →  📄 Final Investment Decision Report
 ```
 
-- **It behaves like a real funnel, not a checklist.** A quality-screen elimination or a checklist integrity veto **halts the run early** — bad businesses don't get a 7-phase writeup.
-- **It doesn't reinvent the skills.** Each phase runs the canonical workflow of the individual skill below, writing into one shared `reports/{Company}/` folder, so the standalone skills stay the single source of truth and still work on their own.
-- **Flags:** `quick` (fast triage), `force` (run every phase even if the screen eliminates), `resume` (continue an interrupted run).
+- 🛑 **It quits early on bad companies.** Just like a real investor, if a company fails the first quality screen, it stops — no wasting time on a lost cause.
+- 🎛️ **Handy shortcuts:**
+  - `quick` → a fast first look before committing to the full study
+  - `force` → run everything anyway, even if it fails the screen
+  - `resume` → pick up where an interrupted run left off
 
 ```bash
-/berkshire-skill Apple quick      # fast triage before committing to a full run
-/berkshire-skill IonQ force       # push past the quality-screen gate
+/berkshire-skill Apple quick     # ⚡ quick triage
+/berkshire-skill Nvidia          # 🔬 the full deep dive
 ```
 
-Prefer to drive it yourself? Every phase is also a standalone slash command (see the [skills catalog](#skills-catalog-19-skills)).
+> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-19-skills) below).
 
 ---
 
-## What makes it different from just asking an AI
+## 🆚 Why not just ask ChatGPT/Claude directly?
 
-You can always ask Claude "should I buy Pinduoduo?" and get a balanced answer that ends in "…do your own research." That looks right but **can't drive a decision.** AI Berkshire is built around decision discipline:
+You can! But here's the difference 👇
 
-**1. It forces a verdict.** Every run ends in **Buy / Hold / Avoid** (or Pass / Gray Zone), with a concrete valuation range and tiered position sizing — never a fence-sit.
+| | 🤖 Asking AI directly | 🏛️ AI Berkshire |
+|---|---|---|
+| **The answer** | "On one hand… on the other hand… do your own research." | ✅ **Buy / Hold / Avoid**, with a price range |
+| **Perspectives** | One voice | 🧠 Four investors who *argue* with each other |
+| **The math** | Often wrong (AIs can't do mental math) | 🔢 Every number computed & double-checked |
+| **Consistency** | Different every time | 🔁 Same depth and format every run |
+| **Bias control** | Sounds confident, may be hollow | 🛡️ Built-in "how could this fail?" checks |
 
-**2. Four masters in genuine tension, not one voice.** The four perspectives are designed to *contradict* each other. On Pinduoduo: Buffett sees a cash machine at 6x ex-cash P/E (buy); Li Lu sees culture/certainty risk (if unsure, don't). That conflict is the real state of a decision — and a single prompt can't produce it.
-
-**3. Structured anti-bias.** Information-richness rating (A/B/C) to fight the "more data = more certainty" illusion; Munger-style inversion ("how could this die?"); an 8-item quick-kill checklist where any red line is a veto; and honest "insufficient data" instead of confident guessing.
-
-**4. Numbers are computed, not eyeballed.** LLMs can't do reliable mental math, and mixing HKD with CNY wrecks a valuation. Every figure goes through `tools/financial_rigor.py` (exact `decimal.Decimal` arithmetic) and is cross-checked against ≥2 independent sources.
-
-```bash
-python3 tools/financial_rigor.py verify-market-cap \
-  --price 510 --shares 9.11e9 --reported 4.65e12 --currency HKD
-# ✅ Verified — deviation only 0.08%
-```
-
-**5. Multi-agent parallelism.** `/investment-team` launches 4 independent agents that each search, cross-validate, and conclude on their own, then a team lead synthesizes — 4× the search volume and four real perspectives, not one prompt split four ways.
-
-**6. Reproducible.** Same input → structurally consistent, equally deep output. Compare seven companies on identical criteria, or re-run the same company in six months and diff the changes.
+> 💡 In short: regular AI gives you *analysis that looks right*. AI Berkshire gives you *a report you can actually act on.*
 
 ---
 
-## Architecture
+## 🧠 Meet your four analysts
 
-<p align="center">
-  <img src="assets/architecture.png" alt="AI Berkshire architecture" width="360" />
-</p>
+Each one looks at the company through a different lens — and they're **designed to disagree**, so blind spots get caught.
 
-**Three layers:**
-- **Skill layer** — 19 clear entry points ("what you want to do"): the full pipeline, deep research, earnings, industry screening, portfolio management, and thinking tools.
-- **Agent layer** — skills fan out into parallel agents that search independently, challenge each other, and get synthesized by a team lead.
-- **Tool layer** — exact-precision math, live web search, and a release auditor that spot-checks every report's data before it's considered final.
+| Analyst | 🔎 Their obsession | The question they ask |
+|---|---|---|
+| 💰 **Warren Buffett** | The numbers & the price | *"Is it a wonderful business at a fair price?"* |
+| 🧩 **Charlie Munger** | What could go wrong | *"How could this company die?"* |
+| 🏭 **Duan Yongping** | The business itself | *"Is this actually a good business?"* |
+| 🌱 **Li Lu** | The next 10+ years | *"Will this still matter in a decade?"* |
+
+> 🥊 Buffett says *"it's genuinely cheap"* → Li Lu asks *"but will it exist in 10 years?"* — **that tension is exactly what protects you from a bad decision.**
 
 ---
 
-## Skills catalog (19 skills)
+## 📚 The full menu (19 skills)
 
-### 🚀 Full pipeline
-
-| Skill | Purpose |
-|-------|---------|
-| [`/berkshire-skill`](skills/berkshire-skill.md) | One command runs the whole funnel end to end and emits a capstone decision report. Halts early on a hard-gate failure. |
+### 🚀 The all-in-one
+| Command | What it does |
+|---|---|
+| [`/berkshire-skill`](skills/berkshire-skill.md) | ⭐ Runs the entire funnel and delivers a final decision report |
 
 ### 🔬 Deep research
+| Command | What it does |
+|---|---|
+| [`/investment-research`](skills/investment-research.md) | Full four-master study of a company |
+| [`/investment-team`](skills/investment-team.md) | 4 AI analysts research **in parallel** — fastest & deepest |
+| [`/management-deep-dive`](skills/management-deep-dive.md) | 🕵️ Investigates the people running the company |
+| [`/private-company-research`](skills/private-company-research.md) | Digs into private firms (SpaceX, ByteDance…) |
+| [`/deep-company-series`](skills/deep-company-series.md) | 📖 An 8-part, magazine-quality deep-dive series |
 
-| Skill | Purpose |
-|-------|---------|
-| [`/investment-research`](skills/investment-research.md) | Four-master comprehensive analysis of a public company |
-| [`/investment-team`](skills/investment-team.md) | 4 agents research in parallel — fastest, most comprehensive |
-| [`/management-deep-dive`](skills/management-deep-dive.md) | "Buying a stock is buying its people" — deep management/integrity dossier |
-| [`/private-company-research`](skills/private-company-research.md) | Detective-style research on info-scarce private firms (SpaceX, ByteDance…) |
-| [`/deep-company-series`](skills/deep-company-series.md) | 8-part, publication-grade long-form series |
+### 📊 Earnings
+| Command | What it does |
+|---|---|
+| [`/earnings-review`](skills/earnings-review.md) | Reads the actual filings — no second-hand summaries |
+| [`/earnings-team`](skills/earnings-team.md) | Four masters break down earnings → a publishable article |
 
-### 📊 Earnings analysis
+### 🏭 Industries & screening
+| Command | What it does |
+|---|---|
+| [`/industry-research`](skills/industry-research.md) | Maps every opportunity in an industry |
+| [`/industry-funnel`](skills/industry-funnel.md) | Whole market → shortlist → 3 best picks |
+| [`/quality-screen`](skills/quality-screen.md) | 7 quick tests to weed out weak companies |
+| [`/bottleneck-hunter`](skills/bottleneck-hunter.md) | Finds the hidden choke points behind a big trend |
+| [`/investment-checklist`](skills/investment-checklist.md) | ✅ Buffett's 6 gates — a 10-minute go/no-go |
 
-| Skill | Purpose |
-|-------|---------|
-| [`/earnings-review`](skills/earnings-review.md) | Deep-read of primary filings only — no sell-side summaries |
-| [`/earnings-team`](skills/earnings-team.md) | Four masters interpret earnings in parallel → editor → publishable article |
+### 📈 Managing your portfolio
+| Command | What it does |
+|---|---|
+| [`/portfolio-review`](skills/portfolio-review.md) | Reviews your holdings, sizing, and balance |
+| [`/thesis-tracker`](skills/thesis-tracker.md) | 🎯 Alerts you if your reason to own a stock breaks |
+| [`/news-pulse`](skills/news-pulse.md) | Stock jumped or crashed? Find out *why* in 10 min |
 
-### 🏭 Industry & screening
-
-| Skill | Purpose |
-|-------|---------|
-| [`/industry-research`](skills/industry-research.md) | Map every opportunity across an industry's value chain |
-| [`/industry-funnel`](skills/industry-funnel.md) | Full market → rough cut ≤10 → 3 deep dives |
-| [`/quality-screen`](skills/quality-screen.md) | 7 hard metrics that quickly eliminate non-first-class companies |
-| [`/bottleneck-hunter`](skills/bottleneck-hunter.md) | Find physical supply-chain bottlenecks behind a supertrend |
-| [`/investment-checklist`](skills/investment-checklist.md) | Buffett's six gates — a 10-minute go/no-go |
-
-### 📈 Portfolio management
-
-| Skill | Purpose |
-|-------|---------|
-| [`/portfolio-review`](skills/portfolio-review.md) | Position sizing, concentration, and rebalancing |
-| [`/thesis-tracker`](skills/thesis-tracker.md) | Post-buy discipline: track whether your thesis has been falsified |
-| [`/news-pulse`](skills/news-pulse.md) | A stock moved — figure out *what happened* in 10 minutes |
-
-### 🧠 Thinking & writing tools
-
-| Skill | Purpose |
-|-------|---------|
-| [`/dyp-ask`](skills/dyp-ask.md) | Think through any question the Duan Yongping way |
-| [`/financial-data`](skills/financial-data.md) | Retrieve & cross-validate data from 2+ sources; flags >1% deviation |
-| [`/wechat-article`](skills/wechat-article.md) | Author + editor + reader agents produce a publishable article |
+### 🧠 Thinking & writing
+| Command | What it does |
+|---|---|
+| [`/dyp-ask`](skills/dyp-ask.md) | Think through any question, master-style |
+| [`/financial-data`](skills/financial-data.md) | Pulls & cross-checks data from multiple sources |
+| [`/wechat-article`](skills/wechat-article.md) | ✍️ Turns research into a polished article |
 
 ---
 
-## Quick start
+## ⚡ Get started in 3 steps
 
-### 1. Install a client
-
-**Claude Code:**
+**1️⃣ Install Claude Code**
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+*(Prefer Codex? `curl -fsSL https://chatgpt.com/codex/install.sh | sh`)*
 
-**Codex** (macOS/Linux): `curl -fsSL https://chatgpt.com/codex/install.sh | sh` (or `npm install -g @openai/codex`, or `brew install --cask codex`). Windows: `powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"`.
-
-### 2. Install the skills
-
+**2️⃣ Add the skills**
 ```bash
 git clone https://github.com/autosolutionsai-didac/ai-berkshire.git
 cd ai-berkshire
-
-# Claude Code — copies skills/*.md to your global commands dir
-./scripts/install-claude-commands.sh
-
-# Codex — generates & installs Codex skills to ~/.codex/skills
-./scripts/install-codex-skills.sh
-# (optional) Claude-Code-style slash prompts for Codex
-./scripts/install-codex-prompts.sh
+./scripts/install-claude-commands.sh      # Claude Code
+# ./scripts/install-codex-skills.sh       # or Codex
 ```
 
-`skills/*.md` are the canonical Claude Code sources; `codex-skills/` and `codex-prompts/` are generated from them by `scripts/sync-codex-*.py` — never hand-edited.
-
-### 3. Use it
-
+**3️⃣ Ask it anything** 🎉
 ```bash
-# The whole funnel, one command
-/berkshire-skill Tencent
-/berkshire-skill Apple quick
-
-# Or drive individual phases
-/investment-team Meituan
-/earnings-review Tencent 2025Q4
-/industry-funnel AI Compute
-/investment-checklist Moutai, NVIDIA, Apple
-/portfolio-review Tencent 30%, Meituan 20%, Moutai 20%, Cash 30%
-/news-pulse Tencent
+/berkshire-skill Tencent          # the full study
+/investment-team Meituan          # 4 analysts, in parallel
+/investment-checklist Moutai, Nvidia, Apple
+/news-pulse Tencent               # "why did it move?"
 /dyp-ask Where is Pinduoduo's real moat?
 ```
 
-In Codex, refer to skills by name (e.g. *"Use investment-research to research Tencent"*), or via the `/prompts:<name>` menu if you installed the slash prompts.
+---
+
+## 🏗️ How it works
+
+<div align="center">
+  <img src="assets/architecture.png" alt="How AI Berkshire works" width="340" />
+</div>
+
+Three simple layers:
+
+- 🎯 **You pick a skill** — "research this company," "check these earnings," "review my portfolio."
+- 🤝 **A team of AI agents runs it** — they search the web independently, challenge each other, and a lead synthesizes the answer.
+- 🛠️ **Rigorous tools keep it honest** — exact math, live web search, and an auditor that **re-checks the report's numbers before it's final.**
+
+> 🔢 **Why the math matters:** getting a P/E wrong by a decimal, or mixing up currencies, can ruin a decision. Every figure runs through exact-precision tools and is confirmed against **at least two independent sources.**
+
+📁 Every report is saved in plain English under `reports/{Company}/` — one tidy folder per company.
 
 ---
 
-## How the four masters work together
+## 🗺️ What's next
 
-```
-              Duan Yongping — "the right business" (business essence)
-                                   │
-         ┌─────────────────────────┼─────────────────────────┐
-         ▼                         ▼                         ▼
-     Buffett                    Munger                     Li Lu
-   moat + margin           inversion + risk           civilizational
-    of safety              list + bias audit          trend / paradigm
-```
-
-They don't just divide labor — they **challenge each other**. Duan says "great business" → Munger asks "how could it die?" Buffett says "cheap enough" → Li Lu asks "will it still exist in 10 years?" You don't get four reports stapled together; you get four thinking systems colliding.
-
-Every report is anchored by **`tools/financial_rigor.py`** — exact-decimal market-cap and valuation verification, multi-source cross-validation, three-scenario (bull/base/bear) targets, and Benford's-law anomaly checks — plus **`tools/report_audit.py`**, which randomly samples data points from a finished report and re-verifies them before it can be declared final.
-
-Reports are written in English and filed under `reports/{Company}/`, one folder per company.
+- [x] ✅ Four-master framework, parallel research team & Buffett checklist
+- [x] ✅ Industry scans, private-company research, earnings deep-reads
+- [x] ✅ Portfolio review, thesis tracking & exact-math tools
+- [x] ✅ **One-command full pipeline (`/berkshire-skill`)**
+- [ ] ⏳ Backtesting: how did past verdicts actually perform?
+- [ ] ⏳ Big-picture economic cycle analysis
+- [ ] ⏳ Live data feeds (Bloomberg / Yahoo Finance)
 
 ---
 
-## Real track record
+## ⚠️ Important
 
-> Screenshots from a real brokerage account (Futu Securities). Past performance does not guarantee future results.
+> This project is for **education and research only** and is **not investment advice**. Investing involves real risk — always do your own homework. 🙏
 
-| | 2024 full year | 2025 |
-|---|:---:|:---:|
-| **This framework (live)** | **+69.29%** | **+66.38%** |
-| S&P 500 | +23.31% | +16.39% |
-| Nasdaq Composite | +28.64% | +20.36% |
-| Hang Seng Index | +17.67% | +27.77% |
-| CSI 300 | +14.68% | +17.66% |
+## 📄 License
 
-<p align="center">
-  <img src="assets/2024-returns.png" width="280" />
-  <img src="assets/2025-returns.png" width="280" />
-</p>
+MIT — free to use, modify, and share.
 
-Two consecutive years beating every major global index, with cumulative live returns exceeding ¥1.46M over the period.
+<div align="center">
 
 ---
 
-## Roadmap
+💬 *"The best investment you can make is in yourself."* — Warren Buffett
 
-- [x] Four-master framework, multi-agent team, and Buffett checklist
-- [x] Industry value-chain scan + funnel screening + quality screen
-- [x] Private-company research, earnings deep-read, portfolio review, thesis tracker
-- [x] Financial-rigor tools (exact arithmetic, market-cap verification, cross-validation, Benford)
-- [x] **One-command full pipeline (`/berkshire-skill`)** with hard gates, flags, and a release audit
-- [ ] Historical backtesting: research verdicts vs. actual price performance
-- [ ] Macro-cycle analysis framework
-- [ ] Live data feeds via MCP (Wind / Bloomberg / Yahoo Finance)
-
----
-
-## Disclaimer
-
-For educational and research purposes only. This is **not** investment advice. Investing involves risk; always do your own due diligence.
-
-## License
-
-MIT
-
----
-
-> "The best investment you can make is in yourself." — Warren Buffett
+⭐ **If this is useful to you, give it a star!** ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=autosolutionsai-didac/ai-berkshire&type=Date)](https://star-history.com/#autosolutionsai-didac/ai-berkshire&Date)
+
+</div>
