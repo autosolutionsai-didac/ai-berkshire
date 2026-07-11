@@ -1,703 +1,235 @@
-English
+<div align="center">
 
-[![GitHub Trending](https://trendshift.io/api/badge/repositories/63696)](https://trendshift.io/repositories/63696)
+# 🏛️ AI Berkshire
 
-# AI Berkshire — Value Investing Research Framework for the AI Era
+### Your own investment research team — in a single command
 
-> "Price is what you pay, value is what you get." — Warren Buffett
->
-> Redefining the depth and efficiency of investment research with AI.
+*Turn Claude into four legendary investors who research any company for you and hand you a clear, decision-ready verdict.*
 
-**AI Berkshire** is a collection of investment research skills compatible with both Claude Code and Codex. It systematizes the methodologies of four value investing masters — Buffett, Munger, Duan Yongping, and Li Lu — and delivers professional-grade research through AI Agents.
+![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-8A2BE2)
+![Codex](https://img.shields.io/badge/Codex-compatible-111111)
+![Skills](https://img.shields.io/badge/skills-19-2496ED)
+![Value Investing](https://img.shields.io/badge/4_masters-Buffett_·_Munger_·_Duan_·_Li_Lu-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-One person + Claude Code / Codex = an entire investment research team.
+> 💬 *"Price is what you pay. Value is what you get."* — Warren Buffett
 
-[Track Record](#real-track-record) · [Why Not Just Ask AI?](#why-cant-you-just-ask-ai-directly) · [Skills](#skills-overview-19-skills) · [Quick Start](#quick-start) · [Reports](#live-research-reports) · [Design Philosophy](#design-philosophy)
-
----
-
-## Real Track Record
-
-> Not paper trading. This framework is backed by a real-money, audited portfolio.
-
-### 2024 Full-Year Return: +69.29%
-
-<img src="assets/2024-returns.jpg" width="300" />
-
-### 2025 Full-Year Return: +66.38%
-
-<img src="assets/2025-returns.jpg" width="300" />
-
-### Benchmark Comparison
-
-| Benchmark | 2024 Full Year | 2025 Full Year |
-|-----------|---------------|----------|
-| **This Framework (Live)** | **+69.29%** | **+66.38%** |
-| Hang Seng Index | +17.67% | +27.77% |
-| S&P 500 | +23.31% | +16.39% |
-| CSI 300 | +14.68% | +17.66% |
-| NASDAQ Composite | +28.64% | +20.36% |
-
-**2024 Alpha**: Beat the S&P 500 by **46 percentage points**, beat the Hang Seng by **52 percentage points**
-
-**2025 Alpha**: Beat the S&P 500 by **50 percentage points**, beat the Hang Seng by **39 percentage points**
-
-**Cumulative live returns exceed ¥1.46 million over two years**, significantly outperforming all major global indices for two consecutive years.
-
-> *Disclaimer: Past performance does not guarantee future results. Screenshots are from a real brokerage account (Futu Securities).*
+</div>
 
 ---
 
-## Why Can't You Just Ask AI Directly?
+## 🎯 What is this? (in plain English)
 
-You can, of course, ask Claude: "Should I buy Pinduoduo?" You'll get a balanced "on one hand... on the other hand..." analysis that ends with "investing involves risks, please make your own judgment."
+Imagine hiring a **team of four world-class investors** to study a stock for you — one obsesses over the business, one over the numbers, one over the competition, and one over the long-term risks. They argue, cross-check each other, and then hand you a single, honest answer: **buy it, hold it, or stay away.**
 
-**That kind of analysis looks right but can't drive actual decisions.**
+That's AI Berkshire. You type one command, and Claude becomes that team.
 
-AI Berkshire doesn't solve the "can AI analyze?" problem — it solves the **analysis quality and decision discipline** problem. Here's what's different:
+- 🧑‍💼 **Who it's for:** anyone who invests and wants real research, not a vague "it depends."
+- ⚡ **What you do:** type a company name.
+- 📄 **What you get:** a professional research report with a clear verdict, a fair-price range, and how much to buy.
+- 🚫 **What it refuses to do:** sit on the fence. Every report commits to a decision.
 
-### 1. Forces a Verdict — No Fence-Sitting
+---
 
-Ask AI directly, and you get a both-sides-pleasing "analysis." AI Berkshire forces concrete output: **Pass / Fail / Gray Zone**, with specific price ranges and tiered recommendations.
+## 📈 Real money, real results
 
-> Vanilla AI response: *"Pinduoduo has growth potential but also faces competitive pressure. Investors should weigh..."*
->
-> AI Berkshire output:
+> These are screenshots from a **real brokerage account** — not a simulation. *(Past performance never guarantees future results.)*
 
-> | Strategy | Recommendation | Price Range |
-> |----------|---------------|-------------|
-> | Aggressive | Build 20% position at current price | $95–105 |
-> | Moderate | Wait for buyback policy clarity | $85–95 |
-> | Conservative | Doesn't meet 10-year certainty bar — pass | — |
->
-> **Mirror Test**: If you can't articulate it in 5 sentences = don't buy. No exceptions.
+<div align="center">
 
-### 2. Four-Master Dialectic, Not a Single Perspective
+<img src="assets/2024-returns.png" width="280" />&nbsp;&nbsp;<img src="assets/2025-returns.png" width="280" />
 
-It's not just "analyze this using Buffett's method." The four perspectives create **real tension and contradictions** —
+</div>
 
-Take Pinduoduo as an example:
-- **Duan Yongping** (business model): Great business, C2M model hard to replicate → 3.7/5
-- **Buffett** (financial valuation): Ex-cash P/E just 6.3x, a cash machine → 4.4/5
-- **Munger** (inversion): Moat shallower than it appears — Douyin hit ¥4 trillion GMV in 3 years → 3.5/5
-- **Li Lu** (long-term certainty): Management culture concerns, uncertain in 10 years → 2.0/5
+| Year | 🟢 This framework | S&P 500 | Nasdaq | Hang Seng | CSI 300 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **2024** | **🚀 +69.29%** | +23.31% | +28.64% | +17.67% | +14.68% |
+| **2025** | **🚀 +66.38%** | +16.39% | +20.36% | +27.77% | +17.66% |
 
-**Buffett says "genuinely cheap," Li Lu says "if uncertain, don't buy"** — this conflict is the real state of investment decisions. A single prompt can't produce this multi-perspective dialectic, yet it's precisely what prevents blind spots.
+✨ **Two years in a row beating every major global index**, with cumulative live gains of **over ¥1.46 million**.
 
-### 3. Structured Anti-Bias Mechanisms
+---
 
-AI's greatest danger isn't giving wrong answers — it's giving answers that **look right but don't withstand scrutiny**. AI Berkshire embeds multiple "anti-deception" layers into the process:
-
-| Mechanism | Problem Solved | Example |
-|-----------|---------------|---------|
-| **Information Richness Rating (A/B/C)** | Prevents "more data = more certainty" illusion | Pop Mart rated B: limited data, estimated metrics flagged with confidence levels |
-| **Munger-Style Inversion Test** | Forces thinking about failure scenarios | "How could Pinduoduo die?" → Lists 5 scenarios with probabilities |
-| **Quick-Kill Checklist** | 8 red lines, any one is a veto | Management integrity issues → immediate rejection regardless of valuation |
-| **Contrarian Check** | Avoids thinking like the crowd | "Why are smart people shorting this?" → Surfaces overlooked risks |
-| **Intellectual Honesty** | Prefer "I don't know" | Marks data gaps as "gray zone" rather than filling certainty with speculation |
-
-### 4. Financial Data Precision
-
-LLMs can't do mental math reliably. Getting a P/E wrong by one decimal point or confusing HKD with CNY can lead to catastrophic investment decisions.
-
-**Real case**: When analyzing Tencent, different sources reported market cap in "HKD billions" and "CNY billions." AI Berkshire's approach:
+## 🪄 The magic: one command
 
 ```bash
-# Market cap manual verification: Price × Shares Outstanding, cross-checked with reported data
-python3 tools/financial_rigor.py verify-market-cap \
-  --price 510 --shares 9.11e9 --reported 4.65e12 --currency HKD
-# ✅ Verified — deviation only 0.08%
+/berkshire-skill Tencent
 ```
 
-All calculations use Python `decimal.Decimal` (exact decimal arithmetic), not `float`. Key data requires at least 2 independent sources for cross-validation.
+That single line runs a full **7-step investment funnel** and ends with a complete decision report:
 
-### 5. Reproducible Research Process
+```
+1️⃣ Quality screen   →  2️⃣ Four-master research  →  3️⃣ Management check
+   →  4️⃣ Earnings deep-read  →  5️⃣ Buy checklist  →  6️⃣ Thesis
+      →  📄 Final Investment Decision Report
+```
 
-Ask AI directly, and the format, depth, and coverage vary every time — today's Tencent analysis has a moat score, tomorrow's Meituan analysis might forget it.
+- 🛑 **It quits early on bad companies.** Just like a real investor, if a company fails the first quality screen, it stops — no wasting time on a lost cause.
+- 🎛️ **Handy shortcuts:**
+  - `quick` → a fast first look before committing to the full study
+  - `force` → run everything anyway, even if it fails the screen
+  - `resume` → pick up where an interrupted run left off
 
-AI Berkshire ensures: **Same input → structurally consistent, equally deep output.** This means you can:
-- Compare 7 companies side by side with identical scoring criteria
-- Re-analyze the same company 6 months later and directly compare changes
-- Align research outputs across team members
+```bash
+/berkshire-skill Apple quick     # ⚡ quick triage
+/berkshire-skill Nvidia          # 🔬 the full deep dive
+```
 
-> Real output — 7 companies screened with the same Checklist:
->
-> | Company | Verdict | Circle of Competence | Good Business | Moat | Management | Margin of Safety | Overall |
-> |---------|:-------:|:-------------------:|:------------:|:----:|:----------:|:---------------:|:-------:|
-> | Kweichow Moutai | ✅ Pass | ★★★★★ | ★★★★★ | ★★★★★ | ★★★☆☆ | ★★★★☆ | 4.7 |
-> | Tencent | ✅ Pass | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★☆ | 4.7 |
-> | NVIDIA | ✅ Conditional | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★☆☆ | 4.3 |
-> | Meituan | ✅ Conditional | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | 4.0 |
-> | Kuaishou | ✅ Conditional | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★★ | 4.0 |
-> | Pinduoduo | ❓ Gray | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★★ | 3.8 |
-> | Pop Mart | ❓ Gray | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★★ | ★★★☆☆ | 3.7 |
-
-### 6. Multi-Agent Parallelism = Multiplied Research Depth
-
-`/investment-team` launches 4 independent Agents to research a company **simultaneously**. Each Agent conducts its own web searches, cross-validates data, and reaches independent conclusions. This isn't splitting one prompt into four sections — it's 4 "analysts" each doing complete research, with a Team Lead synthesizing the final call.
-
-Ask AI directly, and you have one context window. Four parallel Agents means 4× the search volume, 4× the information sources, and 4 independent perspectives.
-
-<p align="center">
-  <img src="assets/team-core-en.svg" alt="Team Lead orchestrating four master agents in parallel" width="720" />
-</p>
-
-### In One Sentence
-
-> **Regular users asking AI get "analysis that looks right." With AI Berkshire, you get "research reports you can actually make decisions from."**
+> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-19-skills) below).
 
 ---
 
-## Architecture
+## 🆚 Why not just ask ChatGPT/Claude directly?
 
-<p align="center">
-  <img src="assets/architecture-en.svg" alt="AI Berkshire Architecture" width="760" />
-</p>
+You can! But here's the difference 👇
 
+| | 🤖 Asking AI directly | 🏛️ AI Berkshire |
+|---|---|---|
+| **The answer** | "On one hand… on the other hand… do your own research." | ✅ **Buy / Hold / Avoid**, with a price range |
+| **Perspectives** | One voice | 🧠 Four investors who *argue* with each other |
+| **The math** | Often wrong (AIs can't do mental math) | 🔢 Every number computed & double-checked |
+| **Consistency** | Different every time | 🔁 Same depth and format every run |
+| **Bias control** | Sounds confident, may be hollow | 🛡️ Built-in "how could this fail?" checks |
 
-**Three-Layer Design Philosophy**:
-- **Skill Layer**: Abstracts "what you want to do" into 19 clear entry points — deep research, earnings analysis, industry screening, portfolio management, and thinking tools. Pick by scenario.
-- **Agent Layer**: Team skills (e.g. `/investment-team`, `/earnings-team`) run 4 master-perspective Agents in parallel under a Team Lead — searching and judging independently, challenging each other before synthesis. Lightweight skills skip this layer and call tools directly.
-- **Tool Layer**: Exact-precision calculations, real-time web search, report auditing — ensures every report's data is rigorous and verifiable.
-
----
-
-## Skills Overview (19 Skills)
-
-### 🔬 Deep Research
-
-| Skill | Purpose | When to Use |
-|-------|---------|-------------|
-| [`/investment-research`](skills/investment-research.md) | Four-master comprehensive analysis | Full-spectrum research on a public company |
-| [`/investment-team`](skills/investment-team.md) | Multi-Agent parallel research team | 4 Agents in parallel — fastest and most comprehensive |
-| [`/management-deep-dive`](skills/management-deep-dive.md) | Management deep dive | "Buying a stock is buying its people" — when management is the key variable |
-| [`/private-company-research`](skills/private-company-research.md) | Private company research | Research info-scarce private companies like Ant Group, SpaceX |
-| [`/deep-company-series`](skills/deep-company-series.md) | 8-part long-form deep dive series | Publication-grade series, ~120K words from cognitive reset to decision closure |
-
-### 📊 Earnings Analysis
-
-| Skill | Purpose | When to Use |
-|-------|---------|-------------|
-| [`/earnings-review`](skills/earnings-review.md) | Earnings deep read (primary sources) | Read raw filings only — no sell-side reports — like Buffett reads annual reports |
-| [`/earnings-team`](skills/earnings-team.md) | Earnings team + publishable article | Four masters interpret earnings in parallel → editor polish → reader review → publish-ready |
-
-### 🏭 Industry Screening
-
-| Skill | Purpose | When to Use |
-|-------|---------|-------------|
-| [`/industry-research`](skills/industry-research.md) | Industry value chain scan | Map all investment opportunities across an industry's value chain |
-| [`/industry-funnel`](skills/industry-funnel.md) | Industry funnel screening | Full market → rough cut ≤10 → final pick 3, with deep analysis |
-| [`/quality-screen`](skills/quality-screen.md) | Quality screen (7 hard metrics) | Quickly eliminate non-first-class companies; supports single stock / industry / index / thematic batch screening |
-| [`/bottleneck-hunter`](skills/bottleneck-hunter.md) | Supply-chain bottleneck hunter | Start from a supertrend and find physical supply-chain bottlenecks and arbitrage opportunities |
-| [`/investment-checklist`](skills/investment-checklist.md) | Buffett pre-buy checklist | Six gates, 10-minute decision on whether to dig deeper |
-
-### 📈 Portfolio Management
-
-| Skill | Purpose | When to Use |
-|-------|---------|-------------|
-| [`/portfolio-review`](skills/portfolio-review.md) | Portfolio review & optimization | Graduate from "researching companies" to "managing a portfolio" — sizing, concentration, rebalancing |
-| [`/thesis-tracker`](skills/thesis-tracker.md) | Investment thesis tracker | Post-buy discipline system: continuously track whether your thesis has been falsified |
-| [`/thesis-drift`](skills/thesis-drift.md) | Investment thesis drift detection | Compare two theses/reports — separate factual, valuation, and wording changes |
-| [`/news-pulse`](skills/news-pulse.md) | Price-move rapid attribution | When a stock surges or drops — figure out "what happened" in 10 minutes |
-
-### 🧠 Thinking Tools
-
-| Skill | Purpose | When to Use |
-|-------|---------|-------------|
-| [`/dyp-ask`](skills/dyp-ask.md) | Duan Yongping Q&A | Think through any question the Duan Yongping way — business, investing, life |
-| [`/financial-data`](skills/financial-data.md) | Financial data retrieval & cross-validation | Ensure key data comes from 2+ independent sources; alerts on >1% deviation |
-| [`/wechat-article`](skills/wechat-article.md) | WeChat article workflow | Author, editor, and reader Agents collaborate to produce a publishable article |
+> 💡 In short: regular AI gives you *analysis that looks right*. AI Berkshire gives you *a report you can actually act on.*
 
 ---
 
-## Quick Start
+## 🧠 Meet your four analysts
 
-### Cost & Model Selection
+Each one looks at the company through a different lens — and they're **designed to disagree**, so blind spots get caught.
 
-Deep-research skills run multiple research passes, cross-source checks, and multi-agent synthesis by design, so they can consume a large number of tokens. That cost is part of getting fuller coverage across business quality, financials, industry structure, and risk.
+| Analyst | 🔎 Their obsession | The question they ask |
+|---|---|---|
+| 💰 **Warren Buffett** | The numbers & the price | *"Is it a wonderful business at a fair price?"* |
+| 🧩 **Charlie Munger** | What could go wrong | *"How could this company die?"* |
+| 🏭 **Duan Yongping** | The business itself | *"Is this actually a good business?"* |
+| 🌱 **Li Lu** | The next 10+ years | *"Will this still matter in a decade?"* |
 
-For high-stakes investment decisions, the maintainer's view is that the strongest model usually offers the best analysis ROI; saving model cost should not come at the expense of important judgment quality. Lighter models can be useful for triage, summarization, or low-risk questions, but moat, valuation, management, and risk synthesis should be expected to depend more heavily on model capability.
+> 🥊 Buffett says *"it's genuinely cheap"* → Li Lu asks *"but will it exist in 10 years?"* — **that tension is exactly what protects you from a bad decision.**
 
-To control cost, adjust the workflow before expecting a full deep-research run to become cheap: use [`/quality-screen`](skills/quality-screen.md) first to rule out weaker companies, or [`/news-pulse`](skills/news-pulse.md) for quick price-move attribution. Run [`/investment-research`](skills/investment-research.md) or [`/investment-team`](skills/investment-team.md) only when the result is worth deeper work.
+---
 
-### 1. Install an AI Client
+## 📚 The full menu (19 skills)
 
-This repository keeps one canonical workflow and provides Claude Code commands plus Codex skills. Install the client you plan to use.
+### 🚀 The all-in-one
+| Command | What it does |
+|---|---|
+| [`/berkshire-skill`](skills/berkshire-skill.md) | ⭐ Runs the entire funnel and delivers a final decision report |
 
-For Claude Code users:
+### 🔬 Deep research
+| Command | What it does |
+|---|---|
+| [`/investment-research`](skills/investment-research.md) | Full four-master study of a company |
+| [`/investment-team`](skills/investment-team.md) | 4 AI analysts research **in parallel** — fastest & deepest |
+| [`/management-deep-dive`](skills/management-deep-dive.md) | 🕵️ Investigates the people running the company |
+| [`/private-company-research`](skills/private-company-research.md) | Digs into private firms (SpaceX, ByteDance…) |
+| [`/deep-company-series`](skills/deep-company-series.md) | 📖 An 8-part, magazine-quality deep-dive series |
 
+### 📊 Earnings
+| Command | What it does |
+|---|---|
+| [`/earnings-review`](skills/earnings-review.md) | Reads the actual filings — no second-hand summaries |
+| [`/earnings-team`](skills/earnings-team.md) | Four masters break down earnings → a publishable article |
+
+### 🏭 Industries & screening
+| Command | What it does |
+|---|---|
+| [`/industry-research`](skills/industry-research.md) | Maps every opportunity in an industry |
+| [`/industry-funnel`](skills/industry-funnel.md) | Whole market → shortlist → 3 best picks |
+| [`/quality-screen`](skills/quality-screen.md) | 7 quick tests to weed out weak companies |
+| [`/bottleneck-hunter`](skills/bottleneck-hunter.md) | Finds the hidden choke points behind a big trend |
+| [`/investment-checklist`](skills/investment-checklist.md) | ✅ Buffett's 6 gates — a 10-minute go/no-go |
+
+### 📈 Managing your portfolio
+| Command | What it does |
+|---|---|
+| [`/portfolio-review`](skills/portfolio-review.md) | Reviews your holdings, sizing, and balance |
+| [`/thesis-tracker`](skills/thesis-tracker.md) | 🎯 Alerts you if your reason to own a stock breaks |
+| [`/news-pulse`](skills/news-pulse.md) | Stock jumped or crashed? Find out *why* in 10 min |
+
+### 🧠 Thinking & writing
+| Command | What it does |
+|---|---|
+| [`/dyp-ask`](skills/dyp-ask.md) | Think through any question, master-style |
+| [`/financial-data`](skills/financial-data.md) | Pulls & cross-checks data from multiple sources |
+| [`/wechat-article`](skills/wechat-article.md) | ✍️ Turns research into a polished article |
+
+---
+
+## ⚡ Get started in 3 steps
+
+**1️⃣ Install Claude Code**
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+*(Prefer Codex? `curl -fsSL https://chatgpt.com/codex/install.sh | sh`)*
 
-For Codex users on macOS / Linux:
-
+**2️⃣ Add the skills**
 ```bash
-# macOS / Linux
-curl -fsSL https://chatgpt.com/codex/install.sh | sh
-
-# Or use npm
-npm install -g @openai/codex
-
-# Or use Homebrew
-brew install --cask codex
-
-# Verify installation
-codex --version
-```
-
-Windows users can use the official PowerShell installer: `powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"`.
-
-If `codex --version` prints a version, you can continue with this project's Codex skills installation.
-
-#### Reducing Approval Prompts
-
-These skills issue many tool calls, and Claude Code asks for approval for each one by default. That behavior comes from Claude Code's client-side permission system; it is not a repository default this project can change.
-
-If you trust the current workflow and are running in a trusted environment, start Claude Code in skip-permissions mode:
-
-```bash
-claude --dangerously-skip-permissions
-```
-
-Warning: this disables Claude Code's tool-approval guardrails. Use it only when you trust the repository, commands, and working directory.
-
-### 2. Install Skills
-
-For Claude Code users on macOS / Linux:
-
-```bash
-# Clone the repository
-git clone https://github.com/xbtlin/ai-berkshire.git
-
-# Copy skills to Claude Code global commands directory
+git clone https://github.com/autosolutionsai-didac/ai-berkshire.git
 cd ai-berkshire
-./scripts/install-claude-commands.sh
+./scripts/install-claude-commands.sh      # Claude Code
+# ./scripts/install-codex-skills.sh       # or Codex
 ```
 
-For Claude Code users on Windows PowerShell / Command Prompt:
-
-```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
-cd ai-berkshire
-.\scripts\install-claude-commands.bat
-```
-
-For Codex users on macOS / Linux:
-
+**3️⃣ Ask it anything** 🎉
 ```bash
-# Clone the repository
-git clone https://github.com/xbtlin/ai-berkshire.git
-
-# Generate and install Codex skills to ~/.codex/skills
-cd ai-berkshire
-./scripts/install-codex-skills.sh
-
-# Optional: install Codex slash prompts to ~/.codex/prompts
-# for a Claude Code-like /investment-research entry point
-./scripts/install-codex-prompts.sh
-```
-
-For Codex users on Windows PowerShell / Command Prompt:
-
-```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
-cd ai-berkshire
-.\scripts\install-codex-skills.bat
-
-REM Optional: install Codex slash prompts
-.\scripts\install-codex-prompts.bat
-```
-
-The repository maintains three entry points: `skills/*.md` are the Claude Code command sources; `codex-skills/*/SKILL.md` are Codex skill packages generated from `skills/*.md` by `scripts/sync-codex-skills.py`; `codex-prompts/*.md` are an optional Codex slash-prompt compatibility layer.
-
-### 3. Use
-
-Invoke directly in Claude Code:
-
-```bash
-# Deep Research
-/investment-research Tencent
-/investment-team Meituan
-/management-deep-dive Wang Xing, Meituan
-/private-company-research SpaceX
-/deep-company-series Pinduoduo
-
-# Earnings Analysis
-/earnings-review Tencent 2025Q4
-/earnings-team PDD 2025 Annual
-
-# Industry Screening
-/industry-research Nuclear Power
-/industry-funnel AI Compute
-/quality-screen Hang Seng Index Constituents
-/bottleneck-hunter AI Infrastructure
-/investment-checklist Moutai, NVIDIA, Apple
-
-# Portfolio Management
-/portfolio-review Tencent 30%, Meituan 20%, Moutai 20%, Cash 30%
-/thesis-tracker Pinduoduo
-/thesis-drift Pinduoduo reports/PDD-thesis-2025Q4.md reports/PDD-thesis-2026Q1.md
-/news-pulse Tencent
-
-# Thinking Tools
+/berkshire-skill Tencent          # the full study
+/investment-team Meituan          # 4 analysts, in parallel
+/investment-checklist Moutai, Nvidia, Apple
+/news-pulse Tencent               # "why did it move?"
 /dyp-ask Where is Pinduoduo's real moat?
-/wechat-article Meituan
-```
-
-After installing for Codex, restart Codex and refer to skills by name, for example:
-
-```text
-Use investment-research to research Tencent
-Use earnings-review to analyze PDD 2025 annual results
-Use industry-funnel to screen AI compute
-Use bottleneck-hunter to scan AI infrastructure bottlenecks
-Use thesis-drift to compare two Pinduoduo theses
-Use wechat-article to write a Meituan investment article
-```
-
-If you install Codex slash prompts, restart Codex and search for them in the `/` menu. Codex's official custom prompt entry point usually appears as `prompts:<name>`, for example:
-
-```text
-/prompts:investment-research Tencent
 ```
 
 ---
 
-## Detailed Skill Descriptions
+## 🏗️ How it works
 
-### 1. `/investment-research` — Four-Master Comprehensive Analysis
+<div align="center">
+  <img src="assets/architecture.png" alt="How AI Berkshire works" width="340" />
+</div>
 
-The most thorough single-company deep research framework. Executes seven modules in sequence:
+Three simple layers:
 
-```
-Data Collection → Business Essence (Duan Yongping) → Moat (Buffett) → Inversion (Munger)
-    → Management Assessment (Duan Yongping + Buffett) → Civilizational Trends (Li Lu)
-    → Valuation & Margin of Safety
-```
+- 🎯 **You pick a skill** — "research this company," "check these earnings," "review my portfolio."
+- 🤝 **A team of AI agents runs it** — they search the web independently, challenge each other, and a lead synthesizes the answer.
+- 🛠️ **Rigorous tools keep it honest** — exact math, live web search, and an auditor that **re-checks the report's numbers before it's final.**
 
-**Key Features**:
-- AI research bias awareness mechanism (A/B/C information richness rating)
-- Multi-source cross-validation on key data (manual market cap calculation, 2+ independent sources)
-- Each master's "follow-up questions" woven throughout
-- Three-scenario valuation (bull/base/bear) + reverse DCF
+> 🔢 **Why the math matters:** getting a P/E wrong by a decimal, or mixing up currencies, can ruin a decision. Every figure runs through exact-precision tools and is confirmed against **at least two independent sources.**
 
-**Sample Output Excerpt**:
-
-> #### Comprehensive Decision Memo
->
-> | Dimension | Conclusion | Confidence |
-> |-----------|-----------|------------|
-> | Business Quality (Duan Yongping) | Excellent: platform business, two-sided network effects, near-zero marginal cost | ★★★★★ |
-> | Moat (Buffett) | Wide and widening: network effects + switching costs + scale economies, triple-layered | ★★★★☆ |
-> | Management (Duan Yongping + Buffett) | Strong: founder-led, excellent capital allocation discipline | ★★★★☆ |
-> | Top Risk (Munger) | Regulatory policy uncertainty; new business losses dragging overall profits | ★★★☆☆ |
-> | Civilizational Trend (Li Lu) | Aligned with digital consumption trends, but not a "civilization-level paradigm shift" | ★★★★☆ |
-> | Valuation (Buffett + Duan Yongping) | Current P/E 18x, slightly below historical median, modest margin of safety | ★★★★☆ |
->
-> **Duan Yongping**: "The essence of this business is connecting consumers and merchants — profiting from efficiency gains. The hallmark of a great business: more users bring more merchants, more merchants bring more users. Once the flywheel spins, it's very hard to stop."
->
-> **Munger**: "Invert, always invert — if this company vanished tomorrow, what would users and merchants do? If the answer is 'quickly find a substitute,' the moat isn't deep enough. If the answer is 'life would become very inconvenient,' that's worth paying attention to."
+📁 Every report is saved in plain English under `reports/{Company}/` — one tidy folder per company.
 
 ---
 
-### 2. `/investment-team` — Multi-Agent Research Team
+## 🗺️ What's next
 
-Launches 4 AI Agents in parallel, simulating a real investment research team. Each Agent searches independently, analyzes independently, and delivers independent ratings. The Team Lead synthesizes the final judgment.
-
-**Sample Output Excerpt**:
-
-> #### One-Line Conclusion
-> Meituan is the undisputed leader in China's local life services, with multi-layered network effect moats. Current valuation sits at historically low levels — significant long-term value. Recommend accumulating on dips.
->
-> #### Four-Dimension Scorecard
->
-> | Dimension | Framework | Score | Core Judgment |
-> |-----------|-----------|-------|---------------|
-> | Business Model & Moat | Duan Yongping | ★★★★☆ | Strong two-sided network effects; food delivery + in-store form a flywheel |
-> | Financials & Valuation | Buffett | ★★★★☆ | Core business margins improving steadily; valuation at historical lows |
-> | Industry & Competition | Munger | ★★★☆☆ | Douyin invading in-store business; competitive landscape may deteriorate |
-> | Risk & Management | Li Lu | ★★★★☆ | Wang Xing has exceptional strategic vision, but new business cash burn needs monitoring |
->
-> **Composite Score: 3.8 / 5**
->
-> #### Investment Recommendation
->
-> | Strategy | Recommendation | Price Range (HKD) |
-> |----------|---------------|-------------------|
-> | Aggressive | Build 30% position at current price | 120–140 |
-> | Moderate | Wait for pullback to 100–110 to enter | 100–120 |
-> | Conservative | Wait for quarterly results to confirm margin trend | <100 |
+- [x] ✅ Four-master framework, parallel research team & Buffett checklist
+- [x] ✅ Industry scans, private-company research, earnings deep-reads
+- [x] ✅ Portfolio review, thesis tracking & exact-math tools
+- [x] ✅ **One-command full pipeline (`/berkshire-skill`)**
+- [ ] ⏳ Backtesting: how did past verdicts actually perform?
+- [ ] ⏳ Big-picture economic cycle analysis
+- [ ] ⏳ Live data feeds (Bloomberg / Yahoo Finance)
 
 ---
 
-### 3. `/investment-checklist` — Buffett Pre-Buy Checklist
+## ⚠️ Important
 
-Six gates for rapid screening — decide in 10 minutes whether a company is worth deeper research:
+> This project is for **education and research only** and is **not investment advice**. Investing involves real risk — always do your own homework. 🙏
 
-```
-Gate 1: Circle of Competence (Can I understand it?)
-    ↓ Pass
-Gate 2: Good Business (What are the economics?)
-    ↓ Pass
-Gate 3: Moat (How deep is the competitive advantage?)
-    ↓ Pass
-Gate 4: Management (Can they be trusted?)
-    ↓ Pass
-Gate 5: Margin of Safety (Is the price cheap enough?)
-    ↓ Pass
-Gate 6: Decision Discipline (Rational or FOMO?)
-    ↓ Pass
-   ✅ Mirror Test
-```
+## 📄 License
 
-**Supports multi-company comparison** — screen multiple targets at once:
+MIT — free to use, modify, and share.
 
-```
-/investment-checklist Tencent, Alibaba, Meituan, Pinduoduo
-```
-
-**Sample Output Excerpt**:
-
-> #### Mirror Test
->
-> "I am buying Tencent at HK$380 because:
-> 1. The essence of this business is a **social network + digital content platform** — I understand it;
-> 2. Its moat is **1.2 billion users' social graph**, and it's widening;
-> 3. Management — **Pony Ma is understated, pragmatic, and an excellent capital allocator** — trustworthy;
-> 4. The current price represents **~80% of intrinsic value**, providing a meaningful margin of safety;
-> 5. Even if I'm wrong, downside is manageable because **net cash exceeds ¥200 billion and gaming cash flow is rock-solid**."
->
-> ✅ Passed the Mirror Test
->
-> **If you can't articulate it in 5 sentences = don't buy. No exceptions.**
+<div align="center">
 
 ---
 
-### 4. `/industry-research` — Industry Value Chain Scan
+💬 *"The best investment you can make is in yourself."* — Warren Buffett
 
-Start from an investment theme and complete a full industry value chain study:
+⭐ **If this is useful to you, give it a star!** ⭐
 
-```
-Investment Logic Chain → Value Chain Map → Global Listed Company Scan
-    → Four-Master Analysis on Segment Leaders → Portfolio Allocation Recommendation
-```
+[![Star History Chart](https://api.star-history.com/svg?repos=autosolutionsai-didac/ai-berkshire&type=Date)](https://star-history.com/#autosolutionsai-didac/ai-berkshire&Date)
 
-**Sample Output Excerpt**:
-
-> #### Investment Logic Chain: Nuclear Power
->
-> Underlying Trend: AI data center power demand explosion + carbon neutrality goals
-> → Drives: surging demand for stable, clean baseload power
-> → Creates: deterministic demand for nuclear restarts / new builds / SMRs
-> → Benefits: uranium mining → fuel fabrication → equipment manufacturing → operators
->
-> #### Recommended Portfolio
->
-> | Tier | Weight | Target | Segment | Core Logic |
-> |------|--------|--------|---------|------------|
-> | Core | 50% | CGN / Cameco | Operations + Uranium | Highest certainty |
-> | Satellite | 30% | CNNP / Dongfang Electric | Operations + Equipment | Domestic substitution beneficiary |
-> | Option | 15% | NuScale / Nano Nuclear | SMR | High risk, high convexity |
-> | ETF | Alternative | URA / URNM | Full chain | Passive approach |
-
----
-
-### 5. `/industry-funnel` — Industry Funnel Screening
-
-Start from an industry/theme and progressively narrow: **Full market → ≤10 → 3 deep dives**:
-
-```
-Full Market Scan (activity + returns + top-30 market cap union → 30-60 companies)
-    ↓ 5 value investing hard filters
-Rough Cut ≤ 10
-    ↓ Detailed analysis (300-500 words each)
-Detailed Analysis ≤ 10
-    ↓ Final selection (by portfolio complementarity, NOT by top-3 score)
-Four-Master Deep Analysis on 3 companies (800-1200 words each)
-    ↓
-Recommended Portfolio (Core / Satellite / Option) + Action Signals
-```
-
-**Key Features**:
-- Every layer has explicit keep/drop criteria — eliminated names come with a stated reason (not a black box)
-- Final 3 are selected for **portfolio complementarity** (high certainty + moderate upside + high convexity), not by ranking scores
-- Mandatory "future IPO candidates" list to avoid missing private-market key players
-- AI bias awareness: counters large-cap bias / English-language bias / narrative bias / listed-only bias
-
-**Difference from `/industry-research`**:
-- `industry-research` emphasizes value chain structure and panoramic view (sliced by segment)
-- `industry-funnel` emphasizes the stock-picking funnel (progressive screening from full market to 3)
-
-**Live Test: AI Sector, 4 Sub-Tracks in Parallel (2026-05-09)**:
-
-| Sub-Track | Final 3 | Core Position Pick |
-|-----------|---------|-------------------|
-| AI Compute | TSMC / NVIDIA / SK Hynix | TSMC ★★★★★ |
-| AI Models | Alphabet / Meta / Alibaba | Alphabet ★★★★★ |
-| AI Applications | Microsoft / Adobe / AppLovin | Microsoft + Adobe ★★★★ |
-| AI Infrastructure & Power | Eaton / TBEA / Talen Energy | Eaton + TBEA ★★★★ |
-
-**Key Insight**: The biggest winners in the AI application layer aren't AI-native companies — they're established giants with distribution, data, and workflow embeddedness. This echoes the 1995–2000 Internet bubble's "sell the picks and shovels" pattern (Amazon and Apple won; Pets.com didn't).
-
-Full reports: [AI Compute](reports/AI Calculator-funnel-20260509.md) · [AI Models](reports/AI model - funnel-20260509.md) · [AI Applications](reports/AI application-fundel-20260509.md) · [AI Infrastructure & Power](reports/AI capital power-fundel-20260509.md)
-
----
-
-### 6. `/private-company-research` — Private Company Deep Research
-
-A "detective-style" research framework designed for information-scarce private companies:
-
-**Key Differentiators**:
-- **Financial data piecing**: Assembled from IPO filings, parent company reports, funding news, and industry data
-- **Confidence tagging**: Every data point tagged 🟢 High / 🟡 Medium / 🔴 Low confidence
-- **Multi-method valuation cross-check**: Funding-round valuation + comparable companies + DCF + endgame backsolve
-- **Exit path analysis**: Full evaluation of IPO / M&A / secondary transfer paths
-
-**Sample Output Excerpt**:
-
-> #### Company Snapshot: SpaceX
->
-> | Item | Detail |
-> |------|--------|
-> | Latest Valuation | ~$350B (2025 secondary market) 🟡 |
-> | Estimated Revenue | ~$13B (2024) 🟡 |
-> | Starlink Subscribers | 4M+ (end of 2024) 🟢 |
-> | Launch Cadence | 100+ per year (2024) 🟢 |
->
-> #### Valuation Assessment
->
-> | Method | Valuation Range | Notes |
-> |--------|----------------|-------|
-> | Latest Funding | $350B | Secondary market price; includes liquidity premium |
-> | Comparable Companies | $200–280B | Benchmarked against telecom + aerospace + defense |
-> | DCF (Base Case) | $250–350B | Assumes Starlink $30B revenue by 2027 |
-> | Endgame Backsolve | $400–600B | Assumes Starlink becomes global telecom infrastructure |
->
-> **Composite Fair Value Range: $250B – $400B**
-
----
-
-### 7. `/news-pulse` — Price-Move Rapid Attribution
-
-Designed for "when a stock surges or drops, quickly figure out what happened." **Not deep research — it's 10–15 minute rapid attribution** to avoid panic-selling or essay-length anxiety spirals when your holdings move.
-
-**Key Differentiators**:
-- **4-dimensional parallel recon**: Company events / Regulatory policy / Industry competitors / Market sentiment (sell-side + influencers + southbound capital flows)
-- **Attribution over listing**: Doesn't just list all news — judges "which event actually explains this price move"
-- **Mandatory nature classification**: Value Event / Sentiment Fluctuation / **True Cause Unknown** / Mixed — where "True Cause Unknown" is often the most valuable output (potential insider front-running)
-- **Clear action items**: Whether to trigger deep research, re-examine your thesis, or simply watch
-
-**When to Use What**:
-| Scenario | Skill |
-|----------|-------|
-| Complete research (hours) | `/investment-team` or `/investment-research` |
-| Earnings deep read | `/earnings-review` |
-| Long-term thesis tracking | `/thesis-tracker` |
-| **Price move, 10-min attribution** | **`/news-pulse`** |
-
-**Sample Output Excerpt** (Tencent 4/17–5/01 live test, -10.47% over 14 days):
-
-> #### One-Line Attribution
-> Approximately 70–80% of this -10.47% drop was driven by fund flows and sentiment (buyback blackout period + southbound selling + sector beta + AI narrative displacement). 20–30% came from deferred digestion of the AI capex doubling announcement — **no fundamental deterioration**. Sell-side consensus remains Buy. This is a "liquidity + sentiment-driven pullback," not a value event.
->
-> #### Attribution Table
->
-> | Candidate Explanation | Estimated Contribution | Confidence |
-> |----------------------|----------------------|------------|
-> | Buyback blackout period (structural, pre-5/13 earnings) | -3% to -4% | High |
-> | Southbound capital turned net seller on Tencent | -2% to -3% | High |
-> | AI narrative stolen by competitors (DeepSeek V4 / Qwen 3.6 / MoonDark 1T) | -1% to -2% | Medium |
-> | Sector/macro beta (oil + geopolitics + Fed Warsh hawkish) | -2% to -3% | High |
-> | Pre-Q1 earnings de-risking | -1% to -2% | Medium |
-> | Fundamental deterioration | **0%** | Very High (ruled out) |
->
-> #### Nature Classification: ✅ Mixed
-> 70% fund flows / sentiment + 20% long-term AI narrative concern + 10% pre-Q1 uncertainty
->
-> **Key counter-evidence**: Duan Yongping sold Tencent puts on 4/8 (bullish); 24 sell-side analysts consensus Strong Buy; NetEase rose 2% on 4/30 against the tide (rules out gaming industry issue); Tencent underperformed Hang Seng Tech by 7pp (Hang Seng Tech actually rose 4% for the month).
-
-Usage:
-
-```
-/news-pulse Tencent
-/news-pulse Pinduoduo down 12% within a week
-/news-pulse miHoYo
-```
-
----
-
-## Live Research Reports
-
-> Below are real investment research reports generated with this framework, showcasing actual AI-powered research output quality.
-
-| Company | Skill Used | Core Conclusion | Report |
-|---------|-----------|----------------|--------|
-| Pinduoduo (PDD) | `/investment-team` | Composite 3.4/5 — extremely cheap but 10-year certainty insufficient; suitable for moderate position | [View Report](reports/More%20than%20you%20can%20spell/) |
-| Tencent (0700.HK) | `/investment-research` | Social monopoly + superior capital allocation; 14x forward P/E is reasonable-to-low | [View Report](reports/Circulation/) |
-| 7-Company Comparison | `/investment-checklist` | Moutai & Tencent pass; NVIDIA, Meituan & Kuaishou conditional; Pinduoduo & Pop Mart gray zone | [View Report](reports/Multi-firm comparison -- checklist-20260408.md) |
-| Master Holdings Tracker | Custom Research | Buffett / Li Lu / Duan Yongping latest 13F holdings + PDD cost-basis analysis | [View Report](reports/Master warehouse tracking -- research-260408.md) |
-
-> *More reports will be added continuously. PRs submitting your own research reports generated with this framework are welcome.*
-
----
-
-## Design Philosophy
-
-### Four-Master Methodology Synthesis
-
-**Duan Yongping · "The Right Business"** — business essence, the shared starting point for the other three lenses:
-
-| Buffett | Munger | Li Lu |
-|:---:|:---:|:---:|
-| Moat<br>Margin of safety<br>Management | Inversion<br>Risk list<br>Bias audit | Civilization trends<br>Paradigm shifts<br>Industry value |
-
-The four masters aren't just dividing labor — they're designed to **challenge each other**:
-- Duan Yongping says "great business" → Munger asks "how could it die?"
-- Buffett says "cheap enough" → Li Lu asks "will it still exist in 10 years?"
-- What you get isn't four reports stitched together — it's four thinking systems colliding
-
-### Financial Rigor Tool (`tools/financial_rigor.py`)
-
-| Feature | Command | Problem Solved |
-|---------|---------|---------------|
-| **Market Cap Verification** | `verify-market-cap` | Price × shares outstanding, exact calculation, detects unit errors |
-| **Valuation Verification** | `verify-valuation` | P/E / P/B / ROE / FCF Yield — exact decimal arithmetic |
-| **Multi-Source Cross-Validation** | `cross-validate` | Auto-compare same data point across N sources; alerts above tolerance |
-| **Three-Scenario Valuation** | `three-scenario` | Bull / base / bear exact target price calculation |
-| **Benford's Law Detection** | `benford` | Detect anomalies in first-digit distribution of financial data |
-| **Precision Calculator** | `calc` | Any financial expression computed exactly — replaces LLM mental math |
-
-**Design Principle**: All calculations use Python `decimal.Decimal` (exact decimal), not `float` (floating-point approximation). `0.1 + 0.2 = 0.3` must never fail in a financial context.
-
----
-
-## Future Directions
-
-- [ ] Historical backtesting: AI research reports vs. actual stock price performance
-- [ ] Macroeconomic cycle analysis framework
-- [ ] Real-time data feeds via MCP (Wind / Bloomberg / Yahoo Finance)
-
----
-
-## Disclaimer
-
-This project is for educational and research purposes only and does not constitute investment advice. Investing involves risk; decisions should be made with caution. Always do your own due diligence (DYOR).
-
----
-
-## License
-
-MIT License
-
----
-
-> "The best investment you can make is in yourself." — Warren Buffett
->
-> AI Berkshire: Giving everyone their own investment research team.
-
-## Star History
-
-If this project has been helpful to you, please give it a Star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xbtlin/ai-berkshire&type=Date)](https://star-history.com/#xbtlin/ai-berkshire&Date)
+</div>

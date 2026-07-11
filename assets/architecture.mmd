@@ -1,0 +1,39 @@
+flowchart TB
+    User(["👤 One person + Claude"])
+
+    User --> Skills
+
+    subgraph Skills["🎯 Skill entry points by scenario"]
+        direction LR
+        S1["/investment-research<br/>Comprehensive deep analysis"]
+        S2["/investment-team<br/>Multi-agent team"]
+        S3["/investment-checklist<br/>Pre-purchase checklist"]
+        S4["/industry-research<br/>Industry-chain scan"]
+        S5["/private-company-research<br/>Private-company research"]
+        S6["/news-pulse<br/>Market-move attribution"]
+    end
+
+    Skills --> Core
+
+    subgraph Core["🧠 Parallel multi-agent core · Four-master methodology"]
+        direction TB
+        Lead{{"Team Lead<br/>Coordination and synthesis"}}
+        Lead --> A1["Business model<br/>📍 Duan Yongping perspective"]
+        Lead --> A2["Financial valuation<br/>📍 Buffett perspective"]
+        Lead --> A3["Industry competition<br/>📍 Munger perspective"]
+        Lead --> A4["Risk and management<br/>📍 Li Lu perspective"]
+    end
+
+    Core --> Tools
+
+    subgraph Tools["🔧 Tools and data layer"]
+        direction LR
+        T1["financial_rigor.py<br/>Exact decimal calculations"]
+        T2["WebSearch / WebFetch<br/>Current-information retrieval"]
+        T3["xueqiu_scraper.py<br/>Expert-opinion collection"]
+        T4["report_audit.py<br/>Report quality gate"]
+    end
+
+    Tools --> Report
+
+    Report(["📄 Structured research report<br/>reports/{company}/*.md"])
