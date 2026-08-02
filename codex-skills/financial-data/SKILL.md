@@ -44,6 +44,20 @@ This specification applies to all research involving corporate financial data. *
 | 1 (main) | **Eastern Wealth** | eastmoney.com → Search stock code → Financial statements | Direct access |
 | 2 (Vice) | **Cninfo** | cninfo.com.cn | Original annual report/quarterly report PDF |
 
+### Funds and ETFs
+
+Company sources do not cover funds. Use these instead, and see `skills/etf-review.md` for the evaluation rubric.
+
+| Priority | Source | Authoritative for |
+|--------|------|---------|
+| 1 (main) | **Issuer factsheet, KID/KIID and annual report** | TER, domicile, replication method, share classes, index name. The annual report is the only reliable source for realised tracking difference and the securities-lending revenue split |
+| 2 (Vice) | **justETF** (UK/EU), **etf.com** or **ETFdb** (US) | Cross-check TER, AUM, listing lines, accumulating vs distributing |
+| 3 | **Morningstar** | Independent tracking difference, holdings overlap, fund flows |
+| Index truth | **Index provider factsheet** (MSCI, FTSE Russell, S&P DJI, Solactive) | Methodology, rebalance cadence, index total return |
+| Wrapper and tax | **HMRC reporting-fund list**, issuer tax pages, PEA eligibility lists | Reporting status, wrapper eligibility |
+
+**Tolerance bands are different for fund figures.** The general rule below (1% pass / 1-5% warn / over 5% fail) is built for large numbers and misfires on fund costs: a TER of 0.07% against 0.12% is a 71% *relative* discrepancy but only a 5 basis point *absolute* one. For expense ratios, tracking difference and yields, compare in **basis points absolute** instead: 2bp or less passes, 2-10bp warns, over 10bp fails and you go to the KID.
+
 ---
 
 ## Execution specifications

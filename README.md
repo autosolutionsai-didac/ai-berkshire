@@ -8,7 +8,7 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-8A2BE2)
 ![Codex](https://img.shields.io/badge/Codex-compatible-111111)
-![Skills](https://img.shields.io/badge/skills-20-2496ED)
+![Skills](https://img.shields.io/badge/skills-22-2496ED)
 ![Value Investing](https://img.shields.io/badge/4_masters-Buffett_·_Munger_·_Duan_·_Li_Lu-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -75,7 +75,7 @@ That single line runs a full **7-step investment funnel** and ends with a comple
 /berkshire-skill Nvidia          # 🔬 the full deep dive
 ```
 
-> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-20-skills) below).
+> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-22-skills) below).
 
 ---
 
@@ -110,7 +110,12 @@ Each one looks at the company through a different lens — and they're **designe
 
 ---
 
-## 📚 The full menu (20 skills)
+## 📚 The full menu (22 skills)
+
+### 🧭 Start here
+| Command | What it does |
+|---|---|
+| [`/investor-onboarding`](skills/investor-onboarding.md) | 🆕 Asks about *you* — then finds candidates that fit your money, horizon and constraints, and hands them to the pipeline |
 
 ### 🚀 The all-in-one
 | Command | What it does |
@@ -138,6 +143,7 @@ Each one looks at the company through a different lens — and they're **designe
 | [`/industry-research`](skills/industry-research.md) | Maps every opportunity in an industry |
 | [`/industry-funnel`](skills/industry-funnel.md) | Whole market → shortlist → 3 best picks |
 | [`/quality-screen`](skills/quality-screen.md) | 7 quick tests to weed out weak companies |
+| [`/etf-review`](skills/etf-review.md) | 🆕 Audits an ETF properly — cost, tracking, tax wrapper, and overlap with what you own |
 | [`/bottleneck-hunter`](skills/bottleneck-hunter.md) | Finds the hidden choke points behind a big trend |
 | [`/investment-checklist`](skills/investment-checklist.md) | ✅ Buffett's 6 gates — a 10-minute go/no-go |
 

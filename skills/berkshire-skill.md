@@ -109,7 +109,7 @@ This is the report built from all the rest. Read every file **this run produced*
 4. **Per-phase summaries**: 3-5 most important findings from each of Phases 1-6.
 5. **Bull vs Bear**: 5-7 bull points and 5-7 bear points.
 6. **Buy checklist result**: the pass/fail table from Phase 5.
-7. **Final recommendation**: Buy / Hold / Avoid, with valuation range, tiered position sizing (aggressive / balanced / conservative), key catalysts (add-signals and trim-signals), and the red-line list. **Portfolio-aware sizing:** if `reports/portfolio-latest.md` exists, read it first and frame the sizing tiers against the actual book — flag overlap with existing holdings (same sector/theme, correlated names), note how much risk budget is already committed, and say whether adding this name concentrates or diversifies the portfolio. If no portfolio file exists, size on a standalone basis and say so.
+7. **Final recommendation**: Buy / Hold / Avoid, with valuation range, tiered position sizing (aggressive / balanced / conservative), key catalysts (add-signals and trim-signals), and the red-line list. **Portfolio-aware sizing:** if `reports/portfolio-latest.md` exists, read it first and frame the sizing tiers against the actual book — flag overlap with existing holdings (same sector/theme, correlated names), note how much risk budget is already committed, and say whether adding this name concentrates or diversifies the portfolio. If no portfolio file exists, size on a standalone basis and say so. **Profile-aware sizing:** if `reports/investor-profile.md` exists, read it as well. Still emit all three tiers, but label the one matching the investor's risk band "your frame", and flag any constraint this name violates — market access, a stated exclusion, or the frame's maximum single-position weight. If no profile exists, present the three tiers unlabelled, as today.
 8. **Closing paragraph** (100-200 words), including the information-richness rating and an explicit AI-research-limitations note.
 
 - Output: `reports/{Company}/{Company}-decision-{YYYYMMDD}.md`
@@ -141,7 +141,9 @@ For unlisted companies, adapt the sequence:
 
 ## Skills not run by this pipeline
 
-These operate at a different granularity than a single company/stock and remain standalone commands: `industry-research`, `industry-funnel`, `bottleneck-hunter` (industry/theme level), `portfolio-review` (portfolio level), `news-pulse` (event-driven attribution), `earnings-team` (heavier publishing variant of earnings-review), and `dyp-ask` (conversational). `financial-data.md` is a data-sourcing standard that the phases already follow, not a step.
+These operate at a different granularity than a single company/stock and remain standalone commands: `industry-research`, `industry-funnel`, `bottleneck-hunter` (industry/theme level), `portfolio-review` (portfolio level), `news-pulse` (event-driven attribution), `earnings-team` (heavier publishing variant of earnings-review), `deep-company-series` and `wechat-article` (publishing), `thesis-drift` (compares two thesis snapshots after the fact), and `dyp-ask` (conversational). `financial-data.md` is a data-sourcing standard that the phases already follow, not a step.
+
+`investor-onboarding` sits **upstream** of this pipeline: it profiles the investor and hands approved stock candidates here via `/berkshire-skill <name> quick`. `etf-review` handles funds, which this pipeline must never be run on — all seven quality-screen metrics are company accounting ratios and produce confident nonsense when applied to a fund.
 
 ---
 

@@ -160,10 +160,19 @@ Structured analysis of companies with rough screenings is done on a home-by-hous
 
 #3.2 Finals 3 Selection Criteria
 
-Not by ranking, three, but by "portfolio complementarity":
+Not by ranking, three, but by "portfolio complementarity". **Default composition:**
 - At least 1 "high-stability low-elastic" (Buffett type)
 - At least 1 "Medium-Determinate Medium-Formatism" (Grown-type)
 - One "high-elastic high-risk" option.
+
+**Risk-band override.** The default above encodes one fixed risk profile. If the caller supplies a risk band -- from `reports/investor-profile.md` or from `/investor-onboarding` -- use it instead:
+
+| Band | Composition |
+|------|------|
+| Defensive | 2 high-stability + 1 growth. No high-elasticity slot |
+| Balanced | The default above |
+| Growth | The default above |
+| Aggressive | The default above, and the high-elasticity slot may be a pre-profit name |
 
 If a sub track does not find three good enough, then write "final two + one observation" instead of counting.
 
