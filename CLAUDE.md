@@ -84,21 +84,34 @@ reports/{company name}/
 - Ratings use ★ symbols (★1-5), excluding half stars
 - Interspersed with quotes and comments from Buffett/Munger/Duan Yongping/Li Lu
 
-## GitHub Actions
+## GitHub operations
+
+> ### ⛔ Reports are LOCAL-ONLY — never commit them
+>
+> Everything written under `reports/` stays on the local machine. Do **not** `git add`,
+> commit, or push report files, and do **not** ask whether to push them — the answer is
+> always no. Research output routinely contains personal holdings, position sizes, and
+> account balances, and this repository is public; once pushed, that data is in the git
+> history permanently even if the file is later deleted.
+>
+> `reports/` is gitignored to enforce this. If a report ever needs to be shared, hand the
+> file to the user directly (or produce an anonymised version containing only percentages
+> and analysis) — never via a commit.
 
 - Local clone path: `~/ai-berkshire/`
-- Remote warehouse: `https://github.com/xbtlin/ai-berkshire.git`
-- `git pull --rebase origin main` before pushing (there are often new submissions on the remote)
-- The commit message is in Chinese and clearly describes what has been changed.
-- Do not push intermediate process files (such as data_collection.md), only push the final report
+- Remote repo: `https://github.com/autosolutionsai-didac/ai-berkshire.git`
+- `git pull --rebase origin main` before pushing (the remote often has new commits)
+- Write commit messages in English, describing clearly what changed
+- Toolkit changes (`skills/`, `tools/`, `docs/`, `scripts/`, `README.md`) are committed as
+  normal — the local-only rule applies to `reports/`
 
 ## Common commands
 
 ```bash
-# Push report to GitHub
+# Commit a toolkit change (NOT reports — those stay local)
 cd ~/ai-berkshire
-git add reports/xxx.md
-git commit -m "Add xxx report"
+git add skills/xxx.md
+git commit -m "Describe the change"
 git pull --rebase origin main
 git push origin main
 ```
@@ -108,4 +121,4 @@ git push origin main
 - Market value must be manually calculated and verified: stock price × total share capital, compared with the reported market value
 - The currency unit must be clear (HKD/RMB/USD) to prevent confusion
 - PE/ROE and other indicators are accurately calculated using tools/financial_rigor.py
-- After writing the report, ask if you want to push it to GitHub
+- After writing a report, deliver the file to the user directly. Never commit or push it (see GitHub operations above)
