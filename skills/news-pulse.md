@@ -1,6 +1,6 @@
 ---
 name: news-pulse
-Discrition: Company news pulse: Rapid attribution in case of stock price variation. Use 4 parallel Agents to detect company events/regulatory policies/industry rivals/market sentiment, to produce "incident time line plus dissident primary judgment + whether to trigger re-examination of the paper".
+description: Company news pulse: Rapid attribution in case of stock price variation. Use 4 parallel Agents to detect company events/regulatory policies/industry rivals/market sentiment, to produce "incident time line plus dissident primary judgment + whether to trigger re-examination of the paper".
 ---
 
 # Corporate news pulse: fast-reducing team with variable stock prices

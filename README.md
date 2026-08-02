@@ -8,7 +8,7 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-8A2BE2)
 ![Codex](https://img.shields.io/badge/Codex-compatible-111111)
-![Skills](https://img.shields.io/badge/skills-19-2496ED)
+![Skills](https://img.shields.io/badge/skills-20-2496ED)
 ![Value Investing](https://img.shields.io/badge/4_masters-Buffett_·_Munger_·_Duan_·_Li_Lu-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -75,7 +75,7 @@ That single line runs a full **7-step investment funnel** and ends with a comple
 /berkshire-skill Nvidia          # 🔬 the full deep dive
 ```
 
-> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-19-skills) below).
+> 🧩 Want more control? Every step is **also its own command** — mix and match them (see the [full menu](#-the-full-menu-20-skills) below).
 
 ---
 
@@ -110,7 +110,7 @@ Each one looks at the company through a different lens — and they're **designe
 
 ---
 
-## 📚 The full menu (19 skills)
+## 📚 The full menu (20 skills)
 
 ### 🚀 The all-in-one
 | Command | What it does |
@@ -146,6 +146,7 @@ Each one looks at the company through a different lens — and they're **designe
 |---|---|
 | [`/portfolio-review`](skills/portfolio-review.md) | Reviews your holdings, sizing, and balance |
 | [`/thesis-tracker`](skills/thesis-tracker.md) | 🎯 Alerts you if your reason to own a stock breaks |
+| [`/thesis-drift`](skills/thesis-drift.md) | Compares two research snapshots — what changed, and did your reasoning drift? |
 | [`/news-pulse`](skills/news-pulse.md) | Stock jumped or crashed? Find out *why* in 10 min |
 
 ### 🧠 Thinking & writing

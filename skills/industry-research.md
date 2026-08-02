@@ -265,4 +265,4 @@ python3 tools/report_audit.py verdict \
   --report <report file name>
 ```
 
-**【Approved】** All passed → the report can be released; **【Rejected】** Some failed → reexamine after correction.
+**[RELEASE]** All passed → the report can be released; **[SEND BACK]** Some failed → reexamine after correction.

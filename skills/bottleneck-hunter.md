@@ -88,12 +88,12 @@ TI-PCB/boardboard: High-frequency high-speed PCB, IC board, special fibre sheet
 TI-test: Probe Card, Old Test, ATE
 D-- Dispersing/cooling: liquid cooling systems, CDUs, immersed cooling fluids
 <unk> Electricity connection: parent groove, UPS, distribution cabinet, transformer
-Layer 3：
+Layer 3:
 TI-Extension equipment: MOCVD, MBE
 X-ray/articulation: Special wavelength light etching, Inp etching
 Xin- Raw materials: high-purity metals (silt, sulfur, sulfur), special gases, target material
 <unk> Certification/Standards: MSCA Standards, Telcordia Certification
-Layer 4：
+Layer 4:
 TI-Electrification: Nuclear power, gas power generation, electricity transmission
 D-Cooled water/discharge infrastructure
 <unk> - Data centre land/licensing

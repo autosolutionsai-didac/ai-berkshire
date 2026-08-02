@@ -31,7 +31,7 @@
 ### Skill system evolution
 
 **V1 (5 Skills) – Covers pre-buy research:**
-- investment-research、investment-team、investment-checklist、industry-research、private-company-research
+- investment-research, investment-team, investment-checklist, industry-research, private-company-research
 
 **V2 (9 Skills)—Complete the post-purchase process:**
 - Newly added: earnings-review (intensive reading of financial reports), thesis-tracker (paper tracking), portfolio-review (portfolio management), management-deep-dive (management depth)

@@ -120,4 +120,4 @@ Rules:
 | Sanqi Interactive Entertainment | eastmoney.com (002555) | cninfo.com.cn |
 | Gigabit | eastmoney.com (603444) | cninfo.com.cn |
 | Nintendo | macrotrends.net/stocks/charts/NTDOY | stockanalysis.com/stocks/ntdoy |
-| Capcom | macrotrends（CCOEY） | stockanalysis（CCOEY） |
+| Capcom | macrotrends(CCOEY) | stockanalysis(CCOEY) |

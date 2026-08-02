@@ -77,7 +77,7 @@ reports/{company name}/
 
 ## Reporting language and style
 
-- All reports are in **Chinese**
+- All reports are in **English**
 - Style: direct, sharp, no nonsense
 - Data must be labeled with sources, and key data must be cross-validated from at least 2 sources
 - Estimates must be marked "estimated"
