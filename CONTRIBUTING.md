@@ -11,7 +11,7 @@ Thank you for your interest in AI Berkshire. The starting point of this project 
 - **Documentation improvements**: Corrections to typos, broken links, and unclear expressions in README and docs/; corrections to the out-of-sync content between the English and Chinese versions.
 - **Compatibility Adaptation**: Adaptation issues caused by the new version of Claude Code / Codex.
 - **Research reports produced using this framework**: Welcome to submit to the `reports/community/` subdirectory (organized by `reports/community/[company name]/`). Requirements: ① The report is indeed run using the skills of this warehouse, and the skill and model used are indicated at the beginning of the article; ② Attached is a disclaimer (does not constitute investment advice); ③ One PR per report. Those whose quality is obviously not up to standard (such as no framework, purely handwritten opinions, and lack of key financial cross-validation) will be closed.
-- **New Skill Proposal**: Please open an issue for discussion first, explaining what research scenarios this skill solves and what the boundaries are with the existing 20 skills. Submitting a large new feature PR without discussing it first will likely get you shut down - not a denial of your work, but a waste of time for both parties when the directions are misaligned.
+- **New Skill Proposal**: Please open an issue for discussion first, explaining what research scenarios this skill solves and what the boundaries are with the existing 22 skills. Submitting a large new feature PR without discussing it first will likely get you shut down - not a denial of your work, but a waste of time for both parties when the directions are misaligned.
 
 ## Contributions not accepted
 
@@ -59,7 +59,7 @@ Thanks for your interest in AI Berkshire. This project grew out of my personal i
 - **Documentation fixes** — typos, dead links, unclear wording, and syncing the English README with the Chinese one.
 - **Compatibility fixes** for new versions of Claude Code / Codex.
 - **Research reports produced with this framework** — submit to the `reports/community/` subdirectory (organized as `reports/community/[company]/`). Requirements: (1) the report was actually generated with this repo's skills — state the skill and model used at the top; (2) include a disclaimer (not investment advice); (3) one report per PR. Reports that clearly miss the bar (framework not used, hand-written opinions only, missing financial cross-validation) will be closed.
-- **New skill proposals** — open an issue first to discuss the research scenario it addresses and how it differs from the existing 20 skills. Large unsolicited feature PRs may be closed to avoid wasted effort on both sides.
+- **New skill proposals** — open an issue first to discuss the research scenario it addresses and how it differs from the existing 22 skills. Large unsolicited feature PRs may be closed to avoid wasted effort on both sides.
 
 ## Out of scope
 

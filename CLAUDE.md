@@ -34,6 +34,7 @@ reports/
 ├── AI computing power-funnel-20260509.md — put the funnel screening report in the root directory
 ├── AI-Rotation Judgment-20260509.md — Topic-level comprehensive judgment report placed in the root directory
 ├── portfolio-latest.md — put the portfolio report in the root directory
+├── investor-profile.md — investor profile (root directory; the most sensitive file this toolkit writes — never commit)
 └── Multi-company comparison-checklist-20260408.md — put multi-company reports in the root directory
 ```
 
@@ -52,6 +53,8 @@ reports/
 | /thesis-tracker | `{Company name}-thesis.md` (long-term maintenance) | `reports/Tencent/Tencent-thesis.md` |
 | /portfolio-review | `portfolio-latest.md` (root directory, continuously updated) | `reports/portfolio-latest.md` |
 | /management-deep-dive | `{Company name}-management-{YYYYMMDD}.md` | `reports/Tencent/Tencent-management-20260409.md` |
+| /investor-onboarding | `investor-profile.md` (root directory, continuously updated) | `reports/investor-profile.md` |
+| /etf-review | `{Fund or comparison name}-etf-{YYYYMMDD}.md` (root directory) | `reports/VWRP-etf-20260802.md` |
 
 ## /investment-team file structure
 

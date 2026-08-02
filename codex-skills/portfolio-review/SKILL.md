@@ -155,7 +155,7 @@ Based on the above analysis, specific suggestions for position adjustment are gi
 
 #### 5.2 Find alternative targets
 
-If there are positions in the portfolio that are "not as good as cash", or the proportion of cash is too high, it is recommended to use `/industry-research` or `/investment-checklist` to systematically screen the industries/companies of interest instead of directly recommending individual stocks within this skill.
+If there are positions in the portfolio that are "not as good as cash", or the proportion of cash is too high, it is recommended to use `/investor-onboarding` (for candidates matched to your own constraints -- amount, horizon, risk band, tax wrapper and market access), `/etf-review` (for the fund side), `/industry-research` or `/investment-checklist` to systematically screen the industries/companies of interest instead of directly recommending individual stocks within this skill.
 
 #### 5.3 Cash Management
 
